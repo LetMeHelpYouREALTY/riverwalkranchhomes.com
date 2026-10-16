@@ -97,7 +97,11 @@ export default async function RootLayout({
           rel="stylesheet"
           href="https://assets.calendly.com/assets/external/widget.css"
         />
-        <script src={realscout.scriptSrc} type="module" />
+        <Script
+          src={realscout.scriptSrc}
+          type="module"
+          strategy="beforeInteractive"
+        />
         <style>{`
           realscout-office-listings {
             --rs-listing-divider-color: rgb(101, 141, 172);
