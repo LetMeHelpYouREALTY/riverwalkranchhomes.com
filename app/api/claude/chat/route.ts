@@ -21,12 +21,20 @@ import {
   createCachedPrompt,
 } from "@/lib/claude/prompt-templates";
 
-// Initialize Claude client
-const claude = new ClaudeClient({
-  apiKey: process.env.ANTHROPIC_API_KEY || "",
-  enableCaching: true,
-  enableCostTracking: true,
-});
+let claudeClient: ClaudeClient | null = null;
+
+function getClaudeClient(): ClaudeClient | null {
+  const apiKey = process.env.ANTHROPIC_API_KEY;
+  if (!apiKey) return null;
+  if (!claudeClient) {
+    claudeClient = new ClaudeClient({
+      apiKey,
+      enableCaching: true,
+      enableCostTracking: true,
+    });
+  }
+  return claudeClient;
+}
 
 export async function POST(request: NextRequest) {
   try {
@@ -41,7 +49,8 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    if (!process.env.ANTHROPIC_API_KEY) {
+    const claude = getClaudeClient();
+    if (!claude) {
       return NextResponse.json(
         { error: "Claude API key not configured" },
         { status: 500 },
@@ -154,9 +163,9 @@ export async function POST(request: NextRequest) {
 /**
  * GET endpoint for cost statistics
  */
-export async function GET(request: NextRequest) {
+export async function GET() {
   try {
-    const stats = claude.getCostStats();
+    const stats = getClaudeClient()?.getCostStats() ?? null;
     const cacheStats = defaultCache.getStats();
 
     return NextResponse.json({

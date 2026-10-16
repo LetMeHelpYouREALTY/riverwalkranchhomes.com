@@ -17,10 +17,25 @@ import { getPageDomainConfig } from "@/lib/get-domain-config";
 import { ctaPhone, nap } from "@/lib/contact";
 import { marketStats as stats } from "@/lib/site-config";
 import { mediaUrl, photos } from "@/lib/media";
+import RiverwalkHome from "@/components/riverwalk/RiverwalkHome";
+import {
+  isRiverwalkHost,
+  RIVERWALK_DESCRIPTION,
+  riverwalkKeywords,
+} from "@/lib/riverwalk-ranch";
 
 export async function generateMetadata(): Promise<Metadata> {
-  const config = await getPageDomainConfig();
   const hostname = headers().get("x-domain");
+  if (isRiverwalkHost(hostname)) {
+    return pageMetadata({
+      path: "/",
+      hostname,
+      title: "Riverwalk Ranch Homes | North Las Vegas 89031",
+      description: RIVERWALK_DESCRIPTION,
+      keywords: riverwalkKeywords,
+    });
+  }
+  const config = await getPageDomainConfig();
   return pageMetadata({
     path: "/",
     hostname,
@@ -31,6 +46,10 @@ export async function generateMetadata(): Promise<Metadata> {
 }
 
 export default async function Home() {
+  const hostname = headers().get("x-domain");
+  if (isRiverwalkHost(hostname)) {
+    return <RiverwalkHome />;
+  }
   const config = await getPageDomainConfig();
 
   return (

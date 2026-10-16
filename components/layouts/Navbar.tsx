@@ -7,7 +7,12 @@ import { Button } from "@/components/ui/button";
 import { ctaPhone, nap } from "@/lib/contact";
 import LocalTrustBar from "@/components/layouts/LocalTrustBar";
 
-export default function Navbar() {
+type NavbarProps = {
+  brand?: "riverwalk" | "brokerage";
+};
+
+export default function Navbar({ brand = "brokerage" }: NavbarProps) {
+  const riverwalk = brand === "riverwalk";
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   const [isServicesOpen, setIsServicesOpen] = useState(false);
@@ -54,6 +59,15 @@ export default function Navbar() {
   const mainNavLinks = [
     { href: "/", label: "Home", external: false },
     { href: "/listings", label: "Homes for Sale", external: false },
+    ...(riverwalk
+      ? [
+          {
+            href: "/neighborhoods/riverwalk-ranch",
+            label: "Sections",
+            external: false,
+          },
+        ]
+      : []),
     { href: "/neighborhoods", label: "Neighborhoods", external: false },
     { href: "/about", label: "About", external: false },
     { href: "/contact", label: "Contact", external: false },
@@ -82,15 +96,30 @@ export default function Navbar() {
           <Link
             href="/"
             className="flex flex-col min-w-0 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-2 rounded-md"
-            aria-label={`${nap.brokerage} home`}
+            aria-label={
+              riverwalk ? "Riverwalk Ranch Homes home" : `${nap.brokerage} home`
+            }
           >
-            <span className="text-lg md:text-xl lg:text-2xl font-bold text-slate-900 hover:text-blue-600 transition-colors leading-tight truncate">
-              Berkshire Hathaway
-              <span className="text-blue-600"> HomeServices</span>
-            </span>
-            <span className="text-xs text-slate-500 hidden sm:block">
-              Nevada Properties · Dr. Jan Duffy
-            </span>
+            {riverwalk ? (
+              <>
+                <span className="text-lg md:text-xl font-semibold tracking-tight text-[#1c1917] leading-tight truncate">
+                  Riverwalk Ranch
+                </span>
+                <span className="text-[0.68rem] tracking-[0.18em] uppercase text-[#6b5344] hidden sm:block">
+                  Homes · 89031
+                </span>
+              </>
+            ) : (
+              <>
+                <span className="text-lg md:text-xl lg:text-2xl font-bold text-slate-900 hover:text-blue-600 transition-colors leading-tight truncate">
+                  Berkshire Hathaway
+                  <span className="text-blue-600"> HomeServices</span>
+                </span>
+                <span className="text-xs text-slate-500 hidden sm:block">
+                  Nevada Properties · Dr. Jan Duffy
+                </span>
+              </>
+            )}
           </Link>
 
           <nav
@@ -150,7 +179,14 @@ export default function Navbar() {
               )}
             </div>
 
-            <Button asChild className="bg-blue-600 hover:bg-blue-700">
+            <Button
+              asChild
+              className={
+                riverwalk
+                  ? "bg-[#3f2e1e] hover:bg-[#2a1f14]"
+                  : "bg-blue-600 hover:bg-blue-700"
+              }
+            >
               <a href={ctaPhone.href} className="flex items-center gap-2">
                 <Phone className="h-4 w-4" aria-hidden="true" />
                 <span className="hidden xl:inline">{ctaPhone.display}</span>
@@ -160,7 +196,15 @@ export default function Navbar() {
           </nav>
 
           <div className="lg:hidden flex items-center gap-3">
-            <Button asChild size="sm" className="bg-blue-600 hover:bg-blue-700">
+            <Button
+              asChild
+              size="sm"
+              className={
+                riverwalk
+                  ? "bg-[#3f2e1e] hover:bg-[#2a1f14]"
+                  : "bg-blue-600 hover:bg-blue-700"
+              }
+            >
               <a
                 href={ctaPhone.href}
                 aria-label={`Call Dr. Jan Duffy at ${ctaPhone.display}`}
@@ -222,7 +266,11 @@ export default function Navbar() {
               <div className="pt-4">
                 <Button
                   asChild
-                  className="bg-blue-600 hover:bg-blue-700 w-full"
+                  className={
+                    riverwalk
+                      ? "bg-[#3f2e1e] hover:bg-[#2a1f14] w-full"
+                      : "bg-blue-600 hover:bg-blue-700 w-full"
+                  }
                 >
                   <a
                     href={ctaPhone.href}

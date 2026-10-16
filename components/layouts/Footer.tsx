@@ -23,7 +23,12 @@ import {
 } from "@/lib/contact";
 import MlsDisclaimer from "@/components/shared/MlsDisclaimer";
 
-export default function Footer() {
+type FooterProps = {
+  brand?: "riverwalk" | "brokerage";
+};
+
+export default function Footer({ brand = "brokerage" }: FooterProps) {
+  const riverwalk = brand === "riverwalk";
   const currentYear = new Date().getFullYear();
 
   return (
@@ -32,11 +37,14 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12">
           <div>
             <h2 className="font-bold text-xl mb-4">
-              Berkshire Hathaway HomeServices
+              {riverwalk
+                ? "Riverwalk Ranch Homes"
+                : "Berkshire Hathaway HomeServices"}
             </h2>
             <p className="text-slate-300 mb-4 text-sm">
-              Nevada Properties — Dr. Jan Duffy, REALTOR®. Buying, selling, and
-              relocating in Las Vegas, Henderson, and Summerlin.
+              {riverwalk
+                ? "North Las Vegas 89031. Dr. Jan Duffy, REALTOR®, at Berkshire Hathaway HomeServices Nevada Properties."
+                : "Nevada Properties — Dr. Jan Duffy, REALTOR®. Buying, selling, and relocating in Las Vegas, Henderson, and Summerlin."}
             </p>
             <address className="not-italic text-slate-300 text-sm mb-4">
               {nap.street}
@@ -88,6 +96,10 @@ export default function Footer() {
             <ul className="space-y-2">
               {[
                 { href: "/listings", label: "Las Vegas Homes for Sale" },
+                {
+                  href: "/neighborhoods/riverwalk-ranch",
+                  label: "Riverwalk Ranch Homes",
+                },
                 { href: "/neighborhoods", label: "Las Vegas Neighborhoods" },
                 { href: "/luxury-homes", label: "Luxury Homes" },
                 { href: "/55-plus-communities", label: "55+ Communities" },

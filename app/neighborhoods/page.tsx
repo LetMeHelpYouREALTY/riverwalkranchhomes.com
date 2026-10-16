@@ -31,6 +31,17 @@ export const metadata: Metadata = pageMetadata({
 
 const neighborhoods = [
   {
+    name: "Riverwalk Ranch",
+    slug: "riverwalk-ranch",
+    medianPrice: "500–700",
+    priceChange: "homes, estimated",
+    yoy: false,
+    description:
+      "North Las Vegas master plan in 89031. Estates, Manor, Crossing, High Noon, and Cove.",
+    highlights: ["89031", "High Noon", "Crossing", "D.R. Horton"],
+    bestFor: "Decatur, the 215, and Towboat Street",
+  },
+  {
     name: "Summerlin",
     slug: "summerlin",
     medianPrice: "$625,000",
@@ -229,8 +240,16 @@ export default function NeighborhoodsPage() {
                       <div className="font-bold text-slate-900">
                         {neighborhood.medianPrice}
                       </div>
-                      <div className="text-sm text-green-600">
-                        {neighborhood.priceChange} YoY
+                      <div
+                        className={`text-sm ${
+                          neighborhood.yoy === false
+                            ? "text-slate-500"
+                            : "text-green-600"
+                        }`}
+                      >
+                        {neighborhood.yoy === false
+                          ? neighborhood.priceChange
+                          : `${neighborhood.priceChange} YoY`}
                       </div>
                     </div>
                   </div>

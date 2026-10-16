@@ -21,19 +21,27 @@ import {
 } from "@/lib/schema";
 import { generateLocalBusinessSchema } from "@/lib/gbp-schema";
 import { realscout, nap, resolveSiteUrl } from "@/lib/contact";
+import {
+  isRiverwalkHost,
+  RIVERWALK_BRAND,
+  RIVERWALK_DESCRIPTION,
+} from "@/lib/riverwalk-ranch";
 
 export async function generateMetadata(): Promise<Metadata> {
   const domain = headers().get("x-domain") || "";
   const pathname = headers().get("x-pathname") || "/";
   const config = getDomainConfig(domain);
-  const title = `${config.neighborhood} Real Estate | Dr. Jan Duffy, REALTOR®`;
+  const riverwalk = isRiverwalkHost(domain);
+  const title = riverwalk
+    ? "Riverwalk Ranch Homes | North Las Vegas 89031"
+    : `${config.neighborhood} Real Estate | Dr. Jan Duffy, REALTOR®`;
   const siteUrl = resolveSiteUrl(domain);
   const canonical = absoluteUrl(pathname, domain);
   const hostKnown = isKnownHost(domain);
   return {
     metadataBase: new URL(siteUrl),
     title,
-    description: config.description,
+    description: riverwalk ? RIVERWALK_DESCRIPTION : config.description,
     keywords: config.keywords,
     authors: [{ name: nap.shortName }],
     creator: nap.shortName,
@@ -45,7 +53,7 @@ export async function generateMetadata(): Promise<Metadata> {
       type: "website",
       url: canonical,
       locale: "en_US",
-      siteName: nap.brokerage,
+      siteName: riverwalk ? RIVERWALK_BRAND : nap.brokerage,
       images: [
         { url: absoluteUrl(photos.homeHero.src), alt: photos.homeHero.alt },
       ],
@@ -63,11 +71,15 @@ export default async function RootLayout({
   children: React.ReactNode;
 }) {
   const domain = headers().get("x-domain") || "";
+  const riverwalk = isRiverwalkHost(domain);
   const siteUrl = resolveSiteUrl(domain);
   const siteSchemas = combineSchemas(
     generateLocalBusinessSchema(siteUrl),
     generateOrganizationSchema(siteUrl),
-    generateWebSiteSchema(siteUrl),
+    generateWebSiteSchema(
+      siteUrl,
+      riverwalk ? RIVERWALK_BRAND : nap.brokerage,
+    ),
   );
 
   return (
@@ -85,9 +97,9 @@ export default async function RootLayout({
       <body className="bg-white text-slate-900 antialiased pb-16 md:pb-0">
         <SkipLink />
         <SchemaScript schema={siteSchemas} id="site-schema" />
-        <Navbar />
+        <Navbar brand={riverwalk ? "riverwalk" : "brokerage"} />
         <InnerPageChrome>{children}</InnerPageChrome>
-        <Footer />
+        <Footer brand={riverwalk ? "riverwalk" : "brokerage"} />
         <MobileStickyCTA />
         <AIChatWidget />
         <Analytics />

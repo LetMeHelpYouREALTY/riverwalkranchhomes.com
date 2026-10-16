@@ -1601,7 +1601,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Call the client line or email Homes@HeyBerkshire.com from this URL",
+      h2: "Call the client line or email homes@heyberkshire.com from this URL",
       body: "Skip a second form if you already have the number. Call or text (702) 222-1964. Email homes@heyberkshire.com. Calendly is the appointment column on this page. Office/GBP (702) 500-1942.",
       pins: [
         {

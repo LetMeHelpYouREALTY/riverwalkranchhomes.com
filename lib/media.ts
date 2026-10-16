@@ -248,6 +248,7 @@ export type PhotoKey = keyof typeof photos;
 
 export function photoForPath(path: string): SitePhoto {
   if (path === "/" || path === "") return photos.homeHero;
+  if (path.startsWith("/neighborhoods/riverwalk-ranch")) return photos.aliante;
   if (path.startsWith("/about")) return photos.agent;
   if (
     path.startsWith("/contact") ||

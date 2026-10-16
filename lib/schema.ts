@@ -1,5 +1,5 @@
 /**
- * Schema.org Structured Data Generators for heyberkshire.com
+ * Schema.org Structured Data Generators for Riverwalk Ranch Homes
  * Following Google's 2025 Structured Data Guidelines
  *
  * @see https://schema.org
@@ -88,7 +88,7 @@ export function generateRealEstateAgentSchema() {
     "@id": `${BASE_URL}#organization`,
     name: "Dr. Jan Duffy - Berkshire Hathaway HomeServices Nevada Properties",
     alternateName: [
-      "HeyBerkshire",
+      "Riverwalk Ranch Homes",
       "BHHS Nevada Properties",
       "Berkshire Hathaway HomeServices",
     ],
@@ -240,13 +240,16 @@ export function generateBreadcrumbSchema(items: BreadcrumbItem[]) {
 /**
  * Generate WebSite schema with search action
  */
-export function generateWebSiteSchema(siteUrl: string = SITE_URL) {
+export function generateWebSiteSchema(
+  siteUrl: string = SITE_URL,
+  siteName: string = siteConfig.name,
+) {
   const base = siteUrl.replace(/\/$/, "");
   return {
     "@context": "https://schema.org",
     "@type": "WebSite",
     "@id": `${base}#website`,
-    name: siteConfig.name,
+    name: siteName,
     url: base,
     description: siteConfig.description,
     publisher: {

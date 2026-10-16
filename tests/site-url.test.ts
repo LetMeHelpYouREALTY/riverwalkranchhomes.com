@@ -2,6 +2,7 @@ import { afterEach, describe, expect, it } from "vitest";
 import {
   HEYBERKSHIRE_CANONICAL,
   HOST_CANONICAL_ORIGINS,
+  RIVERWALK_CANONICAL,
   resolveSiteUrl,
 } from "@/lib/contact";
 
@@ -40,9 +41,18 @@ describe("resolveSiteUrl", () => {
     expect(resolveSiteUrl("drjanduffy.com")).toBe("https://drjanduffy.com");
   });
 
-  it("falls back to www heyberkshire with no env and no host", () => {
+  it("falls back to riverwalkranchhomes.com with no env and no host", () => {
     delete process.env.NEXT_PUBLIC_SITE_URL;
-    expect(resolveSiteUrl()).toBe(HEYBERKSHIRE_CANONICAL);
-    expect(resolveSiteUrl(null)).toBe(HEYBERKSHIRE_CANONICAL);
+    expect(resolveSiteUrl()).toBe(RIVERWALK_CANONICAL);
+    expect(resolveSiteUrl(null)).toBe(RIVERWALK_CANONICAL);
+    expect(resolveSiteUrl("127.0.0.1")).toBe(RIVERWALK_CANONICAL);
+  });
+
+  it("maps the Riverwalk Ranch host when env is unset", () => {
+    delete process.env.NEXT_PUBLIC_SITE_URL;
+    expect(resolveSiteUrl("riverwalkranchhomes.com")).toBe(RIVERWALK_CANONICAL);
+    expect(resolveSiteUrl("www.riverwalkranchhomes.com")).toBe(
+      RIVERWALK_CANONICAL,
+    );
   });
 });
