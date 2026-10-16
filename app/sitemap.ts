@@ -206,6 +206,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "weekly" as const,
     },
     {
+      url: `${baseUrl}/neighborhoods/riverwalk-ranch/market`,
+      priority: 0.8,
+      changeFrequency: "weekly" as const,
+    },
+    {
+      url: `${baseUrl}/neighborhoods/riverwalk-ranch/hoa`,
+      priority: 0.8,
+      changeFrequency: "weekly" as const,
+    },
+    {
+      url: `${baseUrl}/neighborhoods/riverwalk-ranch/schools`,
+      priority: 0.7,
+      changeFrequency: "monthly" as const,
+    },
+    {
       url: `${baseUrl}/neighborhoods/summerlin`,
       priority: 0.8,
       changeFrequency: "weekly" as const,

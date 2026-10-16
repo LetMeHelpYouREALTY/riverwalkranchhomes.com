@@ -88,6 +88,22 @@ export default function Navbar({ brand = "brokerage" }: NavbarProps) {
     { href: "/relocation", label: "Relocation" },
     { href: "/home-valuation", label: "Home Valuation" },
     { href: "/market-report", label: "Market Report" },
+    ...(riverwalk
+      ? [
+          {
+            href: "/neighborhoods/riverwalk-ranch/market",
+            label: "Riverwalk Market",
+          },
+          {
+            href: "/neighborhoods/riverwalk-ranch/hoa",
+            label: "Riverwalk HOA",
+          },
+          {
+            href: "/neighborhoods/riverwalk-ranch/schools",
+            label: "Riverwalk Schools",
+          },
+        ]
+      : []),
   ];
 
   return (

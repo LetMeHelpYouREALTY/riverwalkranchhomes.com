@@ -14,6 +14,7 @@ import {
   officePhone,
 } from "@/lib/contact";
 import { photos } from "@/lib/media";
+import { riverwalkGuideLinks } from "@/lib/riverwalk-guide-pages";
 import {
   RIVERWALK_AS_OF,
   RIVERWALK_BRAND,
@@ -409,6 +410,27 @@ export default function RiverwalkHome({
           </div>
         </div>
       <SectionPresence />
+      </section>
+
+      <section className="border-t border-[#ddd4c8]" aria-labelledby="guides-heading">
+        <div className="container mx-auto px-4 py-16 md:py-20 max-w-3xl">
+          <h2
+            id="guides-heading"
+            className={`${riverwalkDisplay.className} text-4xl leading-none mb-6`}
+          >
+            Market, dues, and schools
+          </h2>
+          <ul className="space-y-3 text-lg">
+            {riverwalkGuideLinks.map((link) => (
+              <li key={link.href}>
+                <Link href={link.href} className="underline underline-offset-4">
+                  {link.label}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+        <SectionPresence />
       </section>
 
       <section className="border-t border-[#ddd4c8]" aria-labelledby="faq-heading">
