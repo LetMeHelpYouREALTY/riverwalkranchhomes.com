@@ -119,7 +119,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/contact": {
     h2: "Walk-ins and Calendly showings use the same pin",
     quote:
-      "Documents go to homes@heyberkshire.com. Do not send listing keys by unsecured email. Call or text (702) 222-1964. Office NAP matches Google Business: 9406 W Lake Mead Blvd, Suite 100.",
+      "Documents go to DrDuffySells@RiverwalkRanchHomes.com. Do not send listing keys by unsecured email. Call or text (702) 222-1964. Office NAP matches Google Business: 9406 W Lake Mead Blvd, Suite 100.",
   },
   "/google-business": {
     h2: "Maps, GBP, and this page must say the same NAP",

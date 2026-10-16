@@ -132,7 +132,7 @@ export const faqHubCategories: FaqHubCategory[] = [
       },
       {
         q: "Which number do I call vs the office/GBP line?",
-        a: "Client CTA is (702) 222-1964. Office/GBP is (702) 500-1942. Email homes@heyberkshire.com. Address: 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
+        a: "Client CTA is (702) 222-1964. Office/GBP is (702) 500-1942. Email DrDuffySells@RiverwalkRanchHomes.com. Address: 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
       },
       {
         q: "What closed-volume snapshot did this hub last publish?",

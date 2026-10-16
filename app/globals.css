@@ -28,6 +28,13 @@
     padding-bottom: env(safe-area-inset-bottom);
   }
 
+  @media (max-width: 767px) {
+    .calendly-badge-widget {
+      bottom: 4.75rem !important;
+      z-index: 30 !important;
+    }
+  }
+
   :focus-visible {
     @apply outline-none ring-2 ring-blue-600 ring-offset-2;
   }

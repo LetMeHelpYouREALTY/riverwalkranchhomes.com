@@ -24,7 +24,7 @@ export const agentInfo = {
   phoneTel: "tel:+17022221964",
   officePhone: "(702) 500-1942",
   officePhoneTel: "tel:+17025001942",
-  email: "homes@heyberkshire.com",
+  email: "DrDuffySells@RiverwalkRanchHomes.com",
   brokerage: "Berkshire Hathaway HomeServices Nevada Properties",
 };
 

@@ -43,7 +43,7 @@ const contactSchema = {
     "@type": "RealEstateAgent",
     name: "Dr. Jan Duffy - Berkshire Hathaway HomeServices Nevada Properties",
     telephone: "+17025001942",
-    email: "homes@heyberkshire.com",
+    email: "DrDuffySells@RiverwalkRanchHomes.com",
     address: {
       "@type": "PostalAddress",
       streetAddress: "9406 W Lake Mead Blvd, Suite 100",
@@ -125,10 +125,10 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-semibold text-slate-900 mb-1">Email</h3>
                     <a
-                      href="mailto:homes@heyberkshire.com"
+                      href="mailto:DrDuffySells@RiverwalkRanchHomes.com"
                       className="text-blue-600 hover:text-blue-700 font-medium"
                     >
-                      homes@heyberkshire.com
+                      DrDuffySells@RiverwalkRanchHomes.com
                     </a>
                     <p className="text-sm text-slate-500 mt-1">
                       Typically respond within 2 hours

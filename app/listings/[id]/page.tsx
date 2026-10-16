@@ -11,6 +11,7 @@ import { ctaPhone, nap } from "@/lib/contact";
 import { pageMetadata } from "@/lib/seo";
 import { mediaUrl, photos } from "@/lib/media";
 import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 type PropertyPageProps = {
   params: { id: string };
@@ -54,6 +55,7 @@ export default function PropertyPage({ params }: PropertyPageProps) {
                 sizes="(max-width: 768px) 100vw, 66vw"
               />
             </div>
+            <OfficeListingsWidget />
             <ul className="grid grid-cols-2 gap-4 mb-6 text-slate-700">
               <li className="flex items-center">
                 <MapPin
@@ -118,10 +120,10 @@ export default function PropertyPage({ params }: PropertyPageProps) {
                   <Link href="/listings">Browse Live MLS</Link>
                 </Button>
               </div>
+              <SectionPresence />
             </div>
           </aside>
         </div>
-        <OfficeListingsWidget />
       </div>
     </main>
   );

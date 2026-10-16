@@ -150,7 +150,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
   "/contact": [
     {
       h2: "What happens after you call the Lake Mead Blvd desk",
-      body: "Walk-ins during posted hours are welcome at Suite 100. Calendly showings can start here and continue to the property. Call or text (702) 222-1964. Email homes@heyberkshire.com for documents — not listing keys.",
+      body: "Walk-ins during posted hours are welcome at Suite 100. Calendly showings can start here and continue to the property. Call or text (702) 222-1964. Email DrDuffySells@RiverwalkRanchHomes.com for documents — not listing keys.",
       steps: [
         {
           title: "A named agent, not a round-robin call center",

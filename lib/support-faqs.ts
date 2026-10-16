@@ -48,7 +48,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
       },
       {
         q: "What do I bring to a first desk meeting?",
-        a: "Photo ID, lender contact if you have one, and target ZIPs. We map commute minutes before the first tour. Email homes@heyberkshire.com for documents — do not send listing keys by unsecured email.",
+        a: "Photo ID, lender contact if you have one, and target ZIPs. We map commute minutes before the first tour. Email DrDuffySells@RiverwalkRanchHomes.com for documents — do not send listing keys by unsecured email.",
       },
       {
         q: "How fast do you reply to a call or text vs email?",
