@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   Shield,
@@ -19,6 +18,8 @@ import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import SellerFaqs from "@/components/sections/SellerFaqs";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import { pageMetadata } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/sellers/divorce-probate",
@@ -61,6 +62,7 @@ export default function DivorceProbatePage() {
             <OfficeProximity path="/sellers/divorce-probate" />
             <UniqueInterior path="/sellers/divorce-probate" />
           </div>
+          <OfficeListingsWidget />
 
           <LeftoverBand path="/sellers/divorce-probate" />
 
@@ -108,6 +110,7 @@ export default function DivorceProbatePage() {
                 </p>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Legal Coordination */}
@@ -156,6 +159,7 @@ export default function DivorceProbatePage() {
                 </ul>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/sellers/divorce-probate" slot={2} />
@@ -238,6 +242,7 @@ export default function DivorceProbatePage() {
                 </ul>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/sellers/divorce-probate" slot={3} />
@@ -326,6 +331,7 @@ export default function DivorceProbatePage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
           <SellerFaqs path="/sellers/divorce-probate" />
 
@@ -369,6 +375,7 @@ export default function DivorceProbatePage() {
                 </p>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <ExpertQuote path="/sellers/divorce-probate" />
@@ -383,13 +390,13 @@ export default function DivorceProbatePage() {
               judgment—just professional guidance to help you move forward.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

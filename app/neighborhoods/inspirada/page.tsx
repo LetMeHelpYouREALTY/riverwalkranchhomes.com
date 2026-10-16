@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import type { Metadata } from "next";
 import { pageMetadata } from "@/lib/seo";
 import CtaActions from "@/components/sections/CtaActions";
@@ -15,6 +14,8 @@ import NeighborhoodFaqs from "@/components/sections/NeighborhoodFaqs";
 import ExpertQuote from "@/components/sections/ExpertQuote";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import RealScoutSearch from "@/components/realscout/RealScoutSearch";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/neighborhoods/inspirada",
@@ -58,6 +59,7 @@ export default function InspiradaPage() {
               <RealScoutSearch />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           <OfficeProximity path="/neighborhoods/inspirada" />
           <UniqueInterior path="/neighborhoods/inspirada" />
@@ -97,6 +99,7 @@ export default function InspiradaPage() {
                 <div className="text-slate-300 text-sm">YoY Appreciation</div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Main Content */}
@@ -163,6 +166,7 @@ export default function InspiradaPage() {
                 navigating this popular community.
               </p>
             </div>
+          <SectionPresence />
           </section>
 
           <ExpertQuote path="/neighborhoods/inspirada" />
@@ -179,13 +183,13 @@ export default function InspiradaPage() {
               and resale in one trip.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

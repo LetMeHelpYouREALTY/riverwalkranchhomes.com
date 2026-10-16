@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   CheckCircle,
@@ -19,6 +18,8 @@ import BuyerFaqs from "@/components/sections/BuyerFaqs";
 import ProcessSteps from "@/components/sections/ProcessSteps";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import { pageMetadata } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/buyers",
@@ -134,6 +135,7 @@ export default function BuyersPage() {
               <UniqueInterior path="/buyers" />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           {/* Value Prop */}
           <section className="mb-16 bg-slate-900 text-white rounded-2xl p-8 md:p-12 max-w-5xl mx-auto">
@@ -180,6 +182,7 @@ export default function BuyersPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <ProcessSteps path="/buyers" />
@@ -224,6 +227,7 @@ export default function BuyersPage() {
                 <ArrowRight className="h-4 w-4 ml-2" />
               </Link>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Buyer Types */}
@@ -289,6 +293,7 @@ export default function BuyersPage() {
                 </span>
               </Link>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Why BHHS */}
@@ -351,6 +356,7 @@ export default function BuyersPage() {
                 </p>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <ExpertQuote path="/buyers" />
@@ -370,6 +376,7 @@ export default function BuyersPage() {
               representation is free for you.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
 
@@ -378,7 +385,6 @@ export default function BuyersPage() {
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

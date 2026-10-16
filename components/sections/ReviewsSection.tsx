@@ -1,5 +1,7 @@
 "use client";
 
+import SectionPresence from "@/components/sections/SectionPresence";
+
 import { Star, Quote } from "lucide-react";
 import Image from "next/image";
 import { googleReviewsUrl as defaultGoogleReviewsUrl } from "@/lib/contact";
@@ -159,6 +161,7 @@ export default function ReviewsSection({
           </a>
         </div>
       </div>
+    <SectionPresence />
     </section>
   );
 }

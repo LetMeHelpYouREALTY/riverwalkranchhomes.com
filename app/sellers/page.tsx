@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   Phone,
@@ -23,6 +22,8 @@ import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import SellerFaqs from "@/components/sections/SellerFaqs";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import { pageMetadata } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/sellers",
@@ -115,6 +116,7 @@ export default function SellersPage() {
               <UniqueInterior path="/sellers" />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           {/* Market Stats */}
           <section className="mb-16 bg-slate-900 text-white rounded-2xl p-8 md:p-12 max-w-5xl mx-auto">
@@ -156,6 +158,7 @@ export default function SellersPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/sellers" />
@@ -180,6 +183,7 @@ export default function SellersPage() {
                 </div>
               ))}
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/sellers" slot={4} />
@@ -191,6 +195,7 @@ export default function SellersPage() {
             >
               Get Free Valuation
             </Link>
+          <SectionPresence />
           </section>
           <SellerFaqs path="/sellers" />
 
@@ -207,6 +212,7 @@ export default function SellersPage() {
               expert analysis.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
 
@@ -215,7 +221,6 @@ export default function SellersPage() {
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

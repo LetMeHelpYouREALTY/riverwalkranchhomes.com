@@ -1,4 +1,5 @@
 import FaqAccordion from "@/components/sections/FaqAccordion";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export interface FAQ {
   question: string;
@@ -82,6 +83,7 @@ export default function FAQSection({
           <FaqAccordion items={faqs} />
         </div>
       </div>
+    <SectionPresence />
     </section>
   );
 }

@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import WhyChooseUs from "@/components/sections/WhyChooseUs";
 import ReviewsSection from "@/components/sections/ReviewsSection";
 import SupportFaqs from "@/components/sections/SupportFaqs";
@@ -23,6 +22,8 @@ import {
   RIVERWALK_DESCRIPTION,
   riverwalkKeywords,
 } from "@/lib/riverwalk-ranch";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export async function generateMetadata(): Promise<Metadata> {
   const hostname = headers().get("x-domain");
@@ -106,7 +107,9 @@ export default async function Home() {
             <CtaActions variant="onDark" />
           </div>
         </div>
+      <SectionPresence />
       </section>
+      <OfficeListingsWidget bleed />
       <div className="container mx-auto px-4">
         <OfficeProximity path="/" />
         <UniqueInterior path="/" />
@@ -154,6 +157,7 @@ export default async function Home() {
           </p>
           <CtaActions variant="onLight" />
         </div>
+      <SectionPresence />
       </section>
 
       <section className="py-16 bg-slate-900 text-white">
@@ -217,9 +221,9 @@ export default async function Home() {
             </Link>
           </div>
         </div>
+      <SectionPresence />
       </section>
 
-      <RealScoutListings />
       <WhyChooseUs />
       <LeftoverBand path="/" />
       <ReviewsSection showHeading={false} />

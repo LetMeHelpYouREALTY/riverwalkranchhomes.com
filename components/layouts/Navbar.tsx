@@ -2,9 +2,11 @@
 
 import { useState, useEffect, useRef } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { Menu, X, Phone, ChevronDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { ctaPhone, nap } from "@/lib/contact";
+import { photos } from "@/lib/media";
 import LocalTrustBar from "@/components/layouts/LocalTrustBar";
 
 type NavbarProps = {
@@ -77,6 +79,9 @@ export default function Navbar({ brand = "brokerage" }: NavbarProps) {
     { href: "/buyers", label: "Home Buying" },
     { href: "/sellers", label: "Home Selling" },
     { href: "/luxury-homes", label: "Luxury Homes" },
+    { href: "/private-client", label: "Private Client" },
+    { href: "/service-areas", label: "Service Areas" },
+    { href: "/guides/book-a-showing", label: "Book a Showing" },
     { href: "/55-plus-communities", label: "55+ Communities" },
     { href: "/new-construction", label: "New Construction" },
     { href: "/investment-properties", label: "Investment Properties" },
@@ -95,11 +100,20 @@ export default function Navbar({ brand = "brokerage" }: NavbarProps) {
         <div className="flex justify-between items-center gap-4">
           <Link
             href="/"
-            className="flex flex-col min-w-0 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-2 rounded-md"
+            className="flex items-center gap-3 min-w-0 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-2 rounded-md"
             aria-label={
               riverwalk ? "Riverwalk Ranch Homes home" : `${nap.brokerage} home`
             }
           >
+            <Image
+              src={photos.portrait.src}
+              alt="Dr. Jan Duffy"
+              width={44}
+              height={44}
+              priority
+              className="h-11 w-11 shrink-0 rounded-full object-cover"
+            />
+            <span className="flex flex-col min-w-0">
             {riverwalk ? (
               <>
                 <span className="text-lg md:text-xl font-semibold tracking-tight text-[#1c1917] leading-tight truncate">
@@ -120,6 +134,7 @@ export default function Navbar({ brand = "brokerage" }: NavbarProps) {
                 </span>
               </>
             )}
+            </span>
           </Link>
 
           <nav

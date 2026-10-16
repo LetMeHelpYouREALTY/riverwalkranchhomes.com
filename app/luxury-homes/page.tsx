@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import { CheckCircle, ArrowRight } from "lucide-react";
 import type { Metadata } from "next";
@@ -11,6 +10,8 @@ import LeftoverBand from "@/components/sections/LeftoverBand";
 import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import IntentFaqs from "@/components/sections/IntentFaqs";
 import { pageMetadata } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/luxury-homes",
@@ -173,6 +174,7 @@ export default function LuxuryHomesPage() {
               <UniqueInterior path="/luxury-homes" />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           {/* Luxury Stats */}
           <LeftoverBand path="/luxury-homes" slot={1} />
@@ -205,6 +207,7 @@ export default function LuxuryHomesPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <ProcessSteps path="/luxury-homes" />
@@ -266,6 +269,7 @@ export default function LuxuryHomesPage() {
                 <ArrowRight className="h-4 w-4 ml-2" />
               </Link>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/luxury-homes" />
@@ -285,6 +289,7 @@ export default function LuxuryHomesPage() {
               discerning clients.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
 
@@ -293,7 +298,6 @@ export default function LuxuryHomesPage() {
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

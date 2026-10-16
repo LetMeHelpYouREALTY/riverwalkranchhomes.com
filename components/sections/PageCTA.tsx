@@ -1,6 +1,7 @@
 import { Navigation, Star } from "lucide-react";
 import { nap, maps, googleReviewsUrl } from "@/lib/contact";
 import CtaActions from "@/components/sections/CtaActions";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 type PageCTAProps = {
   headline?: string;
@@ -46,6 +47,7 @@ export default function PageCTA({
           </a>
         </div>
       </div>
+    <SectionPresence />
     </section>
   );
 }

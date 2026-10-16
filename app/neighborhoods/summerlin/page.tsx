@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import type { Metadata } from "next";
 import { pageMetadata } from "@/lib/seo";
 import CtaActions from "@/components/sections/CtaActions";
@@ -14,6 +13,8 @@ import NeighborhoodFaqs from "@/components/sections/NeighborhoodFaqs";
 import ExpertQuote from "@/components/sections/ExpertQuote";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import RealScoutSearch from "@/components/realscout/RealScoutSearch";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 import SchemaScript from "@/components/SchemaScript";
 import {
@@ -88,6 +89,7 @@ export default function SummerlinPage() {
               <RealScoutSearch />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           <OfficeProximity path="/neighborhoods/summerlin" />
           <UniqueInterior path="/neighborhoods/summerlin" />
@@ -128,6 +130,7 @@ export default function SummerlinPage() {
                 <div className="text-slate-300 text-sm">YoY Appreciation</div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Main Content */}
@@ -190,6 +193,7 @@ export default function SummerlinPage() {
                 facts, not a search screenshot.
               </p>
             </div>
+          <SectionPresence />
           </section>
 
           <ExpertQuote path="/neighborhoods/summerlin" />
@@ -207,13 +211,13 @@ export default function SummerlinPage() {
               Blvd office.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

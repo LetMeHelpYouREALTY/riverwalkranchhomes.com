@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   TrendingUp,
@@ -18,6 +17,8 @@ import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import SellerFaqs from "@/components/sections/SellerFaqs";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import { pageMetadata } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/sellers/move-up",
@@ -57,6 +58,7 @@ export default function MoveUpSellerPage() {
             <OfficeProximity path="/sellers/move-up" />
             <UniqueInterior path="/sellers/move-up" />
           </div>
+          <OfficeListingsWidget />
 
           <LeftoverBand path="/sellers/move-up" />
 
@@ -122,6 +124,7 @@ export default function MoveUpSellerPage() {
                 <ArrowRight className="h-6 w-6 text-purple-600 flex-shrink-0 ml-4" />
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/sellers/move-up" slot={2} />
@@ -178,6 +181,7 @@ export default function MoveUpSellerPage() {
                 </ul>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/sellers/move-up" slot={3} />
@@ -264,6 +268,7 @@ export default function MoveUpSellerPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/sellers/move-up" slot={4} />
@@ -319,6 +324,7 @@ export default function MoveUpSellerPage() {
                 </p>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <ExpertQuote path="/sellers/move-up" />
@@ -335,13 +341,13 @@ export default function MoveUpSellerPage() {
               plan.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

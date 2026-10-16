@@ -1,5 +1,7 @@
 "use client";
 
+import SectionPresence from "@/components/sections/SectionPresence";
+
 import Link from "next/link";
 import Image from "next/image";
 import { Bed, Bath, Square, ArrowRight } from "lucide-react";
@@ -121,6 +123,7 @@ export default function FeaturedProperties() {
           ))}
         </div>
       </div>
+    <SectionPresence />
     </section>
   );
 }

@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import type { Metadata } from "next";
 import { pageMetadata } from "@/lib/seo";
 import CtaActions from "@/components/sections/CtaActions";
@@ -16,6 +15,7 @@ import {
   generateWebPageSchema,
   combineSchemas,
 } from "@/lib/schema";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
 
 export const metadata: Metadata = pageMetadata({
   path: "/faq",
@@ -77,6 +77,7 @@ export default function FAQPage() {
               <ExpertQuote path="/faq" />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           <FaqHub />
 
@@ -88,7 +89,6 @@ export default function FAQPage() {
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

@@ -3,6 +3,7 @@ import CtaActions from "@/components/sections/CtaActions";
 import { ctaPhone, nap } from "@/lib/contact";
 import { fiftyFiveAmenityPhotoForPath } from "@/lib/media";
 import { fiftyFiveAmenities } from "@/lib/fifty-five-amenities";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 type FiftyFiveAmenitiesProps = {
   path: string;
@@ -44,6 +45,7 @@ export default function FiftyFiveAmenities({ path }: FiftyFiveAmenitiesProps) {
         {nap.brokerage} · {nap.fullAddress} · Call or text {ctaPhone.display}.
       </p>
       <CtaActions variant="onLight" />
+    <SectionPresence />
     </section>
   );
 }

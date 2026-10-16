@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   Phone,
@@ -20,6 +19,8 @@ import FiftyFiveFaqs from "@/components/sections/FiftyFiveFaqs";
 import ExpertQuote from "@/components/sections/ExpertQuote";
 import FiftyFiveAmenities from "@/components/sections/FiftyFiveAmenities";
 import RealScoutSearch from "@/components/realscout/RealScoutSearch";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/55-plus-communities/del-webb-lake-las-vegas",
@@ -65,6 +66,7 @@ export default function DelWebbLakeLasVegasPage() {
               <RealScoutSearch />
             </div>
           </div>
+          <OfficeListingsWidget />
           <OfficeProximity path="/55-plus-communities/del-webb-lake-las-vegas" />
           <UniqueInterior path="/55-plus-communities/del-webb-lake-las-vegas" />
 
@@ -100,6 +102,7 @@ export default function DelWebbLakeLasVegasPage() {
                 premiums.
               </p>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Lake Las Vegas shoreline pins */}
@@ -142,6 +145,7 @@ export default function DelWebbLakeLasVegasPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <FiftyFiveAmenities path="/55-plus-communities/del-webb-lake-las-vegas" />
@@ -162,13 +166,13 @@ export default function DelWebbLakeLasVegasPage() {
               shoreline streets and rec campus on one Henderson afternoon.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   Clock,
@@ -17,6 +16,8 @@ import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import IntentFaqs from "@/components/sections/IntentFaqs";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import RealScoutSearch from "@/components/realscout/RealScoutSearch";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/new-construction",
@@ -221,6 +222,7 @@ export default function NewConstructionPage() {
               <RealScoutSearch />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           <LeftoverBand path="/new-construction" />
 
@@ -277,6 +279,7 @@ export default function NewConstructionPage() {
                 offers specific to your preferred communities.
               </p>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Builders Grid */}
@@ -343,6 +346,7 @@ export default function NewConstructionPage() {
                 </div>
               ))}
             </div>
+          <SectionPresence />
           </section>
 
           {/* The Process */}
@@ -432,6 +436,7 @@ export default function NewConstructionPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <ExpertQuote path="/new-construction" />
@@ -464,6 +469,7 @@ export default function NewConstructionPage() {
                 </div>
               ))}
             </div>
+          <SectionPresence />
           </section>
 
           {/* CTA */}
@@ -480,13 +486,13 @@ export default function NewConstructionPage() {
               information available.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026 | Incentives subject to change
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

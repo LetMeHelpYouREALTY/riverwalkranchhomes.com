@@ -25,6 +25,8 @@ import {
   riverwalkSections,
 } from "@/lib/riverwalk-ranch";
 import { riverwalkDisplay } from "@/components/riverwalk/font";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 type RiverwalkHomeProps = {
   heading?: string;
@@ -151,7 +153,9 @@ export default function RiverwalkHome({
             </figure>
           </div>
         </div>
+      <SectionPresence />
       </section>
+      <OfficeListingsWidget bleed />
 
       <section
         aria-labelledby="commute-heading"
@@ -183,6 +187,7 @@ export default function RiverwalkHome({
             ))}
           </div>
         </div>
+      <SectionPresence />
       </section>
 
       <section
@@ -251,6 +256,7 @@ export default function RiverwalkHome({
             the Crossing dues, and it is not a section average.
           </p>
         </div>
+      <SectionPresence />
       </section>
 
       <section className="bg-[#f3eee6]" aria-labelledby="corridor-heading">
@@ -308,6 +314,7 @@ export default function RiverwalkHome({
             />
           </div>
         </div>
+      <SectionPresence />
       </section>
 
       <section className="border-t border-[#ddd4c8]" aria-labelledby="search-heading">
@@ -330,6 +337,7 @@ export default function RiverwalkHome({
             </div>
           </div>
         </div>
+      <SectionPresence />
       </section>
 
       <section
@@ -409,6 +417,7 @@ export default function RiverwalkHome({
             </div>
           </div>
         </div>
+      <SectionPresence />
       </section>
 
       <section className="border-t border-[#ddd4c8]" aria-labelledby="faq-heading">
@@ -450,6 +459,7 @@ export default function RiverwalkHome({
             </p>
           ) : null}
         </div>
+      <SectionPresence />
       </section>
     </main>
   );

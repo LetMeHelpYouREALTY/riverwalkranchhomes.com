@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   Sun,
@@ -18,6 +17,8 @@ import ExpertQuote from "@/components/sections/ExpertQuote";
 import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import BuyerFaqs from "@/components/sections/BuyerFaqs";
 import LeftoverBand from "@/components/sections/LeftoverBand";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/buyers/california-relocator",
@@ -83,6 +84,7 @@ export default function CaliforniaRelocatorPage() {
             <OfficeProximity path="/buyers/california-relocator" />
             <UniqueInterior path="/buyers/california-relocator" />
           </div>
+          <OfficeListingsWidget />
 
           <LeftoverBand path="/buyers/california-relocator" />
 
@@ -120,6 +122,7 @@ export default function CaliforniaRelocatorPage() {
                 moving to Nevada.
               </p>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/buyers/california-relocator" slot={1} />
@@ -172,6 +175,7 @@ export default function CaliforniaRelocatorPage() {
                 </ul>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/buyers/california-relocator" slot={2} />
@@ -292,6 +296,7 @@ export default function CaliforniaRelocatorPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Remote Work Lifestyle */}
@@ -350,6 +355,7 @@ export default function CaliforniaRelocatorPage() {
                 </p>
               </div>
             </div>
+          <SectionPresence />
           </section>
           <BuyerFaqs path="/buyers/california-relocator" />
 
@@ -361,7 +367,6 @@ export default function CaliforniaRelocatorPage() {
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

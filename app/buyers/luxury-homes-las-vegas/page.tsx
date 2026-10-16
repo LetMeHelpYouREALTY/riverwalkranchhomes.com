@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import { Shield, Eye, Lock, Star, DollarSign } from "lucide-react";
 import type { Metadata } from "next";
 import { pageMetadata } from "@/lib/seo";
@@ -10,6 +9,8 @@ import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import BuyerFaqs from "@/components/sections/BuyerFaqs";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import { nap } from "@/lib/contact";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/buyers/luxury-homes-las-vegas",
@@ -49,6 +50,7 @@ export default function LuxuryHomesPage() {
             <OfficeProximity path="/buyers/luxury-homes-las-vegas" />
             <UniqueInterior path="/buyers/luxury-homes-las-vegas" />
           </div>
+          <OfficeListingsWidget />
 
           {/* Market Performance */}
           <LeftoverBand path="/buyers/luxury-homes-las-vegas" slot={1} />
@@ -88,6 +90,7 @@ export default function LuxuryHomesPage() {
               averages, driven by California migration, favorable tax
               environment, and world-class amenities.
             </p>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/buyers/luxury-homes-las-vegas" />
@@ -151,6 +154,7 @@ export default function LuxuryHomesPage() {
                 </ul>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <ExpertQuote path="/buyers/luxury-homes-las-vegas" />
@@ -168,13 +172,13 @@ export default function LuxuryHomesPage() {
               Lake Mead Blvd, Suite 100 is where the showing clock is written.
             </p>
             <CtaActions variant="onDark" bookLabel="Request Private Showing" />
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

@@ -250,6 +250,44 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 
+  const guidePages = [
+    {
+      url: `${baseUrl}/private-client`,
+      priority: 0.8,
+      changeFrequency: "monthly" as const,
+    },
+    {
+      url: `${baseUrl}/service-areas`,
+      priority: 0.8,
+      changeFrequency: "monthly" as const,
+    },
+    {
+      url: `${baseUrl}/reviews`,
+      priority: 0.6,
+      changeFrequency: "monthly" as const,
+    },
+    {
+      url: `${baseUrl}/credentials`,
+      priority: 0.6,
+      changeFrequency: "yearly" as const,
+    },
+    {
+      url: `${baseUrl}/guides/book-a-showing`,
+      priority: 0.8,
+      changeFrequency: "monthly" as const,
+    },
+    {
+      url: `${baseUrl}/guides/writing-an-offer`,
+      priority: 0.8,
+      changeFrequency: "monthly" as const,
+    },
+    {
+      url: `${baseUrl}/guides/riverwalk-ranch-questions`,
+      priority: 0.8,
+      changeFrequency: "weekly" as const,
+    },
+  ];
+
   const allPages = [
     ...corePages,
     ...servicePages,
@@ -257,6 +295,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...sellerPersonaPages,
     ...fiftyPlusCommunityPages,
     ...neighborhoodPages,
+    ...guidePages,
   ];
 
   return allPages.map((page) => ({

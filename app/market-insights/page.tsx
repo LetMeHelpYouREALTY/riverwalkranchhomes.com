@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import { TrendingUp } from "lucide-react";
 import type { Metadata } from "next";
 import CtaActions from "@/components/sections/CtaActions";
@@ -9,6 +8,8 @@ import SupportFaqs from "@/components/sections/SupportFaqs";
 import ExpertQuote from "@/components/sections/ExpertQuote";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import { pageMetadata } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/market-insights",
@@ -72,6 +73,7 @@ export default function MarketInsightsPage() {
               <UniqueInterior path="/market-insights" />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           <LeftoverBand path="/market-insights" />
           <LeftoverBand path="/market-insights" slot={1} />
@@ -94,13 +96,13 @@ export default function MarketInsightsPage() {
               Duffy will not invent a rate or a street price.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

@@ -4,6 +4,7 @@ import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import { ctaPhone, nap } from "@/lib/contact";
 import { faqHubPhotoForCategory } from "@/lib/media";
 import { faqHubCategories } from "@/lib/faq-hub";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export default function FaqHub() {
   return (
@@ -19,6 +20,7 @@ export default function FaqHub() {
             photo={faqHubPhotoForCategory(category.id)}
           />
           <FaqAccordion items={category.items} />
+        <SectionPresence />
         </section>
       ))}
       <p className="text-sm text-slate-600 mt-8 mb-6 text-center">

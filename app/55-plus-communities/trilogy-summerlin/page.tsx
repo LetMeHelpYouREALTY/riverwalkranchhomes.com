@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   Phone,
@@ -23,6 +22,8 @@ import ExpertQuote from "@/components/sections/ExpertQuote";
 import FiftyFiveAmenities from "@/components/sections/FiftyFiveAmenities";
 import RealScoutSearch from "@/components/realscout/RealScoutSearch";
 import { pageMetadata } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/55-plus-communities/trilogy-summerlin",
@@ -99,6 +100,7 @@ export default function TrilogySummerlinPage() {
               <RealScoutSearch />
             </div>
           </div>
+          <OfficeListingsWidget />
           <OfficeProximity path="/55-plus-communities/trilogy-summerlin" />
           <UniqueInterior path="/55-plus-communities/trilogy-summerlin" />
 
@@ -132,6 +134,7 @@ export default function TrilogySummerlinPage() {
                 <div className="text-slate-300 text-sm">Resort Amenities</div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/55-plus-communities/trilogy-summerlin" />
@@ -196,6 +199,7 @@ export default function TrilogySummerlinPage() {
                 </ul>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Why Choose Trilogy */}
@@ -218,13 +222,13 @@ export default function TrilogySummerlinPage() {
               Clubhouse, spa, and Shea plans are 12–18 minutes from the Lake
               Mead Blvd office.
             </p>
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

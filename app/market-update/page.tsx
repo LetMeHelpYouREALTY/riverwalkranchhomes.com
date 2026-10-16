@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import { Calendar } from "lucide-react";
 import type { Metadata } from "next";
 import CtaActions from "@/components/sections/CtaActions";
@@ -9,6 +8,8 @@ import SupportFaqs from "@/components/sections/SupportFaqs";
 import ExpertQuote from "@/components/sections/ExpertQuote";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import { pageMetadata, absoluteUrl } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/market-update",
@@ -83,6 +84,7 @@ export default function MarketUpdatePage() {
               <ExpertQuote path="/market-update" />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           <LeftoverBand path="/market-update" />
           <LeftoverBand path="/market-update" slot={1} />
@@ -102,6 +104,7 @@ export default function MarketUpdatePage() {
               address to 9406 W Lake Mead Blvd.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
 
           {/* Newsletter Signup */}
@@ -126,13 +129,13 @@ export default function MarketUpdatePage() {
             <p className="mt-3 text-xs text-slate-500">
               No spam. Unsubscribe anytime. Your data is protected.
             </p>
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-12">
           Last Updated: January 24, 2026 | Data Source: Las Vegas REALTORS® MLS
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

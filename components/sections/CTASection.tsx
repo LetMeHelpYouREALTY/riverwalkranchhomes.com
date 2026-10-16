@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Phone, Mail, Home } from "lucide-react";
 import { ctaPhone } from "@/lib/contact";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export default function CTASection() {
   return (
@@ -58,6 +59,7 @@ export default function CTASection() {
           </div>
         </div>
       </div>
+    <SectionPresence />
     </section>
   );
 }

@@ -6,6 +6,7 @@ import { ctaPhone, nap } from "@/lib/contact";
 import { sellerFaqPhotoForPath } from "@/lib/media";
 import { sellerFaqs } from "@/lib/seller-faqs";
 import { generateFAQSchema } from "@/lib/schema";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 type SellerFaqsProps = {
   path: string;
@@ -39,6 +40,7 @@ export default function SellerFaqs({ path }: SellerFaqsProps) {
         {nap.brokerage} · {nap.fullAddress} · Call or text {ctaPhone.display}.
       </p>
       <CtaActions variant="onLight" />
+    <SectionPresence />
     </section>
   );
 }

@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   Plane,
@@ -19,6 +18,8 @@ import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import SellerFaqs from "@/components/sections/SellerFaqs";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import { pageMetadata } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/sellers/relocation",
@@ -60,6 +61,7 @@ export default function RelocationPage() {
             <OfficeProximity path="/sellers/relocation" />
             <UniqueInterior path="/sellers/relocation" />
           </div>
+          <OfficeListingsWidget />
 
           <LeftoverBand path="/sellers/relocation" />
 
@@ -185,6 +187,7 @@ export default function RelocationPage() {
                 </ul>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/sellers/relocation" slot={2} />
@@ -246,6 +249,7 @@ export default function RelocationPage() {
                 </ul>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Corporate Relocation */}
@@ -299,6 +303,7 @@ export default function RelocationPage() {
                 Graebel, BGRS, and others.
               </p>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/sellers/relocation" slot={3} />
@@ -356,6 +361,7 @@ export default function RelocationPage() {
                 </div>
               ))}
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/sellers/relocation" slot={4} />
@@ -439,6 +445,7 @@ export default function RelocationPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
           <SellerFaqs path="/sellers/relocation" />
 
@@ -489,6 +496,7 @@ export default function RelocationPage() {
                 to start your home search.
               </p>
             </div>
+          <SectionPresence />
           </section>
 
           <ExpertQuote path="/sellers/relocation" />
@@ -504,13 +512,13 @@ export default function RelocationPage() {
               opportunity.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }
