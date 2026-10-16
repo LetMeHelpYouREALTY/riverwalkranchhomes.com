@@ -39,7 +39,7 @@ export default function HomeValuationPage() {
           {/* Hero */}
           <div className="max-w-4xl mx-auto text-center mb-16">
             <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
+              Dr. Jan Duffy
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
               What's Your Las Vegas Home Worth?
@@ -47,8 +47,7 @@ export default function HomeValuationPage() {
             <HeadingPhoto path="/home-valuation" />
 
             <p className="text-xl text-slate-600">
-              Get a free, no-obligation home valuation from Dr. Jan Duffy at{" "}
-              <strong>Berkshire Hathaway HomeServices</strong>. Accurate pricing
+              Get a free, no-obligation home valuation from Dr. Jan Duffy. Accurate pricing
               backed by 17+ years of Las Vegas market expertise and $127M+ in
               closed transactions.
             </p>
@@ -87,7 +86,7 @@ export default function HomeValuationPage() {
               <CalendlyWidget url="showing" height="650px" />
               <p className="text-xs text-slate-500 text-center p-4 border-t border-slate-200">
                 No obligation. No pressure. Just accurate information from
-                Berkshire Hathaway HomeServices.
+                Dr. Jan Duffy.
               </p>
             </div>
 
@@ -351,7 +350,7 @@ export default function HomeValuationPage() {
             </h2>
             <p className="text-xl text-blue-100 mb-8">
               Get a free, no-obligation home valuation from Dr. Jan Duffy and
-              Berkshire Hathaway HomeServices Nevada Properties. Accurate
+              Dr. Jan Duffy. Accurate
               pricing. Expert guidance. Zero pressure.
             </p>
             <CtaActions variant="onDark" />

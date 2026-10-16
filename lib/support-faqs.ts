@@ -1,5 +1,5 @@
 /**
- * Unique FAQ interiors for remaining desk/support pages: contact, BHHS
+ * Unique FAQ interiors for remaining desk/support pages: contact, office
  * brand, listings search, GBP/Maps, and the three market URLs.
  * Questions are desk/tour/NAP intent, not swapped generic templates.
  * January 2026 figures already published on these pages stay in answers
@@ -61,22 +61,22 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
     ],
   },
   "/why-berkshire-hathaway": {
-    h2: "Who handles photography, writes remarks, and answers calls at the BHHS desk?",
+    h2: "Who handles photography, writes remarks, and answers calls at the office desk?",
     items: [
       {
-        q: "Where do I see BHHS listing samples before I sign?",
+        q: "Where do I see office listing samples before I sign?",
         a: "The office is at 9406 W Lake Mead Blvd, Suite 100. Brand questions are answered on-site, including referral network, photography samples, and who answers the phone. Call (702) 222-1964.",
       },
       {
-        q: "Is Berkshire Hathaway HomeServices owned by Warren Buffett?",
-        a: "BHHS is part of HSF Affiliates LLC, a joint venture of Berkshire Hathaway Inc. and HomeServices of America. The brand carries the Berkshire Hathaway name. Local work is still Dr. Jan Duffy, license S.0197614.LLC, BHHS Nevada Properties.",
+        q: "Is Dr. Jan Duffy owned by Warren Buffett?",
+        a: "No. Dr. Jan Duffy is the agent, license S.0197614.LLC. The brokerage name is in the footer.",
       },
       {
-        q: "Is BHHS commission higher than other Las Vegas brokerages?",
+        q: "Is commission higher than other Las Vegas brokerages?",
         a: "No posted rate on this page. Commission is negotiated in writing at the listing or buyer-broker appointment. We walk every cost at Suite 100. Call (702) 222-1964.",
       },
       {
-        q: "Can a BHHS agent in another city brief this office on my outbound or inbound move?",
+        q: "Can an agent in another city brief this office on my outbound or inbound move?",
         a: "Yes. Destination and origin agents are briefed from this desk so both contracts share a calendar. Named campuses and commute minutes are mapped here, not as slogans. Call (702) 222-1964.",
       },
     ],

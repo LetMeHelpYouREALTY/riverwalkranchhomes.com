@@ -39,17 +39,17 @@ export default function InspiradaPage() {
           {/* Hero */}
           <div className="max-w-4xl mx-auto text-center mb-16">
             <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
+              Dr. Jan Duffy
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
-              Berkshire Hathaway HomeServices Inspirada
+              Inspirada Homes
             </h1>
             <HeadingPhoto path="/neighborhoods/inspirada" />
 
             <p className="text-xl text-slate-600">
               2,000-acre Henderson campus, 30–40 minutes from Suite 100. $525K
               median, 23 DOM, 98 listings (January 2026) with{" "}
-              <strong>Berkshire Hathaway HomeServices</strong> and Dr. Jan
+              Dr. Jan
               Duffy.
             </p>
             <div className="mt-8">
@@ -123,13 +123,13 @@ export default function InspiradaPage() {
               </p>
               <p>
                 <strong>
-                  Berkshire Hathaway HomeServices Nevada Properties
+                  Dr. Jan Duffy
                 </strong>{" "}
                 provides free buyer representation on Inspirada new construction
                 purchases. With multiple builders offering homes in the
                 community, navigating options can be overwhelming. Dr. Jan Duffy
                 helps buyers compare builders, negotiate upgrades, and avoid
-                common new construction pitfalls. For resales, BHHS agents
+                common new construction pitfalls. For resales, local agents
                 identify properties where previous owners made smart upgrade
                 decisions, delivering better value than comparable new
                 construction.
@@ -157,7 +157,7 @@ export default function InspiradaPage() {
                 features offer compelling alternatives.
               </p>
               <p>
-                Choosing <strong>Berkshire Hathaway HomeServices</strong> for
+                Choosing <strong>Dr. Jan Duffy</strong> for
                 your Inspirada purchase means working with agents who understand
                 the community's various neighborhoods, which builders offer the
                 best quality, and which lots provide the best value. Dr. Jan

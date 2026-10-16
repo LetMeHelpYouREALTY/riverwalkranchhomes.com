@@ -53,19 +53,16 @@ export default function WhyBerkshireHathawayPage() {
           {/* Hero Section */}
           <div className="max-w-4xl mx-auto text-center mb-16">
             <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              License S.0197614.LLC · BHHS Nevada Properties
+              License S.0197614.LLC
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
-              Why Choose Berkshire Hathaway HomeServices?
+              Why work with Dr. Jan Duffy?
             </h1>
             <HeadingPhoto path="/why-berkshire-hathaway" />
 
             <p className="text-xl text-slate-600 leading-relaxed">
-              When you work with a{" "}
-              <strong>Berkshire Hathaway HomeServices</strong> agent, you're
-              backed by a name synonymous with trust, ethical standards, and
-              financial strength—the same principles that built Warren Buffett's
-              empire.
+              When you work with Dr. Jan Duffy, you get a named agent,
+              written disclosure, and a tour planned from Suite 100.
             </p>
             <div className="mt-8">
               <CtaActions variant="onLight" />
@@ -106,7 +103,7 @@ export default function WhyBerkshireHathawayPage() {
               <div className="text-center">
                 <div className="text-4xl md:text-5xl font-bold mb-2">#1</div>
                 <div className="text-blue-200">
-                  Parent: Berkshire Hathaway Inc.
+                  Parent company
                 </div>
               </div>
             </div>

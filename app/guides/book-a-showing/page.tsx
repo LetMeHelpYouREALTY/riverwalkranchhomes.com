@@ -31,7 +31,7 @@ const faqs = [
   {
     question: "Who confirms the time?",
     answer:
-      "Dr. Jan Duffy, REALTOR® S.0197614.LLC, Berkshire Hathaway HomeServices Nevada Properties.",
+      "Dr. Jan Duffy, REALTOR®, license S.0197614.LLC.",
   },
 ];
 

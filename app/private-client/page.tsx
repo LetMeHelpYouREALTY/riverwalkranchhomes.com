@@ -22,7 +22,7 @@ const faqs = [
   {
     question: "Who is the private client contact?",
     answer:
-      "Dr. Jan Duffy, REALTOR®, license S.0197614.LLC, works at Berkshire Hathaway HomeServices Nevada Properties. Call or text (702) 222-1964. The office is 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
+      "Dr. Jan Duffy, REALTOR®, license S.0197614.LLC, works from Suite 100. Call or text (702) 222-1964. The office is 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
   },
   {
     question: "What does a private client appointment cover?",
@@ -41,7 +41,7 @@ export default function PrivateClientPage() {
     <GuidePage
       eyebrow="Las Vegas · Henderson · Summerlin"
       title="Private client real estate with Dr. Jan Duffy."
-      lede="One agent provides a single office pin and a showing calendar. Berkshire Hathaway HomeServices Nevada Properties at Suite 100."
+      lede="One agent provides a single office pin and a showing calendar. Dr. Jan Duffy at Suite 100."
       faqs={faqs}
     >
       <section className="mx-auto my-16 max-w-3xl">

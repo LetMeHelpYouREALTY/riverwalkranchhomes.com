@@ -84,7 +84,7 @@ const sellerTypes = [
     title: "Relocation Sellers",
     href: "/sellers/relocation",
     description:
-      "Selling from out of state? Remote coordination with BHHS network support.",
+      "Selling from out of state? Remote coordination with referral network support.",
   },
 ];
 
@@ -100,7 +100,7 @@ export default function ServicesPage() {
           {/* Hero */}
           <div className="max-w-4xl mx-auto text-center mb-16">
             <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
+              Dr. Jan Duffy
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
               Las Vegas Real Estate Services
@@ -110,7 +110,7 @@ export default function ServicesPage() {
             <p className="text-xl text-slate-600 mb-8">
               Comprehensive real estate solutions from Dr. Jan Duffy, backed by
               the most trusted name in the business—
-              <strong>Berkshire Hathaway HomeServices</strong>. Whether you're
+              <strong>Dr. Jan Duffy</strong>. Whether you're
               buying your first home, selling a luxury estate, or relocating
               from California, you'll receive expert guidance every step of the
               way.
@@ -221,8 +221,7 @@ export default function ServicesPage() {
             <p className="text-xl text-blue-100 mb-8">
               Contact Dr. Jan Duffy for a free consultation about any of our
               real estate services. Whether you're buying, selling, investing,
-              or relocating, you'll receive expert guidance backed by Berkshire
-              Hathaway HomeServices.
+              or relocating, you'll receive expert guidance backed by Dr. Jan Duffy.
             </p>
             <CtaActions variant="onDark" />
           <SectionPresence />

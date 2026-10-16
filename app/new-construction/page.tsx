@@ -179,7 +179,7 @@ export default function NewConstructionPage() {
               Free Buyer Representation
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
-              Berkshire Hathaway HomeServices New Construction Las Vegas
+              New Construction in Las Vegas
             </h1>
             <HeadingPhoto path="/new-construction" />
 

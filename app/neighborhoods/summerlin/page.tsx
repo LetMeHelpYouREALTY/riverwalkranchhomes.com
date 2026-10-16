@@ -69,18 +69,16 @@ export default function SummerlinPage() {
           {/* Hero */}
           <div className="max-w-4xl mx-auto text-center mb-16">
             <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
+              Dr. Jan Duffy
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
-              Berkshire Hathaway HomeServices Summerlin
+              Summerlin Homes
             </h1>
             <HeadingPhoto path="/neighborhoods/summerlin" />
 
             <p className="text-xl text-slate-600">
               Downtown Summerlin and Red Rock trailheads share a 10–15 minute
-              clock from Suite 100 with Dr. Jan Duffy at{" "}
-              <strong>Berkshire Hathaway HomeServices</strong> Nevada
-              Properties.
+              clock from Suite 100 with Dr. Jan Duffy.
             </p>
             <div className="mt-8">
               <CtaActions variant="onLight" />
@@ -140,9 +138,7 @@ export default function SummerlinPage() {
               <p>
                 When homebuyers compare Las Vegas master-planned communities,{" "}
                 <strong>Summerlin</strong> is the Howard Hughes 22,500-acre
-                west-valley plat. As a{" "}
-                <strong>Berkshire Hathaway HomeServices</strong>
-                agent specializing in Summerlin real estate, Dr. Jan Duffy times
+                west-valley plat. As a local agent specializing in Summerlin real estate, Dr. Jan Duffy times
                 village tours from Suite 100 so you compare The Trails, Downtown
                 Summerlin, and Red Rock trailheads on the same clock.
               </p>
@@ -157,13 +153,13 @@ export default function SummerlinPage() {
               </p>
               <p>
                 <strong>
-                  Berkshire Hathaway HomeServices Nevada Properties
+                  Dr. Jan Duffy
                 </strong>{" "}
                 has deep roots in Summerlin, and our agents understand the
                 nuances of each village—from the parks and recreation amenities
                 of The Paseos parks to The Ridges estate streets. Affinity condo
                 square footage and Red Rock Country Club custom lots are
-                separate files. BHHS maps both from Suite 100.
+                separate files. We map both from Suite 100.
               </p>
 
               <CommunityHighlights path="/neighborhoods/summerlin" />
@@ -185,8 +181,7 @@ export default function SummerlinPage() {
                 proceeds — with no Nevada state income tax.
               </p>
               <p>
-                Working with a <strong>Berkshire Hathaway HomeServices</strong>{" "}
-                agent gives you access to listings before they hit the market
+                Working with Dr. Jan Duffy gives you access to listings before they hit the market
                 and offer math written at 9406 W Lake Mead Blvd. Dr. Jan Duffy
                 has been serving Summerlin since 2008 — which streets have
                 mountain views and which builder rows we register first are desk

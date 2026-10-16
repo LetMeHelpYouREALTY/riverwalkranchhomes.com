@@ -39,17 +39,17 @@ export default function NorthLasVegasPage() {
           {/* Hero */}
           <div className="max-w-4xl mx-auto text-center mb-16">
             <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
+              Dr. Jan Duffy
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
-              Berkshire Hathaway HomeServices North Las Vegas
+              North Las Vegas Homes
             </h1>
             <HeadingPhoto path="/neighborhoods/north-las-vegas" />
 
             <p className="text-xl text-slate-600">
               $385K median, 32 DOM, 892 listings — Aliante rec vs Craig Road,
               20–25 minutes from Suite 100 with{" "}
-              <strong>Berkshire Hathaway HomeServices</strong> and Dr. Jan
+              Dr. Jan
               Duffy.
             </p>
             <div className="mt-8">
@@ -113,7 +113,7 @@ export default function NorthLasVegasPage() {
                 distant suburb is now a thriving city with new master-planned
                 communities, major employers, and infrastructure improvements
                 that make it an inventory band to compare at Suite 100.{" "}
-                <strong>Berkshire Hathaway HomeServices</strong> compares $385K
+                <strong>Dr. Jan Duffy</strong> compares $385K
                 median listings, named campuses, and commute minutes on this
                 north clock.
               </p>
@@ -129,13 +129,13 @@ export default function NorthLasVegasPage() {
               </p>
               <p>
                 <strong>
-                  Berkshire Hathaway HomeServices Nevada Properties
+                  Dr. Jan Duffy
                 </strong>{" "}
                 provides the same expert service in North Las Vegas as we do in
                 the valley's luxury markets. Dr. Jan Duffy helps compare square
                 footage, named campuses, and financing files on this north
                 clock. For new construction—where builders' sales agents
-                represent the builder, not you—BHHS provides free buyer
+                represent the builder, not you—Dr. Jan Duffy provides free buyer
                 representation that can save thousands in upgrades and
                 negotiations.
               </p>
@@ -163,13 +163,13 @@ export default function NorthLasVegasPage() {
                 opportunities here, with rental yields often exceeding 6%.
               </p>
               <p>
-                Working with <strong>Berkshire Hathaway HomeServices</strong> in
+                Working with <strong>Dr. Jan Duffy</strong> in
                 North Las Vegas means getting honest guidance about which
                 neighborhoods offer the best value, which builders have the best
                 reputations, and which areas are poised for the strongest
                 appreciation. Dr. Jan Duffy won't push you toward a more
                 expensive area when North Las Vegas fits your needs—that
-                integrity is what sets BHHS apart from agencies focused solely
+                integrity is what sets this desk apart from agencies focused solely
                 on commission.
               </p>
             </div>

@@ -5,7 +5,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { Menu, X, Phone, ChevronDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { ctaPhone, nap } from "@/lib/contact";
+import { ctaPhone } from "@/lib/contact";
 import { photos } from "@/lib/media";
 import LocalTrustBar from "@/components/layouts/LocalTrustBar";
 
@@ -102,7 +102,7 @@ export default function Navbar({ brand = "brokerage" }: NavbarProps) {
             href="/"
             className="flex items-center gap-3 min-w-0 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-2 rounded-md"
             aria-label={
-              riverwalk ? "Riverwalk Ranch Homes home" : `${nap.brokerage} home`
+              riverwalk ? "Riverwalk Ranch Homes home" : "Dr. Jan Duffy home"
             }
           >
             <Image
@@ -126,11 +126,10 @@ export default function Navbar({ brand = "brokerage" }: NavbarProps) {
             ) : (
               <>
                 <span className="text-lg md:text-xl lg:text-2xl font-bold text-slate-900 hover:text-blue-600 transition-colors leading-tight truncate">
-                  Berkshire Hathaway
-                  <span className="text-blue-600"> HomeServices</span>
+                  Dr. Jan Duffy
                 </span>
                 <span className="text-xs text-slate-500 hidden sm:block">
-                  Nevada Properties · Dr. Jan Duffy
+                  Las Vegas REALTOR®
                 </span>
               </>
             )}

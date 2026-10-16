@@ -101,7 +101,7 @@ export default function BuyersPage() {
           {/* Hero */}
           <div className="max-w-4xl mx-auto text-center mb-16">
             <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
+              Dr. Jan Duffy
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
               Buy Your Las Vegas Home with Confidence
@@ -109,8 +109,8 @@ export default function BuyersPage() {
             <HeadingPhoto path="/buyers" />
 
             <p className="text-xl text-slate-600 mb-8">
-              When you work with a{" "}
-              <strong>Berkshire Hathaway HomeServices</strong> buyer's agent,
+              When you work with{" "}
+              <strong>Dr. Jan Duffy</strong>,
               the seller-paid buyer-broker fee is explained at Suite 100 — and
               it costs you nothing at the closing table. The representation is
               yours.
@@ -147,7 +147,7 @@ export default function BuyersPage() {
                 <p className="text-slate-300 mb-6">
                   Buyer representation is explained at Suite 100. The seller
                   typically pays the buyer-broker fee, and the agency file is
-                  yours. <strong>Berkshire Hathaway HomeServices</strong> agents
+                  yours. Dr. Jan Duffy
                   write offers, inspections, and occupancy dates for the buyer —
                   not the listing agent. Call (702) 222-1964.
                 </p>
@@ -296,7 +296,7 @@ export default function BuyersPage() {
           <SectionPresence />
           </section>
 
-          {/* Why BHHS */}
+          {/* Why office */}
           <section className="mb-16 max-w-5xl mx-auto">
             <h2 className="scroll-mt-32 text-3xl font-bold text-slate-900 mb-4 text-center">
               Buyer-agency paperwork at Suite 100 before any model row
@@ -315,7 +315,7 @@ export default function BuyersPage() {
                   Buyer-agency form at the desk
                 </h3>
                 <p className="text-slate-600 text-sm">
-                  BHHS Nevada Properties is on the form. We do not walk models
+                  The buyer-agency form is signed at the desk. We do not walk models
                   unregistered.
                 </p>
               </div>
@@ -327,7 +327,7 @@ export default function BuyersPage() {
                   California-to-Nevada referral desk
                 </h3>
                 <p className="text-slate-600 text-sm">
-                  50,000+ BHHS agents for a West Coast sale timed against a Las
+                  50,000+ agents for a West Coast sale timed against a Las
                   Vegas purchase
                 </p>
               </div>
@@ -372,7 +372,7 @@ export default function BuyersPage() {
             <p className="text-xl text-slate-300 mb-8">
               Questions about buying in Las Vegas? Call or text Dr. Jan Duffy
               for a free buyer consultation. Get expert guidance backed by
-              Berkshire Hathaway HomeServices—the seller pays the commission, so
+              Dr. Jan Duffy—the seller pays the commission, so
               representation is free for you.
             </p>
             <CtaActions variant="onDark" />

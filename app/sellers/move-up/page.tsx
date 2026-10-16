@@ -193,7 +193,7 @@ export default function MoveUpSellerPage() {
                 The biggest concern move-up buyers have is timing. What happens
                 if you sell before finding your next home? What if you find your
                 dream home but can't sell in time?
-                <strong> Berkshire Hathaway HomeServices</strong> agents like
+                Dr. Jan Duffy like
                 Dr. Jan Duffy have strategies for every scenario, ensuring you
                 never end up homeless or paying two mortgages unnecessarily.
               </p>

@@ -31,7 +31,7 @@ const faqs = [
   {
     question: "Who is the brokerage?",
     answer:
-      "The brokerage is Berkshire Hathaway HomeServices Nevada Properties. License S.0197614.LLC.",
+      "The brokerage name is in the footer. License S.0197614.LLC.",
   },
 ];
 
