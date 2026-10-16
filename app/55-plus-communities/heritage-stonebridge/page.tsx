@@ -28,7 +28,7 @@ import SectionPresence from "@/components/sections/SectionPresence";
 export const metadata: Metadata = pageMetadata({
   path: "/55-plus-communities/heritage-stonebridge",
   title:
-    "Heritage at Stonebridge Homes for Sale | Guard-Gated 55+ Summerlin | Dr. Jan Duffy",
+    "Heritage at Stonebridge 55+ Homes | Summerlin | Dr. Jan Duffy",
   description:
     "Heritage at Stonebridge - boutique guard-gated 55+ community in Summerlin. Homes from $400K-$750K. Near Downtown Summerlin, Red Rock Canyon. Dr. Jan Duffy, BHHS. Call (702) 222-1964.",
   keywords: [

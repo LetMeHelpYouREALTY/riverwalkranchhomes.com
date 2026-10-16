@@ -12,7 +12,7 @@ export const RIVERWALK_AS_OF = "October 16, 2026";
 export const RIVERWALK_BRAND = "Riverwalk Ranch Homes";
 
 export const RIVERWALK_DESCRIPTION =
-  "Riverwalk Ranch Homes in North Las Vegas, ZIP 89031. Five sections, from D.R. Horton single-family plans to High Noon townhomes. Dr. Jan Duffy, REALTOR® S.0197614.LLC. Call (702) 222-1964.";
+  "Riverwalk Ranch Homes are located in North Las Vegas, ZIP 89031. The development includes five sections, ranging from D.R. Horton single-family plans to High Noon townhomes. Dr. Jan Duffy, REALTOR® S.0197614.LLC. Call (702) 222-1964.";
 
 export const riverwalkKeywords = [
   "Riverwalk Ranch Homes",
@@ -84,10 +84,10 @@ export const riverwalkSections: RiverwalkSection[] = [
     name: "Riverwalk Ranch Estates",
     kind: "Single-story single-family",
     summary:
-      "D.R. Horton single-story plans, about 2,550 to 3,000 square feet, with 3-car garages.",
+      "D.R. Horton offers single-story plans ranging from about 2,550 to 3,000 square feet and include 3-car garages.",
     facts: [
       "Single-story single-family homes",
-      "Floor plans about 2,550 to 3,000 sq ft",
+      "Floor plans range from about 2,550 to 3,000 square feet.",
       "3-car garages",
       "Built by D.R. Horton",
     ],
@@ -98,13 +98,13 @@ export const riverwalkSections: RiverwalkSection[] = [
     name: "Riverwalk Ranch Manor & Estates",
     kind: "Gated single-family",
     summary:
-      "Gated mix of single-story and two-story homes. Plans are typically 4 bedrooms, from 1,975 to over 2,800 square feet.",
+      "The gated community includes a mix of single-story and two-story homes. Plans typically feature 4 bedrooms and range from 1,975 to over 2,800 square feet.",
     facts: [
       "Gated section",
       "Single-story and two-story homes",
       "Typically 4 bedrooms",
-      "About 1,975 to 2,800+ sq ft",
-      "Asking range generally $489,900 to $649,000",
+      "Homes range from 1,975 to over 2,800 square feet.",
+      "The asking price ranges from $489,900 to $649,000.",
     ],
   },
   {
@@ -113,11 +113,11 @@ export const riverwalkSections: RiverwalkSection[] = [
     name: "Riverwalk Ranch Crossing",
     kind: "Gated single-family",
     summary:
-      "Gated two-story homes, a community park, a playground, and walking paths. About 110 to 150 homes. HOA dues average about $120 a month.",
+      "The development includes gated two-story homes, a community park, a playground, and walking paths. It contains about 110 to 150 homes. HOA dues average about $120 a month.",
     facts: [
       "Gated section",
       "Two-story layouts",
-      "Community park, playground, and walking paths",
+      "The community offers a park, a playground, and walking paths.",
       "About 110 to 150 homes",
       "HOA dues average about $120 a month",
     ],
@@ -128,12 +128,12 @@ export const riverwalkSections: RiverwalkSection[] = [
     name: "Riverwalk Ranch High Noon",
     kind: "Townhomes and condos",
     summary:
-      "Multi-level townhomes and condos at 6111 Towboat St, North Las Vegas, NV 89031. About 120 to 180 attached units. Active listings typically ask $295,000 to $330,000.",
+      "Multi-level townhomes and condos are located at 6111 Towboat St, North Las Vegas, NV 89031. There are about 120 to 180 attached units. Active listings typically ask $295,000 to $330,000.",
     facts: [
       "6111 Towboat St, North Las Vegas, NV 89031",
       "Multi-level townhomes and condos",
       "About 120 to 180 attached units",
-      "Active listings typically $295,000 to $330,000",
+      "Active listings typically range from $295,000 to $330,000",
     ],
   },
   {
@@ -142,7 +142,7 @@ export const riverwalkSections: RiverwalkSection[] = [
     name: "Riverwalk Ranch Cove",
     kind: "Single-family",
     summary:
-      "Another D.R. Horton single-family section in the 89031 area. It sits in the remainder of the master plan, outside the Crossing and High Noon counts.",
+      "This is another D.R. Horton single-family section in the 89031 area. It sits in the remainder of the master plan, outside the Crossing and High Noon counts.",
     facts: [
       "D.R. Horton homes",
       "ZIP 89031",
@@ -167,12 +167,12 @@ export const riverwalkFaqs = [
   {
     question: "How many homes are in Riverwalk Ranch?",
     answer:
-      "Riverwalk Ranch is not published as one aggregated unit count. Parcel mapping for this 89031 corridor estimates about 500 to 700 homes across every section. Crossing is about 110 to 150 single-family homes. High Noon is about 120 to 180 attached units. Estates, Manor, and Cove make up the remaining single-family sections.",
+      "Riverwalk Ranch does not have a single aggregated unit count. Parcel mapping for the 89031 corridor estimates 500 to 700 homes across all sections. Crossing includes about 110 to 150 single-family homes. High Noon includes about 120 to 180 attached units. Estates, Manor, and Cove comprise the remaining single-family sections.",
   },
   {
     question: "Where is Riverwalk Ranch High Noon?",
     answer:
-      "Riverwalk Ranch High Noon is the townhome and condo section at 6111 Towboat St, North Las Vegas, NV 89031. The wider community is in ZIP 89031, near Decatur Boulevard and the 215.",
+      "Riverwalk Ranch High Noon is the townhome and condo section located at 6111 Towboat St, North Las Vegas, NV 89031. The community is in ZIP 89031 near Decatur Boulevard and the 215.",
   },
   {
     question: "What do Riverwalk Ranch homes cost?",
@@ -182,7 +182,7 @@ export const riverwalkFaqs = [
   {
     question: "What are the HOA dues?",
     answer:
-      "Crossing HOA dues average about $120 a month. That figure is not the High Noon dues. The June 19, 2026 listing at 6041 Towboat St, Unit 102, showed association dues of $221 a month. Confirm the section before you budget dues.",
+      "Crossing HOA dues average about $120 a month. That figure is not the High Noon dues. The June 19, 2026 listing at 6041 Towboat St, Unit 102, showed association dues of $221 a month. Confirm the section before budgeting dues.",
   },
   {
     question: "When was Riverwalk Ranch built?",

@@ -14,7 +14,7 @@ import SectionPresence from "@/components/sections/SectionPresence";
 export const metadata: Metadata = pageMetadata({
   path: "/market-insights",
   title:
-    "Las Vegas Real Estate Market Insights 2026 | Berkshire Hathaway HomeServices",
+    "Las Vegas Market Insights 2026 | Berkshire Hathaway HomeServices",
   description:
     "Technology trends, economic forecasts, and market analysis shaping Las Vegas real estate in 2026. AI, data centers, California migration, and what it means for buyers and sellers. Call (702) 222-1964.",
   keywords: [
@@ -30,16 +30,16 @@ export const metadata: Metadata = pageMetadata({
 const reportSchema = {
   "@context": "https://schema.org",
   "@type": "Report",
-  name: "Las Vegas Real Estate Market Insights 2026",
+  name: "2026 Las Vegas Real Estate Market Overview",
   author: {
     "@type": "RealEstateAgent",
-    name: "Dr. Jan Duffy",
-    worksFor: "Berkshire Hathaway HomeServices Nevada Properties",
+    name: "About Dr. Jan Duffy",
+    worksFor: "Brokerage: Berkshire Hathaway HomeServices Nevada Properties",
   },
   datePublished: "2026-01-23",
   about: {
     "@type": "Place",
-    name: "Las Vegas, Nevada",
+    name: "Location: Las Vegas, Nevada",
   },
 };
 

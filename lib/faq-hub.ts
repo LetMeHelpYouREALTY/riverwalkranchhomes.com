@@ -22,7 +22,7 @@ export type FaqHubCategory = {
 export const faqHubCategories: FaqHubCategory[] = [
   {
     id: "bhhs",
-    h2: "BHHS Nevada Properties at Suite 100 — not a national slogan",
+    h2: "What is BHHS Nevada Properties at Suite 100",
     items: [
       {
         q: "Where do I see local BHHS samples before I pick an agent?",
@@ -59,7 +59,7 @@ export const faqHubCategories: FaqHubCategory[] = [
         a: "FHA 3.5%, conventional typically 3–20%, VA 0% for eligible veterans. Nevada assistance exists for qualified first-time buyers — confirm current program amounts with the lender. Not a live quote.",
       },
       {
-        q: "Do I register Dr. Jan before walking a builder model?",
+        q: "Do I need to register with Dr. Jan before touring a builder model",
         a: "Yes. Most Las Vegas and Henderson builders require your agent on the first visit. Start at Suite 100, then the model row. Call (702) 222-1964.",
       },
     ],
@@ -92,7 +92,7 @@ export const faqHubCategories: FaqHubCategory[] = [
     items: [
       {
         q: "Where are rent comps and HOA rental caps reviewed?",
-        a: "At Suite 100 before you fly in. HOA rental caps kill deals. Then we tour North Las Vegas, Henderson, or southwest ZIP clusters. Call (702) 222-1964.",
+        a: "Register at Suite 100 before you fly in. HOA rental caps kill deals. Then we tour North Las Vegas, Henderson, or southwest ZIP clusters. Call (702) 222-1964.",
       },
       {
         q: "What cash-on-cash range did this hub last publish?",
@@ -106,7 +106,7 @@ export const faqHubCategories: FaqHubCategory[] = [
   },
   {
     id: "relocating",
-    h2: "Three-day inbound itinerary questions — Summerlin, then Henderson",
+    h2: "Three-day itinerary questions for Summerlin and Henderson",
     items: [
       {
         q: "Can BHHS coordinate the origin-city sale with this office?",
@@ -114,7 +114,7 @@ export const faqHubCategories: FaqHubCategory[] = [
       },
       {
         q: "Which named campuses do we time on Day 1 vs Day 2?",
-        a: "Day 1 Summerlin: Palo Verde High School commute checks. Day 2 Henderson: Coronado High School or Green Valley High School by street. Confirm the listing address at ccsd.net/zoning. No ratings.",
+        a: "Day 1 in Summerlin checks commute to Palo Verde High School. Day 2 in Henderson checks commute to Coronado High School or Green Valley High School by street. Verify the listing address at ccsd.net/zoning. No ratings.",
       },
       {
         q: "What Nevada vs California cost facts did this hub last publish?",
@@ -124,15 +124,15 @@ export const faqHubCategories: FaqHubCategory[] = [
   },
   {
     id: "working",
-    h2: "How to reach Dr. Jan Duffy from this pin — working-with FAQ",
+    h2: "How to reach Dr. Jan Duffy",
     items: [
       {
         q: "What license and brokerage should match GBP?",
-        a: "Dr. Jan Duffy, license S.0197614.LLC, Berkshire Hathaway HomeServices Nevada Properties. Never Janet as the agent name.",
+        a: "Dr. Jan Duffy holds license S.0197614.LLC with Berkshire Hathaway HomeServices Nevada Properties.",
       },
       {
-        q: "Which number do I call vs the office/GBP line?",
-        a: "Client CTA is (702) 222-1964. Office/GBP is (702) 500-1942. Email DrDuffySells@RiverwalkRanchHomes.com. Address: 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
+        q: "Which number to call versus office line",
+        a: "Client phone is (702) 222-1964. Office phone is (702) 500-1942. Email is DrDuffySells@RiverwalkRanchHomes.com. Address is 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
       },
       {
         q: "What closed-volume snapshot did this hub last publish?",

@@ -21,7 +21,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/neighborhoods/skye-canyon",
   title: "Berkshire Hathaway HomeServices Skye Canyon | Northwest Las Vegas",
   description:
-    "Find Skye Canyon homes with Berkshire Hathaway HomeServices Nevada Properties. Register at Suite 100 before any northwest builder row. January 2026 median $550K. Call (702) 222-1964.",
+    "Skye Canyon homes are listed with Berkshire Hathaway HomeServices Nevada Properties. Register at Suite 100 before any northwest builder row. The median price in January 2026 is $550K. Call (702) 222-1964.",
   keywords: [
     "Berkshire Hathaway HomeServices Skye Canyon",
     "Skye Canyon homes for sale",

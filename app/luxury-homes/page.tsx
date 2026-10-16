@@ -17,7 +17,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/luxury-homes",
   title: "Las Vegas Luxury Homes for Sale | Berkshire Hathaway HomeServices",
   description:
-    "Discover Las Vegas luxury real estate with Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties. The Ridges, MacDonald Highlands, Summerlin, Southern Highlands. $1M+ homes. Call (702) 222-1964.",
+    "Dr. Jan Duffy offers Las Vegas luxury real estate. The Ridges, MacDonald Highlands, Summerlin, Southern Highlands are featured. Homes start at $1M. Call (702) 222-1964.",
   keywords: [
     "Las Vegas luxury homes",
     "The Ridges Las Vegas",
@@ -33,13 +33,13 @@ export const metadata: Metadata = pageMetadata({
 const luxurySchema = {
   "@context": "https://schema.org",
   "@type": "Service",
-  name: "Las Vegas Luxury Home Services",
+  name: "Luxury Home Services in Las Vegas",
   provider: {
     "@type": "RealEstateAgent",
-    name: "Dr. Jan Duffy - Berkshire Hathaway HomeServices Nevada Properties",
+    name: "Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties",
     telephone: "+17025001942",
   },
-  areaServed: "Las Vegas, Henderson, Summerlin luxury communities",
+  areaServed: "Luxury communities include Las Vegas, Henderson, and Summerlin.",
   serviceType: "Luxury Real Estate",
   priceRange: "$1,000,000+",
 };
@@ -50,7 +50,7 @@ const luxuryNeighborhoods = [
     location: "Summerlin",
     priceRange: "$2M - $15M+",
     description:
-      "Guard-gated Summerlin ridge lots, Bear's Best Golf Club, and custom estates. January 2026 median $2.5M. Gate lists from Suite 100.",
+      "Guard-gated ridge lots are available in Summerlin. Bear's Best Golf Club and custom estates are also featured. January 2026 median $2.5M. Gate lists from Suite 100.",
     features: [
       "Guard-gated",
       "Custom estates",
@@ -61,9 +61,9 @@ const luxuryNeighborhoods = [
   {
     name: "MacDonald Highlands",
     location: "Henderson",
-    priceRange: "$1.5M - $10M+",
+    priceRange: "Price Range $1.5M to $10M+",
     description:
-      "Hillside Henderson lots, Dragon Ridge Country Club, and Strip-view streets. $1.5M–$10M+ published band. 25–35 minutes from Suite 100.",
+      "Hillside Henderson lots, Dragon Ridge Country Club, and Strip-view streets are in the vicinity. The published price band is $1.5M–$10M+. Travel time is 25–35 minutes from Suite 100.",
     features: [
       "Hillside location",
       "Strip views",
@@ -74,7 +74,7 @@ const luxuryNeighborhoods = [
   {
     name: "Southern Highlands",
     location: "Las Vegas",
-    priceRange: "$800K - $5M+",
+    priceRange: "Price range $800K - $5M+",
     description:
       "Guard-gated luxury community featuring championship golf, stunning mountain views, and resort-style living. Multiple neighborhoods within the community.",
     features: [
@@ -89,7 +89,7 @@ const luxuryNeighborhoods = [
     location: "Summerlin",
     priceRange: "$3M - $20M+",
     description:
-      "Tom Fazio golf, 250 homesites, membership by invitation. $3M–$20M+ published band. Gate lists confirmed at Suite 100.",
+      "Tom Fazio golf, 250 homesites, and membership by invitation define the community. The published price band is $3M–$20M+. Gate lists are confirmed at Suite 100.",
     features: [
       "Private golf",
       "250 homesites",
@@ -113,7 +113,7 @@ const luxuryNeighborhoods = [
   {
     name: "Lake Las Vegas",
     location: "Henderson",
-    priceRange: "$800K - $8M+",
+    priceRange: "Price range $800K - $8M+",
     description:
       "Resort-style living on a 320-acre private lake with Mediterranean-inspired architecture. Golf, water sports, and a European village atmosphere.",
     features: [

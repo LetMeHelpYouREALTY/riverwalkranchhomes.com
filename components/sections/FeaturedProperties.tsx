@@ -75,7 +75,7 @@ const properties: Property[] = [
     id: 2,
     name: "Henderson parks and trails",
     location: "Henderson, NV",
-    price: "From $485K median",
+    price: "Median price from $485K",
     image: "/images/neighborhoods/henderson-parks.jpg",
     bedrooms: 3,
     bathrooms: 2,
@@ -83,7 +83,7 @@ const properties: Property[] = [
   },
   {
     id: 3,
-    name: "Green Valley mature-tree streets",
+    name: "Green Valley mature tree streets",
     location: "Green Valley, Henderson, NV",
     price: "From $520K median",
     image: "/images/neighborhoods/green-valley-mature-trees.jpg",

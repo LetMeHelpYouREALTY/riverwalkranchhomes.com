@@ -25,7 +25,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/sellers/relocation",
   title: "Relocation Home Sales Las Vegas | Berkshire Hathaway HomeServices",
   description:
-    "Leaving Las Vegas for a new opportunity? Dr. Jan Duffy helps relocating homeowners sell fast and coordinates with BHHS offices nationwide. Call (702) 222-1964.",
+    "Dr. Jan Duffy assists relocating homeowners in Las Vegas to sell quickly. He coordinates with BHHS offices nationwide. Call (702) 222-1964.",
   keywords: [
     "relocation sale Las Vegas",
     "job relocation Las Vegas",
@@ -321,13 +321,13 @@ export default function RelocationPage() {
                 {
                   city: "Dallas/Fort Worth, TX",
                   insight:
-                    "No state income tax, booming corporate relocation hub. Major employers: AT&T, Toyota, CBRE.",
+                    "Nevada has no state income tax and is a corporate relocation hub. Major employers include AT&T, Toyota, and CBRE.",
                   time: "3-hour flight",
                 },
                 {
                   city: "Los Angeles, CA",
                   insight:
-                    "Entertainment, aerospace, tech. Higher cost but familiar Southwest climate.",
+                    "The area offers entertainment, aerospace, and tech industries. The cost of living is higher, but the climate is the familiar Southwest weather.",
                   time: "4-hour drive",
                 },
                 {
@@ -339,13 +339,13 @@ export default function RelocationPage() {
                 {
                   city: "Austin, TX",
                   insight:
-                    "Tech boom, no state income tax. Tesla, Oracle, Apple campuses.",
+                    "A tech boom and no state income tax attract companies. Tesla, Oracle, and Apple have campuses here.",
                   time: "2.5-hour flight",
                 },
                 {
                   city: "Seattle, WA",
                   insight:
-                    "Amazon, Microsoft, Boeing. Rainy but vibrant tech scene.",
+                    "Amazon, Microsoft, and Boeing are present. The tech scene is vibrant despite rainy weather.",
                   time: "2.5-hour flight",
                 },
               ].map((dest) => (

@@ -73,7 +73,7 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
         a: "No. Sun City Anthem is 30–35 minutes from the Lake Mead Blvd pin. Anthem Center, golf, and upper-elevation streets are one Henderson 55+ block — not mixed with Summerlin 55+ the same morning. Call (702) 222-1964.",
       },
       {
-        q: "What January 2026 price and HOA range was published for Sun City Anthem?",
+        q: "What price and HOA range were published for Sun City Anthem in January 2026?",
         a: "This page last published about $350,000 to $1.2 million. Monthly HOA is about $180–$230 depending on section and home type. Liberty vs Heritage vs Eagle's Landing is a street-level comparison, not a slogan. Confirm live MLS.",
       },
       {
@@ -81,13 +81,13 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
         a: "Anthem Country Club (members-only) and the adjacent Revere Golf Club (public) are the two names we time. Discount and tee-time rules are in the HOA and club packets, not a website average.",
       },
       {
-        q: "What occupancy rule is in the Sun City Anthem HOA packet?",
+        q: "What occupancy rule is included in the Sun City Anthem HOA packet?",
         a: "At least one resident 55 or older per home, with remaining occupancy limits in the HOA docs we review at Suite 100. We do not substitute a marketing line for that packet. Call (702) 222-1964.",
       },
     ],
   },
   "/55-plus-communities/trilogy-summerlin": {
-    h2: "Trilogy clubhouse, spa, and Shea rows — 12–18 minutes from the office",
+    h2: "How far are the Trilogy clubhouse, spa, and Shea rows from the office?",
     items: [
       {
         q: "How far is the Trilogy clubhouse from Suite 100?",
@@ -123,7 +123,7 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
         a: "It is a smaller 55+ campus with a staffed gate and a Summerlin ZIP next to Downtown Summerlin retail — not a four-rec-center mega campus. Age-restriction and guest rules are reviewed at Suite 100.",
       },
       {
-        q: "Is Downtown Summerlin on the same hop as the Heritage gate?",
+        q: "Is Downtown Summerlin on the same route as the Heritage gate?",
         a: "Yes. The staffed gate and Downtown Summerlin shops are a short west-valley hop after the office. That is the comparison if you want 55+ with a gate, not a 7,700-home campus.",
       },
     ],
@@ -144,20 +144,20 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
         a: "About 1,200 homes in Henderson, with a boutique clubhouse, resort pool, and fitness — not a 7,000-home rec campus. That size is the comparison to Sun City Anthem.",
       },
       {
-        q: "Do we tour Solera with Sun City Anthem the same Henderson afternoon?",
+        q: "Can Solera be toured together with Sun City Anthem in the same Henderson afternoon?",
         a: "Only if that is the brief. Solera is toured with nearby Anthem parks as a 30–35 minute block from Suite 100. We do not hopscotch the whole valley. Call (702) 222-1964.",
       },
     ],
   },
   "/55-plus-communities/sun-city-aliante": {
-    h2: "Aliante rec, 18-hole course, Craig Road — a north 55+ FAQ",
+    h2: "What recreational amenities does Aliante offer for north 55+ residents?",
     items: [
       {
-        q: "Is Sun City Aliante sequenced as a north loop from Suite 100?",
-        a: "Yes. Sun City Aliante is 20–25 minutes from 9406 W Lake Mead Blvd. The golf course and rec campus sit next to Aliante retail for a compact north tour. Call (702) 222-1964.",
+        q: "Is Sun City Aliante arranged as a north loop starting from Suite 100?",
+        a: "Yes. Sun City Aliante is 20–25 minutes from 9406 W Lake Mead Blvd. The golf course and recreation campus sit next to Aliante retail. This provides a compact north tour. Call (702) 222-1964.",
       },
       {
-        q: "What January 2026 price and HOA range was published for Sun City Aliante?",
+        q: "What were the January 2026 price and HOA range for Sun City Aliante?",
         a: "Homes typically range from about $280,000 to $550,000 as of January 2026. Monthly HOA is about $140–$175, among the lowest Sun City dues published on this site. Confirm the current packet.",
       },
       {
@@ -171,22 +171,22 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
     ],
   },
   "/55-plus-communities/del-webb-lake-las-vegas": {
-    h2: "Lake-adjacent Del Webb as an east-Henderson half day — not a Summerlin FAQ",
+    h2: "Is the Lake-adjacent Del Webb community an east-Henderson half day?",
     items: [
       {
-        q: "Why is Del Webb at Lake Las Vegas an east-Henderson half day?",
+        q: "Why is Del Webb at Lake Las Vegas considered an east-Henderson half day?",
         a: "It is 35–45 minutes from the office pin. Lake-adjacent plans and Reflection Bay golf are blocked as an east-Henderson half day so you are not mixing Summerlin 55+ into the same morning. Call (702) 222-1964.",
       },
       {
-        q: "What January 2026 price and HOA range was published for Del Webb at Lake Las Vegas?",
+        q: "What were the January 2026 price and HOA range for Del Webb at Lake Las Vegas?",
         a: "Homes typically range from about $400,000 to $900,000 as of January 2026. Monthly HOA is about $200–$280. Dock and golf rules are in the packet reviewed at Suite 100. Confirm live MLS.",
       },
       {
         q: "What do we time before floor plans — shoreline or golf?",
-        a: "Shoreline and golf setting first, then interiors. The longer drive is the trade for water and golf context. Start at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
+        a: "The property offers shoreline and golf views before interior finishes. The longer drive provides water and golf context. Visit at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
       },
       {
-        q: "Do we mix Summerlin 55+ into a Lake Las Vegas morning?",
+        q: "Do Summerlin 55+ communities mix with Lake Las Vegas morning?",
         a: "No. That recrosses the valley. Book Del Webb as its own east-Henderson half day, then a west-valley 55+ afternoon on a different date if you want both.",
       },
     ],

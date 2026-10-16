@@ -19,11 +19,11 @@ export type SupportFaqCopy = {
 
 export const supportFaqs: Record<string, SupportFaqCopy> = {
   "/": {
-    h2: "Desk hours, RealScout, then the first drive — home FAQ",
+    h2: "Desk hours, RealScout, and first drive home FAQ",
     items: [
       {
         q: "Where does a same-day Summerlin-then-Henderson tour actually start?",
-        a: "At 9406 W Lake Mead Blvd, Suite 100. Summerlin first (10–15 minutes), Henderson second (25–35 minutes via I-215 east). Call or text (702) 222-1964. Office/GBP line is (702) 500-1942.",
+        a: "The office is at 9406 W Lake Mead Blvd, Suite 100. Summerlin is 10–15 minutes away. Henderson is 25–35 minutes via I-215 east. Call or text (702) 222-1964. Office line is (702) 500-1942.",
       },
       {
         q: "Is the live MLS search on this homepage or on /listings?",
@@ -31,7 +31,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
       },
       {
         q: "What hours is Suite 100 open for a walk-in?",
-        a: "Monday–Friday 9am–6pm, Saturday 10am–4pm, Sunday by appointment. License S.0197614.LLC. Directions and Google Reviews are in the footer on every page.",
+        a: "Desk hours are Monday–Friday 9am–6pm, Saturday 10am–4pm, Sunday by appointment. License S.0197614.LLC. Directions and Google Reviews are in the footer on every page.",
       },
       {
         q: "Are buyer-broker fees posted as a number on the homepage?",
@@ -44,7 +44,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
     items: [
       {
         q: "Can I walk into Suite 100 without a Calendly hold?",
-        a: "Yes during posted hours: Monday–Friday 9am–6pm, Saturday 10am–4pm, Sunday by appointment. Address is 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Call or text (702) 222-1964 if you are already in the parking lot.",
+        a: "Yes, you can walk in during posted hours. Monday–Friday 9am–6pm, Saturday 10am–4pm, Sunday by appointment. Address is 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Call or text (702) 222-1964 if you are already in the parking lot.",
       },
       {
         q: "What do I bring to a first desk meeting?",
@@ -61,11 +61,11 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
     ],
   },
   "/why-berkshire-hathaway": {
-    h2: "Who photographs, who writes remarks, who answers — BHHS at this desk",
+    h2: "Who handles photography, writes remarks, and answers calls at the BHHS desk?",
     items: [
       {
         q: "Where do I see BHHS listing samples before I sign?",
-        a: "At 9406 W Lake Mead Blvd, Suite 100. Brand questions are answered on-site: referral network, photography samples, and who actually answers the phone. Call (702) 222-1964.",
+        a: "The office is at 9406 W Lake Mead Blvd, Suite 100. Brand questions are answered on-site, including referral network, photography samples, and who answers the phone. Call (702) 222-1964.",
       },
       {
         q: "Is Berkshire Hathaway HomeServices owned by Warren Buffett?",
@@ -82,11 +82,11 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
     ],
   },
   "/listings": {
-    h2: "Save the MLS list here, then sequence the drive from Lake Mead Blvd",
+    h2: "How to save the MLS list and sequence the drive from Lake Mead Blvd",
     items: [
       {
         q: "Is this page the live MLS search or a buyer-process explainer?",
-        a: "Live MLS search. RealScout widgets on this URL use agent ID QWdlbnQtMjI1MDUw. Buyer-process copy lives at /buyers. Filter beds, baths, and square footage, save the list, then call (702) 222-1964.",
+        a: "Live MLS search is available on this page. RealScout widgets on this URL use agent ID QWdlbnQtMjI1MDUw. Buyer-process copy lives at /buyers. Filter beds, baths, and square footage, save the list, then call (702) 222-1964.",
       },
       {
         q: "What inventory snapshot did this page last publish for January 2026?",
@@ -94,7 +94,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
       },
       {
         q: "How do we sequence Summerlin vs Henderson after I save results?",
-        a: "Summerlin first (10–15 minutes from Suite 100), Henderson second (25–35 minutes via I-215 east). We will not tour 12 ZIPs in one day. Named campuses we time by street: Palo Verde High School, Coronado High School. No ratings. Call (702) 222-1964.",
+        a: "Summerlin is visited first, followed by Henderson. Summerlin first (10–15 minutes from Suite 100), Henderson second (25–35 minutes via I-215 east). We will not tour 12 ZIPs in one day. Named campuses we time by street: Palo Verde High School, Coronado High School. No ratings. Call (702) 222-1964.",
       },
       {
         q: "Where are HOA dues checked before I write an offer from this search?",
@@ -107,7 +107,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
     items: [
       {
         q: "Which phone number matches Google Business vs the client CTA?",
-        a: "Office/GBP line is (702) 500-1942. Client CTA on this site is (702) 222-1964. Address is 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Hours: Monday–Friday 9am–6pm, Saturday 10am–4pm, Sunday by appointment.",
+        a: "The office phone is (702) 500-1942. Client CTA on this site is (702) 222-1964. Address is 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Hours: Monday–Friday 9am–6pm, Saturday 10am–4pm, Sunday by appointment.",
       },
       {
         q: "How do I leave a Google review that actually helps the Maps listing?",
@@ -124,11 +124,11 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
     ],
   },
   "/market-report": {
-    h2: "January 2026 snapshot vs a CMA on your APN — report FAQ",
+    h2: "What is the January 2026 snapshot versus a CMA on your APN?",
     items: [
       {
         q: "Is the dark stats band a live quote for my address?",
-        a: "No. Bring the APN to 9406 W Lake Mead Blvd, Suite 100. The report is a January 2026 snapshot. The decision needs your address. Call (702) 222-1964.",
+        a: "The report is a January 2026 snapshot, not a CMA. Bring the APN to 9406 W Lake Mead Blvd, Suite 100. The decision needs your address. Call (702) 222-1964.",
       },
       {
         q: "What median and YoY figures did this report last publish?",
@@ -161,16 +161,16 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
       },
       {
         q: "How do I get a ZIP-level read instead of the valley average?",
-        a: "Book the desk or call (702) 222-1964. We map commute minutes, HOA dues, and recent comps for the villages you name — Palo Verde High School vs Coronado High School by street, not ratings.",
+        a: "Equity does not stretch the same in every Las Vegas ZIP. Book the desk or call (702) 222-1964. We map commute minutes, HOA dues, and recent comps for the villages you name — Palo Verde High School vs Coronado High School by street, not ratings.",
       },
     ],
   },
   "/market-update": {
-    h2: "This week's MLS print vs your APN — weekly-update FAQ",
+    h2: "What is this week's MLS print versus your APN?",
     items: [
       {
         q: "What week does this update cover, and where do I get same-week comps?",
-        a: "This update covers the week of January 20, 2026. Call (702) 222-1964 for same-week comps in your ZIP. Desk: 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
+        a: "The update covers the week of January 20, 2026. Call (702) 222-1964 for same-week comps in your ZIP. Desk: 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
       },
       {
         q: "What valley print did that week last publish?",

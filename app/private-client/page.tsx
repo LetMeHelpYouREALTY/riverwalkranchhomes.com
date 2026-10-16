@@ -9,7 +9,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/private-client",
   title: "Private Client Real Estate Las Vegas | Dr. Jan Duffy",
   description:
-    "Private client representation in Las Vegas, Henderson, and Summerlin with Dr. Jan Duffy, REALTOR® S.0197614.LLC, Berkshire Hathaway HomeServices Nevada Properties. Call (702) 222-1964.",
+    "Dr. Jan Duffy, REALTOR® S.0197614.LLC, Berkshire Hathaway HomeServices Nevada Properties, provides private client representation in Las Vegas, Henderson, and Summerlin. Call (702) 222-1964.",
   keywords: [
     "private client realtor Las Vegas",
     "luxury real estate agent Las Vegas",
@@ -22,7 +22,7 @@ const faqs = [
   {
     question: "Who is the private client contact?",
     answer:
-      "Dr. Jan Duffy, REALTOR®, license S.0197614.LLC, at Berkshire Hathaway HomeServices Nevada Properties. Call or text (702) 222-1964. The office is 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
+      "Dr. Jan Duffy, REALTOR®, license S.0197614.LLC, works at Berkshire Hathaway HomeServices Nevada Properties. Call or text (702) 222-1964. The office is 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
   },
   {
     question: "What does a private client appointment cover?",
@@ -32,7 +32,7 @@ const faqs = [
   {
     question: "Which areas does this desk cover?",
     answer:
-      "Las Vegas, Henderson, Summerlin, and North Las Vegas, including Riverwalk Ranch in ZIP 89031. See the service areas page for the list.",
+      "Service areas include Las Vegas, Henderson, Summerlin, and North Las Vegas, with Riverwalk Ranch in ZIP 89031. See the service areas page for the list.",
   },
 ];
 
@@ -40,8 +40,8 @@ export default function PrivateClientPage() {
   return (
     <GuidePage
       eyebrow="Las Vegas · Henderson · Summerlin"
-      title="Private client real estate with Dr. Jan Duffy"
-      lede="One agent, one office pin, and a showing calendar. Berkshire Hathaway HomeServices Nevada Properties at Suite 100."
+      title="Private client real estate with Dr. Jan Duffy."
+      lede="One agent provides a single office pin and a showing calendar. Berkshire Hathaway HomeServices Nevada Properties at Suite 100."
       faqs={faqs}
     >
       <section className="mx-auto my-16 max-w-3xl">

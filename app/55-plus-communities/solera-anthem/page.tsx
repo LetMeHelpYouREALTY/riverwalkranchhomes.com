@@ -28,7 +28,7 @@ import SectionPresence from "@/components/sections/SectionPresence";
 export const metadata: Metadata = pageMetadata({
   path: "/55-plus-communities/solera-anthem",
   title:
-    "Solera at Anthem Homes for Sale | Intimate Guard-Gated 55+ Henderson | Dr. Jan Duffy",
+    "Solera at Anthem | Guard-Gated 55+ Henderson | Dr. Jan Duffy",
   description:
     "Solera at Anthem - guard-gated 55+ community in Henderson with about 1,200 homes. Homes from $380K-$650K. Lower HOA fees, staffed gate. Dr. Jan Duffy, BHHS. Call (702) 222-1964.",
   keywords: [

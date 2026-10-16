@@ -26,21 +26,21 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
         note: "Howard Hughes villages share the trail spine. We walk one park and one trailhead the same afternoon as The Trails or Pueblo — typically 10–15 minutes from 9406 W Lake Mead Blvd.",
       },
       {
-        name: "Nine golf campuses including Red Rock Country Club",
+        name: "Golf campuses that include Red Rock Country Club",
         note: "Public and private courses sit on the same west clock as Downtown Summerlin. Call (702) 222-1964 to sequence golf streets vs interior lots.",
       },
     ],
   },
   "/neighborhoods/the-ridges": {
     h3: "Six Ridges villages and about 900 home sites — names before the gate",
-    body: "The Ridges is nearly 800 acres above Red Rock Country Club. Gate lists are confirmed at Suite 100. Village names on the showing sheet are Bear's Best, Falcon Ridge, Azure, Talon Ridge, Silver Ridge, and Eagle Hills.",
+    body: "The Ridges covers nearly 800 acres above Red Rock Country Club. Gate lists are confirmed at Suite 100. Village names on the showing sheet are Bear's Best, Falcon Ridge, Azure, Talon Ridge, Silver Ridge, and Eagle Hills.",
     pins: [
       {
         name: "About 900 custom home sites",
         note: "Typical list prices exceed $2 million. Photography and access are scheduled from 9406 W Lake Mead Blvd, Suite 100 — usually 15–20 minutes to the guardhouse.",
       },
       {
-        name: "Bear's Best Golf Club inside the plat",
+        name: "Bear's Best Golf Club location within the plat",
         note: "Jack Nicklaus tribute holes wind through the villages. We time the club campus before any public-mall stop. Call (702) 222-1964 for a private gate window.",
       },
     ],
@@ -50,7 +50,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
     body: "This is an I-15 south block, 25–35 minutes from Suite 100. We do not mix it with a Summerlin village day. Fairway lots and ridge-top streets are two different showing clocks on the same plat.",
     pins: [
       {
-        name: "Robert Trent Jones Jr. course and 35,000 sq ft clubhouse",
+        name: "Robert Trent Jones Jr. designed course with 35,000 sq ft clubhouse",
         note: "Golf-course streets are sequenced first when the brief includes membership questions. HOA dues and golf rules are reviewed at the desk before we drive.",
       },
       {
@@ -60,7 +60,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
     ],
   },
   "/neighborhoods/skye-canyon": {
-    h3: "Model rows vs adjacent resales — Skye Canyon inventory that is not Centennial Hills",
+    h3: "Model rows compared to adjacent resales in Skye Canyon that are not in Centennial Hills",
     body: "Northwest afternoon, 20–25 minutes via the 215. Builder registration happens at Suite 100 first. New rows and resale streets sit next to the 15-acre Skye Center — we walk both so vintage vs new stucco is obvious.",
     pins: [
       {
@@ -68,7 +68,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
         note: "Register Dr. Jan as buyer agent before the first model visit. Plans and lot premiums change by phase; we pull the current sheet at 9406 W Lake Mead Blvd.",
       },
       {
-        name: "Resales next to Floyd Lamb Park",
+        name: "Resales located next to Floyd Lamb Park",
         note: "About 680 acres of park sit immediately west. Compare shade and trail access against new-construction streets. Call (702) 222-1964.",
       },
     ],
@@ -82,7 +82,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
         note: "Median often cited near $398,000–$495,000 depending on vintage and lot (January 2026 figures on this page). Measure mountain-view lots near Centennial Hills Park in person.",
       },
       {
-        name: "Centennial Center on the Durango cluster",
+        name: "Centennial Center within the Durango cluster",
         note: "Target, Costco, and theatres without a Summerlin hopscotch. Call (702) 222-1964 to time Arbor View High School by address after the park loop.",
       },
     ],
@@ -97,20 +97,20 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
       },
       {
         name: "Golf-course HOAs on the same Henderson clock",
-        note: "Green Valley High School and Coronado High School are named campuses by street. Call (702) 222-1964. Do not add Downtown Summerlin on this afternoon.",
+        note: "Green Valley High School and Coronado High School locations. Call (702) 222-1964.",
       },
     ],
   },
   "/neighborhoods/henderson": {
-    h3: "Water Street civic row vs MacDonald Highlands custom lots — two Henderson scales",
+    h3: "Water Street civic row compared with MacDonald Highlands custom lots in Henderson",
     body: "Henderson is Nevada's second-largest city, 25–35 minutes from Suite 100. We pick two contrasting villages on the first east day so you are not listing every mall. 60+ city parks sit under the civic layer.",
     pins: [
       {
-        name: "Water Street District",
+        name: "Water Street District details",
         note: "Downtown Henderson civic and dining row. Pair with Green Valley or Inspirada — not both plus Lake Las Vegas — on the first east afternoon.",
       },
       {
-        name: "MacDonald Highlands and Lake Las Vegas",
+        name: "MacDonald Highlands and Lake Las Vegas locations",
         note: "Custom lots and shoreline product are a second Henderson clock. Call (702) 222-1964 with the commute target (Strip, Harry Reid International, or a named campus).",
       },
     ],
@@ -130,7 +130,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
     ],
   },
   "/neighborhoods/north-las-vegas": {
-    h3: "$320,000s entry product vs Aliante golf lots — two North Las Vegas price bands",
+    h3: "$320,000s entry product compared with Aliante golf lots in North Las Vegas price bands",
     body: "North Las Vegas is 20–25 minutes via US-95 / I-15. This is not a Summerlin retail swap. Entry product and Aliante golf-adjacent lots are two different showing clocks.",
     pins: [
       {
@@ -144,15 +144,15 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
     ],
   },
   "/neighborhoods/mountains-edge": {
-    h3: "Blue Diamond access and Rhodes Ranch golf — Mountains Edge pins that are not the summit trail",
+    h3: "Blue Diamond access and Rhodes Ranch golf near Mountains Edge",
     body: "Southwest loop, 20–30 minutes via the Beltway from the GBP pin. Exploration Peak acreage is covered in the parks section. Here we pin freeway access and nearby golf so the plat is not one park caption.",
     pins: [
       {
-        name: "I-15 / Blue Diamond commute pin",
+        name: "I-15 and Blue Diamond commute route",
         note: "Strip about 15–20 minutes, Harry Reid International about 20 minutes from many streets. Timed from Suite 100 the week you tour.",
       },
       {
-        name: "Rhodes Ranch Golf Club nearby",
+        name: "Rhodes Ranch Golf Club proximity",
         note: "Public golf adjacent to the southwest plat. Southern Highlands Golf Club is a separate I-15 add-on, not the same stop. Call (702) 222-1964.",
       },
     ],

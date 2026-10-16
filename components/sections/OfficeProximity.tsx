@@ -41,7 +41,7 @@ const byPath: Record<string, PlaceDrive> = {
   "/neighborhoods/green-valley": {
     place: "Green Valley",
     driveMinutes: "25–35 minutes via I-215 east",
-    note: "The District at Green Valley Ranch is a practical midpoint for Henderson listing tours.",
+    note: "The District at Green Valley Ranch serves as a practical midpoint for Henderson listing tours.",
   },
   "/neighborhoods/inspirada": {
     place: "Inspirada",
@@ -60,7 +60,7 @@ const byPath: Record<string, PlaceDrive> = {
   },
   "/neighborhoods/north-las-vegas": {
     place: "North Las Vegas",
-    driveMinutes: "20–25 minutes via US-95 / I-15",
+    driveMinutes: "It takes 20–25 minutes via US-95 / I-15.",
     note: "Aliante, Craig Road employment corridors, and new-construction villages are grouped together.",
   },
   "/55-plus-communities/sun-city-summerlin": {
@@ -94,17 +94,17 @@ const byPath: Record<string, PlaceDrive> = {
     note: "The 18-hole course and rec campus sit next to the Aliante retail strip for a compact north tour.",
   },
   "/55-plus-communities/del-webb-lake-las-vegas": {
-    place: "Del Webb at Lake Las Vegas",
+    place: "Del Webb is located at Lake Las Vegas.",
     driveMinutes: "35–45 minutes",
     note: "Lake-adjacent plans and Reflection Bay golf are blocked as an east-Henderson half day.",
   },
   "/": {
-    place: "Las Vegas, Henderson, and Summerlin tours",
+    place: "We offer tours of Las Vegas, Henderson, and Summerlin.",
     driveMinutes: "same day from this pin",
     note: "Buyer and seller appointments start at the west-valley office, then loop Summerlin first and Henderson second.",
   },
   "/about": {
-    place: "an in-person consult with Dr. Jan Duffy",
+    place: "You can have an in-person consult with Dr. Jan Duffy.",
     driveMinutes: "you are already at the pin",
     note: "License S.0197614.LLC appointments are held at Suite 100 unless we meet at a listing.",
   },
@@ -124,7 +124,7 @@ const byPath: Record<string, PlaceDrive> = {
     note: "Bring loan pre-approval and a target ZIP; we map commute minutes to listings from this desk.",
   },
   "/services": {
-    place: "a service consult (buy, sell, 55+, relocation)",
+    place: "We provide a service consult (buy, sell, 55+, relocation).",
     driveMinutes: "on-site",
     note: "Each service meeting starts here so paperwork, MLS, and showing routes use the same west-valley start.",
   },
@@ -136,7 +136,7 @@ const byPath: Record<string, PlaceDrive> = {
   "/listings": {
     place: "live MLS search follow-up",
     driveMinutes: "same-day tours from this pin",
-    note: "Save the RealScout results, then we sequence Summerlin, Henderson, or 55+ stops from Lake Mead Blvd.",
+    note: "You save the RealScout results, then we sequence Summerlin, Henderson, or 55+ stops from Lake Mead Blvd.",
   },
   "/home-valuation": {
     place: "a CMA review",
@@ -180,7 +180,7 @@ const byPath: Record<string, PlaceDrive> = {
   },
   "/sellers/downsizing": {
     place: "downsize and 55+ options",
-    driveMinutes: "10–15 minutes to Sun City Summerlin",
+    driveMinutes: "It is 10–15 minutes to Sun City Summerlin.",
     note: "List the larger home first or tour 55+ campuses the same day—both start from Lake Mead Blvd.",
   },
   "/sellers/relocation": {
@@ -205,7 +205,7 @@ const byPath: Record<string, PlaceDrive> = {
   },
   "/luxury-homes": {
     place: "luxury listing or search intake",
-    driveMinutes: "15–35 minutes to Ridges, Highlands, or Lake Las Vegas",
+    driveMinutes: "Travel time is 15–35 minutes to Ridges, Highlands, or Lake Las Vegas",
     note: "Marketing or private-search scope is set at the office so photography and gate access are not improvised on site.",
   },
   "/why-berkshire-hathaway": {
@@ -230,12 +230,12 @@ const byPath: Record<string, PlaceDrive> = {
   },
   "/neighborhoods": {
     place: "neighborhood comparison",
-    driveMinutes: "Summerlin 10–15 min, Henderson 25–35 min",
+    driveMinutes: "Travel time is 10–15 min to Summerlin, 25–35 min to Henderson",
     note: "We pick two contrasting areas (for example Summerlin vs Green Valley) and tour them from this west-valley start.",
   },
   "/55-plus-communities": {
     place: "55+ campus comparison",
-    driveMinutes: "Sun City Summerlin 10–15 min, Anthem 30–35 min",
+    driveMinutes: "Travel time is 10–15 min to Sun City Summerlin, 30–35 min to Anthem",
     note: "Age-restriction rules and HOA packets are reviewed here before we drive to clubhouses.",
   },
 };

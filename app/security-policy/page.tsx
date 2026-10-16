@@ -187,8 +187,8 @@ export default function SecurityPolicyPage() {
               <li>Publicly accessible information (e.g., property listings)</li>
               <li>Social engineering attacks</li>
               <li>Physical security issues</li>
-              <li>Denial of Service (DoS) attacks (we have rate limiting)</li>
-              <li>Spam or abuse reports (contact support instead)</li>
+              <li>Denial of Service attacks are mitigated with rate limiting.</li>
+              <li>Spam or abuse reports should be directed to support.</li>
               <li>Issues in third-party services (report to them directly)</li>
             </ul>
           <SectionPresence />

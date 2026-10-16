@@ -38,12 +38,12 @@ const corridorPhoto = {
   src: photos.aliante.src,
   width: photos.aliante.width,
   height: photos.aliante.height,
-  alt: "Desert hills and homes in North Las Vegas, the 89031 corridor that includes Riverwalk Ranch",
+  alt: "Riverwalk Ranch is located in the 89031 corridor of North Las Vegas.",
 };
 
 export default function RiverwalkHome({
-  heading = "Riverwalk Ranch Homes",
-  lede = "A North Las Vegas master plan in ZIP 89031. Five sections. No single published unit count.",
+  heading = "Riverwalk Ranch Homes in North Las Vegas 89031",
+  lede = "The North Las Vegas master plan in ZIP 89031 includes five sections. No single published unit count.",
   showGuideLink = true,
 }: RiverwalkHomeProps) {
   const placeSchema = {
@@ -170,8 +170,7 @@ export default function RiverwalkHome({
               Drive times from 89031
             </h2>
             <p className="lg:col-span-6 lg:col-start-7 text-[#3f3832] leading-relaxed max-w-[40rem]">
-              The corridor sits near Decatur Boulevard and the 215. Tropical
-              Parkway is a main approach. These ranges move with traffic.
+              The corridor sits near Decatur Boulevard and the 215. Tropical Parkway is a main approach. These ranges move with traffic.
             </p>
           </div>
           <div className="border-t border-[#1c1917]">
@@ -204,9 +203,7 @@ export default function RiverwalkHome({
               Five sections, not one total
             </h2>
             <p className="lg:col-span-5 text-[#d9cfc3] leading-relaxed">
-              Gated and non-gated sub-associations share the master plan.
-              Crossing and High Noon have section estimates. The single-family
-              remainder does not have its own published count.
+              Gated and non-gated sub-associations share the master plan. Crossing and High Noon have section estimates. The single-family remainder does not have its own published count.
             </p>
           </div>
           <ol className="border-t border-[#3f3832]">
@@ -273,8 +270,7 @@ export default function RiverwalkHome({
                 />
               </div>
               <figcaption className="mt-3 text-sm text-[#6b5344]">
-                North Las Vegas corridor. This is not a photo of a specific
-                Riverwalk listing.
+                This is the North Las Vegas corridor. This is not a photo of a specific Riverwalk listing.
               </figcaption>
             </figure>
             <div className="lg:col-span-5 lg:col-start-8">
@@ -285,14 +281,10 @@ export default function RiverwalkHome({
                 High Noon on Towboat Street
               </h2>
               <p className="mt-5 leading-relaxed text-[#3f3832]">
-                The townhome section is at 6111 Towboat St, North Las Vegas, NV
-                89031. Estates plans run about 2,550 to 3,000 square feet with
-                3-car garages. Manor & Estates is the gated 4-bedroom mix, from
-                1,975 to over 2,800 square feet.
+                The townhome section is at 6111 Towboat St, North Las Vegas, NV 89031. Estates plans run about 2,550 to 3,000 square feet with 3-car garages. Manor & Estates is the gated 4-bedroom mix, from 1,975 to over 2,800 square feet.
               </p>
               <p className="mt-4 leading-relaxed text-[#3f3832]">
-                Cove is the other D.R. Horton single-family section in 89031.
-                Call for which gate you are actually touring.
+                Cove is the other D.R. Horton single-family section in 89031. Call for which gate you are actually touring.
               </p>
               <a
                 href={highNoonMap.directionsUrl}
@@ -325,11 +317,10 @@ export default function RiverwalkHome({
                 id="search-heading"
                 className={`${riverwalkDisplay.className} text-4xl leading-none`}
               >
-                Search current listings
+                How can I search current listings?
               </h2>
               <p className="mt-4 text-[#3f3832] leading-relaxed">
-                The search box reads the live feed. The ranges above are the
-                guide, not a lock on today&apos;s ask.
+                The search box reads the live feed. The ranges above are a guide, not a lock on today's ask.
               </p>
             </div>
             <div className="lg:col-span-7">

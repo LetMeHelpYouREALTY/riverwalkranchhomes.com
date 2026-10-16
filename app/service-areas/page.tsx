@@ -23,17 +23,17 @@ const faqs = [
   {
     question: "Where is the office?",
     answer:
-      "9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. That address is the Google Business Profile pin. Call (702) 222-1964 to tour. Office line (702) 500-1942.",
+      "The office is at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. That address is the Google Business Profile pin. Call (702) 222-1964 to tour. Office line (702) 500-1942.",
   },
   {
     question: "Which cities are on this desk?",
     answer:
-      "Las Vegas, Henderson, Summerlin, and North Las Vegas. Riverwalk Ranch is in North Las Vegas ZIP 89031.",
+      "The service areas include Las Vegas, Henderson, Summerlin, and North Las Vegas. Riverwalk Ranch is in North Las Vegas ZIP 89031.",
   },
   {
     question: "How long is the drive from Riverwalk Ranch to the Strip?",
     answer:
-      "About 20–25 minutes via I-15, as mapped for this guide on October 16, 2026. Downtown Las Vegas is about 15–20 minutes. Craig Ranch Regional Park is about 10–15 minutes. Traffic changes the clock.",
+      "Travel time via I-15 is about 20–25 minutes as mapped on October 16, 2026. Downtown Las Vegas is about 15–20 minutes. Craig Ranch Regional Park is about 10–15 minutes. Traffic changes the clock.",
   },
 ];
 
@@ -46,7 +46,7 @@ const areas = [
   {
     name: "Summerlin",
     href: "/neighborhoods/summerlin",
-    note: "West valley, about 10–15 minutes from 9406 W Lake Mead Blvd.",
+    note: "West Valley is about 10–15 minutes from 9406 W Lake Mead Blvd.",
   },
   {
     name: "Henderson",
@@ -56,7 +56,7 @@ const areas = [
   {
     name: "North Las Vegas",
     href: "/neighborhoods/north-las-vegas",
-    note: "Includes ZIP 89031 and Riverwalk Ranch.",
+    note: "ZIP 89031 includes Riverwalk Ranch",
   },
   {
     name: "Riverwalk Ranch",
@@ -69,7 +69,7 @@ export default function ServiceAreasPage() {
   return (
     <GuidePage
       eyebrow="From Suite 100"
-      title="Service areas for Dr. Jan Duffy"
+      title="Dr. Jan Duffy serves the following areas"
       lede={`${nap.brokerage} shows homes in Las Vegas, Henderson, Summerlin, and North Las Vegas. The office pin does not move.`}
       faqs={faqs}
     >

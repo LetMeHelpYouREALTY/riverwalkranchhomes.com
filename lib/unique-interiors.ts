@@ -14,19 +14,19 @@ export type UniqueInteriorCopy = {
 
 export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   "/neighborhoods/summerlin": {
-    h2: "What a Summerlin tour from Lake Mead Blvd actually covers",
+    h2: "What does a Summerlin tour from Lake Mead Blvd cover",
     body: "From 9406 W Lake Mead Blvd, Suite 100 we typically start in The Trails or Pueblo, then loop Red Rock Country Club if the budget includes golf-course streets. Palo Verde High School commute minutes are mapped to each listing before we leave the office.",
     facts: [
       "150+ parks and 150+ miles of trails inside the Howard Hughes villages",
       "10–15 minute drive from the GBP office pin to most Summerlin streets",
-      "Median about $625,000 (January 2026); The Ridges and RCC list much higher",
+      "The median price is about $625,000 as of January 2026; The Ridges and RCC list much higher.",
     ],
     h3: "Red Rock trailheads and named campuses on the same loop",
     h3Body:
       "Scenic Drive and Red Rock Canyon trailheads sit west of the villages. Named campuses on the same west-valley loop include Palo Verde High School, West Career & Technical Academy, and Sig Rogich Middle School. Call (702) 222-1964 to lock a same-afternoon village tour.",
   },
   "/neighborhoods/the-ridges": {
-    h2: "Guard-gate timing for The Ridges estate showings",
+    h2: "What are the guard-gate timings for The Ridges estate showings",
     body: "Ridges appointments are booked from Suite 100 so gate lists and off-market windows are confirmed before we drive. Typical run is 15–20 minutes from 9406 W Lake Mead Blvd. We do not text estate addresses on unsecured threads.",
     facts: [
       "Custom estates, golf, and ridge-top views above Red Rock Country Club",
@@ -66,20 +66,20 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     body: "Centennial Hills is 15–20 minutes via US-95 from Suite 100. We compare mountain-view lots near Centennial Hills Park with closer-in streets toward the hospital campus, then map Arbor View High School commute minutes by address.",
     facts: [
       "Northwest Las Vegas with US-95 access and desert mountain backdrop",
-      "Centennial Center retail and Centennial Hills Park on the same loop",
+      "Centennial Center retail and Centennial Hills Park are on the same loop",
       "Median often cited near $398,000–$450,000 depending on vintage and lot",
     ],
-    h3: "Arbor View High School commute, not slogans",
+    h3: "Arbor View High School commute",
     h3Body:
       "Named campuses and drive times replace generic school talk. Call (702) 222-1964 with the addresses you want timed from the office.",
   },
   "/neighborhoods/green-valley": {
-    h2: "Green Valley trees, golf, and The District as a Henderson block",
+    h2: "Green Valley trees, golf, and The District in Henderson",
     body: "Green Valley is 25–35 minutes via I-215 east. Founded in 1988, the streets have 35-year-old trees and larger lots than most newer Henderson villages. The District at Green Valley Ranch is the practical midpoint for listing tours.",
     facts: [
       "Median about $520,000 (January 2026); 26 days on market typical",
-      "Green Valley High School and Coronado High School named campuses",
-      "Golf, The District retail, and 15–25 minute Strip drives from many streets",
+      "Green Valley High School and Coronado High School are named campuses",
+      "Golf, The District retail, and 15–25 minute Strip drives are available from many streets",
     ],
     h3: "The District as the tour midpoint",
     h3Body:
@@ -101,11 +101,11 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     h2: "Henderson villages sequenced from one west-valley start",
     body: "Green Valley, Anthem, Inspirada, Water Street, and Lake Las Vegas are not interchangeable. From Suite 100 we pick two contrasting villages and tour them as a 25–35 minute east run so you compare trees vs new rec campuses in one afternoon.",
     facts: [
-      "Nevada's second-largest city; 60+ parks and 15–25 minute Strip drives by village",
+      "Nevada's second-largest city has 60+ parks and 15–25 minute Strip drives by the village",
       "Coronado High School commute is a common Henderson comparison",
-      "Office NAP matches Google Business: 9406 W Lake Mead Blvd, Suite 100",
+      "The office address is 9406 W Lake Mead Blvd, Suite 100.",
     ],
-    h3: "Which Henderson village first",
+    h3: "Choosing a Henderson village",
     h3Body:
       "Tell Dr. Jan Duffy your commute target (Strip, airport, or a named campus) and HOA budget. Call (702) 222-1964. We will not city-swap copy—each village gets its own facts.",
   },
@@ -113,17 +113,17 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     h2: "Exploration Peak trails and southwest resales in one loop",
     body: "Mountains Edge is 20–30 minutes via the southwest Beltway from the GBP pin. Trailheads at Exploration Peak and tile-roof resale streets fit a single southwest loop.",
     facts: [
-      "I-215 / I-15 access: Strip about 15–20 minutes, airport about 20 minutes",
+      "I-215 and I-15 provide access to the Strip in about 15–20 minutes and to the airport in about 20 minutes.",
       "Parks, desert trails, and newer construction mix",
-      "Value comparison often vs Centennial Hills and North Las Vegas",
+      "Value comparison is often made with Centennial Hills and North Las Vegas.",
     ],
-    h3: "Trailhead first, then streets",
+    h3: "Trailhead before streets",
     h3Body:
       "We start at the trailhead so you see the recreation campus, then drive listing streets. Call (702) 222-1964 to lock the southwest loop.",
   },
   "/neighborhoods/north-las-vegas": {
     h2: "Aliante, Craig Road, and new villages grouped as a north tour",
-    body: "North Las Vegas is 20–25 minutes via US-95 / I-15. Aliante recreation, Craig Road employment corridors, and new-construction villages are sequenced together from Suite 100.",
+    body: "North Las Vegas is 20–25 minutes away via US-95 and I-15. Aliante recreation, Craig Road employment corridors, and new-construction villages are sequenced together from Suite 100.",
     facts: [
       "Entry price points often $350,000–$450,000 for newer product",
       "Legacy High School commute is a common named-campus check",
@@ -135,10 +135,10 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/55-plus-communities/sun-city-summerlin": {
     h2: "Three golf campuses and four rec centers without a long freeway run",
-    body: "Sun City Summerlin is 10–15 minutes from 9406 W Lake Mead Blvd. Highland Falls, Palm Valley, and Eagle Crest plus Mountain Shadows, Sun Shadows, Pinnacle, and Desert Vista rec centers can be previewed in one west-valley afternoon.",
+    body: "Sun City Summerlin is 10–15 minutes from 9406 W Lake Mead Blvd. Highland Falls, Palm Valley, and Eagle Crest plus Mountain Shadows, Sun Shadows, Pinnacle, and Desert Vista recreation centers can be previewed in one west-valley afternoon.",
     facts: [
-      "About 7,700 homes; prices typically $320,000–$850,000",
-      "HOA about $155–$195/month (confirm current packet)",
+      "There are about 7,700 homes with prices typically ranging from $320,000 to $850,000.",
+      "HOA fees are about $155 to $195 per month; confirm the current packet.",
       "Mountain View Hospital sits adjacent to the campus",
     ],
     h3: "Rec-center tour before you pick a street",
@@ -153,7 +153,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
       "McCullough Range views on many upper streets",
       "HOA and age-qualification rules reviewed at Suite 100 before the drive",
     ],
-    h3: "Golf fairways against the McCullough Range",
+    h3: "Golf fairways with views of the McCullough Range.",
     h3Body:
       "Bring the HOA packet questions to the office, then we tour fairway vs interior streets. Call (702) 222-1964 to book the Henderson 55+ block.",
   },
@@ -170,14 +170,14 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
       "See the amenity you will pay HOA for, then walk plans. Call (702) 222-1964. Berkshire Hathaway HomeServices Nevada Properties holds the listing or buyer paperwork at Suite 100.",
   },
   "/55-plus-communities/heritage-stonebridge": {
-    h2: "24/7 gate and Downtown Summerlin retail from Lake Mead Blvd",
+    h2: "24/7 gated access and Downtown Summerlin retail from Lake Mead Blvd.",
     body: "Heritage at Stonebridge is 12–18 minutes from the GBP office. The staffed gate and Downtown Summerlin retail are a short west-valley hop—useful if you want 55+ with a Summerlin ZIP and a gate, not a 7,700-home campus.",
     facts: [
       "Smaller 55+ campus with a staffed gate",
       "Downtown Summerlin shops and dining next door",
       "Age-restriction and guest rules reviewed at Suite 100",
     ],
-    h3: "Gate arrival, then clubhouse",
+    h3: "Arrive at the gate, then proceed to the clubhouse.",
     h3Body:
       "We put you on the guest list from the office so arrival is not improvised. Call (702) 222-1964.",
   },
@@ -186,8 +186,8 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     body: "Solera at Anthem is 30–35 minutes from Suite 100. This smaller 55+ campus (about 1,200 homes) is toured with nearby Anthem parks rather than hopscotching the whole valley. All residents must be 55+ here—confirm the HOA occupancy rule in writing.",
     facts: [
       "Typical list range about $380,000–$650,000",
-      "HOA often cited about $170–$210/month (confirm packet)",
-      "Staffed gate, clubhouse, resort pool, fitness",
+      "HOA fees are often cited as $170 to $210 per month; confirm the packet.",
+      "The community includes a staffed gate, a clubhouse, a resort pool, and a fitness center.",
     ],
     h3: "Boutique clubhouse and pool, not a mega rec campus",
     h3Body:
@@ -230,12 +230,12 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
       "Mon–Fri 9am–6pm, Sat 10am–4pm, Sunday by appointment. License S.0197614.LLC. Book a consult, then we drive. Directions and Google Reviews links are in the footer on every page.",
   },
   "/about": {
-    h2: "Meet Dr. Jan Duffy at Suite 100, not a call center",
+    h2: "Meeting Dr. Jan Duffy at Suite 100",
     body: "License S.0197614.LLC appointments are held at 9406 W Lake Mead Blvd, Suite 100 unless we meet at a listing. The west-valley office is the Google Business pin—walk in during posted hours or book Calendly.",
     facts: [
-      "Brokerage: Berkshire Hathaway HomeServices Nevada Properties",
+      "The brokerage is Berkshire Hathaway HomeServices Nevada Properties.",
       "Markets: Las Vegas, Henderson, Summerlin",
-      "Client CTA (702) 222-1964 · office/GBP (702) 500-1942",
+      "Call client at (702) 222-1964 or office/GBP at (702) 500-1942",
     ],
     h3: "Parking, hours, and the consult desk",
     h3Body:
@@ -246,8 +246,8 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     body: "Walk-ins during posted hours are welcome at Suite 100. Calendly showings can start here and continue to the property. Email DrDuffySells@RiverwalkRanchHomes.com for documents; do not send listing keys by unsecured email.",
     facts: [
       "Address: 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134",
-      "Call or text (702) 222-1964 · office (702) 500-1942",
-      "Map embed, Directions, and View Google Reviews are on this page and the footer",
+      "Call or text (702) 222-1964; office (702) 500-1942",
+      "Map embed, directions, and Google reviews appear on this page and in the footer",
     ],
     h3: "What to bring to the contact desk",
     h3Body:
@@ -261,7 +261,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
       "Mon–Fri 9am–6pm, Sat 10am–4pm, Sunday by appointment",
       "Reviews, posts, and photos should match what you see on Google",
     ],
-    h3: "Call, Directions, and Reviews from this URL",
+    h3: "Call, directions, and reviews are available at this URL",
     h3Body:
       "Use the buttons on this page to call, get directions, or open Google Reviews. Inconsistent NAP is a Maps ranking leak—this page is the on-site source of truth.",
   },
@@ -269,7 +269,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     h2: "Live Q&A is 10 minutes from most Summerlin villages",
     body: "Bring loan pre-approval and a target ZIP to Suite 100. We map commute minutes to listings from this desk instead of answering with valley-wide averages only.",
     facts: [
-      "FAQs below are Fair Housing-safe: square footage, amenities, named campuses, commute times",
+      "FAQs below are Fair Housing safe and cover square footage, amenities, named campuses, and commute times",
       "Client CTA (702) 222-1964",
       "Office NAP matches GBP",
     ],
@@ -281,9 +281,9 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     h2: "Buy, sell, 55+, and relocation paperwork start at one desk",
     body: "Each service meeting starts at 9406 W Lake Mead Blvd, Suite 100 so MLS, showing routes, and BHHS paperwork use the same west-valley start.",
     facts: [
-      "Buyer representation, listing, 55+ campuses, California relocation",
+      "We offer buyer representation, listing services, 55+ campuses, and California relocation",
       "RealScout handles property matching; we do not duplicate that engine",
-      "Follow Up Boss is the CRM—native RealScout sync, no custom clone",
+      "Follow Up Boss is the CRM with native RealScout sync and no custom clone",
     ],
     h3: "Pick a service, then pick a drive",
     h3Body:
@@ -294,7 +294,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     body: "Privacy, lockbox, and showing-access questions are handled at the office. We do not collect listing keys by unsecured email.",
     facts: [
       "Email DrDuffySells@RiverwalkRanchHomes.com for written policy questions",
-      "Office (702) 500-1942 matches GBP · CTA (702) 222-1964",
+      "Office phone (702) 500-1942 matches GBP; CTA phone (702) 222-1964",
       "Address: 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134",
     ],
     h3: "What we will not do",
@@ -302,12 +302,12 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
       "No unsecured key photos, no off-platform wire instructions. Call (702) 222-1964 if a message claiming to be Dr. Jan asks you to change wiring details.",
   },
   "/listings": {
-    h2: "Live MLS search, then a sequenced tour from Lake Mead Blvd",
+    h2: "How to perform a live MLS search and arrange a sequenced tour from Lake Mead Blvd",
     body: "Save RealScout results on this page, then we sequence Summerlin, Henderson, or 55+ stops from the office pin. This hub is the search chassis—not a copy of the buyer-process page.",
     facts: [
-      "Agent ID QWdlbnQtMjI1MDUw on RealScout widgets",
+      "Agent ID QWdlbnQtMjI1MDUw appears on RealScout widgets",
       "MLS disclaimer and listing attribution stay visible",
-      "Same-day tours start at 9406 W Lake Mead Blvd, Suite 100",
+      "Same-day tours begin at 9406 W Lake Mead Blvd, Suite 100",
     ],
     h3: "How to use the live search without getting lost",
     h3Body:
@@ -319,7 +319,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     facts: [
       "CMA review on-site or at your property",
       "BHHS marketing scope is set before the photographer is booked",
-      "Call (702) 222-1964 · office (702) 500-1942",
+      "Call (702) 222-1964; office (702) 500-1942",
     ],
     h3: "What a priced-to-comps listing looks like",
     h3Body:
@@ -327,7 +327,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/new-construction": {
     h2: "Register the buyer agent before any model-home visit",
-    body: "Most Las Vegas and Henderson builders require your agent on the first visit. Register Dr. Jan Duffy at 9406 W Lake Mead Blvd, Suite 100 before you walk a model row in Skye Canyon, Inspirada, or Cadence.",
+    body: "Builders in Las Vegas and Henderson require your agent at the first visit. Register Dr. Jan Duffy at 9406 W Lake Mead Blvd, Suite 100 before touring a model row in Skye Canyon, Inspirada, or Cadence.",
     facts: [
       "Registration first, models second",
       "Incentives and lot premiums change weekly—do not rely on last month's flyer",
@@ -354,7 +354,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     body: "First-time paperwork is reviewed at 9406 W Lake Mead Blvd, Suite 100. Then we schedule model or resale tours. North Las Vegas, Mountains Edge, and Centennial Hills are common entry ZIPs—compared by square footage and commute, not slogans.",
     facts: [
       "Lender intro and program checklist at this desk",
-      "Arbor View High School and Legacy High School commute mapping by address",
+      "We provide commute mapping for Arbor View High School and Legacy High School by address.",
       "Call (702) 222-1964",
     ],
     h3: "Entry ZIPs without guessing prices",
@@ -362,11 +362,11 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
       "Ask for current list ranges the week you tour. Call (702) 222-1964. UNKNOWN figures are not invented here.",
   },
   "/buyers/california-relocator": {
-    h2: "California sale proceeds vs Las Vegas ZIP targets, then a tour week",
+    h2: "How do California sale proceeds compare to Las Vegas ZIP targets before a tour week?",
     body: "We compare your California net to Las Vegas ZIP targets at Suite 100 (or video), then schedule a concentrated Summerlin-then-Henderson tour week so you are not flying in for a random open-house hopscotch.",
     facts: [
       "No state income tax in Nevada; property-tax and insurance still apply",
-      "Palo Verde High School and Coronado High School are named commute checks",
+      "We provide commute checks for Palo Verde High School and Coronado High School.",
       "BHHS destination coordination from this office",
     ],
     h3: "Three-day itinerary, not a week of wasted drives",
@@ -377,7 +377,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     h2: "Private luxury search—gate codes stay off group texts",
     body: "The Ridges is about 15–20 minutes from Suite 100. Gate codes and off-market times are confirmed here. This page is the buyer luxury search; the /luxury-homes hub is listing-or-search intake for either side.",
     facts: [
-      "H1 on this URL: Private Luxury Home Search in Las Vegas",
+      "The H1 for this page is Private Luxury Home Search in Las Vegas.",
       "Silverado High School commute is a Henderson luxury check when relevant",
       "Call (702) 222-1964",
     ],
@@ -436,7 +436,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     h2: "Court dates and showing access at Suite 100, not the lobby",
     body: "Confidential file review is by appointment at 9406 W Lake Mead Blvd, Suite 100. Court dates, attorney contacts, and lockbox rules are handled here—not in a public lobby conversation.",
     facts: [
-      "Neutral process, documented access, written offers",
+      "The process is neutral, access is documented, and offers are written.",
       "Call (702) 222-1964 to schedule a private slot",
       "Do not email sensitive orders to a shared inbox without a heads-up call",
     ],
@@ -448,13 +448,13 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     h2: "Three-day inbound itinerary: Summerlin, then Henderson",
     body: "Inbound relocation planning starts at this pin. We build a three-day Summerlin-then-Henderson itinerary so you are not crisscrossing the valley on a two-day house-hunting trip.",
     facts: [
-      "Palo Verde High School and Coronado High School commute mapping",
+      "We provide commute mapping for Palo Verde High School and Coronado High School.",
       "HOA dues and park acreage as comparison points",
       "Call (702) 222-1964",
     ],
     h3: "Remote buying is possible; the tour week still starts here",
     h3Body:
-      "Video walkthroughs, then a concentrated trip. Call (702) 222-1964.",
+      "Video walkthroughs are followed by a concentrated trip. Call (702) 222-1964.",
   },
   "/investment-properties": {
     h2: "Rent comps and HOA rental rules before the area drive",
@@ -469,9 +469,9 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/luxury-homes": {
     h2: "Luxury listing or search intake—Ridges, Highlands, or Lake Las Vegas",
-    body: "This hub is for sellers and buyers who need photography, gate access, and marketing scoped at the office. Drive times: Ridges 15–20 minutes, Southern Highlands 25–35, Lake Las Vegas 35–45.",
+    body: "This hub serves sellers and buyers who need photography, gate access, and marketing scoped at the office. Drive times: Ridges 15–20 minutes, Southern Highlands 25–35, Lake Las Vegas 35–45.",
     facts: [
-      "H1 here: List or Buy Las Vegas Luxury Homes With BHHS",
+      "List or buy Las Vegas luxury homes with BHHS.",
       "Buyer-only search lives at /buyers/luxury-homes-las-vegas",
       "Call (702) 222-1964",
     ],
@@ -484,30 +484,30 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     body: "Brand questions are answered on-site: referral network, listing marketing samples, and who actually answers the phone. Dr. Jan Duffy, license S.0197614.LLC, Berkshire Hathaway HomeServices Nevada Properties.",
     facts: [
       "Global referral network for inbound and outbound moves",
-      "Local showing still starts at 9406 W Lake Mead Blvd, Suite 100",
+      "Local showings start at 9406 W Lake Mead Blvd, Suite 100.",
       "Call (702) 222-1964",
     ],
     h3: "Reputation is the brokerage; the work is the agent",
     h3Body:
-      "Ask who photographs, who writes remarks, who negotiates. Call (702) 222-1964.",
+      "Photography, remarks, and negotiation contacts – call (702) 222-1964.",
   },
   "/market-insights": {
     h2: "January 2026 inventory walked against your ZIP, not a valley average only",
     body: "Market briefing is at the desk. Days on market, inventory, and ZIP-level notes are applied to your search or listing. Figures that cannot be sourced stay UNKNOWN.",
     facts: [
-      "Valley median often cited near $450,000 (January 2026)",
+      "The valley median is often cited near $450,000 (January 2026).",
       "Summerlin median often cited near $625,000",
-      "Call (702) 222-1964 to interpret YOUR address",
+      "Call (702) 222-1964 to interpret your address.",
     ],
     h3: "Skyline photos are context; comps are the decision",
-    h3Body: "Bring the address. Call (702) 222-1964.",
+    h3Body: "Address submission – call (702) 222-1964.",
   },
   "/market-update": {
     h2: "This week's numbers against your address or buyer criteria",
     body: "Weekly stats are interpreted at this desk or by phone from Suite 100—not as a valley-wide average only.",
     facts: [
       "DOM and inventory move; we will not invent a rate or a price",
-      "Office hours Mon–Fri 9am–6pm, Sat 10am–4pm",
+      "Office hours are Mon–Fri 9am–6pm, Sat 10am–4pm.",
       "Call (702) 222-1964",
     ],
     h3: "Subscribe to a conversation, not a blast",
@@ -528,7 +528,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/neighborhoods": {
     h2: "Two contrasting areas from one west-valley start",
-    body: "Neighborhood comparison starts at Suite 100. Example: Summerlin (10–15 min) vs Green Valley (25–35 min) in one afternoon so the difference is trees, HOA, and commute—not a slogan.",
+    body: "Neighborhood comparison begins at Suite 100. Summerlin is 10–15 minutes away; Green Valley is 25–35 minutes away. Differences include trees, HOA, and commute.",
     facts: [
       "Each community page has its own H1 photo and drive-time note",
       "Named campuses and commute times, not ratings as marketing",
@@ -546,7 +546,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
       "California relocators: we still tour by amenity, not by slogan",
       "Call (702) 222-1964",
     ],
-    h3: "HOPA 80/20 vs all-residents-55+",
+    h3: "HOPA 80/20 versus all-residents 55+",
     h3Body:
       "Solera requires all residents 55+. Most other campuses follow HOPA with a younger-spouse rule. Confirm in the HOA docs. Call (702) 222-1964.",
   },

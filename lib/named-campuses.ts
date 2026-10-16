@@ -63,7 +63,7 @@ export const namedCampuses: Record<string, NamedCampusCopy> = {
   },
   "/neighborhoods/the-ridges": {
     h3: "Gate-to-campus minutes from The Ridges, not a copied Summerlin grid",
-    body: "The Ridges is inside the Summerlin master plan. We time Palo Verde High School and Sig Rogich Middle School from the specific gate on the showing sheet, then confirm CCSD zoning for that street. Private campuses buyers compare on the same west-valley loop include The Meadows School and Bishop Gorman High School.",
+    body: "The Ridges is within the Summerlin master plan. Palo Verde High School and Sig Rogich Middle School are timed from the gate on the showing sheet, and CCSD zoning is confirmed for the street. Private campus buyers also compare The Meadows School and Bishop Gorman High School on the same west-valley loop.",
     campuses: [
       {
         name: "Palo Verde High School",
@@ -107,7 +107,7 @@ export const namedCampuses: Record<string, NamedCampusCopy> = {
   },
   "/neighborhoods/skye-canyon": {
     h3: "Shadow Ridge now, plus a new elementary under construction on Shaumber",
-    body: "On 2026-06-24 the Las Vegas Sun reported CCSD groundbreaking for a new elementary at North Shaumber Road and Skye Canyon Park Drive, planned to open August 2027. Until that campus opens, northwest tours map Shadow Ridge High School and nearby elementaries by listing address. Arbor View High School is a Centennial Hills campus we compare when commute minutes are the decision.",
+    body: "The Las Vegas Sun reported on 2026-06-24 that CCSD broke ground on a new elementary at North Shaumber Road and Skye Canyon Park Drive, planned to open August 2027. Until the new campus opens, northwest tours list Shadow Ridge High School and nearby elementaries with their addresses. Arbor View High School is a Centennial Hills campus used for commute comparisons.",
     campuses: [
       {
         name: "Shadow Ridge High School",
@@ -128,12 +128,12 @@ export const namedCampuses: Record<string, NamedCampusCopy> = {
     ],
   },
   "/neighborhoods/centennial-hills": {
-    h3: "Arbor View, Centennial High, and park-loop minutes",
+    h3: "Arbor View, Centennial High, and park loop minutes",
     body: "Centennial Hills tours from Suite 100 map Arbor View High School and Centennial High School by the listing street, then add Centennial Hills Park and Centennial Center so the day stays one northwest loop. John R. Hummel Elementary sits in the southwest valley, not this master plan — it is not copied onto this page.",
     campuses: [
       {
         name: "Arbor View High School",
-        note: "Named northwest high school timed from 9406 W Lake Mead Blvd via US-95",
+        note: "Northwest High School travel time from 9406 W Lake Mead Blvd via US-95",
       },
       {
         name: "Centennial High School",
@@ -150,7 +150,7 @@ export const namedCampuses: Record<string, NamedCampusCopy> = {
     ],
   },
   "/neighborhoods/green-valley": {
-    h3: "Green Valley High, Coronado, and Wolff — Henderson names, street-checked",
+    h3: "Green Valley High, Coronado, and Wolff in Henderson",
     body: "Green Valley High School and Elise L. Wolff Elementary sit inside the Green Valley map we actually drive. Coronado High School is the south-Henderson campus buyers compare when the listing sits closer to Inspirada or Anthem. Confirm the listing address at ccsd.net/zoning before we write an offer.",
     campuses: [
       {
@@ -167,7 +167,7 @@ export const namedCampuses: Record<string, NamedCampusCopy> = {
       },
       {
         name: "The District at Green Valley Ranch",
-        note: "Retail midpoint for Henderson tours; 25–35 minutes from Suite 100 via I-215",
+        note: "Retail midpoint for Henderson tours",
       },
     ],
   },
@@ -189,7 +189,7 @@ export const namedCampuses: Record<string, NamedCampusCopy> = {
       },
       {
         name: "John C. Vanderburg Elementary",
-        note: "Henderson elementary near Desert Shadow Trail — not a Summerlin campus",
+        note: "Henderson elementary near Desert Shadow Trail, not a Summerlin campus",
       },
     ],
   },
@@ -216,12 +216,12 @@ export const namedCampuses: Record<string, NamedCampusCopy> = {
     ],
   },
   "/neighborhoods/north-las-vegas": {
-    h3: "Canyon Springs, Legacy, and Aliante campuses — not a downtown magnet",
-    body: "North Las Vegas tours map Canyon Springs High School, Legacy High School, and Aliante-area campuses by address. Mabel Hoggard Elementary is a magnet near downtown Las Vegas, not a North Las Vegas zoned default, so it is off this list. Nellis-area streets can pull different feeders — CCSD search first.",
+    h3: "Canyon Springs, Legacy, and Aliante campuses, not a downtown magnet",
+    body: "North Las Vegas tours map Canyon Springs High School, Legacy High School, and Aliante-area campuses by address. Mabel Hoggard Elementary is a magnet near downtown Las Vegas, not a North Las Vegas zoned default, so it is off this list. Nellis-area streets can pull different feeders, CCSD search first.",
     campuses: [
       {
         name: "Canyon Springs High School",
-        note: "Named North Las Vegas high school on many east-NLV showing routes",
+        note: "North Las Vegas high school shown on many east-NLV routes",
       },
       {
         name: "Legacy High School",

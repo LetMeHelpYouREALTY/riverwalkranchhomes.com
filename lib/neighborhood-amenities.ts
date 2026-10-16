@@ -22,7 +22,7 @@ export type NeighborhoodAmenityCopy = {
 
 export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
   "/neighborhoods": {
-    h3: "Two retail pins from Suite 100: Downtown Summerlin vs The District",
+    h3: "Retail options near Suite 100: Downtown Summerlin and The District",
     body: "Do not pick a ZIP from a card grid. We time one west retail loop and one Henderson loop so you compare parking, store mix, and drive minutes — not a slogan.",
     pins: [
       {
@@ -34,13 +34,13 @@ export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
         note: "25–35 minutes via I-215 east. Outdoor shops and GVR on the Henderson afternoon, not the same day as Downtown Summerlin.",
       },
       {
-        name: "Aliante retail",
-        note: "North Las Vegas stop when the brief is northwest. Pair with Craig Road jobs, not a Strip hopscotch. Call (702) 222-1964.",
+        name: "Aliante retail options",
+        note: "North Las Vegas stop; pair with Craig Road jobs; contact (702) 222-1964",
       },
     ],
   },
   "/neighborhoods/summerlin": {
-    h3: "Downtown Summerlin, Boca Park, then Tivoli — one west retail loop",
+    h3: "Downtown Summerlin, Boca Park, and Tivoli in one west retail loop",
     body: "We sequence retail on the same afternoon as The Trails so you are not recrossing the valley for groceries. Named places, not a generic shopping FAQ.",
     pins: [
       {
@@ -58,7 +58,7 @@ export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
     ],
   },
   "/neighborhoods/the-ridges": {
-    h3: "Bear's Best, then Downtown Summerlin — gate-list retail, not a public mall crawl",
+    h3: "Bear's Best and Downtown Summerlin retail areas",
     body: "Gate codes stay off group texts. We confirm HOA vendor lists before we add a retail stop after a Ridges showing.",
     pins: [
       {
@@ -76,12 +76,12 @@ export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
     ],
   },
   "/neighborhoods/southern-highlands": {
-    h3: "Clubhouse, Town Square, then Harry Reid — south-corridor pins",
+    h3: "Clubhouse, Town Square, and Harry Reid Airport",
     body: "Southern Highlands sits on I-15 south. We do not mix this with a Summerlin retail day. Harry Reid International is the airport name.",
     pins: [
       {
         name: "Southern Highlands Golf Club",
-        note: "Robert Trent Jones Jr. course and 35,000 sq ft clubhouse. Centerpiece of the 2,200-acre plat.",
+        note: "Robert Trent Jones Jr. course with 35,000 sq ft clubhouse, centerpiece of 2,200-acre plat",
       },
       {
         name: "Town Square Las Vegas",
@@ -124,18 +124,18 @@ export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
         note: "Full-service hospital and ER on the US-95 corridor. Suite 100 is a separate west-valley start — we do not pretend it is next door.",
       },
       {
-        name: "Centennial Center retail",
-        note: "Target, Costco, theatres on the Durango/215 cluster. Call (702) 222-1964.",
+        name: "Retail options at Centennial Center",
+        note: "Target, Costco, and theatres near the Durango/215 cluster. Call (702) 222-1964",
       },
     ],
   },
   "/neighborhoods/green-valley": {
-    h3: "The District, Whitney Mesa, then Galleria — Henderson retail that is not Summerlin",
+    h3: "Retail at The District, Whitney Mesa, and Galleria in Henderson",
     body: "35-year-old street trees plus The District. We do not run Downtown Summerlin on the same day.",
     pins: [
       {
         name: "The District at Green Valley Ranch",
-        note: "Outdoor shops, GVR, cinema. 25–35 minutes from Suite 100 via I-215 east.",
+        note: "Outdoor shops, GVR, and cinema within 25–35 minutes from Suite 100 via I-215 east",
       },
       {
         name: "Whitney Mesa Recreation Area",
@@ -148,7 +148,7 @@ export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
     ],
   },
   "/neighborhoods/henderson": {
-    h3: "Water Street, St. Rose Siena, then Galleria — city pins, not a village clone",
+    h3: "Water Street, St. Rose Siena, and Galleria locations",
     body: "Henderson is 25–35 minutes from Suite 100. We pick two villages plus one civic pin so you are not listing every mall.",
     pins: [
       {
@@ -192,7 +192,7 @@ export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
         note: "Golf and rec campus plus casino retail. Common first pin from Suite 100 when the ZIP is North Las Vegas.",
       },
       {
-        name: "Craig Ranch / Craig Road employers",
+        name: "Craig Ranch and Craig Road employers",
         note: "Job-center commute check. Named campuses such as Legacy High School are mapped by street at ccsd.net/zoning.",
       },
       {
@@ -202,7 +202,7 @@ export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
     ],
   },
   "/neighborhoods/mountains-edge": {
-    h3: "Exploration Peak first — then Marketplace, then Southern Hills Hospital",
+    h3: "Exploration Peak, Marketplace, Southern Hills Hospital",
     body: "Southwest afternoon. Exploration Peak is 120 acres; we walk a trail before any mall so the park is not a caption.",
     pins: [
       {
@@ -215,7 +215,7 @@ export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
       },
       {
         name: "Southern Hills Hospital",
-        note: "About 10 minutes. St. Rose Siena is the Henderson alternative. Call (702) 222-1964.",
+        note: "Travel time to St. Rose Siena is about 10 minutes – call (702) 222-1964",
       },
     ],
   },

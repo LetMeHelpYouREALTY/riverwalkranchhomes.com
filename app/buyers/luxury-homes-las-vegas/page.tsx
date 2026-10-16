@@ -16,7 +16,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/buyers/luxury-homes-las-vegas",
   title: "Luxury Homes Las Vegas | Berkshire Hathaway HomeServices",
   description:
-    "Las Vegas luxury real estate from $1.2M to $10M+. Guard-gated estates, Strip penthouses, and custom homes. Dr. Jan Duffy provides discrete, expert representation. Call (702) 222-1964.",
+    "Las Vegas luxury real estate ranges from $1.2M to $10M+. Guard-gated estates, Strip penthouses, and custom homes are available. Dr. Jan Duffy provides discrete, expert representation. Call (702) 222-1964.",
   keywords: [
     "luxury homes Las Vegas",
     "The Ridges Las Vegas",
@@ -123,8 +123,7 @@ export default function LuxuryHomesPage() {
                   <li className="flex items-start">
                     <Shield className="h-5 w-5 text-slate-600 mr-2 mt-1 flex-shrink-0" />
                     <span>
-                      <strong>Confidential showings:</strong> Private
-                      appointments, no sign-in sheets, discrete documentation.
+                      <strong>Confidential showings:</strong> Private appointments, no sign-in sheets, and discrete documentation.
                     </span>
                   </li>
                   <li className="flex items-start">

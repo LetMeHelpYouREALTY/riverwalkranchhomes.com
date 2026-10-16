@@ -20,9 +20,9 @@ import SectionPresence from "@/components/sections/SectionPresence";
 export const metadata: Metadata = pageMetadata({
   path: "/neighborhoods/southern-highlands",
   title:
-    "Berkshire Hathaway HomeServices Southern Highlands | Las Vegas Golf Community",
+    "Berkshire Hathaway HomeServices Southern Highlands | Las Vegas",
   description:
-    "Find Southern Highlands homes with Berkshire Hathaway HomeServices Nevada Properties. I-15 south, 25–35 minutes from Suite 100. January 2026 median $750K. Call (702) 222-1964.",
+    "Southern Highlands homes are listed with Berkshire Hathaway HomeServices Nevada Properties. I-15 south, 25–35 minutes from Suite 100. January 2026 median $750K. Call (702) 222-1964.",
   keywords: [
     "Berkshire Hathaway HomeServices Southern Highlands",
     "Southern Highlands homes for sale",
@@ -114,8 +114,7 @@ export default function SouthernHighlandsPage() {
                 community centered around an award-winning championship golf
                 course. For buyers seeking luxury living with convenient access
                 to the Strip, airport, and I-15 corridor,{" "}
-                <strong>Berkshire Hathaway HomeServices</strong> considers
-                Southern Highlands among Las Vegas's finest residential options.
+                <strong>Berkshire Hathaway HomeServices</strong> Southern Highlands is among Las Vegas's finest residential options.
               </p>
               <p>
                 The community's crown jewel is the Southern Highlands Golf Club,

@@ -26,7 +26,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/contact",
   title: "Contact Dr. Jan Duffy | Berkshire Hathaway HomeServices Las Vegas",
   description:
-    "Contact Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties. Schedule an appointment, get directions, or call (702) 222-1964. Las Vegas, Henderson, Summerlin real estate expert.",
+    "You can contact Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties. Schedule an appointment, get directions, or call (702) 222-1964. He is a real estate expert in Las Vegas, Henderson, and Summerlin.",
   keywords: [
     "contact real estate agent Las Vegas",
     "Berkshire Hathaway contact",
@@ -41,7 +41,7 @@ const contactSchema = {
   "@type": "ContactPage",
   mainEntity: {
     "@type": "RealEstateAgent",
-    name: "Dr. Jan Duffy - Berkshire Hathaway HomeServices Nevada Properties",
+    name: "Dr. Jan Duffy – Berkshire Hathaway HomeServices Nevada Properties",
     telephone: "+17025001942",
     email: "DrDuffySells@RiverwalkRanchHomes.com",
     address: {
@@ -178,7 +178,7 @@ export default function ContactPage() {
                   allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Berkshire Hathaway HomeServices Nevada Properties - Office Location"
+                  title="Office location for Berkshire Hathaway HomeServices Nevada Properties."
                   className="w-full"
                 />
               </div>

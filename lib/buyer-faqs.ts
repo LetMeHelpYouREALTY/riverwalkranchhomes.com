@@ -39,7 +39,7 @@ export const buyerFaqs: Record<string, BuyerFaqCopy> = {
     ],
   },
   "/buyers/first-time-buyers": {
-    h2: "FHA, VA, and Nevada assistance — first-time questions at Suite 100",
+    h2: "What FHA, VA, and Nevada assistance options are available at Suite 100?",
     items: [
       {
         q: "What paperwork do we review at Suite 100 before an FHA or VA tour?",
@@ -72,7 +72,7 @@ export const buyerFaqs: Record<string, BuyerFaqCopy> = {
       },
       {
         q: "Which named campuses do we time on Day 1 vs Day 2 of a relocator itinerary?",
-        a: "Day 1 Summerlin: Palo Verde High School commute checks. Day 2 Henderson: Coronado High School or Green Valley High School by street. Day 3 is 55+ or new construction if that is the brief. No ratings.",
+        a: "Day 1 in Summerlin includes a commute check to Palo Verde High School. Day 2 in Henderson includes a visit to Coronado High School or Green Valley High School by street. Day 3 focuses on 55+ properties or new construction as requested. No ratings.",
       },
       {
         q: "What did this page last publish about flights from Harry Reid to California?",
@@ -97,7 +97,7 @@ export const buyerFaqs: Record<string, BuyerFaqCopy> = {
       },
       {
         q: "How is this search page different from the /luxury-homes hub?",
-        a: "This URL is the buyer luxury search (H1: Private Luxury Home Search in Las Vegas). The /luxury-homes hub is listing-or-search intake for either side. Tell Dr. Jan the view you want — Strip, Red Rock, or golf — then we time one campus, not forty PDFs.",
+        a: "This URL is the buyer luxury search (H1: Private Luxury Home Search in Las Vegas). The /luxury-homes hub serves as a listing or search intake for both buyers and sellers. Tell Dr. Jan the view you want — Strip, Red Rock, or golf — then we schedule one campus, not forty PDFs.",
       },
     ],
   },

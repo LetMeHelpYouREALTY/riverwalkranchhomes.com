@@ -32,7 +32,7 @@ export const neighborhoodCommutes: Record<string, NeighborhoodCommuteCopy> = {
       {
         pin: "Summerlin villages",
         typical: "10–15 min",
-        why: "West-valley loop: trails, Pavilion Center, Red Rock trailheads",
+        why: "West-valley loop includes trails, Pavilion Center, and Red Rock trailheads.",
       },
       {
         pin: "Green Valley / The District",
@@ -47,16 +47,16 @@ export const neighborhoodCommutes: Record<string, NeighborhoodCommuteCopy> = {
     ],
   },
   "/neighborhoods/summerlin": {
-    h3: "Lake Mead Blvd to Pavilion Center, then Scenic Drive — not a Strip table",
+    h3: "Lake Mead Blvd to Pavilion Center then Scenic Drive",
     body: "Most Summerlin streets are 10–15 minutes from Suite 100. We time Palo Verde High School on Pavilion Center Drive before we leave, then add Red Rock Canyon Scenic Drive on the west end of the same loop. Harry Reid International is a Charleston / 215 run from central Summerlin, previously published at about 15 miles and 20 minutes off-peak.",
     pins: [
       {
         pin: "9406 W Lake Mead Blvd, Suite 100",
         typical: "Tour start",
-        why: "GBP office pin; The Trails or Pueblo is the usual first stop",
+        why: "The GBP office pin is at the location. The Trails or Pueblo is the usual first stop.",
       },
       {
-        pin: "Palo Verde High School, Pavilion Center Dr",
+        pin: "Palo Verde High School is on Pavilion Center Dr.",
         typical: "Mapped per street",
         why: "Named campus on the west-valley loop — not a copied Henderson feeder",
       },
@@ -74,7 +74,7 @@ export const neighborhoodCommutes: Record<string, NeighborhoodCommuteCopy> = {
     ],
   },
   "/neighborhoods/the-ridges": {
-    h3: "Gate-list minutes from Suite 100, then Downtown Summerlin after the ridge",
+    h3: "Gate-list minutes from Suite 100 then Downtown Summerlin after the ridge",
     body: "Ridges showings are 15–20 minutes from 9406 W Lake Mead Blvd once the gate list is confirmed. Downtown Summerlin was previously published at 3 miles / about 8 minutes from the gates. Henderson Executive (HND) is the private-aviation pin on this page — 12 miles / about 18 minutes on the prior table — not a copied Strip row.",
     pins: [
       {
@@ -104,12 +104,12 @@ export const neighborhoodCommutes: Record<string, NeighborhoodCommuteCopy> = {
     body: "Southern Highlands is 25–35 minutes via I-15 south from the Lake Mead Blvd office. Once you are on I-15, the prior table put the Strip at about 8 miles / 12 minutes off-peak. Harry Reid International was 10 miles / about 15 minutes. We keep golf-course lots and ridge streets in one south-valley block.",
     pins: [
       {
-        pin: "Lake Mead Blvd office via I-15 south",
+        pin: "The Lake Mead Blvd office is reachable via I-15 south.",
         typical: "25–35 min",
         why: "South-valley block so you are not crossing the valley twice",
       },
       {
-        pin: "Southern Highlands Golf Club / clubhouse",
+        pin: "Southern Highlands Golf Club and its clubhouse.",
         typical: "First stop on the showing sheet",
         why: "Fairway vs ridge-top lots are compared on the same run",
       },
@@ -145,14 +145,14 @@ export const neighborhoodCommutes: Record<string, NeighborhoodCommuteCopy> = {
         why: "Park pin unique to this master plan — not a copied Strip row",
       },
       {
-        pin: "Centennial Hills / Arbor View comparison",
+        pin: "Centennial Hills and Arbor View are compared here.",
         typical: "About 10 min / 5 miles",
         why: "Second northwest commute when the buyer wants two named high schools timed",
       },
     ],
   },
   "/neighborhoods/centennial-hills": {
-    h3: "US-95 from Suite 100 to Centennial Hills Park, then Arbor View minutes",
+    h3: "US-95 travel time from Suite 100 to Centennial Hills Park and Arbor View",
     body: "Centennial Hills is 15–20 minutes via US-95 from Suite 100. Downtown Summerlin was previously published at 6 miles / about 12 minutes off-peak from Centennial streets. We add Centennial Hills Park and Centennial Center on the same northwest loop so retail and trail pins are not a separate day.",
     pins: [
       {
@@ -161,7 +161,7 @@ export const neighborhoodCommutes: Record<string, NeighborhoodCommuteCopy> = {
         why: "Northwest start; mountain-view lots vs hospital-campus streets",
       },
       {
-        pin: "Centennial Hills Park / Centennial Center",
+        pin: "Centennial Hills Park and Centennial Center are referenced.",
         typical: "Same loop as the listings",
         why: "Park and retail pins unique to this page — not a Henderson table",
       },
@@ -178,7 +178,7 @@ export const neighborhoodCommutes: Record<string, NeighborhoodCommuteCopy> = {
     ],
   },
   "/neighborhoods/green-valley": {
-    h3: "I-215 east to The District, then Green Valley High — not a Summerlin grid",
+    h3: "I-215 east to The District and Green Valley High",
     body: "Green Valley is 25–35 minutes via I-215 east from Suite 100. The District at Green Valley Ranch is the tour midpoint. Downtown Henderson was previously published at 3 miles / about 8 minutes. Harry Reid International was 7 miles / about 12 minutes off-peak — closer than the west-valley airport run.",
     pins: [
       {
@@ -189,12 +189,12 @@ export const neighborhoodCommutes: Record<string, NeighborhoodCommuteCopy> = {
       {
         pin: "The District at Green Valley Ranch",
         typical: "Midpoint of the listing day",
-        why: "Retail pin unique to Green Valley Ranch — meet here or at Suite 100",
+        why: "Retail pin is unique to Green Valley Ranch; meet here or at Suite 100.",
       },
       {
         pin: "Downtown Henderson / Water Street",
         typical: "About 8 min / 3 miles from Green Valley streets",
-        why: "City-center pin, not a copied Downtown Las Vegas row",
+        why: "City-center pin is distinct from Downtown Las Vegas rows.",
       },
       {
         pin: "Harry Reid International (LAS)",
@@ -210,12 +210,12 @@ export const neighborhoodCommutes: Record<string, NeighborhoodCommuteCopy> = {
       {
         pin: "Suite 100 east run",
         typical: "25–35 min to the first Henderson village",
-        why: "Green Valley vs Inspirada vs Water Street vs Lake Las Vegas — pick two",
+        why: "Green Valley, Inspirada, Water Street, and Lake Las Vegas are compared; pick two.",
       },
       {
-        pin: "Las Vegas Strip from Henderson streets",
+        pin: "The Las Vegas Strip is reachable from Henderson streets.",
         typical: "About 15 min off-peak / 20–35 min rush (8 miles)",
-        why: "Village-level Strip time, not a city-wide slogan",
+        why: "Travel time to the Strip is measured at the village level.",
       },
       {
         pin: "Lake Mead National Recreation Area",
@@ -230,7 +230,7 @@ export const neighborhoodCommutes: Record<string, NeighborhoodCommuteCopy> = {
     ],
   },
   "/neighborhoods/inspirada": {
-    h3: "South Henderson rec campus first, Green Valley second — one east day",
+    h3: "South Henderson recreation campus first, Green Valley second – one east day",
     body: "Inspirada is 30–40 minutes from 9406 W Lake Mead Blvd. Tours hit the central park and amenity center, then Green Valley (previously 5 miles / about 10 minutes) if you want 35-year-old trees on the same day. Harry Reid International was 10 miles / about 15 minutes off-peak on the prior Inspirada table.",
     pins: [
       {
@@ -241,7 +241,7 @@ export const neighborhoodCommutes: Record<string, NeighborhoodCommuteCopy> = {
       {
         pin: "Inspirada Elementary / central park",
         typical: "Same stop as the amenity campus",
-        why: "Walkable rec pin — not a copied Green Valley High row",
+        why: "The recreation area is walkable and not a duplicate of Green Valley High.",
       },
       {
         pin: "Green Valley / The District",
@@ -251,38 +251,38 @@ export const neighborhoodCommutes: Record<string, NeighborhoodCommuteCopy> = {
       {
         pin: "Harry Reid International (LAS)",
         typical: "About 15 min off-peak / 20–30 min rush (10 miles)",
-        why: "I-215 / I-15 from south Henderson, not from Summerlin",
+        why: "Use I-215 and I-15 from south Henderson, not from Summerlin.",
       },
     ],
   },
   "/neighborhoods/north-las-vegas": {
-    h3: "US-95 / I-15 north: Aliante rec first, Craig Road employment second",
+    h3: "US-95 / I-15 north: Aliante recreation first, Craig Road employment second",
     body: "North Las Vegas is 20–25 minutes via US-95 / I-15 from Suite 100. Aliante recreation is the north anchor. Downtown Las Vegas was previously published at 8 miles / about 15 minutes off-peak. Nellis-area streets can change campus zones — we do not copy a downtown magnet onto this commute.",
     pins: [
       {
-        pin: "Suite 100 via US-95 / I-15",
+        pin: "Travel from Suite 100 via US-95 and I-15.",
         typical: "20–25 min",
         why: "Aliante, Craig Road, and new villages sequenced as one north tour",
       },
       {
         pin: "Aliante golf and recreation campus",
         typical: "North-tour anchor",
-        why: "Rec pin unique to NLV — not a copied Downtown Summerlin row",
+        why: "The recreation pin is unique to NLV and not copied from Downtown Summerlin",
       },
       {
-        pin: "Downtown Las Vegas / Craig Road corridor",
+        pin: "The corridor runs between Downtown Las Vegas and Craig Road",
         typical: "About 15 min off-peak / 20–30 min rush (8 miles)",
         why: "Employment commute many NLV buyers actually drive",
       },
       {
         pin: "Harry Reid International (LAS)",
         typical: "About 20 min off-peak / 30–45 min rush (15 miles)",
-        why: "North-to-airport run; longer than Henderson's 6–7 mile tables",
+        why: "The north-to-airport route is longer than Henderson's 6–7 mile tables",
       },
     ],
   },
   "/neighborhoods/mountains-edge": {
-    h3: "Southwest Beltway to Exploration Peak, then Southern Highlands if needed",
+    h3: "Southwest Beltway leads to Exploration Peak, then to Southern Highlands if needed",
     body: "Mountains Edge is 20–30 minutes via the southwest Beltway from the GBP pin. I-215 / I-15 access: Strip about 15–20 minutes, airport about 20 minutes on the unique-interior facts. Southern Highlands is the 5 mile / about 10 minute golf comparison so southwest luxury is not mixed with Exploration Peak trails by accident.",
     pins: [
       {

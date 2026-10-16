@@ -18,8 +18,8 @@ export async function generateMetadata(): Promise<Metadata> {
 export default function RiverwalkRanchPage() {
   return (
     <RiverwalkHome
-      heading="Five sections in Riverwalk Ranch"
-      lede="Estates, Manor & Estates, Crossing, High Noon, and Cove. North Las Vegas, ZIP 89031."
+      heading="Riverwalk Ranch sections in North Las Vegas"
+      lede="Riverwalk Ranch sections North Las Vegas"
       showGuideLink={false}
     />
   );

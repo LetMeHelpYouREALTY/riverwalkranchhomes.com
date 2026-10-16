@@ -22,11 +22,11 @@ import SectionPresence from "@/components/sections/SectionPresence";
 export const metadata: Metadata = pageMetadata({
   path: "/new-construction",
   title:
-    "Berkshire Hathaway HomeServices New Construction Las Vegas | Buyer's Guide",
+    "Berkshire Hathaway HomeServices New Construction Las Vegas",
   description:
     "Free buyer representation on new construction homes in Las Vegas. Dr. Jan Duffy helps you navigate builder contracts, negotiate upgrades, and secure incentives. Call (702) 222-1964.",
   keywords: [
-    "Berkshire Hathaway HomeServices new construction Las Vegas",
+    "Berkshire Hathaway HomeServices offers new construction in Las Vegas.",
     "new homes Las Vegas",
     "new construction Henderson",
     "Las Vegas builders",
@@ -66,7 +66,7 @@ const builders = [
       "Southwest (Skye Hills)",
     ],
     currentIncentives:
-      "4.99% rate buydown + $25K toward closing with Lennar Mortgage",
+      "Lennar Mortgage offers a 4.99% rate buydown and $25K toward closing.",
     incentiveDeadline: "January 31, 2026",
     highlights: [
       "Everything's Included® packages",
@@ -89,12 +89,12 @@ const builders = [
     highlights: [
       "Built to Order™ customization",
       "Energy-efficient construction",
-      "Built to Order rows in North Las Vegas",
+      "Homes are built to order in North Las Vegas.",
     ],
   },
   {
-    name: "Taylor Morrison",
-    segment: "Mid-Range to Luxury",
+    name: "Taylor Morrison builder",
+    segment: "Mid-Range to Luxury homes",
     priceRange: "$450,000 - $1,200,000",
     communities: [
       "Summerlin",
@@ -132,7 +132,7 @@ const builders = [
     priceRange: "$380,000 - $700,000",
     communities: ["North Las Vegas", "Henderson", "Southwest Las Vegas"],
     currentIncentives:
-      "Up to $15K HomeGallery credit + 5.25% rate with preferred lender",
+      "Buyers can receive up to $15K HomeGallery credit and a 5.25% rate with the preferred lender",
     incentiveDeadline: "February 28, 2026",
     highlights: [
       "PersonalizedSM options",
@@ -142,7 +142,7 @@ const builders = [
   },
   {
     name: "Shea Homes",
-    segment: "55+ & Luxury",
+    segment: "55+ and Luxury",
     priceRange: "$500,000 - $1,100,000",
     communities: ["Trilogy at Summerlin (55+)", "Trilogy at Inspirada (55+)"],
     currentIncentives: "Resort membership included + up to $40K in upgrades",

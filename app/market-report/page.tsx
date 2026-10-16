@@ -23,9 +23,9 @@ import SectionPresence from "@/components/sections/SectionPresence";
 export const metadata: Metadata = pageMetadata({
   path: "/market-report",
   title:
-    "Las Vegas Real Estate Market Report January 2026 | Berkshire Hathaway HomeServices",
+    "Las Vegas Real Estate Market Report January 2026",
   description:
-    "Get the latest Las Vegas real estate market statistics for January 2026. Median prices, days on market, inventory levels, and expert analysis from Berkshire Hathaway HomeServices Nevada Properties.",
+    "The latest Las Vegas real estate market statistics for January 2026 are available. Median prices, days on market, inventory levels, and expert analysis are provided by Berkshire Hathaway HomeServices Nevada Properties.",
   keywords: [
     "Las Vegas real estate market",
     "Las Vegas home prices 2026",
@@ -151,7 +151,7 @@ export default function MarketReportPage() {
                 <ul className="space-y-2 text-slate-600">
                   <li>• More inventory = more choices</li>
                   <li>• Negotiating power is returning</li>
-                  <li>• Interest rates stabilizing around 6.5%</li>
+                  <li>Interest rates are stabilizing around 6.5%</li>
                   <li>• New construction offering incentives</li>
                 </ul>
               </div>

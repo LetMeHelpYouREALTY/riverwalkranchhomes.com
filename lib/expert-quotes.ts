@@ -17,7 +17,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
       "From Suite 100 we time one west loop and one Henderson loop. Summerlin is 10–15 minutes. Green Valley is 25–35. You compare parking, trees, and rec campuses — not a slogan. Call (702) 222-1964 with two ZIPs.",
   },
   "/neighborhoods/summerlin": {
-    h2: "Which Summerlin village I drive first from Suite 100",
+    h2: "Which Summerlin village is reached first from Suite 100?",
     quote:
       "I start in The Trails or Pueblo, then Downtown Summerlin if retail is on the brief. Red Rock trailheads are the same west clock. Palo Verde High School commute minutes are mapped to the listing before we leave 9406 W Lake Mead Blvd.",
   },
@@ -47,7 +47,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
       "Green Valley is 25–35 minutes via I-215 east. 35-year street trees and The District are the point of the drive. Green Valley High School and Coronado High School are named campuses. We do not run a Summerlin retail day on the same afternoon.",
   },
   "/neighborhoods/henderson": {
-    h2: "Two Henderson villages, one east afternoon",
+    h2: "Two Henderson villages visited in one east afternoon",
     quote:
       "I pick Green Valley trees or Inspirada rec — not both plus Water Street on the first east day. Suite 100 is 25–35 minutes west. Square footage, HOA dues, and park acreage are the comparison points. Call (702) 222-1964 with the commute target.",
   },
@@ -57,12 +57,12 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
       "Inspirada is 30–40 minutes from Suite 100. Walk the resort pool and trail loop before Toll Brothers or Lennar rows if you have not registered Dr. Jan. St. Rose Siena is the hospital pin on that Henderson clock.",
   },
   "/neighborhoods/north-las-vegas": {
-    h2: "Aliante first when the ZIP is North Las Vegas",
+    h2: "Aliante visited first when ZIP is North Las Vegas",
     quote:
       "This is not a Summerlin retail swap. Aliante rec and Craig Road employers are the first pins. Legacy High School is mapped by street at ccsd.net/zoning. North Vista Hospital is the hospital check. Call (702) 222-1964.",
   },
   "/neighborhoods/mountains-edge": {
-    h2: "Walk Exploration Peak before the mall caption",
+    h2: "Walk Exploration Peak before visiting the mall",
     quote:
       "Exploration Peak is about 120 acres. I walk a trail before Mountains Edge Marketplace so the park is not a listing photo. Southern Hills Hospital is about 10 minutes. I-15/Blue Diamond is the commute pin from Suite 100.",
   },
@@ -74,7 +74,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/55-plus-communities/sun-city-summerlin": {
     h2: "One rec building and one course — not 7,700 homes in a blur",
     quote:
-      "Mountain Shadows, Sun Shadows, Pinnacle, and Desert Vista are four rec campuses. Highland Falls, Palm Valley, and Eagle Crest are three courses. I pick one of each per visit. Suite 100 is 10–15 minutes.",
+      "Four recreation campuses—Mountain Shadows, Sun Shadows, Pinnacle, and Desert Vista—are near Suite 100. Highland Falls, Palm Valley, and Eagle Crest are three courses. I select one campus and one course per visit. Suite 100 is 10–15 minutes away.",
   },
   "/55-plus-communities/sun-city-anthem": {
     h2: "Anthem Center first — 64,000 sq ft before any golf add-on",
@@ -87,7 +87,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
       "Trilogy sits 10–20 minutes from Suite 100. Rec is clubhouse-scale: restaurant, spa, pool terrace. I do not mix this with a Henderson Anthem day. Call (702) 222-1964 to sequence the west-valley stop.",
   },
   "/55-plus-communities/heritage-stonebridge": {
-    h2: "Staffed gate, then Downtown Summerlin",
+    h2: "Staffed gate leading to Downtown Summerlin",
     quote:
       "Heritage is about 1,100 homes, not 7,700. Vendor lists and guest rules stay in the HOA packet. After the gate we can add Downtown Summerlin on the same west clock. Codes stay off group texts.",
   },
@@ -97,7 +97,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
       "Solera occupancy is all residents 55+, not HOPA 80/20. Rec is the Solera clubhouse, not the 64,000 sq ft Anthem Center unless the brief adds it. St. Rose / Henderson Hospital sit on the east clock.",
   },
   "/55-plus-communities/sun-city-aliante": {
-    h2: "North Las Vegas rec — not a Summerlin clone",
+    h2: "North Las Vegas not a Summerlin clone",
     quote:
       "Aliante rec and golf sit with Craig Road employers. I do not pair this with Sun City Summerlin the same afternoon. Suite 100 is a west-valley start; the northwest loop is its own drive. Call (702) 222-1964.",
   },
@@ -109,7 +109,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/": {
     h2: "Same-day routing starts at the Maps pin, not a call center",
     quote:
-      "Buyer and seller appointments start at 9406 W Lake Mead Blvd, Suite 100. Summerlin first, Henderson second, so you are not crisscrossing I-15. Call or text (702) 222-1964. The office line on Google is (702) 500-1942.",
+      "Appointments begin at 9406 W Lake Mead Blvd, Suite 100. Summerlin is first, Henderson second, so you avoid crisscrossing I-15. Call or text (702) 222-1964. The office line on Google is (702) 500-1942.",
   },
   "/about": {
     h2: "License S.0197614.LLC appointments are at Suite 100",
@@ -154,7 +154,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/new-construction": {
     h2: "Do not walk a model unescorted — register Dr. Jan first",
     quote:
-      "Most builders require Dr. Jan on the first visit. Registration happens at Suite 100, then Skye Canyon, Inspirada, or Mountains Edge rows. Call (702) 222-1964 before you walk a model unescorted.",
+      "Most builders require Dr. Jan on the first visit. Registration occurs at Suite 100, then Skye Canyon, Inspirada, or Mountains Edge rows. Call (702) 222-1964 before walking a model unescorted.",
   },
   "/buyers": {
     h2: "Pre-approval and first-tour routing at one desk",
@@ -212,7 +212,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
       "North Las Vegas, Henderson, and southwest ZIP clusters are not interchangeable. We check HOA rental caps at Suite 100 before we tour. Call (702) 222-1964 with the APN list.",
   },
   "/luxury-homes": {
-    h2: "Ridges, Highlands, or Lake Las Vegas — pick the first gate",
+    h2: "Which community—Ridges, Highlands, or Lake Las Vegas—offers the first gate?",
     quote:
       "Photography and gate access are scheduled from Suite 100, not improvised on site. Square footage and HOA dues beat slogans. Call (702) 222-1964. Discretion on addresses is the default.",
   },
