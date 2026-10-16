@@ -69,8 +69,8 @@ export const nap = {
   shortName: "Dr. Jan Duffy",
   brokerage: "Berkshire Hathaway HomeServices Nevada Properties",
   license: "S.0197614.LLC",
-  email: "homes@heyberkshire.com",
-  emailHref: "mailto:homes@heyberkshire.com",
+  email: "DrDuffySells@RiverwalkRanchHomes.com",
+  emailHref: "mailto:DrDuffySells@RiverwalkRanchHomes.com",
   street: "9406 W Lake Mead Blvd, Suite 100",
   city: "Las Vegas",
   state: "NV",
@@ -149,7 +149,12 @@ export const socialProfiles = {
 export const realscout = {
   agentEncodedId: "QWdlbnQtMjI1MDUw",
   searchUrl: "https://drjanduffy.realscout.com/",
-  scriptSrc: "https://em.realscout.com/widgets/realscout-web-components.esm.js",
+  scriptSrc: "https://em.realscout.com/widgets/realscout-web-components.umd.js",
+  officeListings: {
+    sortOrder: "STATUS_AND_SIGNIFICANT_CHANGE",
+    listingStatus: "For Sale",
+    propertyTypes: "SFR,MF,OTHER",
+  },
 } as const;
 
 export const calendly = {

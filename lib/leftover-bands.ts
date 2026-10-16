@@ -316,7 +316,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Padlock on heyberkshire.com, then the Suite 100 pin — phishing stays off this file",
-      body: "Confirm the domain and HTTPS before you send documents. Email homes@heyberkshire.com. Call (702) 222-1964. Do not change wiring from a text that is not this number.",
+      body: "Confirm the domain and HTTPS before you send documents. Email DrDuffySells@RiverwalkRanchHomes.com. Call (702) 222-1964. Do not change wiring from a text that is not this number.",
       pins: [
         {
           name: "Correct domain",
@@ -328,7 +328,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Documents",
-          note: "homes@heyberkshire.com. Never listing keys or off-platform wire instructions.",
+          note: "DrDuffySells@RiverwalkRanchHomes.com. Never listing keys or off-platform wire instructions.",
         },
         {
           name: "Walk-in",
@@ -1587,7 +1587,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
           note: "Dr. Jan answers this line. Do not swap it with the office number on Google.",
         },
         {
-          name: "homes@heyberkshire.com",
+          name: "DrDuffySells@RiverwalkRanchHomes.com",
           note: "Documents only. Do not send listing keys by unsecured email.",
         },
         {
@@ -1601,8 +1601,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Call the client line or email homes@heyberkshire.com from this URL",
-      body: "Skip a second form if you already have the number. Call or text (702) 222-1964. Email homes@heyberkshire.com. Calendly is the appointment column on this page. Office/GBP (702) 500-1942.",
+      h2: "Call the client line or email DrDuffySells@RiverwalkRanchHomes.com from this URL",
+      body: "Skip a second form if you already have the number. Call or text (702) 222-1964. Email DrDuffySells@RiverwalkRanchHomes.com. Calendly is the appointment column on this page. Office/GBP (702) 500-1942.",
       pins: [
         {
           name: "Client CTA",
@@ -1610,7 +1610,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Email",
-          note: "homes@heyberkshire.com. Typical reply within two hours during posted hours.",
+          note: "DrDuffySells@RiverwalkRanchHomes.com. Typical reply within two hours during posted hours.",
         },
         {
           name: "Calendly column",
@@ -2330,7 +2330,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Email",
-          note: "homes@heyberkshire.com for documents. Do not send listing keys by unsecured email.",
+          note: "DrDuffySells@RiverwalkRanchHomes.com for documents. Do not send listing keys by unsecured email.",
         },
         {
           name: "Maps pin",

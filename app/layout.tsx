@@ -21,6 +21,7 @@ import {
 } from "@/lib/schema";
 import { generateLocalBusinessSchema } from "@/lib/gbp-schema";
 import { realscout, nap, resolveSiteUrl } from "@/lib/contact";
+import CalendlyFloatingBadge from "@/components/calendly/CalendlyFloatingBadge";
 import {
   isRiverwalkHost,
   RIVERWALK_BRAND,
@@ -48,6 +49,9 @@ export async function generateMetadata(): Promise<Metadata> {
     robots: hostKnown
       ? { index: true, follow: true }
       : { index: false, follow: false },
+    verification: process.env.GOOGLE_SITE_VERIFICATION
+      ? { google: process.env.GOOGLE_SITE_VERIFICATION }
+      : undefined,
     alternates: { canonical },
     openGraph: {
       type: "website",
@@ -93,6 +97,13 @@ export default async function RootLayout({
           rel="stylesheet"
           href="https://assets.calendly.com/assets/external/widget.css"
         />
+        <script src={realscout.scriptSrc} type="module" />
+        <style>{`
+          realscout-office-listings {
+            --rs-listing-divider-color: rgb(101, 141, 172);
+            width: 100%;
+          }
+        `}</style>
       </head>
       <body className="bg-white text-slate-900 antialiased pb-16 md:pb-0">
         <SkipLink />
@@ -103,11 +114,7 @@ export default async function RootLayout({
         <MobileStickyCTA />
         <AIChatWidget />
         <Analytics />
-        <Script
-          src={realscout.scriptSrc}
-          type="module"
-          strategy="afterInteractive"
-        />
+        <CalendlyFloatingBadge />
         <Script
           src="https://assets.calendly.com/assets/external/widget.js"
           strategy="afterInteractive"

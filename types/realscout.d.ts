@@ -8,6 +8,29 @@ declare namespace JSX {
       },
       HTMLElement
     >;
+    "realscout-advanced-search": React.DetailedHTMLProps<
+      React.HTMLAttributes<HTMLElement> & {
+        "agent-encoded-id": string;
+      },
+      HTMLElement
+    >;
+    "realscout-your-listings": React.DetailedHTMLProps<
+      React.HTMLAttributes<HTMLElement> & {
+        "agent-encoded-id"?: string;
+        "sort-order"?: string;
+        "listing-status"?: string;
+        "property-types"?: string;
+      },
+      HTMLElement
+    >;
+    "realscout-home-value": React.DetailedHTMLProps<
+      React.HTMLAttributes<HTMLElement> & {
+        "agent-encoded-id": string;
+        "include-name"?: string;
+        "include-phone"?: string;
+      },
+      HTMLElement
+    >;
     "realscout-office-listings": React.DetailedHTMLProps<
       React.HTMLAttributes<HTMLElement> & {
         "agent-encoded-id"?: string;

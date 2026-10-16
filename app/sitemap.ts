@@ -1,8 +1,10 @@
 import { MetadataRoute } from "next";
-import { SITE_URL } from "@/lib/contact";
+import { headers } from "next/headers";
+import { resolveSiteUrl } from "@/lib/contact";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = SITE_URL;
+  const host = headers().get("x-domain") || headers().get("host");
+  const baseUrl = resolveSiteUrl(host);
   const lastModified = new Date();
 
   // Core pages
@@ -46,6 +48,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     {
       url: `${baseUrl}/google-business`,
       priority: 0.9,
+      changeFrequency: "monthly" as const,
+    },
+    {
+      url: `${baseUrl}/faq`,
+      priority: 0.7,
       changeFrequency: "monthly" as const,
     },
     {

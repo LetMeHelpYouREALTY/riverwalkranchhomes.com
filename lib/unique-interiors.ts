@@ -243,7 +243,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/contact": {
     h2: "Walk-in desk and Calendly showings from the same pin",
-    body: "Walk-ins during posted hours are welcome at Suite 100. Calendly showings can start here and continue to the property. Email homes@heyberkshire.com for documents; do not send listing keys by unsecured email.",
+    body: "Walk-ins during posted hours are welcome at Suite 100. Calendly showings can start here and continue to the property. Email DrDuffySells@RiverwalkRanchHomes.com for documents; do not send listing keys by unsecured email.",
     facts: [
       "Address: 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134",
       "Call or text (702) 222-1964 · office (702) 500-1942",
@@ -293,7 +293,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     h2: "Showing access and data questions stay at Suite 100",
     body: "Privacy, lockbox, and showing-access questions are handled at the office. We do not collect listing keys by unsecured email.",
     facts: [
-      "Email homes@heyberkshire.com for written policy questions",
+      "Email DrDuffySells@RiverwalkRanchHomes.com for written policy questions",
       "Office (702) 500-1942 matches GBP · CTA (702) 222-1964",
       "Address: 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134",
     ],
