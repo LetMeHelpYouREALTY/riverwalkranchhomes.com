@@ -28,7 +28,7 @@ const faqs = [
   {
     question: "What are the sections?",
     answer:
-      "Riverwalk Ranch Estates, Manor & Estates, Crossing, High Noon, and Cove. Crossing is gated, with a park, playground, and paths, and an HOA near $120 a month. High Noon is attached homes at 6111 Towboat St. Asking ranges and one MLS example are on the section guide, dated October 16, 2026.",
+      "Riverwalk Ranch includes Riverwalk Ranch Estates, Manor & Estates, Crossing, High Noon, and Cove. Crossing is gated and has a park, playground, and paths. The HOA fee is near $120 a month. High Noon consists of attached homes at 6111 Towboat St. Asking ranges and one MLS example are on the section guide dated October 16, 2026.",
   },
   {
     question: "How far is Riverwalk Ranch from the Strip?",

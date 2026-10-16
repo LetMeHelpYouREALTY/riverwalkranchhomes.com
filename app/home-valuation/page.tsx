@@ -17,9 +17,9 @@ import SectionPresence from "@/components/sections/SectionPresence";
 export const metadata: Metadata = pageMetadata({
   path: "/home-valuation",
   title:
-    "Free Home Valuation Las Vegas | What's Your Home Worth? | Berkshire Hathaway HomeServices",
+    "Free Home Valuation Las Vegas | Dr. Jan Duffy",
   description:
-    "Get a free, accurate home valuation in Las Vegas from Dr. Jan Duffy at Berkshire Hathaway HomeServices. Expert CMA analysis for Summerlin, Henderson, Green Valley & all Las Vegas neighborhoods. Call (702) 222-1964.",
+    "Free home valuation is available in Las Vegas from Dr. Jan Duffy. Expert CMA analysis from Berkshire Hathaway HomeServices covers Summerlin, Henderson, Green Valley and all Las Vegas neighborhoods. Call (702) 222-1964.",
   keywords: [
     "home valuation Las Vegas",
     "what is my home worth Las Vegas",

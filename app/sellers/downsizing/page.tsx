@@ -288,7 +288,7 @@ export default function DownsizingPage() {
                       amenity: "Lake access",
                     },
                     {
-                      name: "Solera at Anthem",
+                      name: "Solera at Anthem overview",
                       price: "$375K-$550K",
                       hoa: "$140-$180",
                       amenity: "Smaller, intimate",
@@ -338,9 +338,7 @@ export default function DownsizingPage() {
                   <li className="flex items-start">
                     <DollarSign className="h-5 w-5 text-green-500 mr-2 mt-0.5 flex-shrink-0" />
                     <div>
-                      <strong>HOA Fees:</strong> 55+ communities range from
-                      $140-$250/month. Ensure you understand what's included
-                      (landscaping, exterior maintenance, amenities).
+                      <strong>HOA Fees:</strong> 55+ communities cost $140 to $250 per month and include landscaping, exterior maintenance, and amenities.
                     </div>
                   </li>
                   <li className="flex items-start">
@@ -377,9 +375,7 @@ export default function DownsizingPage() {
                   <li className="flex items-start">
                     <Users className="h-5 w-5 text-blue-500 mr-2 mt-0.5 flex-shrink-0" />
                     <div>
-                      <strong>Healthcare Access:</strong> Proximity to hospitals
-                      matters. Summerlin Hospital, Henderson Hospital, and
-                      Centennial Hills Hospital serve different areas.
+                      <strong>Healthcare Access:</strong> Proximity to hospitals matters; Summerlin Hospital, Henderson Hospital, and Centennial Hills Hospital serve different areas.
                     </div>
                   </li>
                   <li className="flex items-start">

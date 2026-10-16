@@ -42,11 +42,11 @@ export const intentFaqs: Record<string, IntentFaqCopy> = {
     items: [
       {
         q: "What does a three-day inbound itinerary look like from Suite 100?",
-        a: "Day 1 Summerlin (10–15 minutes from 9406 W Lake Mead Blvd). Day 2 Henderson (25–35 minutes via I-215 east). Day 3 55+ or new construction if that is the brief. Video first is possible; the tour week still starts here. Call (702) 222-1964.",
+        a: "Day 1 in Summerlin is 10 to 15 minutes from 9406 W Lake Mead Blvd. Day 2 in Henderson is 25 to 35 minutes via I-215 east. Day 3 can focus on 55+ or new construction if that is the brief. Video first is possible. The tour week still starts here. Call (702) 222-1964.",
       },
       {
         q: "Which named campuses do we time on Day 1 vs Day 2?",
-        a: "Day 1: Palo Verde High School commute checks in Summerlin. Day 2: Coronado High School or Green Valley High School by street in Henderson. Confirm the listing address at ccsd.net/zoning. No ratings.",
+        a: "Day 1 checks the Palo Verde High School commute in Summerlin. Day 2 checks the Coronado High School or Green Valley High School commute by street in Henderson. Confirm the listing address at ccsd.net/zoning. No ratings.",
       },
       {
         q: "What Nevada vs California cost facts did this page last publish?",
@@ -54,7 +54,7 @@ export const intentFaqs: Record<string, IntentFaqCopy> = {
       },
       {
         q: "Do you coordinate the origin-city sale through BHHS?",
-        a: "Yes. Destination and origin agents are briefed from this office so both contracts share a calendar. Call (702) 222-1964. Berkshire Hathaway HomeServices Nevada Properties is at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
+        a: "Yes, destination and origin agents are briefed from this office. Call (702) 222-1964. Berkshire Hathaway HomeServices Nevada Properties is at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
       },
     ],
   },
@@ -96,7 +96,7 @@ export const intentFaqs: Record<string, IntentFaqCopy> = {
       },
       {
         q: "Which builder corridors do we pick per tour day?",
-        a: "One corridor per day: northwest (Skye Canyon) or south Henderson (Inspirada/Cadence), not both. Registration first, models second. Call (702) 222-1964.",
+        a: "Only one corridor may be shown per day: either the northwest corridor at Skye Canyon or the south Henderson corridor at Inspirada Cadence, not both. Register first, then view models. Call (702) 222-1964.",
       },
     ],
   },

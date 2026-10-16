@@ -26,11 +26,11 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
     h2: "Which two villages should we time from Suite 100 first?",
     items: [
       {
-        q: "Which Las Vegas neighborhoods should I compare first from the office pin?",
-        a: "Start with commute from 9406 W Lake Mead Blvd, Suite 100, then HOA dues and home size. Summerlin villages are typically 10–15 minutes. Green Valley is a 25–35 minute I-215 east run. January 2026 medians already published on those pages: Summerlin about $625,000, Henderson about $485,000, North Las Vegas about $385,000. Call (702) 222-1964.",
+        q: "Las Vegas neighborhoods to compare from office pin",
+        a: "Begin with the commute from the office at 9406 W Lake Mead Blvd Suite 100. Then consider HOA dues and home size. Summerlin villages are typically 10–15 minutes. Green Valley is a 25–35 minute I-215 east run. January 2026 medians are published on those pages: Summerlin about $625,000, Henderson about $485,000, North Las Vegas about $385,000. Call (702) 222-1964.",
       },
       {
-        q: "Can Dr. Jan Duffy tour more than one village in a day?",
+        q: "Dr. Jan Duffy tours per day",
         a: "Yes. Call (702) 222-1964 to book a clustered tour. Berkshire Hathaway HomeServices Nevada Properties is at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. We pair a west-valley loop with one east or northwest block so you are not recrossing the valley twice.",
       },
       {
@@ -60,19 +60,19 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
       },
       {
         q: "What makes a Summerlin loop different from a Henderson day?",
-        a: "Summerlin is a west-valley loop from the GBP office pin: 150+ parks, 150+ miles of trails, Palo Verde High School, and Red Rock trailheads. Henderson is a 25–35 minute I-215 east run with Green Valley High School or Coronado High School timed by street. Call (702) 222-1964 to book one afternoon, not two slogans.",
+        a: "Summerlin is a west-valley loop from the GBP office pin. It includes 150+ parks, 150+ miles of trails, Palo Verde High School, and Red Rock trailheads. Henderson is a 25–35 minute I-215 east run with Green Valley High School or Coronado High School timed by street. Call (702) 222-1964 to book one afternoon, not two slogans.",
       },
     ],
   },
   "/neighborhoods/the-ridges": {
-    h2: "Ridges gate-list questions — not a copied Summerlin FAQ",
+    h2: "Ridges gate-list questions",
     items: [
       {
         q: "Do Ridges showings start at the gate or at Suite 100?",
         a: "Both. Gate lists and off-market windows are confirmed at 9406 W Lake Mead Blvd, Suite 100. The drive to the guardhouse is typically 15–20 minutes. We do not text estate addresses on unsecured threads. Call (702) 222-1964.",
       },
       {
-        q: "What January 2026 median was published for The Ridges?",
+        q: "What was the January 2026 median home price for The Ridges?",
         a: "As of January 2026, The Ridges median home price is $2.5 million. Properties range from $1.5 million for smaller homes to over $15 million for custom estates with Strip and Red Rock views. Confirm live MLS before you tour.",
       },
       {
@@ -80,20 +80,20 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
         a: "About 900 home sites across six villages, with 24/7 guard-gated check-in and architectural guidelines. We sequence gate windows from Suite 100 so you are not sitting in valley traffic between ridge streets.",
       },
       {
-        q: "Is Henderson Executive Airport on the Ridges commute map?",
+        q: "Is Henderson Executive Airport included on The Ridges commute map?",
         a: "Yes. The prior Ridges table put HND at about 12 miles / 18 minutes. Harry Reid International (LAS) is a separate 18 mile / about 25 minute row. Downtown Summerlin is about 8 minutes from the gates after the ridge loop.",
       },
     ],
   },
   "/neighborhoods/southern-highlands": {
-    h2: "I-15 south questions: clubhouse, Harry Reid, and Suite 100",
+    h2: "I-15 South: clubhouse, Harry Reid, and Suite 100 details",
     items: [
       {
-        q: "How far is Southern Highlands from the Lake Mead Blvd office versus Harry Reid?",
+        q: "How far is Southern Highlands from the Lake Mead Blvd office compared to Harry Reid?",
         a: "The office run is 25–35 minutes via I-15 south from Suite 100. Once you are on I-15, Harry Reid International was previously published at about 10 miles / 15 minutes off-peak. The Strip was about 8 miles / 12 minutes off-peak. Call (702) 222-1964 to keep golf and ridge streets in one south-valley block.",
       },
       {
-        q: "What January 2026 median was published for Southern Highlands?",
+        q: "What was the January 2026 median home price for Southern Highlands?",
         a: "As of January 2026, Southern Highlands' median home price is $750,000, up 7.2% year-over-year. Prices range from $500,000 for non-gated homes to over $3 million in guard-gated sections. Confirm live MLS with Dr. Jan Duffy.",
       },
       {
@@ -101,34 +101,34 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
         a: "Yes. Southern Highlands Golf Club (Robert Trent Jones Jr. course, private membership and clubhouse dining) is the first stop on the showing sheet. Fairway vs ridge-top lots are compared on the same I-15 block so you are not recrossing the valley.",
       },
       {
-        q: "Is every Southern Highlands street zoned to Coronado High School?",
-        a: "No. Coronado High School is a Henderson campus. Named southwest campuses on this page include Liberty High School, Sierra Vista High School, and Janet Lundahl Elementary. Confirm the listing street at ccsd.net/zoning before we write an offer.",
+        q: "Are all Southern Highlands streets zoned to Coronado High School?",
+        a: "No. Coronado High School is a Henderson campus. Named southwest campuses include Liberty High School, Sierra Vista High School, and Lundahl Elementary. Confirm the listing street at ccsd.net/zoning before we write an offer.",
       },
     ],
   },
   "/neighborhoods/skye-canyon": {
-    h2: "Skye Canyon registration, Floyd Lamb, and the 2027 elementary",
+    h2: "Skye Canyon registration, Floyd Lamb, and 2027 school",
     items: [
       {
-        q: "Do I register at Suite 100 before walking Skye Canyon models?",
+        q: "Do I register at Suite 100 before touring Skye Canyon models?",
         a: "Yes. Builder registration happens at 9406 W Lake Mead Blvd, Suite 100 first. The 215 northwest run is typically 20–25 minutes. Then we walk model rows and adjacent resales without a second freeway hop. Call (702) 222-1964.",
       },
       {
-        q: "What January 2026 median was published for Skye Canyon?",
+        q: "What median was published for Skye Canyon in January 2026?",
         a: "As of January 2026, Skye Canyon's median home price is $550,000, up 5.5% year-over-year. New construction ranges from $450,000 to $800,000, with resales across other price points. Confirm live MLS before a model visit.",
       },
       {
-        q: "What is Skye Center, and how close is Floyd Lamb Park?",
+        q: "What is Skye Center and how close is it to Floyd Lamb Park?",
         a: "Skye Center is a 15-acre amenity campus with resort-style pools, fitness, sports courts, and event lawn. Floyd Lamb Park is adjacent — about 5 minutes on the prior commute table. Trails connect the villages to that park pin.",
       },
       {
         q: "When did CCSD break ground on the Skye Canyon elementary?",
-        a: "The Las Vegas Sun reported 2026-06-24 groundbreaking at North Shaumber Road and Skye Canyon Park Drive, planned to open August 2027. Until then, northwest tours map Shadow Ridge High School by listing address at ccsd.net/zoning.",
+        a: "The Las Vegas Sun reported a groundbreaking on 2026-06-24 at North Shaumber Road and Skye Canyon Park Drive, with opening planned for August 2027. Until then, northwest tours map Shadow Ridge High School using the address listed at ccsd.net/zoning.",
       },
     ],
   },
   "/neighborhoods/centennial-hills": {
-    h2: "US-95 questions: park loop, Arbor View, and Suite 100",
+    h2: "US-95 park loop, Arbor View, and Suite 100",
     items: [
       {
         q: "Is Centennial Hills a US-95 loop from Suite 100 or a 215 hop?",
@@ -149,7 +149,7 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
     ],
   },
   "/neighborhoods/green-valley": {
-    h2: "The District midpoint — Green Valley questions that are not a Summerlin FAQ",
+    h2: "What is the District midpoint for Green Valley?",
     items: [
       {
         q: "Do Green Valley tours meet at The District or at Lake Mead Blvd?",
@@ -181,12 +181,12 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
         a: "As of January 2026, Henderson's median home price is $485,000, up 5.1% from last year. Prices range from $350,000 for condos to over $2 million in MacDonald Highlands. Village-level inventory is tighter than a city median — confirm live MLS.",
       },
       {
-        q: "Which Henderson villages do you actually sequence?",
-        a: "Green Valley (mature trees, The District), Inspirada (town center and rec campus), MacDonald Highlands (custom estates), Anthem (recreation campuses), and Lake Las Vegas (waterfront). Each has its own commute and HOA — they are not interchangeable.",
+        q: "Henderson villages sequencing guide",
+        a: "The villages are Green Valley (mature trees, The District), Inspirada (town center and recreation campus), MacDonald Highlands (custom estates), Anthem (recreation campuses), and Lake Las Vegas (waterfront). Each has its own commute and HOA and they are not interchangeable.",
       },
       {
         q: "Which named high schools do Henderson tours map?",
-        a: "Coronado High School, Green Valley High School, Foothill High School, and Basic Academy. Vanderburg and Wolff are Green Valley-area elementaries we time in 89012/89014. No ratings — campus names and drive times only, then ccsd.net/zoning.",
+        a: "The high schools are Coronado High School, Green Valley High School, Foothill High School, and Basic Academy. Vanderburg and Wolff are Green Valley-area elementary schools in ZIP 89012/89014. No ratings — campus names and drive times only, then ccsd.net/zoning.",
       },
     ],
   },
@@ -194,7 +194,7 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
     h2: "Inspirada rec campus vs Green Valley trees — same east day",
     items: [
       {
-        q: "Is Inspirada a same-day add-on after Green Valley from Suite 100?",
+        q: "Inspirada add-on after Green Valley from Suite 100",
         a: "Yes. Inspirada is 30–40 minutes from 9406 W Lake Mead Blvd. Green Valley was previously about 5 miles / 10 minutes from Inspirada streets. Tours hit the central park and amenity campus, then The District if you want 35-year-old trees the same afternoon. Call (702) 222-1964.",
       },
       {
@@ -212,14 +212,14 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
     ],
   },
   "/neighborhoods/north-las-vegas": {
-    h2: "Aliante rec, Craig Road jobs, and Suite 100 — not a downtown FAQ",
+    h2: "Aliante recreation and Craig Road jobs from Suite 100",
     items: [
       {
-        q: "Is Aliante sequenced with Craig Road from Suite 100?",
+        q: "Aliante sequencing with Craig Road from Suite 100",
         a: "Yes. North Las Vegas is 20–25 minutes via US-95 / I-15 from 9406 W Lake Mead Blvd. Aliante recreation is the north anchor; Craig Road employment corridors and new-construction villages are sequenced on the same tour. Call (702) 222-1964.",
       },
       {
-        q: "What January 2026 median was published for North Las Vegas?",
+        q: "January 2026 median for North Las Vegas",
         a: "As of January 2026, North Las Vegas' median home price is $385,000. Newer product often lists from the $320,000s, with new construction commonly $380,000 to $550,000 on this page. Confirm live MLS. Rental-yield figures on older copy are not a live cap-rate quote.",
       },
       {
@@ -227,16 +227,16 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
         a: "Lennar, KB Home, Richmond American, and Century Communities appear on recent north-valley sheets. Villages we group include Aliante, Tule Springs, Valley Vista, and Camino Al Norte. Register Dr. Jan as buyer agent at Suite 100 before models.",
       },
       {
-        q: "Which named campuses do North Las Vegas tours map?",
+        q: "Which campuses are included on North Las Vegas tour maps?",
         a: "Canyon Springs High School, Legacy High School, and Aliante Elementary by listing address. Mabel Hoggard Elementary is a downtown magnet, not an NLV zoned default. Nellis-area streets can pull different feeders — ccsd.net/zoning first.",
       },
     ],
   },
   "/neighborhoods/mountains-edge": {
-    h2: "Exploration Peak first — southwest FAQ that is not a Summerlin clone",
+    h2: "How does Exploration Peak differ from Summerlin?",
     items: [
       {
-        q: "Do Mountains Edge tours start at Exploration Peak or at Suite 100?",
+        q: "Do Mountains Edge tours begin at Exploration Peak or Suite 100?",
         a: "Suite 100 first (20–30 minutes via the southwest Beltway), then Exploration Peak Park as the trailhead pin on the same showing block. Call (702) 222-1964. Southern Highlands Golf Club is about 5 miles / 10 minutes if you want a southwest golf comparison the same day.",
       },
       {
@@ -248,7 +248,7 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
         a: "Unique-interior facts on this site: Strip about 15–20 minutes, airport about 20 minutes via I-215 / I-15. The prior table put Harry Reid International at about 12 miles / 18 minutes off-peak. We re-time the listing street before we leave.",
       },
       {
-        q: "Which named campuses sit on the Mountains Edge loop?",
+        q: "Which campuses are located on the Mountains Edge loop?",
         a: "Sierra Vista High School, Liberty High School, and Mark L. Stuckey Elementary. Del E. Webb Middle School is a Henderson campus — we only add it when CCSD shows that street. Confirm at ccsd.net/zoning.",
       },
     ],

@@ -12,7 +12,7 @@ export const siteConfig = {
   shortName: "BHHS",
   url: "https://www.heyberkshire.com",
   description:
-    "Expert real estate services in Las Vegas and Henderson, NV. Buy, sell, or invest with Dr. Jan Duffy, your trusted Berkshire Hathaway HomeServices Nevada Properties agent.",
+    "Expert real estate services are available in Las Vegas and Henderson, NV. Buy, sell, or invest with Dr. Jan Duffy, your trusted Berkshire Hathaway HomeServices Nevada Properties agent.",
 };
 
 export const agentInfo = {
@@ -173,7 +173,7 @@ export const neighborhoods = [
   {
     name: "Skye Canyon",
     slug: "skye-canyon",
-    description: "Newer master-planned community in northwest Las Vegas",
+    description: "It is a newer master-planned community in northwest Las Vegas.",
     medianPrice: "$550,000",
     highlights: [
       "New homes",
@@ -185,7 +185,7 @@ export const neighborhoods = [
   {
     name: "Centennial Hills",
     slug: "centennial-hills",
-    description: "Northwest Las Vegas community with mountain proximity",
+    description: "It is a northwest Las Vegas community with mountain proximity.",
     medianPrice: "$495,000",
     highlights: ["Mountain access", "Parks", "Shopping", "Recreation centers"],
   },
@@ -256,7 +256,7 @@ export const services = [
     icon: "Truck",
   },
   {
-    name: "Home Valuation",
+    name: "Home valuation services",
     slug: "home-valuation",
     description: "Free property valuations using current market data",
     icon: "Calculator",
@@ -264,7 +264,7 @@ export const services = [
   {
     name: "Market Analysis",
     slug: "market-report",
-    description: "In-depth Las Vegas real estate market insights",
+    description: "Las Vegas real estate market insights are detailed.",
     icon: "BarChart",
   },
 ];
@@ -291,7 +291,7 @@ export const commonFAQs = {
     },
     {
       question:
-        "What areas does Berkshire Hathaway HomeServices Nevada Properties cover?",
+        "What areas does Berkshire Hathaway HomeServices serve?",
       answer:
         "BHHS Nevada Properties serves all of Las Vegas, Henderson, North Las Vegas, and surrounding areas, with specialized expertise in Summerlin, The Ridges, Skye Canyon, Southern Highlands, Green Valley, and Henderson's master-planned communities.",
     },
@@ -325,7 +325,7 @@ export const commonFAQs = {
   ],
   selling: [
     {
-      question: "What is my home worth in today's Las Vegas market?",
+      question: "What is my home worth in the Las Vegas market?",
       answer:
         "Home values depend on location, condition, size, and recent comparable sales. Dr. Jan provides free, comprehensive home valuations using current MLS data and her expertise serving Las Vegas since 2008.",
     },

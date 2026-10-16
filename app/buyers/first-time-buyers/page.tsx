@@ -27,14 +27,14 @@ export const metadata: Metadata = pageMetadata({
   path: "/buyers/first-time-buyers",
   title: "First-Time Home Buyers Las Vegas | Berkshire Hathaway HomeServices",
   description:
-    "First-time buyer in Las Vegas? Down payment assistance, builder incentives, and expert guidance from Dr. Jan Duffy at Berkshire Hathaway HomeServices. Call (702) 222-1964.",
+    "First-time buyers in Las Vegas can get down payment assistance, builder incentives, and expert guidance from Dr. Jan Duffy at Berkshire Hathaway HomeServices. Call (702) 222-1964.",
   keywords: [
     "first time home buyer Las Vegas",
     "first time buyer Nevada",
     "down payment assistance Las Vegas",
     "FHA loans Las Vegas",
     "VA loans Las Vegas",
-    "Berkshire Hathaway HomeServices first time buyer",
+    "Berkshire Hathaway HomeServices supports first-time home buyers.",
   ],
 });
 

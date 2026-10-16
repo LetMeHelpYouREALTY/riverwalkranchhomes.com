@@ -55,7 +55,7 @@ export default function Footer({ brand = "brokerage" }: FooterProps) {
             <p className="text-slate-300 mb-4 text-sm">
               {riverwalk
                 ? "North Las Vegas 89031. Dr. Jan Duffy, REALTOR®, at Berkshire Hathaway HomeServices Nevada Properties."
-                : "Nevada Properties — Dr. Jan Duffy, REALTOR®. Buying, selling, and relocating in Las Vegas, Henderson, and Summerlin."}
+                : "Nevada Properties is represented by Dr. Jan Duffy, REALTOR®. She assists buying, selling, and relocating in Las Vegas, Henderson, and Summerlin."}
             </p>
             <address className="not-italic text-slate-300 text-sm mb-4">
               {nap.street}

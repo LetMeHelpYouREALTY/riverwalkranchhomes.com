@@ -31,7 +31,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/relocation",
   title: "Relocating to Las Vegas | Berkshire Hathaway HomeServices",
   description:
-    "Moving to Las Vegas? Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties provides comprehensive relocation services. Named campuses, commute times, cost of living. Call (702) 222-1964.",
+    "Moving to Las Vegas? Dr. Jan Duffy provides comprehensive relocation services. She offers information on campuses, commute times, and cost of living. Call (702) 222-1964.",
   keywords: [
     "relocating to Las Vegas",
     "moving to Las Vegas",
@@ -53,49 +53,49 @@ const relocationSchema = {
     name: "Dr. Jan Duffy - Berkshire Hathaway HomeServices Nevada Properties",
     telephone: "+17025001942",
   },
-  areaServed: "Las Vegas, Henderson, Summerlin, Clark County NV",
+  areaServed: "The area includes Las Vegas, Henderson, Summerlin, and Clark County NV.",
   serviceType: "Relocation Services",
 };
 
 const popularRelocationAreas = [
   {
     name: "Summerlin",
-    best: "Red Rock access, Downtown Summerlin",
+    best: "Access to Red Rock and Downtown Summerlin",
     highlights:
       "150+ parks, trails, Palo Verde High School commute, master-planned villages",
     from: "$500K",
   },
   {
     name: "Henderson",
-    best: "Parks, recreation centers, Green Valley Ranch",
+    best: "Parks, recreation centers, and Green Valley Ranch",
     highlights:
       "60+ parks, trails, Coronado High School commute, master-planned villages",
     from: "$450K",
   },
   {
     name: "Green Valley",
-    best: "Mature landscaping, golf, shopping",
-    highlights: "Championship golf, shopping and dining, Henderson location",
+    best: "Mature landscaping, golf, and shopping",
+    highlights: "The location features championship golf, shopping and dining in Henderson.",
     from: "$480K",
   },
   {
     name: "Skye Canyon",
-    best: "New construction, mountain trails",
+    best: "New construction with mountain trail access",
     highlights:
-      "Newest construction, mountain trail access, modern amenities, growing area",
+      "New construction offers mountain trail access and modern amenities in a growing area",
     from: "$500K",
   },
   {
-    name: "Southern Highlands",
+    name: "Southern Highlands community",
     best: "Golf, guard-gated sections, mountain views",
-    highlights: "Championship golf, mountain views, resort living",
+    highlights: "The area features championship golf, mountain views, and resort-style living",
     from: "$700K",
   },
   {
     name: "Inspirada",
-    best: "Resort pools, trails, new homes",
+    best: "Resort pools, trails, and new homes",
     highlights:
-      "Resort-style pools, extensive trails, new homes, Henderson convenience",
+      "Resort-style pools, extensive trails, new homes, and Henderson convenience are available",
     from: "$450K",
   },
 ];

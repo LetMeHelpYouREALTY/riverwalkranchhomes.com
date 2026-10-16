@@ -20,7 +20,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/neighborhoods",
   title: "Las Vegas Neighborhoods | Berkshire Hathaway HomeServices",
   description:
-    "Explore Las Vegas and Henderson neighborhoods with Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties. Summerlin, Henderson, The Ridges, Southern Highlands & more.",
+    "Explore Las Vegas and Henderson neighborhoods with Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties. Neighborhoods include Summerlin, Henderson, The Ridges, Southern Highlands and more.",
   keywords: [
     "Las Vegas neighborhoods",
     "Henderson communities",
@@ -38,9 +38,9 @@ const neighborhoods = [
     priceChange: "homes, estimated",
     yoy: false,
     description:
-      "North Las Vegas master plan in 89031. Estates, Manor, Crossing, High Noon, and Cove.",
+      "The North Las Vegas master plan is in ZIP 89031. It includes Estates, Manor, Crossing, High Noon, and Cove.",
     highlights: ["89031", "High Noon", "Crossing", "D.R. Horton"],
-    bestFor: "Decatur, the 215, and Towboat Street",
+    bestFor: "Key streets include Decatur, the 215, and Towboat Street.",
   },
   {
     name: "Summerlin",
@@ -48,7 +48,7 @@ const neighborhoods = [
     medianPrice: "$625,000",
     priceChange: "+6.8%",
     description:
-      "Howard Hughes 22,500-acre west-valley plat with parks, trails, and Red Rock Canyon trailheads",
+      "The Howard Hughes plat covers 22,500 acres in the west valley and includes parks, trails, and Red Rock Canyon trailheads.",
     highlights: [
       "150+ Parks",
       "150+ Miles of Trails",
@@ -130,7 +130,7 @@ const neighborhoods = [
       "Growing Area",
       "Parks and Trails",
     ],
-    bestFor: "New construction, rental comps, northwest commute",
+    bestFor: "The area includes new construction, rental comparables, and a northwest commute.",
   },
   {
     name: "Skye Canyon",
@@ -148,7 +148,7 @@ const neighborhoods = [
     bestFor: "New homes, trails, northwest commute",
   },
   {
-    name: "Centennial Hills",
+    name: "Centennial Hills neighborhood",
     slug: "centennial-hills",
     medianPrice: "$495,000",
     priceChange: "+4.8%",
@@ -173,7 +173,7 @@ const neighborhoods = [
     bestFor: "Resort amenities, new homes, walkability",
   },
   {
-    name: "Mountains Edge",
+    name: "Mountains Edge community",
     slug: "mountains-edge",
     medianPrice: "$475,000",
     priceChange: "+4.5%",

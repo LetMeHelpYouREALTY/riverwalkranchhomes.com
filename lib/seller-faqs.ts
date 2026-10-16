@@ -18,11 +18,11 @@ export type SellerFaqCopy = {
 
 export const sellerFaqs: Record<string, SellerFaqCopy> = {
   "/sellers": {
-    h2: "CMA at Suite 100, then photos — not a generic selling FAQ",
+    h2: "CMA process and photography at Suite 100",
     items: [
       {
         q: "Where does listing prep start before the photographer is booked?",
-        a: "At 9406 W Lake Mead Blvd, Suite 100. Comps are pulled here, then we walk the house. Overpriced homes sit. We price to recent closes, then book BHHS photography. Call (702) 222-1964.",
+        a: "We conduct the CMA at 9406 W Lake Mead Blvd, Suite 100 and then schedule BHHS photography. Comps are pulled here and we walk the house. Overpriced homes sit. We price to recent closes. Call (702) 222-1964.",
       },
       {
         q: "What January 2026 days-on-market figure did this page last publish?",
@@ -55,7 +55,7 @@ export const sellerFaqs: Record<string, SellerFaqCopy> = {
       },
       {
         q: "Which named campuses do we map if the next house is Summerlin vs Henderson?",
-        a: "Palo Verde High School for many Summerlin streets; Coronado High School for many Henderson streets. Price the home, the drive, and recent comps — not a campus rating. Confirm the listing address at ccsd.net/zoning.",
+        a: "Palo Verde High School serves many Summerlin streets and Coronado High School serves many Henderson streets. Price the home, the drive, and recent comps — not a campus rating. Confirm the listing address at ccsd.net/zoning.",
       },
     ],
   },

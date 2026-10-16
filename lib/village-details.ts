@@ -51,7 +51,7 @@ export const villageDetails: Record<string, VillageDetailCopy[]> = {
   ],
   "/neighborhoods/southern-highlands": [
     {
-      h3: "Robert Trent Jones Jr. scorecard: 74.1 / 140, then the 35,000 sq ft clubhouse",
+      h3: "Robert Trent Jones Jr. scorecard: 74.1 / 140; 35,000 sq ft clubhouse",
       body: "The course is the south-valley centerpiece, not a copied Ridges golf caption. Membership and HOA packets are reviewed at Suite 100 before the 25–35 minute I-15 drive.",
       pins: [
         {
@@ -75,7 +75,7 @@ export const villageDetails: Record<string, VillageDetailCopy[]> = {
   ],
   "/neighborhoods/skye-canyon": [
     {
-      h3: "Toll, Woodside, Shea vs Lennar, KB, Century — two Skye Canyon registration clocks",
+      h3: "Toll, Woodside, Shea vs Lennar, KB, Century – two Skye Canyon registration clocks",
       body: "Builder registration happens at Suite 100 first. Premium rows and value rows are not the same model visit. Prices below are January 2026 bands on this page — confirm the week you tour.",
       pins: [
         {
@@ -84,7 +84,7 @@ export const villageDetails: Record<string, VillageDetailCopy[]> = {
         },
         {
           name: "Woodside Homes",
-          note: "Published band $500K–$700K. Mid-to-premium plans next to Skye Center.",
+          note: "Published band $500K–$700K; Mid-to-premium plans next to Skye Center",
         },
         {
           name: "Shea Homes",
@@ -120,7 +120,7 @@ export const villageDetails: Record<string, VillageDetailCopy[]> = {
         },
         {
           name: "Lennar",
-          note: "Published band $450K–$580K. Everything's Included — not a Skye Canyon clone.",
+          note: "Published band $450K–$580K. Standard features included.",
         },
         {
           name: "Woodside Homes",
@@ -132,14 +132,14 @@ export const villageDetails: Record<string, VillageDetailCopy[]> = {
         },
         {
           name: "Century Communities",
-          note: "Published band $420K–$500K. Call (702) 222-1964. St. Rose Siena is the hospital pin.",
+          note: "Price range $420K–$500K. Call (702) 222-1964. St. Rose Siena hospital pin.",
         },
       ],
     },
   ],
   "/neighborhoods/henderson": [
     {
-      h3: "Barclays, Credit One, St. Rose, and Station — Henderson job pins from Suite 100",
+      h3: "Barclays, Credit One, St. Rose, and Station job pins from Suite 100",
       body: "Henderson is 25–35 minutes east. We time two employer pins against two villages so the commute is a clock, not a slogan. Confirm drive minutes the week you tour.",
       pins: [
         {
@@ -156,7 +156,7 @@ export const villageDetails: Record<string, VillageDetailCopy[]> = {
         },
         {
           name: "Station Casinos — Green Valley Ranch and Sunset Station",
-          note: "Hospitality shifts. Call (702) 222-1964 to sequence The District vs Water Street.",
+          note: "Hospitality shifts are occurring. Call (702) 222-1964 to sequence The District vs Water Street.",
         },
         {
           name: "Levi Strauss distribution and nearby Amazon",
@@ -172,7 +172,7 @@ export const villageDetails: Record<string, VillageDetailCopy[]> = {
   "/neighborhoods/north-las-vegas": [
     {
       h3: "Amazon, Fanatics, Sephora, Chewy — Craig Road job pins, then Nellis",
-      body: "North Las Vegas is 20–25 minutes via US-95 / I-15. We time warehouse shifts to the actual facility, then Legacy High School by street. Not a Summerlin retail swap.",
+      body: "North Las Vegas is 20–25 minutes away via US-95 and I-15. We schedule warehouse shifts to match the facility and Legacy High School by street. It is not a Summerlin retail swap.",
       pins: [
         {
           name: "Amazon fulfillment",
@@ -192,7 +192,7 @@ export const villageDetails: Record<string, VillageDetailCopy[]> = {
         },
         {
           name: "North Las Vegas Airport and Motor Speedway",
-          note: "Aviation and event-shift pins. Call (702) 222-1964.",
+          note: "Aviation and event shift pins. Call (702) 222-1964.",
         },
         {
           name: "City of North Las Vegas",
@@ -214,11 +214,11 @@ export const villageDetails: Record<string, VillageDetailCopy[]> = {
         },
         {
           name: "Valley Vista",
-          note: "Parks and HOA pools. Century Communities. Published band $350K–$450K.",
+          note: "Parks, HOA pools, Century Communities, price range $350K–$450K",
         },
         {
           name: "Camino Al Norte",
-          note: "Near the 215. Multiple builders. Published band $380K–$480K. Call (702) 222-1964.",
+          note: "Near the 215, multiple builders, price range $380K–$480K, call (702) 222-1964",
         },
         {
           name: "North Vista Hospital",

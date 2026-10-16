@@ -16,7 +16,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/services",
   title: "Real Estate Services Las Vegas | Berkshire Hathaway HomeServices",
   description:
-    "Comprehensive real estate services from Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties. Buying, selling, luxury, investment, relocation, 55+ communities, and new construction. Call (702) 222-1964.",
+    "Dr. Jan Duffy provides comprehensive real estate services at Berkshire Hathaway HomeServices Nevada Properties. Buying, selling, luxury, investment, relocation, 55+ communities, and new construction are available. Call (702) 222-1964.",
   keywords: [
     "Las Vegas real estate services",
     "Berkshire Hathaway services",
@@ -33,10 +33,10 @@ const servicesSchema = {
   "@type": "Service",
   provider: {
     "@type": "RealEstateAgent",
-    name: "Dr. Jan Duffy - Berkshire Hathaway HomeServices Nevada Properties",
+    name: "Dr. Jan Duffy, Berkshire Hathaway HomeServices Nevada Properties",
     telephone: "+17025001942",
   },
-  areaServed: "Las Vegas, Henderson, Summerlin, Clark County NV",
+  areaServed: "We serve Las Vegas, Henderson, Summerlin, and Clark County NV.",
   serviceType: "Real Estate Services",
 };
 

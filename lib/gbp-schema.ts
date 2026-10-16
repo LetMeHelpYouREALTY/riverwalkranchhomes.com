@@ -74,11 +74,11 @@ export const businessInfo = {
     // Niche Services (trigger intent phrases)
     {
       name: "California Relocation Services",
-      description: "Helping CA buyers transition to Las Vegas",
+      description: "We help CA buyers transition to Las Vegas",
     },
     {
       name: "55+ Community Specialist",
-      description: "Sun City, Anthem, Del Webb communities",
+      description: "We serve Sun City, Anthem, and Del Webb communities",
     },
     {
       name: "First-Time Home Buyer Guidance",
@@ -190,7 +190,7 @@ export const gbpFAQs = [
   {
     question: "What areas does Dr. Jan Duffy serve in Las Vegas?",
     answer:
-      "Dr. Jan serves all of Las Vegas, Summerlin, Henderson, North Las Vegas, and Clark County. Specialized neighborhood expertise includes Summerlin, Green Valley, The Ridges, Southern Highlands, Centennial Hills, Skye Canyon, Inspirada, and Mountains Edge.",
+      "Dr. Jan serves Las Vegas, Summerlin, Henderson, North Las Vegas, and Clark County. She has expertise in Summerlin, Green Valley, The Ridges, Southern Highlands, Centennial Hills, Skye Canyon, Inspirada, and Mountains Edge.",
   },
   {
     question: "Does Dr. Jan help buyers relocating from California?",
@@ -225,17 +225,17 @@ export const gbpFAQs = [
       "Absolutely! Dr. Jan guides first-time buyers through every step, including pre-approval, loan programs (FHA 3.5% down, VA 0% down, conventional options), Nevada down payment assistance programs, and new construction incentives. Free buyer consultations available.",
   },
   {
-    question: "Why choose Berkshire Hathaway HomeServices over other agencies?",
+    question: "Berkshire Hathaway HomeServices advantages",
     answer:
       "Berkshire Hathaway HomeServices is backed by Warren Buffett's Berkshire Hathaway Inc.—the only real estate brand with this level of financial stability and trust. You get a global network of 50,000+ agents, world-class marketing, and a name synonymous with integrity.",
   },
   {
-    question: "How do I schedule a consultation with Dr. Jan Duffy?",
+    question: "Schedule a consultation with Dr Jan Duffy",
     answer:
-      "Call or text (702) 500-1942 for immediate assistance, or email DrDuffySells@RiverwalkRanchHomes.com. Office visits available at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Monday-Friday 9am-6pm, Saturday 10am-4pm, Sunday by appointment.",
+      "Call or text (702) 500-1942 or email DrDuffySells@RiverwalkRanchHomes.com for immediate assistance. Office visits are at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Hours are Monday-Friday 9am-6pm, Saturday 10am-4pm, Sunday by appointment.",
   },
   {
-    question: "Does Dr. Jan help with investment properties in Las Vegas?",
+    question: "Dr Jan Duffy investment property services in Las Vegas",
     answer:
       "Yes! Dr. Jan provides investment property consulting including rental property analysis, cap rate calculations, short-term rental regulations, and multi-family opportunities across the Las Vegas Valley. Contact (702) 500-1942 for investment property guidance.",
   },

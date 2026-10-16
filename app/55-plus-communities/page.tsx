@@ -34,9 +34,9 @@ import SectionPresence from "@/components/sections/SectionPresence";
 export const metadata: Metadata = pageMetadata({
   path: "/55-plus-communities",
   title:
-    "55+ Active Adult Communities Las Vegas | Sun City, Del Webb, Heritage | Dr. Jan Duffy",
+    "55+ Active Adult Communities in Las Vegas | Dr. Jan Duffy",
   description:
-    "Find your perfect 55+ community in Las Vegas. Sun City Summerlin, Sun City Aliante, Del Webb Lake Las Vegas, Heritage at Stonebridge, Solera, Trilogy. Dr. Jan Duffy specializes in active adult living. Call (702) 222-1964.",
+    "Las Vegas offers several 55+ active adult communities. Sun City Summerlin, Sun City Aliante, Del Webb Lake Las Vegas, Heritage at Stonebridge, Solera, Trilogy. Dr. Jan Duffy specializes in active adult living. Call (702) 222-1964.",
   keywords: [
     "55+ communities Las Vegas",
     "active adult communities Las Vegas",
@@ -102,7 +102,7 @@ const communities = [
     color: "amber",
   },
   {
-    name: "Sun City Anthem",
+    name: "Sun City Anthem community",
     slug: "sun-city-anthem",
     location: "Henderson",
     ageRequirement: "55+ (at least one resident)",
@@ -117,13 +117,13 @@ const communities = [
       "Henderson location with parks and recreation campuses",
     ],
     description:
-      "Henderson 55+ campus with a 64,000 sq ft clubhouse, two golf courses, and McCullough Range views.",
+      "The Henderson 55+ campus offers a 64,000 sq ft clubhouse, two golf courses, and McCullough Range views.",
     color: "green",
   },
   {
     name: "Sun City Aliante",
     slug: "sun-city-aliante",
-    location: "North Las Vegas",
+    location: "North Las Vegas community",
     ageRequirement: "55+ (at least one resident)",
     hoaFees: "$140-$175/month",
     priceRange: "$280,000 - $550,000",
@@ -140,7 +140,7 @@ const communities = [
     color: "blue",
   },
   {
-    name: "Del Webb at Lake Las Vegas",
+    name: "Del Webb at Lake Las Vegas community",
     slug: "del-webb-lake-las-vegas",
     location: "Henderson (Lake Las Vegas)",
     ageRequirement: "55+ (at least one resident)",
@@ -155,7 +155,7 @@ const communities = [
       "Del Webb clubs and rec programming",
     ],
     description:
-      "The newest Del Webb community combines modern construction with stunning Lake Las Vegas setting.",
+      "The newest Del Webb community combines modern construction with a stunning Lake Las Vegas setting.",
     color: "blue",
   },
   {
@@ -197,7 +197,7 @@ const communities = [
     color: "teal",
   },
   {
-    name: "Trilogy at Summerlin",
+    name: "Trilogy at Summerlin community overview",
     slug: "trilogy-summerlin",
     location: "Summerlin",
     ageRequirement: "55+ (at least one resident)",

@@ -52,7 +52,7 @@ const pageSchemas = combineSchemas(
     name: "Summerlin",
     slug: "summerlin",
     description:
-      "Howard Hughes 22,500-acre west-valley plat with Red Rock Canyon trailheads, 150+ parks, named campuses such as Palo Verde High School, and published list bands from $400K to $10M+.",
+      "Howard Hughes 22,500-acre west-valley plat includes Red Rock Canyon trailheads, 150+ parks, campuses such as Palo Verde High School, and listings from $400K to $10M+.",
     latitude: 36.1672,
     longitude: -115.331,
     containedIn: "Las Vegas",

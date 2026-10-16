@@ -15,7 +15,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/why-berkshire-hathaway",
   title: "Why Choose Berkshire Hathaway HomeServices | Las Vegas Real Estate",
   description:
-    "See what Berkshire Hathaway HomeServices Nevada Properties puts on a listing file. Marketing samples at Suite 100. Call (702) 222-1964.",
+    "Berkshire Hathaway HomeServices Nevada Properties provides listing files. Marketing samples are at Suite 100. Call (702) 222-1964.",
   keywords: [
     "Berkshire Hathaway HomeServices",
     "why choose BHHS",

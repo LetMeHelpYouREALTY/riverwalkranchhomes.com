@@ -9,8 +9,8 @@ type PageCTAProps = {
 };
 
 export default function PageCTA({
-  headline = "Ready to Buy or Sell in Las Vegas?",
-  subheadline = "Call or text Dr. Jan Duffy. She answers her own phone.",
+  headline = "I am ready to buy or sell in Las Vegas.",
+  subheadline = "You can call or text Dr. Jan Duffy; she answers her own phone.",
 }: PageCTAProps) {
   return (
     <section className="py-16 md:py-20 bg-blue-600 text-white">

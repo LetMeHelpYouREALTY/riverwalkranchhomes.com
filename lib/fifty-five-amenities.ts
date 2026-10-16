@@ -19,7 +19,7 @@ export type FiftyFiveAmenityCopy = {
 export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
   "/55-plus-communities": {
     h2: "Which rec campus we walk first from Suite 100",
-    body: "Sun City Summerlin is 10–15 minutes. Anthem campuses are 30–35. We review HOA packets at 9406 W Lake Mead Blvd before we drive to clubhouses.",
+    body: "Sun City Summerlin is 10 to 15 minutes away. Anthem campuses are 30 to 35 minutes away. We review HOA packets at 9406 W Lake Mead Blvd before driving to clubhouses.",
     pins: [
       {
         name: "Sun City Summerlin rec",
@@ -30,8 +30,8 @@ export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
         note: "About 64,000 sq ft in Henderson. Pair with Sun City Anthem or Solera — not with Summerlin rec on the same afternoon.",
       },
       {
-        name: "Lake Las Vegas Del Webb",
-        note: "35–45 minutes. Lakefront rec, not a Summerlin clone. Call (702) 222-1964.",
+        name: "Lake Las Vegas Del Webb recreation",
+        note: "35 to 45 minutes travel. Lakefront recreation, not a Summerlin clone. Call (702) 222-1964.",
       },
     ],
   },
@@ -90,7 +90,7 @@ export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
     ],
   },
   "/55-plus-communities/heritage-stonebridge": {
-    h2: "Staffed gate, then Downtown Summerlin — boutique 1,100-home rec",
+    h2: "Staffed gate and Downtown Summerlin boutique recreation for 1,100 homes",
     body: "Heritage is not a 7,700-home Sun City campus. We time the gate and the clubhouse, then one Downtown Summerlin stop.",
     pins: [
       {
@@ -99,7 +99,7 @@ export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
       },
       {
         name: "Clubhouse pool and fitness",
-        note: "Scaled to 1,100+ homes. Measure it — do not assume Sun City Summerlin rec hours.",
+        note: "Scaled to over 1,100 homes; verify Sun City Summerlin recreation hours",
       },
       {
         name: "Downtown Summerlin",
@@ -108,7 +108,7 @@ export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
     ],
   },
   "/55-plus-communities/solera-anthem": {
-    h2: "All-residents-55+ rules, then the Solera clubhouse — not Anthem Center",
+    h2: "All-residents 55+ rules and Solera clubhouse, not Anthem Center",
     body: "Solera occupancy is all residents 55+, not HOPA 80/20. Rec is the Solera clubhouse, not the 64,000 sq ft Anthem Center unless the brief adds it.",
     pins: [
       {
@@ -117,7 +117,7 @@ export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
       },
       {
         name: "Tennis / pickleball",
-        note: "On-campus courts. Anthem Center is a separate Henderson add-on.",
+        note: "On-campus courts; Anthem Center is a separate Henderson add-on",
       },
       {
         name: "St. Rose / Henderson Hospital",
@@ -126,7 +126,7 @@ export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
     ],
   },
   "/55-plus-communities/sun-city-aliante": {
-    h2: "Aliante rec and golf, then Craig Road — North Las Vegas 55+ pins",
+    h2: "Aliante recreation and golf for 55+ near Craig Road in North Las Vegas",
     body: "Not a Summerlin rec day. Aliante rec sits with desert-hills golf. Suite 100 is a west-valley start; we drive northwest as its own loop.",
     pins: [
       {
@@ -134,8 +134,8 @@ export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
         note: "Golf and rec campus in North Las Vegas. First pin when the brief is this community.",
       },
       {
-        name: "Aliante Casino retail",
-        note: "Adjacent retail. Not Downtown Summerlin.",
+        name: "Aliante Casino retail options",
+        note: "Adjacent retail (not Downtown Summerlin)",
       },
       {
         name: "Craig Road employers",
@@ -144,7 +144,7 @@ export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
     ],
   },
   "/55-plus-communities/del-webb-lake-las-vegas": {
-    h2: "MonteLago, the lake path, then the Del Webb clubhouse — 35–45 minutes",
+    h2: "MonteLago lake path and Del Webb clubhouse within 35–45 minutes",
     body: "Lake Las Vegas is not a west-valley add-on. We do not pair it with Sun City Summerlin the same afternoon.",
     pins: [
       {
@@ -153,7 +153,7 @@ export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
       },
       {
         name: "MonteLago Village",
-        note: "Lakeside shops and dining. Separate from Henderson's Galleria mall.",
+        note: "Lakeside shops and dining separate from Henderson's Galleria mall",
       },
       {
         name: "Lake path / shoreline",

@@ -20,7 +20,7 @@ import SectionPresence from "@/components/sections/SectionPresence";
 export const metadata: Metadata = pageMetadata({
   path: "/neighborhoods/the-ridges",
   title:
-    "Berkshire Hathaway HomeServices The Ridges | Las Vegas Luxury Real Estate",
+    "Berkshire Hathaway The Ridges | Las Vegas Luxury Homes",
   description:
     "Find The Ridges homes with Berkshire Hathaway HomeServices Nevada Properties. Guard-gated Summerlin ridge lots, 15–20 minutes from Suite 100. Median $2.5M, 42 listings, 67 DOM (January 2026). Call (702) 222-1964.",
   keywords: [

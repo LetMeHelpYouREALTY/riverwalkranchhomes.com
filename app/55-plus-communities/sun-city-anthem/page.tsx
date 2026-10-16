@@ -34,7 +34,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/55-plus-communities/sun-city-anthem",
   title: "Sun City Anthem Homes for Sale | Berkshire Hathaway HomeServices",
   description:
-    "Henderson 55+ campus with a 64,000 sq ft clubhouse. Sun City Anthem homes from $350K-$1.2M. 2 championship golf courses, McCullough Range views. Dr. Jan Duffy. Call (702) 222-1964.",
+    "Sun City Anthem is a Henderson 55+ campus with a 64,000 sq ft clubhouse. Homes range from $350K to $1.2M. Two championship golf courses provide McCullough Range views. Dr. Jan Duffy. Call (702) 222-1964.",
   keywords: [
     "Sun City Anthem homes for sale",
     "Sun City Anthem Henderson",
@@ -83,7 +83,7 @@ const pageSchemas = combineSchemas(
   generateSeniorCommunitySchema({
     name: "Sun City Anthem",
     description:
-      "Del Webb 55+ campus in Henderson with 7,100+ homes, Anthem Center about 64,000 sq ft, two golf courses, and McCullough Range views on many upper streets.",
+      "The Del Webb 55+ campus in Henderson includes 7,100+ homes, Anthem Center about 64,000 sq ft, two golf courses, and McCullough Range views on many upper streets.",
     priceRange: "$350,000 - $1,200,000",
     numberOfHomes: 7100,
     yearBuilt: "1998-2008",

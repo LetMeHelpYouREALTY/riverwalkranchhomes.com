@@ -23,9 +23,9 @@ import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   title:
-    "Las Vegas Homes for Sale | MLS Property Search | Berkshire Hathaway HomeServices",
+    "Las Vegas Homes for Sale | MLS Search | Berkshire Hathaway",
   description:
-    "Browse all Las Vegas and Henderson homes for sale with live MLS listings. Search by neighborhood, price, and features. Dr. Jan Duffy, Berkshire Hathaway HomeServices. Call (702) 222-1964.",
+    "Browse Las Vegas and Henderson homes for sale with live MLS listings. Search by neighborhood, price, and features. Dr. Jan Duffy of Berkshire Hathaway HomeServices. Call (702) 222-1964.",
   path: "/listings",
   keywords: [
     "Las Vegas homes for sale",
@@ -40,12 +40,12 @@ export const metadata: Metadata = pageMetadata({
 const listingsSchema = {
   "@context": "https://schema.org",
   "@type": "RealEstateListing",
-  name: "Las Vegas MLS Property Listings",
+  name: "Las Vegas MLS property listings",
   description:
-    "Live MLS property listings for Las Vegas, Henderson, and Summerlin homes for sale",
+    "Live MLS listings for homes for sale in Las Vegas, Henderson, and Summerlin.",
   provider: {
     "@type": "RealEstateAgent",
-    name: "Dr. Jan Duffy - Berkshire Hathaway HomeServices Nevada Properties",
+    name: "Dr. Jan Duffy – Berkshire Hathaway HomeServices Nevada Properties",
     telephone: "+17025001942",
   },
   areaServed: [
@@ -84,7 +84,7 @@ const priceRanges = [
   },
   {
     range: "$400K - $600K",
-    description: "3–4 bedroom homes, 1,800–2,400 sq ft typical",
+    description: "Typical homes have 3 to 4 bedrooms and range from 1,800 to 2,400 square feet",
     count: "2,100+",
   },
   {

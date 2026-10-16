@@ -57,7 +57,7 @@ interface ReviewsSectionProps {
 
 export default function ReviewsSection({
   reviews = defaultReviews,
-  title = "What Clients Say About Dr. Jan Duffy",
+  title = "What do clients say about Dr. Jan Duffy",
   subtitle = "Verified client feedback from Las Vegas, Henderson, and Summerlin transactions",
   googleReviewsUrl = defaultGoogleReviewsUrl,
   className = "",

@@ -10,7 +10,7 @@ export const defaultFaqs: FAQ[] = [
   {
     question: "What areas do you serve?",
     answer:
-      "Dr. Jan Duffy specializes in Las Vegas and Henderson, Nevada, including Summerlin, Green Valley, and surrounding communities. Coverage includes residential, luxury, and investment properties throughout Southern Nevada.",
+      "Dr. Jan Duffy specializes in Las Vegas and Henderson, Nevada, including Summerlin, Green Valley, and surrounding communities. She covers residential, luxury, and investment properties throughout Southern Nevada.",
   },
   {
     question: "How long does the home buying process take?",
@@ -25,7 +25,7 @@ export const defaultFaqs: FAQ[] = [
   {
     question: "What makes you different from other real estate agents?",
     answer:
-      "Serving Las Vegas since 2008 with 500+ successful transactions, Dr. Jan Duffy combines local market knowledge with Berkshire Hathaway HomeServices resources and direct phone access.",
+      "Dr. Jan Duffy has served Las Vegas since 2008 with over 500 successful transactions. She combines local market knowledge with Berkshire Hathaway HomeServices resources and direct phone access.",
   },
   {
     question: "Can you help with investment properties?",
@@ -50,7 +50,7 @@ interface FAQSectionProps {
 export default function FAQSection({
   faqs = defaultFaqs,
   title = "Frequently Asked Questions",
-  subtitle = "Get answers to common questions about Las Vegas real estate with Dr. Jan Duffy",
+  subtitle = "Dr. Jan Duffy provides answers to common questions about Las Vegas real estate.",
   className = "",
   includeSchema = true,
 }: FAQSectionProps) {

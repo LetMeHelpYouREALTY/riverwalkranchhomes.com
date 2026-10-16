@@ -28,7 +28,7 @@ import SectionPresence from "@/components/sections/SectionPresence";
 export const metadata: Metadata = pageMetadata({
   path: "/55-plus-communities/trilogy-summerlin",
   title:
-    "Trilogy at Summerlin Homes for Sale | Luxury Resort 55+ Living | Dr. Jan Duffy",
+    "Trilogy at Summerlin | Luxury 55+ Living | Dr. Jan Duffy",
   description:
     "Trilogy at Summerlin - luxury resort-style 55+ community. Homes from $500K-$1.1M. On-site farm-to-table restaurant, spa, contemporary designs. Dr. Jan Duffy, BHHS. Call (702) 222-1964.",
   keywords: [

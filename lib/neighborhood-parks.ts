@@ -22,7 +22,7 @@ export type NeighborhoodParkCopy = {
 
 export const neighborhoodParks: Record<string, NeighborhoodParkCopy> = {
   "/neighborhoods/centennial-hills": {
-    h3: "120-acre Centennial Hills Park vs Floyd Lamb lakes — two northwest rec acres",
+    h3: "120-acre Centennial Hills Park and Floyd Lamb Lakes recreation areas",
     body: "We measure park acreage on the same US-95 afternoon as mountain-view streets. Suite 100 is 15–20 minutes west. Do not treat a listing photo as the park.",
     pins: [
       {
@@ -30,25 +30,25 @@ export const neighborhoodParks: Record<string, NeighborhoodParkCopy> = {
         note: "About 120 acres: sports fields, playground, skate park, dog park. First rec stop from 9406 W Lake Mead Blvd on a Centennial Hills day.",
       },
       {
-        name: "Centennial Hills YMCA",
+        name: "Centennial Hills YMCA facilities",
         note: "Indoor pool and fitness on the same northwest cluster. Walk it if the brief includes year-round rec, not only desert trails.",
       },
       {
-        name: "Floyd Lamb Park",
+        name: "Floyd Lamb Park overview",
         note: "About 680 acres with lakes. Roughly 15 minutes from Centennial Hills Park — a second rec clock, often paired with Skye Canyon instead.",
       },
       {
-        name: "Angel Park Golf Club",
+        name: "Angel Park Golf Club details",
         note: "Two public courses, 36 holes, on the west-valley side toward Summerlin. Call (702) 222-1964 to sequence golf vs the 120-acre park.",
       },
     ],
   },
   "/neighborhoods/mountains-edge": {
-    h3: "Exploration Peak summit trail vs Mountains Edge Regional Park splash pad",
+    h3: "Exploration Peak summit trail and Mountains Edge Regional Park splash pad comparison",
     body: "Southwest rec is two parks, not one caption. We walk a trail at Exploration Peak before the splash pad so acreage and elevation are facts. Suite 100 is 20–30 minutes via the Beltway.",
     pins: [
       {
-        name: "Exploration Peak Park",
+        name: "Exploration Peak Park overview",
         note: "About 120 acres. Summit trail with Strip and mountain views. First stop from Suite 100 on a Mountains Edge day.",
       },
       {

@@ -31,7 +31,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/about",
   title: "About Dr. Jan Duffy | Berkshire Hathaway HomeServices Las Vegas",
   description:
-    "Meet Dr. Jan Duffy, your trusted Berkshire Hathaway HomeServices Nevada Properties agent. Serving Las Vegas since 2008, $127M+ in transactions, Henderson & Summerlin specialist. Call (702) 222-1964.",
+    "Meet Dr. Jan Duffy, your trusted Berkshire Hathaway HomeServices Nevada Properties agent. She has served Las Vegas since 2008. She has completed $127M+ in transactions and is a Henderson and Summerlin specialist. Call (702) 222-1964.",
   keywords: [
     "Dr. Jan Duffy",
     "Berkshire Hathaway HomeServices agent",
@@ -50,7 +50,7 @@ const personSchema = {
   image: absoluteUrl("/images/dr-jan-duffy.jpg"),
   jobTitle: "REALTOR®",
   description:
-    "Licensed real estate agent with Berkshire Hathaway HomeServices Nevada Properties, serving Las Vegas, Henderson, and Summerlin since 2008.",
+    "She is a licensed real estate agent with Berkshire Hathaway HomeServices Nevada Properties. She has served Las Vegas, Henderson, and Summerlin since 2008.",
   telephone: "+17025001942",
   email: "DrDuffySells@RiverwalkRanchHomes.com",
   url: absoluteUrl("/about"),

@@ -22,7 +22,7 @@ export const gbpPostTemplates: GBPPost[] = [
   {
     id: "market-update-jan-2026",
     type: "update",
-    title: "Las Vegas Real Estate Market Update - January 2026",
+    title: "Las Vegas Real Estate Market Update January 2026",
     content: `The Las Vegas housing market remains strong heading into 2026! Here's what buyers and sellers need to know:
 
 📊 Median home price: $450,000 (+4.2% YoY)
@@ -49,7 +49,7 @@ Call Dr. Jan Duffy at (702) 500-1942 for a free market analysis of your home or 
   {
     id: "california-relocation",
     type: "update",
-    title: "California Buyers: Your Home Equity Goes Further in Las Vegas",
+    title: "California Buyers Home Equity Goes Further in Las Vegas",
     content: `Thinking about relocating from California to Las Vegas? Here's why 37% of Las Vegas home buyers come from CA:
 
 ✅ 0% state income tax (save thousands annually)
@@ -76,7 +76,7 @@ Call (702) 500-1942 for a free California equity comparison.`,
   {
     id: "55-plus-spotlight",
     type: "update",
-    title: "55+ Active Adult Communities in Las Vegas - Your Options",
+    title: "55+ Active Adult Communities in Las Vegas Your Options",
     content: `Looking for 55+ living in the Las Vegas Valley? Here are the top communities:
 
 🏌️ Sun City Summerlin - Nevada's largest 55+ community (7,700+ homes, 3 golf courses)
@@ -103,7 +103,7 @@ Schedule a community tour: (702) 500-1942`,
   {
     id: "first-time-buyer",
     type: "offer",
-    title: "First-Time Home Buyer? Down Payment Assistance Available",
+    title: "First-Time Home Buyer Down Payment Assistance Available",
     content: `Nevada offers several programs to help first-time buyers:
 
 💰 FHA loans: Only 3.5% down required
@@ -135,7 +135,7 @@ Call (702) 500-1942 to start your homeownership journey.`,
   {
     id: "seller-tips",
     type: "update",
-    title: "Selling Your Las Vegas Home? 5 Tips for Top Dollar",
+    title: "Selling Your Las Vegas Home 5 Tips for Top Dollar",
     content: `Thinking about selling? Here's how to maximize your sale price:
 
 1️⃣ Price right from day one (overpriced homes sit)
@@ -166,7 +166,7 @@ Get a free home valuation from Dr. Jan Duffy: (702) 500-1942`,
   {
     id: "luxury-homes",
     type: "update",
-    title: "Luxury Living in Las Vegas: The Ridges, MacDonald Highlands & More",
+    title: "Luxury Living in Las Vegas: The Ridges, MacDonald Highlands",
     content: `Las Vegas luxury real estate offers world-class living at Nevada prices:
 
 🏔️ The Ridges, Summerlin - Guard-gated, custom estates from $2M+
@@ -346,7 +346,7 @@ export const photoCategories = [
   },
   {
     category: "Listings & Closings",
-    description: "Active listings, sold properties, closing day photos",
+    description: "Active listings, sold properties, and closing day photos are available.",
     examples: [
       "Featured listings",
       "Sold signs",

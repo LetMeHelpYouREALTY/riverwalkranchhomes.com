@@ -25,7 +25,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/buyers",
   title: "Home Buying Guide Las Vegas | Berkshire Hathaway HomeServices",
   description:
-    "Looking to buy a home in Las Vegas? Dr. Jan Duffy with Berkshire Hathaway HomeServices Nevada Properties guides you through every step. Free buyer consultation. Call (702) 222-1964.",
+    "Buying a home in Las Vegas is easy with Dr. Jan Duffy of Berkshire Hathaway HomeServices Nevada Properties. Free buyer consultation. Call (702) 222-1964.",
   keywords: [
     "buy home Las Vegas",
     "Las Vegas home buyer",
@@ -46,7 +46,7 @@ const buyerSchema = {
     name: "Dr. Jan Duffy - Berkshire Hathaway HomeServices Nevada Properties",
     telephone: "+17025001942",
   },
-  areaServed: "Las Vegas, Henderson, Summerlin, Clark County NV",
+  areaServed: "The service area includes Las Vegas, Henderson, Summerlin, and Clark County NV.",
   serviceType: "Buyer Representation",
 };
 
@@ -67,7 +67,7 @@ const neighborhoods = [
     name: "Green Valley",
     price: "$520K",
     description:
-      "35-year street trees and The District. Green Valley High School commute mapped by address.",
+      "Green Valley features 35-year street trees and The District. The commute to Green Valley High School is mapped by address.",
   },
   {
     name: "The Ridges",
@@ -79,13 +79,13 @@ const neighborhoods = [
     name: "North Las Vegas",
     price: "$385K",
     description:
-      "Aliante rec and Craig Road employers first — not a Summerlin swap.",
+      "Aliante recreation and Craig Road employers are prioritized, not a Summerln swap.",
   },
   {
     name: "Southern Highlands",
     price: "$750K",
     description:
-      "25–35 minutes via I-15 south. Robert Trent Jones Jr. course on that clock.",
+      "Travel time is 25 to 35 minutes via I-15 south. The Robert Trent Jones Jr. course is on that clock.",
   },
 ];
 

@@ -9,7 +9,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/guides/writing-an-offer",
   title: "Writing an Offer on a Las Vegas Home | Dr. Jan Duffy",
   description:
-    "How a written offer starts with Dr. Jan Duffy in Las Vegas. Call (702) 222-1964. Office: 9406 W Lake Mead Blvd, Suite 100. License S.0197614.LLC.",
+    "A written offer in Las Vegas starts with Dr. Jan Duffy. Call (702) 222-1964. Office: 9406 W Lake Mead Blvd, Suite 100. License S.0197614.LLC.",
   keywords: [
     "write an offer Las Vegas",
     "Las Vegas home offer process",
@@ -21,7 +21,7 @@ const faqs = [
   {
     question: "Where is the offer written?",
     answer:
-      "At 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134, with Dr. Jan Duffy, or on a scheduled call. Call (702) 222-1964.",
+      "You can meet Dr. Jan Duffy at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134 or schedule a call. Call (702) 222-1964.",
   },
   {
     question: "What comes before the offer?",
@@ -31,7 +31,7 @@ const faqs = [
   {
     question: "Who is the brokerage?",
     answer:
-      "Berkshire Hathaway HomeServices Nevada Properties. License S.0197614.LLC.",
+      "The brokerage is Berkshire Hathaway HomeServices Nevada Properties. License S.0197614.LLC.",
   },
 ];
 

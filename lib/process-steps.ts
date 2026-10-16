@@ -20,7 +20,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
   "/buyers": [
     {
       h2: "Five buyer clocks from Suite 100, not a copied MLS-search loop",
-      body: "This page is representation: lender letter, two-ZIP tours, inspections, and occupancy. Live inventory search lives on /listings. Call (702) 222-1964. 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
+      body: "This page provides the lender letter, two-ZIP tours, inspections, and occupancy information. Live inventory search is at /listings. Call (702) 222-1964. 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
       steps: [
         {
           title: "Lender letter before the first showing",
@@ -60,7 +60,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
         },
         {
           title: "Save a shortlist of addresses, not a camera roll",
-          body: "RealScout saves the search. We sequence Summerlin, Henderson, or 55+ from 9406 W Lake Mead Blvd, Suite 100.",
+          body: "RealScout search saved from 9406 W Lake Mead Blvd, Suite 100",
         },
         {
           title: "Book the showing clock, not a random open-house hopscotch",
@@ -75,8 +75,8 @@ export const processSteps: Record<string, ProcessCopy[]> = {
   ],
   "/services": [
     {
-      h2: "Intake, MLS filters, and closing paperwork — four clocks, one west-valley desk",
-      body: "Buyer, listing, 55+, and relocation files start at 9406 W Lake Mead Blvd, Suite 100 so showing routes and BHHS paperwork share one start. Call (702) 222-1964.",
+      h2: "What are the intake, MLS filters, and closing paperwork steps?",
+      body: "Buyer, listing, 55+, and relocation files start at 9406 W Lake Mead Blvd, Suite 100. Showing routes and BHHS paperwork share one start. Call (702) 222-1964.",
       steps: [
         {
           title: "Intake on address, timeline, and occupancy",

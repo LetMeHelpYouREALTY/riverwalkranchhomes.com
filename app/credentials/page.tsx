@@ -6,9 +6,9 @@ import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/credentials",
-  title: "License and Brokerage | Dr. Jan Duffy S.0197614.LLC",
+  title: "License & Brokerage – Dr. Jan Duffy S.0197614.LLC",
   description:
-    "Dr. Jan Duffy, Nevada real estate license S.0197614.LLC, Berkshire Hathaway HomeServices Nevada Properties, 9406 W Lake Mead Blvd, Suite 100, Las Vegas. Call (702) 222-1964.",
+    "Dr. Jan Duffy holds Nevada real estate license S.0197614.LLC with Berkshire Hathaway HomeServices Nevada Properties. Office address is 9406 W Lake Mead Blvd, Suite 100, Las Vegas. Call (702) 222-1964.",
   keywords: [
     "Dr. Jan Duffy license",
     "S.0197614.LLC",
@@ -21,7 +21,7 @@ const faqs = [
   {
     question: "What is the license number?",
     answer:
-      "S.0197614.LLC. The licensee is Dr. Jan Duffy. The brokerage is Berkshire Hathaway HomeServices Nevada Properties.",
+      "License S.0197614.LLC belongs to Dr. Jan Duffy. The brokerage is Berkshire Hathaway HomeServices Nevada Properties.",
   },
   {
     question: "Where do I verify a Nevada real estate license?",

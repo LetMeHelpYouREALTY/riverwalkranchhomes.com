@@ -21,7 +21,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/neighborhoods/mountains-edge",
   title: "Berkshire Hathaway HomeServices Mountains Edge | Southwest Las Vegas",
   description:
-    "Find Mountains Edge homes with Berkshire Hathaway HomeServices Nevada Properties. Dr. Jan Duffy specializes in this southwest Las Vegas community. Median price $475K. Call (702) 222-1964.",
+    "Mountains Edge homes are listed with Berkshire Hathaway HomeServices Nevada Properties. Dr. Jan Duffy specializes in this southwest Las Vegas community. Median price is $475K. Call (702) 222-1964.",
   keywords: [
     "Berkshire Hathaway HomeServices Mountains Edge",
     "Mountains Edge homes for sale",

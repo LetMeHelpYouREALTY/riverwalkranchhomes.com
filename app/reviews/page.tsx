@@ -11,7 +11,7 @@ export const metadata: Metadata = pageMetadata({
     "Read Google reviews for Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties, 9406 W Lake Mead Blvd, Suite 100, Las Vegas. Call (702) 222-1964.",
   keywords: [
     "Dr. Jan Duffy reviews",
-    "Berkshire Hathaway HomeServices Nevada Properties reviews",
+    "Berkshire Hathaway HomeServices Nevada Properties reviews.",
     "Las Vegas realtor reviews",
   ],
 });
@@ -20,7 +20,7 @@ const faqs = [
   {
     question: "Where are the reviews?",
     answer:
-      "On Google, under Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties. This page links to that profile. It does not reprint review text.",
+      "The reviews are on Google under Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties. This page links to that profile and does not reprint review text.",
   },
   {
     question: "How do I ask a question before hiring?",
