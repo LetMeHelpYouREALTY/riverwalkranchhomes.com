@@ -40,17 +40,17 @@ export default function TheRidgesPage() {
           {/* Hero */}
           <div className="max-w-4xl mx-auto text-center mb-16">
             <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
+              Dr. Jan Duffy
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
-              Berkshire Hathaway HomeServices The Ridges
+              The Ridges Homes
             </h1>
             <HeadingPhoto path="/neighborhoods/the-ridges" />
 
             <p className="text-xl text-slate-600">
               Guard-gated ridge lots, 15–20 minutes from Suite 100. $2.5M
               median, 67 DOM, 42 listings (January 2026) with{" "}
-              <strong>Berkshire Hathaway HomeServices</strong> and Dr. Jan
+              Dr. Jan
               Duffy.
             </p>
             <div className="mt-8">
@@ -113,7 +113,7 @@ export default function TheRidgesPage() {
                 staffed gate, and ridge-top lots with Strip, mountain, and
                 desert views. When buyers compare ridge-top lots to Downtown
                 Summerlin retail, they start with{" "}
-                <strong>Berkshire Hathaway HomeServices</strong> so gate lists
+                <strong>Dr. Jan Duffy</strong> so gate lists
                 and showing windows are confirmed from Suite 100.
               </p>
               <p>
@@ -126,12 +126,12 @@ export default function TheRidgesPage() {
               </p>
               <p>
                 <strong>
-                  Berkshire Hathaway HomeServices Nevada Properties
+                  Dr. Jan Duffy
                 </strong>{" "}
                 has represented buyers and sellers in The Ridges since the
                 community's inception. Dr. Jan Duffy understands that luxury
                 transactions require gate lists, photography scoped in writing,
-                and addresses kept off group texts. The BHHS referral desk
+                and addresses kept off group texts. The office referral desk
                 connects Ridges appointments from 9406 W Lake Mead Blvd, Suite
                 100 — typically 15–20 minutes to the guardhouse.
               </p>
@@ -158,12 +158,12 @@ export default function TheRidgesPage() {
                 most spectacular custom estates.
               </p>
               <p>
-                Working with <strong>Berkshire Hathaway HomeServices</strong> in
+                Working with <strong>Dr. Jan Duffy</strong> in
                 The Ridges means working with agents who schedule gate lists,
                 photography, and off-market windows from Suite 100. Dr. Jan
                 Duffy coordinates access with architects, designers, and
                 property managers when the brief includes those vendors. When
-                the list price is measured in millions, the Berkshire Hathaway
+                the list price is measured in millions, the Dr. Jan Duffy
                 name is on the paperwork at 9406 W Lake Mead Blvd.
               </p>
             </div>

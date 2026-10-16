@@ -111,7 +111,7 @@ export default function GuidePage({
             Office
           </h2>
           <p className="mt-3 text-slate-700">
-            {nap.name}. {nap.fullAddress}. Client line {ctaPhone.display}.
+            {nap.shortName}. {nap.fullAddress}. Client line {ctaPhone.display}.
             Office line {officePhone.display}. {hoursSummary}.
           </p>
           <ul className="mt-4 space-y-1 text-sm text-slate-600">

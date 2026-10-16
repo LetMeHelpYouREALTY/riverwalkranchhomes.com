@@ -39,17 +39,17 @@ export default function SkyeCanyonPage() {
           {/* Hero */}
           <div className="max-w-4xl mx-auto text-center mb-16">
             <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
+              Dr. Jan Duffy
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
-              Berkshire Hathaway HomeServices Skye Canyon
+              Skye Canyon Homes
             </h1>
             <HeadingPhoto path="/neighborhoods/skye-canyon" />
 
             <p className="text-xl text-slate-600">
               Register at Suite 100, then Skye Center and Floyd Lamb on a 20–25
               minute northwest clock with{" "}
-              <strong>Berkshire Hathaway HomeServices</strong> and Dr. Jan
+              Dr. Jan
               Duffy.
             </p>
             <div className="mt-8">
@@ -111,7 +111,7 @@ export default function SkyeCanyonPage() {
                 <strong>Skye Canyon</strong> represents the future of Las Vegas
                 master-planned living. This 1,700-acre community in northwest
                 Las Vegas sits next to Floyd Lamb Park with Skye Center as the
-                rec campus. <strong>Berkshire Hathaway HomeServices</strong>
+                rec campus. <strong>Dr. Jan Duffy</strong>
                 registers you at Suite 100 before the first model row so builder
                 tours stay on one northwest clock.
               </p>
@@ -127,7 +127,7 @@ export default function SkyeCanyonPage() {
               </p>
               <p>
                 <strong>
-                  Berkshire Hathaway HomeServices Nevada Properties
+                  Dr. Jan Duffy
                 </strong>{" "}
                 offers free buyer representation on all Skye Canyon new
                 construction purchases. This is crucial because when you walk
@@ -159,7 +159,7 @@ export default function SkyeCanyonPage() {
                 Woodside Homes ranges from $450,000 to $800,000.
               </p>
               <p>
-                Choosing <strong>Berkshire Hathaway HomeServices</strong> for
+                Choosing <strong>Dr. Jan Duffy</strong> for
                 your Skye Canyon purchase means working with agents who know
                 which builders offer the best quality, which lots have the best
                 views, and which upgrades deliver the best value. Dr. Jan Duffy

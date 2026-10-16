@@ -21,7 +21,7 @@ const faqs = [
   {
     question: "What is the license number?",
     answer:
-      "License S.0197614.LLC belongs to Dr. Jan Duffy. The brokerage is Berkshire Hathaway HomeServices Nevada Properties.",
+      "License S.0197614.LLC belongs to Dr. Jan Duffy. The brokerage name is in the footer.",
   },
   {
     question: "Where do I verify a Nevada real estate license?",
@@ -40,7 +40,7 @@ export default function CredentialsPage() {
     <GuidePage
       eyebrow="Nevada license"
       title="Credentials for Dr. Jan Duffy"
-      lede="License, brokerage, and the office address in one place so the Google Business Profile and this site name the same person."
+      lede="License and the office address in one place so the Google Business Profile and this site name the same person."
       faqs={faqs}
     >
       <section className="mx-auto my-16 max-w-3xl">
@@ -53,10 +53,6 @@ export default function CredentialsPage() {
           <div>
             <dt className="font-semibold text-slate-900">License</dt>
             <dd>{nap.license}</dd>
-          </div>
-          <div>
-            <dt className="font-semibold text-slate-900">Brokerage</dt>
-            <dd>{nap.brokerage}</dd>
           </div>
           <div>
             <dt className="font-semibold text-slate-900">Office</dt>

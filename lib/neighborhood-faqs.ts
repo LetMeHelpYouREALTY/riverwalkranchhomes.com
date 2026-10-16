@@ -31,7 +31,7 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
       },
       {
         q: "Dr. Jan Duffy tours per day",
-        a: "Yes. Call (702) 222-1964 to book a clustered tour. Berkshire Hathaway HomeServices Nevada Properties is at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. We pair a west-valley loop with one east or northwest block so you are not recrossing the valley twice.",
+        a: "Yes. Call (702) 222-1964 to book a clustered tour. Dr. Jan Duffy is at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. We pair a west-valley loop with one east or northwest block so you are not recrossing the valley twice.",
       },
       {
         q: "Do these neighborhood pages use live MLS data?",

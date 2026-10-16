@@ -9,9 +9,9 @@ import SectionPresence from "@/components/sections/SectionPresence";
 const features = [
   {
     icon: Shield,
-    title: "Berkshire Hathaway Backing",
+    title: "Licensed representation",
     description:
-      "The only real estate brand backed by Berkshire Hathaway Inc. Integrity you can verify.",
+      "The only real estate brand backed by a national parent company Integrity you can verify.",
   },
   {
     icon: TrendingUp,
@@ -62,8 +62,7 @@ export default function WhyChooseUs() {
           </h2>
           <HeadingPhoto path="/" level="h2" photo={photos.agent} priority />
           <p className="text-xl text-slate-600 max-w-3xl mx-auto">
-            Appointments start at Berkshire Hathaway HomeServices Nevada
-            Properties, Suite 100. We sequence the tour from this desk — not a
+            Appointments start at Dr. Jan Duffy, Suite 100. We sequence the tour from this desk — not a
             call center.
           </p>
         </div>
@@ -88,7 +87,7 @@ export default function WhyChooseUs() {
           })}
         </div>
         <p className="text-sm text-slate-600 mt-10 mb-6 text-center">
-          {nap.brokerage} · {nap.fullAddress} · Call or text {ctaPhone.display}.
+          {nap.fullAddress} · Call or text {ctaPhone.display}.
         </p>
         <CtaActions variant="onLight" />
         <div className="text-center mt-10">

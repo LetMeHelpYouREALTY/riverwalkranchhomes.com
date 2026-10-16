@@ -90,7 +90,7 @@ export default function DelWebbLakeLasVegasPage() {
               </p>
               <p>
                 <strong>
-                  Berkshire Hathaway HomeServices Nevada Properties
+                  Dr. Jan Duffy
                 </strong>{" "}
                 helps buyers navigate Del Webb's various floor plans and lot
                 positions. Dr. Jan Duffy provides guidance on which phases offer

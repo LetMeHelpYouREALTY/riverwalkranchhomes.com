@@ -59,7 +59,7 @@ const includedServices = [
   "Drone video for properties with views or large lots",
   "Comprehensive market analysis & pricing strategy",
   "MLS listing syndicated to 100+ websites",
-  "Berkshire Hathaway global network exposure",
+  "Dr. Jan Duffy global network exposure",
   "Social media marketing campaign",
   "Targeted digital advertising",
   "Open house coordination",
@@ -81,7 +81,7 @@ export default function SellersPage() {
           {/* Hero */}
           <div className="max-w-4xl mx-auto text-center mb-16">
             <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
+              Dr. Jan Duffy
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
               Sell Your Las Vegas Home for Top Dollar
@@ -90,7 +90,7 @@ export default function SellersPage() {
 
             <p className="text-xl text-slate-600 mb-8">
               When you list with{" "}
-              <strong>Berkshire Hathaway HomeServices</strong>, you get
+              <strong>Dr. Jan Duffy</strong>, you get
               world-class marketing, expert pricing, and a name that buyers
               trust. Dr. Jan Duffy has been serving Las Vegas since 2008—helping
               sellers achieve top-dollar results with proven marketing
@@ -207,8 +207,7 @@ export default function SellersPage() {
             </h2>
             <p className="text-xl text-slate-300 mb-8">
               Schedule a free listing consultation with Dr. Jan Duffy and
-              discover what your home could sell for with Berkshire Hathaway
-              HomeServices. No obligation, no pressure—just honest advice and
+              discover what your home could sell for with Dr. Jan Duffy. No obligation, no pressure—just honest advice and
               expert analysis.
             </p>
             <CtaActions variant="onDark" />

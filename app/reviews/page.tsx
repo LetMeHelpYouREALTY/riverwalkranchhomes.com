@@ -20,7 +20,7 @@ const faqs = [
   {
     question: "Where are the reviews?",
     answer:
-      "The reviews are on Google under Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties. This page links to that profile and does not reprint review text.",
+      "The reviews are on Google under Dr. Jan Duffy at Dr. Jan Duffy. This page links to that profile and does not reprint review text.",
   },
   {
     question: "How do I ask a question before hiring?",
@@ -42,7 +42,7 @@ export default function ReviewsPage() {
           Read the Google profile
         </h2>
         <p className="mt-4 text-slate-700">
-          {nap.name}. {nap.fullAddress}. Search that name on Google, or open
+          {nap.shortName}. {nap.fullAddress}. Search that name on Google, or open
           the reviews link. Call {ctaPhone.display} if you want a showing
           instead of a form.
         </p>

@@ -108,10 +108,10 @@ export default function AboutPage() {
           {/* Hero Section */}
           <div className="max-w-4xl mx-auto text-center mb-16">
             <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
+              Dr. Jan Duffy
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
-              Meet Your Berkshire Hathaway HomeServices Agent
+              Meet Your Dr. Jan Duffy Agent
             </h1>
             <HeadingPhoto path="/about" />
             <p className="text-xl text-slate-600">
@@ -143,11 +143,10 @@ export default function AboutPage() {
                 <div className="prose prose-lg text-slate-700 mb-8 space-y-4">
                   <p>
                     When you choose to work with{" "}
-                    <strong>Berkshire Hathaway HomeServices</strong>, you're
-                    choosing a legacy of trust, integrity, and excellence. I'm
-                    proud to represent this iconic brand in the Las Vegas real
-                    estate market, bringing world-class resources and local
-                    expertise to every client I serve.
+                    <strong>Dr. Jan Duffy</strong>, you get
+                    direct phone access and a tour planned from Suite 100.
+                    Local market work and written disclosure come from this
+                    desk.
                   </p>
                   <p>
                     Since 2008, I've closed $127 million in transactions and
@@ -161,14 +160,11 @@ export default function AboutPage() {
                   <p>
                     What sets{" "}
                     <strong>
-                      Berkshire Hathaway HomeServices Nevada Properties
+                      Dr. Jan Duffy
                     </strong>{" "}
-                    apart? We're backed by Warren Buffett's Berkshire Hathaway
-                    Inc.—a name synonymous with financial strength and ethical
-                    standards. When you're making the biggest financial decision
-                    of your life, that trust matters. You deserve an agent who
-                    puts your interests first, provides honest advice, and has
-                    the resources to deliver exceptional results.
+                    apart is a dated file: who photographs, who writes remarks,
+                    and who negotiates are named before you sign. When you're
+                    making a large financial decision, that paperwork matters.
                   </p>
                   <p>
                     Files start at Suite 100. Square-footage tours, listing
@@ -213,7 +209,7 @@ export default function AboutPage() {
                   </div>
                   <div className="rounded-lg overflow-hidden mt-6 border border-slate-200">
                     <iframe
-                      title="Map to Berkshire Hathaway HomeServices Nevada Properties, 9406 W Lake Mead Blvd"
+                      title="Map to Dr. Jan Duffy, 9406 W Lake Mead Blvd"
                       src={maps.embedSrc}
                       className="w-full h-56"
                       loading="lazy"
@@ -329,13 +325,13 @@ export default function AboutPage() {
 
           <LeftoverBand path="/about" slot={1} />
 
-          {/* Why BHHS Section */}
+          {/* Why office Section */}
           <section className="mb-16 bg-slate-900 text-white rounded-2xl p-8 md:p-12 max-w-6xl mx-auto">
             <h2 className="scroll-mt-32 text-3xl md:text-4xl font-bold mb-4 text-center">
               License S.0197614.LLC on the card at 9406 W Lake Mead Blvd
             </h2>
             <p className="text-slate-300 text-center max-w-3xl mx-auto mb-8">
-              Berkshire Hathaway HomeServices Nevada Properties holds the desk.
+              Dr. Jan Duffy holds the desk.
               Appointments start at Suite 100. Call or text (702) 222-1964. The
               office line on Google is (702) 500-1942.
             </p>
@@ -345,11 +341,10 @@ export default function AboutPage() {
                   <Award className="h-8 w-8" />
                 </div>
                 <h3 className="font-bold text-xl mb-2">
-                  BHHS Nevada Properties on the paperwork
+                  License on the paperwork
                 </h3>
                 <p className="text-slate-300 text-sm">
-                  The brokerage on the contract is Berkshire Hathaway
-                  HomeServices Nevada Properties, not a slogan. Suite 100 is the
+                  The brokerage name is in the footer, not a slogan. Suite 100 is the
                   Maps pin.
                 </p>
               </div>
@@ -361,7 +356,7 @@ export default function AboutPage() {
                   West Coast sale timed against a Las Vegas purchase
                 </h3>
                 <p className="text-slate-300 text-sm">
-                  50,000+ BHHS agents for a California listing referral paired
+                  50,000+ agents for a California listing referral paired
                   with a Suite 100 buyer file.
                 </p>
               </div>
@@ -383,7 +378,7 @@ export default function AboutPage() {
                 href="/why-berkshire-hathaway"
                 className="inline-block bg-white text-slate-900 px-8 py-3 rounded-md font-semibold hover:bg-slate-100 transition-colors"
               >
-                Learn More About BHHS
+                Learn more about Dr. Jan Duffy
               </Link>
             </div>
           <SectionPresence />

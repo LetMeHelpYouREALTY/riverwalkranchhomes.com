@@ -115,7 +115,7 @@ export default function ListingsPage() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center mb-12">
             <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
+              Dr. Jan Duffy
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
               Las Vegas Homes for Sale
@@ -125,8 +125,7 @@ export default function ListingsPage() {
             <p className="text-xl text-slate-600 mb-8">
               Search thousands of Las Vegas, Henderson, and Summerlin properties
               with live MLS listings updated every 15 minutes. Find your dream
-              home with expert guidance from Dr. Jan Duffy at{" "}
-              <strong>Berkshire Hathaway HomeServices</strong>.
+              home with expert guidance from Dr. Jan Duffy.
             </p>
             <div className="flex flex-wrap justify-center gap-4 text-sm text-slate-500 mb-8">
               <span className="flex items-center">
@@ -244,7 +243,7 @@ export default function ListingsPage() {
                   Off-market windows from the desk
                 </h3>
                 <p className="text-slate-400 text-sm">
-                  Pocket listings come through the BHHS network. We do not text
+                  Pocket listings come through the referral network. We do not text
                   addresses on unsecured threads.
                 </p>
               </div>
@@ -329,8 +328,7 @@ export default function ListingsPage() {
             </h2>
             <p className="text-xl text-blue-100 mb-8">
               Contact Dr. Jan Duffy for personalized guidance, off-market
-              listings, and expert representation backed by Berkshire Hathaway
-              HomeServices. Free buyer consultations available—the seller pays
+              listings, and expert representation backed by Dr. Jan Duffy. Free buyer consultations available—the seller pays
               the commission.
             </p>
             <CtaActions variant="onDark" />

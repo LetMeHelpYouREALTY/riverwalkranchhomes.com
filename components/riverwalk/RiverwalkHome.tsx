@@ -129,7 +129,7 @@ export default function RiverwalkHome({
                 </a>
               </div>
               <p className="mt-6 text-sm text-[#6b5344] max-w-[38rem]">
-                {nap.shortName}, REALTOR® {nap.license}. {nap.brokerage}.{" "}
+                {nap.shortName}, REALTOR® {nap.license}.{" "}
                 {nap.fullAddress}.
               </p>
             </div>
@@ -345,7 +345,7 @@ export default function RiverwalkHome({
                 {RIVERWALK_BRAND}, with {nap.shortName}
               </h2>
               <p className="mt-5 leading-relaxed text-[#3f3832]">
-                {nap.brokerage}. License {nap.license}. The office pin is Suite
+                License {nap.license}. The office pin is Suite
                 100, not the Towboat gate.
               </p>
               <a
@@ -379,7 +379,7 @@ export default function RiverwalkHome({
             </div>
             <div className="lg:col-span-6 lg:col-start-7">
               <address className="not-italic text-[#1c1917]">
-                <span className="block font-semibold">{nap.name}</span>
+                <span className="block font-semibold">{nap.shortName}</span>
                 <span className="block mt-2">{nap.street}</span>
                 <span className="block">
                   {nap.city}, {nap.state} {nap.zip}
@@ -398,7 +398,7 @@ export default function RiverwalkHome({
               </ul>
               <div className="mt-8 overflow-hidden border border-[#ddd4c8]">
                 <iframe
-                  title={`Map to ${nap.brokerage} at ${nap.fullAddress}`}
+                  title={`Map to the office at ${nap.fullAddress}`}
                   src={maps.embedSrc}
                   className="w-full h-56"
                   loading="lazy"

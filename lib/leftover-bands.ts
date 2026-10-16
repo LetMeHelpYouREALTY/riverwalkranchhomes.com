@@ -36,7 +36,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "License on the card",
-          note: "S.0197614.LLC. Berkshire Hathaway HomeServices Nevada Properties. Client CTA (702) 222-1964.",
+          note: "S.0197614.LLC. Dr. Jan Duffy. Client CTA (702) 222-1964.",
         },
       ],
     },
@@ -220,7 +220,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Paid placement punch list",
-          note: "BHHS syndication is scoped before go-live. We do not promise a portal we cannot name. Office/GBP (702) 500-1942.",
+          note: "listing syndication is scoped before go-live. We do not promise a portal we cannot name. Office/GBP (702) 500-1942.",
         },
       ],
     },
@@ -266,7 +266,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "License S.0197614.LLC",
-          note: "Agent Dr. Jan Duffy, BHHS Nevada Properties. Showing access questions stay at this pin.",
+          note: "Agent Dr. Jan Duffy. Showing access questions stay at this pin.",
         },
       ],
     },
@@ -340,7 +340,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/services": [
     {
       h2: "Buyer, listing, 55+, and relocation desks — pick the file type first",
-      body: "Service meetings begin at 9406 W Lake Mead Blvd, Suite 100. MLS, showing routes, and BHHS paperwork share that start. Call (702) 222-1964",
+      body: "Service meetings begin at 9406 W Lake Mead Blvd, Suite 100. MLS, showing routes, and brokerage paperwork share that start. Call (702) 222-1964",
       pins: [
         {
           name: "Buyer representation",
@@ -432,11 +432,11 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/why-berkshire-hathaway": [
     {
       h2: "License S.0197614.LLC at Suite 100 — the parent company is on the letterhead",
-      body: "The photographer, remark writer, and negotiator are identified. Dr. Jan Duffy, Berkshire Hathaway HomeServices Nevada Properties, 9406 W Lake Mead Blvd, Suite 100. Call (702) 222-1964. Closed volume cited on this site: $127M+ since 2008.",
+      body: "The photographer, remark writer, and negotiator are identified. Dr. Jan Duffy, 9406 W Lake Mead Blvd, Suite 100. Call (702) 222-1964. Closed volume cited on this site: $127M+ since 2008.",
       pins: [
         {
           name: "Brokerage on the contract",
-          note: "BHHS Nevada Properties is the named brokerage. Samples are reviewed at this pin before you sign.",
+          note: "The brokerage name is in the footer. Samples are reviewed at this pin before you sign.",
         },
         {
           name: "Referral desk information",
@@ -448,17 +448,17 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Meet the agent page",
-          note: "Open /about for license card photos and office hours. The work is the agent; the parent is Berkshire Hathaway Inc.",
+          note: "Open /about for license card photos and office hours. The work is the agent; the brokerage name is in the footer",
         },
       ],
     },
     {
-      h2: "Berkshire Hathaway Inc. on the parent line — then who photographs YOUR listing at Suite 100",
-      body: "The parent company is Berkshire Hathaway Inc. The file is this desk. Ask for listing-marketing samples at 9406 W Lake Mead Blvd before you sign. Call (702) 222-1964.",
+      h2: "Parent company on the letterhead — then who photographs YOUR listing at Suite 100",
+      body: "The parent company is named in the footer. The file is this desk. Ask for listing-marketing samples at 9406 W Lake Mead Blvd before you sign. Call (702) 222-1964.",
       pins: [
         {
           name: "Parent on the letterhead",
-          note: "Berkshire Hathaway Inc. is named on BHHS materials. That is not a CMA for your street.",
+          note: "Parent-company materials are not a CMA for your street.",
         },
         {
           name: "This file at Suite 100",
@@ -470,7 +470,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "License S.0197614.LLC",
-          note: "Dr. Jan Duffy, BHHS Nevada Properties. Client CTA (702) 222-1964. Office/GBP (702) 500-1942.",
+          note: "Dr. Jan Duffy. Client CTA (702) 222-1964. Office/GBP (702) 500-1942.",
         },
       ],
     },
@@ -594,7 +594,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       pins: [
         {
           name: "Who",
-          note: "Dr. Jan Duffy, Berkshire Hathaway HomeServices Nevada Properties. Closed volume cited on this site: $127M+ since 2008.",
+          note: "Dr. Jan Duffy. Closed volume cited on this site: $127M+ since 2008.",
         },
         {
           name: "What",
@@ -634,7 +634,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Map pin at 9406 W Lake Mead Blvd — Directions and Google Reviews available on this page",
-      body: "The embed, Get Directions, and View Google Reviews buttons are the GBP actions. Call or text (702) 222-1964. License S.0197614.LLC. Berkshire Hathaway HomeServices Nevada Properties.",
+      body: "The embed, Get Directions, and View Google Reviews buttons are the GBP actions. Call or text (702) 222-1964. License S.0197614.LLC. Dr. Jan Duffy.",
       pins: [
         {
           name: "Get Directions",
@@ -661,8 +661,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       body: "Listing files start at 9406 W Lake Mead Blvd, Suite 100. Photos and MLS remarks wait until the walkthrough. Call (702) 222-1964. We do not promise a portal we cannot name.",
       pins: [
         {
-          name: "BHHS syndication punch list",
-          note: "MLS plus named BHHS channels are initialed before live. Social stays off until you approve the set.",
+          name: "listing syndication punch list",
+          note: "MLS plus named listing channels are initialed before live. Social stays off until you approve the set.",
         },
         {
           name: "Street comparable sales",
@@ -718,7 +718,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Outbound relocation process",
-          note: "Las Vegas closing dates lined up with the next city. BHHS destination agent briefed from this desk.",
+          note: "Las Vegas closing dates lined up with the next city. Destination-city agent briefed from this desk.",
         },
       ],
     },
@@ -736,7 +736,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Paid placement",
-          note: "BHHS channels you initial. Social stays off until you approve the set.",
+          note: "listing channels you initial. Social stays off until you approve the set.",
         },
         {
           name: "Showing calendar",
@@ -971,7 +971,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/sellers/relocation": [
     {
-      h2: "Las Vegas sale calendar plus a named BHHS agent in the next city",
+      h2: "Las Vegas sale calendar plus a named agent in the next city",
       body: "Outbound files start at Suite 100. Destination agents are briefed from 9406 W Lake Mead Blvd so two closings do not collide. Call (702) 222-1964.",
       pins: [
         {
@@ -980,7 +980,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "50,000-agent desk, local file",
-          note: "BHHS destination intro is a Suite 100 call. Local showings still start here until you leave.",
+          note: "destination intro is a Suite 100 call. Local showings still start here until you leave.",
         },
         {
           name: "Two-contract calendar",
@@ -1006,7 +1006,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Destination agent",
-          note: "BHHS intro is a Suite 100 call, not a cold transfer.",
+          note: "destination intro is a Suite 100 call, not a cold transfer.",
         },
         {
           name: "Two closings",
@@ -1037,7 +1037,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "California, Texas, Arizona destination desks — BHHS intro from Suite 100",
+      h2: "California, Texas, Arizona destination desks — destination intro from Suite 100",
       body: "Outbound is a named agent in the next city, briefed from 9406 W Lake Mead Blvd. Call (702) 222-1964. We do not invent a destination inventory count.",
       pins: [
         {
@@ -1046,7 +1046,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Texas or Arizona",
-          note: "BHHS destination intro from this desk. Local showings still start here until you leave.",
+          note: "destination intro from this desk. Local showings still start here until you leave.",
         },
         {
           name: "Two-contract calendar",
@@ -1194,7 +1194,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "50,000-agent letterhead, then this file stays confidential at Suite 100",
-      body: "BHHS documentation standards are on the letterhead. The file still sits at 9406 W Lake Mead Blvd. Call (702) 222-1964. License S.0197614.LLC.",
+      body: "brokerage documentation standards are on the letterhead. The file still sits at 9406 W Lake Mead Blvd. Call (702) 222-1964. License S.0197614.LLC.",
       pins: [
         {
           name: "Paper trail",
@@ -1580,7 +1580,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/contact": [
     {
       h2: "Walk-in hours and (702) 222-1964 at Suite 100 — the Maps pin is this desk",
-      body: "Berkshire Hathaway HomeServices Nevada Properties. 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Client CTA (702) 222-1964. Office/GBP (702) 500-1942. Closed volume cited on this site: $127M+ since 2008. Map, Directions, and Google Reviews stay on this URL.",
+      body: "Dr. Jan Duffy. 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Client CTA (702) 222-1964. Office/GBP (702) 500-1942. Closed volume cited on this site: $127M+ since 2008. Map, Directions, and Google Reviews stay on this URL.",
       pins: [
         {
           name: "Call or text (702) 222-1964",
@@ -1819,8 +1819,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
           note: "If listings keep falling while sales hold, competition can tighten. Dated — re-check the week you list.",
         },
         {
-          name: "BHHS paperwork",
-          note: "Berkshire Hathaway HomeServices Nevada Properties. License S.0197614.LLC. RealScout holds the saved search.",
+          name: "brokerage paperwork",
+          note: "Dr. Jan Duffy. License S.0197614.LLC. RealScout holds the saved search.",
         },
       ],
     },
@@ -2334,7 +2334,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Maps pin",
-          note: "Berkshire Hathaway HomeServices Nevada Properties. License S.0197614.LLC.",
+          note: "Dr. Jan Duffy. License S.0197614.LLC.",
         },
       ],
     },

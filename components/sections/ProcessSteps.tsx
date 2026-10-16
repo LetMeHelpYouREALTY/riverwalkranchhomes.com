@@ -52,7 +52,7 @@ export default function ProcessSteps({ path, slot = 0 }: ProcessStepsProps) {
         ))}
       </div>
       <p className="text-sm text-slate-600 mt-6 mb-6 text-center">
-        {nap.brokerage} · {nap.fullAddress} · Call or text {ctaPhone.display}.
+        {nap.fullAddress} · Call or text {ctaPhone.display}.
       </p>
       <CtaActions variant="onLight" />
     <SectionPresence />

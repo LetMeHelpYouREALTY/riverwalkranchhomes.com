@@ -124,7 +124,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/google-business": {
     h2: "Maps, GBP, and this page must say the same NAP",
     quote:
-      "Berkshire Hathaway HomeServices Nevada Properties. 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Office (702) 500-1942. Client CTA (702) 222-1964. If a directory disagrees, we fix the directory — not this page.",
+      "Dr. Jan Duffy. 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Office (702) 500-1942. Client CTA (702) 222-1964. If a directory disagrees, we fix the directory — not this page.",
   },
   "/faq": {
     h2: "Bring a ZIP and a pre-approval to the live Q&A",
@@ -194,7 +194,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/sellers/relocation": {
     h2: "One calendar for the Las Vegas sale and the destination purchase",
     quote:
-      "BHHS destination agents are briefed from this office so the sale and the next purchase share a calendar. Call (702) 222-1964. Do not leave the file in two CRMs with no owner.",
+      "Destination-city agents are briefed from this office so the sale and the next purchase share a calendar. Call (702) 222-1964. Do not leave the file in two CRMs with no owner.",
   },
   "/sellers/divorce-probate": {
     h2: "Private file review by appointment — not a lobby conversation",
@@ -219,7 +219,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/why-berkshire-hathaway": {
     h2: "See marketing samples at Suite 100 before you sign",
     quote:
-      "I show marketing samples and referral paths at 9406 W Lake Mead Blvd. The brand is Berkshire Hathaway HomeServices Nevada Properties. Call (702) 222-1964. License S.0197614.LLC.",
+      "I show marketing samples and referral paths at 9406 W Lake Mead Blvd. The brand is Dr. Jan Duffy. Call (702) 222-1964. License S.0197614.LLC.",
   },
   "/market-insights": {
     h2: "Apply January 2026 numbers to your ZIP, then we drive",

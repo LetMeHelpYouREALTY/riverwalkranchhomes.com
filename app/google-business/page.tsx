@@ -69,7 +69,7 @@ export default function GoogleBusinessPage() {
                       aria-hidden="true"
                     />
                     <span className="text-yellow-400 font-semibold">
-                      Berkshire Hathaway HomeServices
+                      Dr. Jan Duffy
                     </span>
                   </div>
                   <h1 className="text-4xl md:text-5xl font-bold mb-4">
@@ -77,10 +77,9 @@ export default function GoogleBusinessPage() {
                   </h1>
                   <HeadingPhoto path="/google-business" />
 
-                  <p className="text-xl text-blue-200 mb-2">
+                  <p className="text-xl text-blue-200 mb-6">
                     REALTOR® | License {businessInfo.license}
                   </p>
-                  <p className="text-slate-300 mb-6">Nevada Properties</p>
 
                   <div className="space-y-3">
                     <div className="flex items-start gap-3">
@@ -219,11 +218,11 @@ export default function GoogleBusinessPage() {
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-6">
               The embed, Get Directions, and View Google Reviews buttons are the
               GBP actions. Call or text (702) 222-1964. License S.0197614.LLC.
-              Berkshire Hathaway HomeServices Nevada Properties.
+              Dr. Jan Duffy.
             </p>
             <div className="rounded-xl overflow-hidden border border-slate-200 mb-6">
               <iframe
-                title="Map to Berkshire Hathaway HomeServices Nevada Properties, 9406 W Lake Mead Blvd"
+                title="Map to Dr. Jan Duffy, 9406 W Lake Mead Blvd"
                 src={maps.embedSrc}
                 className="w-full h-72"
                 loading="lazy"

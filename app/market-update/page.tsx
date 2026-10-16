@@ -66,16 +66,16 @@ export default function MarketUpdatePage() {
               Week of January 20, 2026
             </div>
             <h1 className="text-4xl md:text-5xl font-bold text-slate-900 mb-4">
-              Berkshire Hathaway HomeServices Las Vegas Market Update
+              Las Vegas Market Update
             </h1>
             <HeadingPhoto path="/market-update" />
 
             <p className="text-xl text-slate-600">
               Your weekly insider report on Las Vegas Valley real estate from{" "}
-              <strong>Berkshire Hathaway HomeServices Nevada Properties</strong>
+              <strong>Dr. Jan Duffy</strong>
             </p>
             <div className="flex items-center justify-center mt-6 text-slate-500 text-sm">
-              <span>By Dr. Jan Duffy, REALTOR® | BHHS Nevada Properties</span>
+              <span>By Dr. Jan Duffy, REALTOR®</span>
             </div>
             <div className="mt-8">
               <CtaActions variant="onLight" />

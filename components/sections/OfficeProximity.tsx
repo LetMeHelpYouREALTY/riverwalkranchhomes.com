@@ -171,7 +171,7 @@ const byPath: Record<string, PlaceDrive> = {
   "/sellers": {
     place: "listing appointment prep",
     driveMinutes: "we come to your house after this brief",
-    note: "Pricing, photos, and BHHS marketing are scoped at Suite 100, then we go on-site for the CMA walkthrough.",
+    note: "Pricing, photos, and listing marketing are scoped at Suite 100, then we go on-site for the CMA walkthrough.",
   },
   "/sellers/move-up": {
     place: "sale-and-purchase timing",
@@ -186,7 +186,7 @@ const byPath: Record<string, PlaceDrive> = {
   "/sellers/relocation": {
     place: "outbound sale coordination",
     driveMinutes: "on-site plus destination agent call",
-    note: "BHHS destination agents are briefed from this office so Las Vegas closing dates line up with your next city.",
+    note: "Destination-city agents are briefed from this office so Las Vegas closing dates line up with your next city.",
   },
   "/sellers/divorce-probate": {
     place: "confidential file review",
@@ -211,7 +211,7 @@ const byPath: Record<string, PlaceDrive> = {
   "/why-berkshire-hathaway": {
     place: "brand and representation questions",
     driveMinutes: "on-site",
-    note: "BHHS network referrals and listing marketing samples are shown at Suite 100 before you commit to a listing agreement.",
+    note: "referral network referrals and listing marketing samples are shown at Suite 100 before you commit to a listing agreement.",
   },
   "/market-insights": {
     place: "market briefing",
@@ -254,8 +254,8 @@ export default function OfficeProximity({ path }: OfficeProximityProps) {
         Drive time from {nap.street} to {row.place}
       </h2>
       <p className="text-slate-700 mb-4">
-        Showings start from Berkshire Hathaway HomeServices Nevada Properties at{" "}
-        {nap.fullAddress}. Typical drive to {row.place} is {row.driveMinutes}.{" "}
+        Showings start at {nap.fullAddress}. Typical drive to {row.place} is{" "}
+        {row.driveMinutes}.{" "}
         {row.note}
       </p>
       <p className="text-sm text-slate-600 mb-4">

@@ -70,7 +70,7 @@ export default function ServiceAreasPage() {
     <GuidePage
       eyebrow="From Suite 100"
       title="Dr. Jan Duffy serves the following areas"
-      lede={`${nap.brokerage} shows homes in Las Vegas, Henderson, Summerlin, and North Las Vegas. The office pin does not move.`}
+      lede={`Dr. Jan Duffy shows homes in Las Vegas, Henderson, Summerlin, and North Las Vegas. The office pin does not move.`}
       faqs={faqs}
     >
       <section className="mx-auto my-16 max-w-3xl">

@@ -152,7 +152,7 @@ export default async function Home() {
             </div>
           </div>
           <p className="text-sm text-slate-600 mt-8 mb-6 text-center">
-            {nap.brokerage} · {nap.fullAddress} · Call or text{" "}
+             · {nap.fullAddress} · Call or text{" "}
             {ctaPhone.display}.
           </p>
           <CtaActions variant="onLight" />
@@ -230,7 +230,7 @@ export default async function Home() {
       <SupportFaqs path="/" />
       <LeftoverBand path="/" slot={1} />
       <p className="sr-only">
-        {nap.name}. {nap.fullAddress}. Call {ctaPhone.display}.
+        {nap.shortName}. {nap.fullAddress}. Call {ctaPhone.display}.
       </p>
     </main>
   );
