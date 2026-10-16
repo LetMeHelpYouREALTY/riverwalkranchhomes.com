@@ -1,5 +1,11 @@
 import { describe, expect, it } from "vitest";
 import {
+  riverwalkGuideLinks,
+  riverwalkHoaPage,
+  riverwalkMarketPage,
+  riverwalkSchoolsPage,
+} from "@/lib/riverwalk-guide-pages";
+import {
   highNoonListingExample,
   isRiverwalkHost,
   riverwalkCommutes,
@@ -38,6 +44,40 @@ describe("Riverwalk Ranch guide", () => {
     const dues = riverwalkFaqs.find((faq) => faq.question.includes("HOA"));
     expect(dues?.answer).toContain("$120");
     expect(dues?.answer).toContain("$221");
+  });
+
+  it("keeps market, HOA, and school pages on sourced figures", () => {
+    const copy = JSON.stringify({
+      riverwalkMarketPage,
+      riverwalkHoaPage,
+      riverwalkSchoolsPage,
+    });
+    expect(riverwalkMarketPage.lede).toContain("$505,000");
+    expect(riverwalkMarketPage.lede).toContain("62");
+    expect(riverwalkMarketPage.lede).toContain("89031");
+    expect(riverwalkHoaPage.lede).toContain("$120");
+    expect(riverwalkHoaPage.lede).toContain("$221");
+    expect(riverwalkHoaPage.lede).toContain("not a combined");
+    expect(riverwalkSchoolsPage.lede).toContain("Kay Carl Elementary School");
+    expect(riverwalkSchoolsPage.lede).toContain("Anthony Saville Middle School");
+    expect(riverwalkSchoolsPage.lede).toContain("Shadow Ridge High School");
+    expect(riverwalkGuideLinks.map((link) => link.href)).toEqual([
+      "/neighborhoods/riverwalk-ranch/market",
+      "/neighborhoods/riverwalk-ranch/hoa",
+      "/neighborhoods/riverwalk-ranch/schools",
+    ]);
+    for (const phrase of [
+      "family-friendly",
+      "families",
+      "$222",
+      "$232",
+      "cash offer",
+      "starter",
+      "below the Las Vegas",
+      "community pool",
+    ]) {
+      expect(copy.toLowerCase()).not.toContain(phrase.toLowerCase());
+    }
   });
 
   it("treats heyberkshire.com as the Riverwalk Ranch host", () => {

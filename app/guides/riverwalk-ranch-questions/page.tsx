@@ -54,14 +54,40 @@ export default function RiverwalkQuestionsPage() {
           this site are dated {RIVERWALK_AS_OF}. Call {ctaPhone.display} to
           confirm a specific address before you tour.
         </p>
-        <p className="mt-4">
-          <Link
-            href="/neighborhoods/riverwalk-ranch"
-            className="font-semibold text-blue-700 underline"
-          >
-            Five sections in Riverwalk Ranch
-          </Link>
-        </p>
+        <ul className="mt-4 space-y-2">
+          <li>
+            <Link
+              href="/neighborhoods/riverwalk-ranch"
+              className="font-semibold text-blue-700 underline"
+            >
+              Five sections in Riverwalk Ranch
+            </Link>
+          </li>
+          <li>
+            <Link
+              href="/neighborhoods/riverwalk-ranch/market"
+              className="font-semibold text-blue-700 underline"
+            >
+              Current market
+            </Link>
+          </li>
+          <li>
+            <Link
+              href="/neighborhoods/riverwalk-ranch/hoa"
+              className="font-semibold text-blue-700 underline"
+            >
+              HOA fees and amenities
+            </Link>
+          </li>
+          <li>
+            <Link
+              href="/neighborhoods/riverwalk-ranch/schools"
+              className="font-semibold text-blue-700 underline"
+            >
+              Schools for these addresses
+            </Link>
+          </li>
+        </ul>
       <SectionPresence />
       </section>
     </GuidePage>

@@ -111,6 +111,18 @@ export default function Footer({ brand = "brokerage" }: FooterProps) {
                   href: "/neighborhoods/riverwalk-ranch",
                   label: "Riverwalk Ranch Homes",
                 },
+                {
+                  href: "/neighborhoods/riverwalk-ranch/market",
+                  label: "Riverwalk Ranch Market",
+                },
+                {
+                  href: "/neighborhoods/riverwalk-ranch/hoa",
+                  label: "Riverwalk Ranch HOA",
+                },
+                {
+                  href: "/neighborhoods/riverwalk-ranch/schools",
+                  label: "Riverwalk Ranch Schools",
+                },
                 { href: "/neighborhoods", label: "Las Vegas Neighborhoods" },
                 { href: "/luxury-homes", label: "Luxury Homes" },
                 { href: "/55-plus-communities", label: "55+ Communities" },
