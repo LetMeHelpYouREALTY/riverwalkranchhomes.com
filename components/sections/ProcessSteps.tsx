@@ -3,6 +3,7 @@ import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import { ctaPhone, nap } from "@/lib/contact";
 import { processPhotoForPath } from "@/lib/media";
 import { processSteps } from "@/lib/process-steps";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 type ProcessStepsProps = {
   path: string;
@@ -54,6 +55,7 @@ export default function ProcessSteps({ path, slot = 0 }: ProcessStepsProps) {
         {nap.brokerage} · {nap.fullAddress} · Call or text {ctaPhone.display}.
       </p>
       <CtaActions variant="onLight" />
+    <SectionPresence />
     </section>
   );
 }

@@ -86,6 +86,12 @@ export const photos = {
     width: 1024,
     height: 1365,
   },
+  portrait: {
+    src: "/images/dr-jan-duffy.png",
+    alt: "Dr. Jan Duffy, REALTOR®, Berkshire Hathaway HomeServices Nevada Properties",
+    width: 1024,
+    height: 1024,
+  },
   market: {
     src: "/images/hero/las-vegas-market-skyline.jpg",
     alt: "Las Vegas valley skyline at sunrise used for market analysis pages",
@@ -248,7 +254,17 @@ export type PhotoKey = keyof typeof photos;
 
 export function photoForPath(path: string): SitePhoto {
   if (path === "/" || path === "") return photos.homeHero;
-  if (path.startsWith("/about")) return photos.agent;
+  if (path.startsWith("/neighborhoods/riverwalk-ranch")) return photos.aliante;
+  if (
+    path.startsWith("/about") ||
+    path.startsWith("/private-client") ||
+    path.startsWith("/credentials") ||
+    path.startsWith("/reviews") ||
+    path.startsWith("/guides") ||
+    path.startsWith("/service-areas")
+  ) {
+    return photos.portrait;
+  }
   if (
     path.startsWith("/contact") ||
     path.startsWith("/google-business") ||

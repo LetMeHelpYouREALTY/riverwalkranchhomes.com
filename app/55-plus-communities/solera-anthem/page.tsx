@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   Phone,
@@ -23,6 +22,8 @@ import ExpertQuote from "@/components/sections/ExpertQuote";
 import FiftyFiveAmenities from "@/components/sections/FiftyFiveAmenities";
 import RealScoutSearch from "@/components/realscout/RealScoutSearch";
 import { pageMetadata } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/55-plus-communities/solera-anthem",
@@ -98,6 +99,7 @@ export default function SoleraAnthemPage() {
               <RealScoutSearch />
             </div>
           </div>
+          <OfficeListingsWidget />
           <OfficeProximity path="/55-plus-communities/solera-anthem" />
           <UniqueInterior path="/55-plus-communities/solera-anthem" />
 
@@ -131,6 +133,7 @@ export default function SoleraAnthemPage() {
                 <div className="text-slate-300 text-sm">All Residents</div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/55-plus-communities/solera-anthem" />
@@ -202,6 +205,7 @@ export default function SoleraAnthemPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Why Choose Solera */}
@@ -224,13 +228,13 @@ export default function SoleraAnthemPage() {
               Solera tours run with Anthem parks on a 30–35 minute Henderson
               block from the office.
             </p>
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

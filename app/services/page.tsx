@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import { CheckCircle, ArrowRight } from "lucide-react";
 import type { Metadata } from "next";
@@ -10,6 +9,8 @@ import ExpertQuote from "@/components/sections/ExpertQuote";
 import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import ProcessSteps from "@/components/sections/ProcessSteps";
 import LeftoverBand from "@/components/sections/LeftoverBand";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/services",
@@ -135,6 +136,7 @@ export default function ServicesPage() {
               <ExpertQuote path="/services" />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           <LeftoverBand path="/services" />
 
@@ -171,6 +173,7 @@ export default function ServicesPage() {
                 </Link>
               ))}
             </div>
+          <SectionPresence />
           </section>
 
           {/* Seller Types */}
@@ -204,6 +207,7 @@ export default function ServicesPage() {
                 </Link>
               ))}
             </div>
+          <SectionPresence />
           </section>
 
           <ProcessSteps path="/services" />
@@ -221,6 +225,7 @@ export default function ServicesPage() {
               Hathaway HomeServices.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
 
@@ -229,7 +234,6 @@ export default function ServicesPage() {
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

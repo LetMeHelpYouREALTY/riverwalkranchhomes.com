@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import {
   Phone,
   Mail,
@@ -22,8 +23,14 @@ import {
   SITE_URL,
 } from "@/lib/contact";
 import MlsDisclaimer from "@/components/shared/MlsDisclaimer";
+import { photos } from "@/lib/media";
 
-export default function Footer() {
+type FooterProps = {
+  brand?: "riverwalk" | "brokerage";
+};
+
+export default function Footer({ brand = "brokerage" }: FooterProps) {
+  const riverwalk = brand === "riverwalk";
   const currentYear = new Date().getFullYear();
 
   return (
@@ -31,12 +38,24 @@ export default function Footer() {
       <div className="container mx-auto px-4 py-12 md:py-16">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12">
           <div>
-            <h2 className="font-bold text-xl mb-4">
-              Berkshire Hathaway HomeServices
-            </h2>
+            <div className="mb-4 flex items-center gap-3">
+              <Image
+                src={photos.portrait.src}
+                alt="Dr. Jan Duffy"
+                width={56}
+                height={56}
+                className="h-14 w-14 rounded-full object-cover"
+              />
+              <h2 className="font-bold text-xl">
+                {riverwalk
+                  ? "Riverwalk Ranch Homes"
+                  : "Berkshire Hathaway HomeServices"}
+              </h2>
+            </div>
             <p className="text-slate-300 mb-4 text-sm">
-              Nevada Properties — Dr. Jan Duffy, REALTOR®. Buying, selling, and
-              relocating in Las Vegas, Henderson, and Summerlin.
+              {riverwalk
+                ? "North Las Vegas 89031. Dr. Jan Duffy, REALTOR®, at Berkshire Hathaway HomeServices Nevada Properties."
+                : "Nevada Properties — Dr. Jan Duffy, REALTOR®. Buying, selling, and relocating in Las Vegas, Henderson, and Summerlin."}
             </p>
             <address className="not-italic text-slate-300 text-sm mb-4">
               {nap.street}
@@ -88,6 +107,10 @@ export default function Footer() {
             <ul className="space-y-2">
               {[
                 { href: "/listings", label: "Las Vegas Homes for Sale" },
+                {
+                  href: "/neighborhoods/riverwalk-ranch",
+                  label: "Riverwalk Ranch Homes",
+                },
                 { href: "/neighborhoods", label: "Las Vegas Neighborhoods" },
                 { href: "/luxury-homes", label: "Luxury Homes" },
                 { href: "/55-plus-communities", label: "55+ Communities" },
@@ -95,6 +118,13 @@ export default function Footer() {
                 { href: "/market-report", label: "Las Vegas Market Report" },
                 { href: "/why-berkshire-hathaway", label: "Why BHHS" },
                 { href: "/about", label: "About Dr. Jan Duffy" },
+                { href: "/private-client", label: "Private Client Advisory" },
+                { href: "/service-areas", label: "Las Vegas Service Areas" },
+                { href: "/credentials", label: "License S.0197614.LLC" },
+                {
+                  href: "/guides/book-a-showing",
+                  label: "Book a Las Vegas Showing",
+                },
               ].map((link) => (
                 <li key={link.href}>
                   <Link

@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import { Phone, Mail, MapPin, Clock, Calendar, Star } from "lucide-react";
 import CalendlyWidget from "@/components/calendly/CalendlyWidget";
 import type { Metadata } from "next";
@@ -11,6 +10,8 @@ import SupportFaqs from "@/components/sections/SupportFaqs";
 import ExpertQuote from "@/components/sections/ExpertQuote";
 import ProcessSteps from "@/components/sections/ProcessSteps";
 import LeftoverBand from "@/components/sections/LeftoverBand";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 import {
   ctaPhone,
@@ -83,6 +84,7 @@ export default function ContactPage() {
             <UniqueInterior path="/contact" />
             <ExpertQuote path="/contact" />
           </div>
+          <OfficeListingsWidget />
 
           <div className="grid lg:grid-cols-2 gap-12 max-w-6xl mx-auto">
             {/* Contact Info & Map */}
@@ -126,7 +128,7 @@ export default function ContactPage() {
                       href="mailto:homes@heyberkshire.com"
                       className="text-blue-600 hover:text-blue-700 font-medium"
                     >
-                      Homes@HeyBerkshire.com
+                      homes@heyberkshire.com
                     </a>
                     <p className="text-sm text-slate-500 mt-1">
                       Typically respond within 2 hours
@@ -275,6 +277,7 @@ export default function ContactPage() {
                 </div>
               ))}
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/contact" slot={1} />
@@ -287,7 +290,6 @@ export default function ContactPage() {
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   Phone,
@@ -25,6 +24,8 @@ import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import IntentFaqs from "@/components/sections/IntentFaqs";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import { pageMetadata } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/relocation",
@@ -161,6 +162,7 @@ export default function RelocationPage() {
               <UniqueInterior path="/relocation" />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           <LeftoverBand path="/relocation" />
 
@@ -180,6 +182,7 @@ export default function RelocationPage() {
                 </div>
               ))}
             </div>
+          <SectionPresence />
           </section>
 
           {/* Neighborhoods */}
@@ -223,6 +226,7 @@ export default function RelocationPage() {
                 <ArrowRight className="h-4 w-4 ml-2" />
               </Link>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/relocation" slot={2} />
@@ -285,6 +289,7 @@ export default function RelocationPage() {
                 </ul>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Coming From California */}
@@ -354,6 +359,7 @@ export default function RelocationPage() {
                 <ArrowRight className="h-4 w-4 ml-2" />
               </Link>
             </div>
+          <SectionPresence />
           </section>
 
           {/* BHHS Network */}
@@ -395,6 +401,7 @@ export default function RelocationPage() {
                 </p>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <IntentFaqs path="/relocation" />
@@ -411,6 +418,7 @@ export default function RelocationPage() {
               Las Vegas market and plan your transition.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
 
@@ -419,7 +427,6 @@ export default function RelocationPage() {
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

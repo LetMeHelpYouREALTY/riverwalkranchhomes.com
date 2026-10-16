@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   Phone,
@@ -23,6 +22,8 @@ import FiftyFiveFaqs from "@/components/sections/FiftyFiveFaqs";
 import ExpertQuote from "@/components/sections/ExpertQuote";
 import FiftyFiveAmenities from "@/components/sections/FiftyFiveAmenities";
 import { pageMetadata } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/55-plus-communities/sun-city-summerlin",
@@ -90,6 +91,7 @@ export default function SunCitySummerlinPage() {
               <RealScoutSearch />
             </div>
           </div>
+          <OfficeListingsWidget />
           <OfficeProximity path="/55-plus-communities/sun-city-summerlin" />
           <UniqueInterior path="/55-plus-communities/sun-city-summerlin" />
 
@@ -123,6 +125,7 @@ export default function SunCitySummerlinPage() {
                 <div className="text-slate-300 text-sm">Age Requirement</div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/55-plus-communities/sun-city-summerlin" />
@@ -180,6 +183,7 @@ export default function SunCitySummerlinPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Why Choose */}
@@ -199,13 +203,13 @@ export default function SunCitySummerlinPage() {
               (702) 222-1964.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

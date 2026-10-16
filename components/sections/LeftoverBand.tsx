@@ -3,6 +3,7 @@ import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import { ctaPhone, nap } from "@/lib/contact";
 import { leftoverBands } from "@/lib/leftover-bands";
 import { leftoverPhotoForPath } from "@/lib/media";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 type LeftoverBandProps = {
   path: string;
@@ -45,6 +46,7 @@ export default function LeftoverBand({ path, slot = 0 }: LeftoverBandProps) {
         {nap.brokerage} · {nap.fullAddress} · Call or text {ctaPhone.display}.
       </p>
       <CtaActions variant="onLight" />
+    <SectionPresence />
     </section>
   );
 }

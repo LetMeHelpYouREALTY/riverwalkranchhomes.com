@@ -1,10 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import OpenAI from "openai";
-
-const openrouter = new OpenAI({
-  apiKey: process.env.OPENROUTER_API_KEY,
-  baseURL: "https://openrouter.ai/api/v1",
-});
+import { getOpenRouterClient } from "@/lib/openrouter";
 
 export async function POST(request: NextRequest) {
   try {
@@ -14,7 +9,8 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: "Property details are required" }, { status: 400 });
     }
 
-    if (!process.env.OPENROUTER_API_KEY) {
+    const openrouter = getOpenRouterClient();
+    if (!openrouter) {
       return NextResponse.json(
         { error: "OpenRouter API key not configured" },
         { status: 500 },
@@ -36,7 +32,7 @@ Requirements:
 - Write 2-3 engaging paragraphs (150-250 words)
 - Highlight key features and benefits
 - Use natural, appealing language
-- Include location benefits (proximity to amenities, schools, etc.)
+- Use only the location facts provided. Do not invent schools, and do not use Fair Housing proxies such as safe, family-friendly, or established community.
 - Make it compelling for potential buyers
 - Keep it professional and accurate`;
 

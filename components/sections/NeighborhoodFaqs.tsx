@@ -6,6 +6,7 @@ import { ctaPhone, nap } from "@/lib/contact";
 import { faqPhotoForPath } from "@/lib/media";
 import { neighborhoodFaqs } from "@/lib/neighborhood-faqs";
 import { generateFAQSchema } from "@/lib/schema";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 type NeighborhoodFaqsProps = {
   path: string;
@@ -39,6 +40,7 @@ export default function NeighborhoodFaqs({ path }: NeighborhoodFaqsProps) {
         {nap.brokerage} · {nap.fullAddress} · Call or text {ctaPhone.display}.
       </p>
       <CtaActions variant="onLight" />
+    <SectionPresence />
     </section>
   );
 }

@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   Phone,
@@ -21,6 +20,8 @@ import ExpertQuote from "@/components/sections/ExpertQuote";
 import FiftyFiveAmenities from "@/components/sections/FiftyFiveAmenities";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import { pageMetadata } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 import SchemaScript from "@/components/SchemaScript";
 import {
@@ -126,6 +127,7 @@ export default function SunCityAnthemPage() {
               <RealScoutSearch />
             </div>
           </div>
+          <OfficeListingsWidget />
           <OfficeProximity path="/55-plus-communities/sun-city-anthem" />
           <UniqueInterior path="/55-plus-communities/sun-city-anthem" />
 
@@ -159,6 +161,7 @@ export default function SunCityAnthemPage() {
                 <div className="text-slate-300 text-sm">Age Requirement</div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/55-plus-communities/sun-city-anthem" />
@@ -178,13 +181,13 @@ export default function SunCityAnthemPage() {
               Suite 100, then drive. Call (702) 222-1964.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   TrendingUp,
@@ -18,6 +17,8 @@ import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import SupportFaqs from "@/components/sections/SupportFaqs";
 import ExpertQuote from "@/components/sections/ExpertQuote";
 import LeftoverBand from "@/components/sections/LeftoverBand";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/market-report",
@@ -81,6 +82,7 @@ export default function MarketReportPage() {
               <ExpertQuote path="/market-report" />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           {/* Key Stats Overview */}
           <section className="mb-16 bg-slate-900 text-white rounded-2xl p-8 md:p-12 max-w-6xl mx-auto">
@@ -128,6 +130,7 @@ export default function MarketReportPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/market-report" />
@@ -165,6 +168,7 @@ export default function MarketReportPage() {
                 </ul>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Market Trends */}
@@ -207,6 +211,7 @@ export default function MarketReportPage() {
                 </p>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <SupportFaqs path="/market-report" />
@@ -222,6 +227,7 @@ export default function MarketReportPage() {
               consultations.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
 
@@ -230,7 +236,6 @@ export default function MarketReportPage() {
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

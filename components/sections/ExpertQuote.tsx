@@ -3,6 +3,7 @@ import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import { ctaPhone, nap } from "@/lib/contact";
 import { expertQuotes } from "@/lib/expert-quotes";
 import { quotePhotoForPath } from "@/lib/media";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 type ExpertQuoteProps = {
   path: string;
@@ -36,6 +37,7 @@ export default function ExpertQuote({ path }: ExpertQuoteProps) {
         {nap.brokerage} · {nap.fullAddress} · Call or text {ctaPhone.display}.
       </p>
       <CtaActions variant="onLight" />
+    <SectionPresence />
     </section>
   );
 }

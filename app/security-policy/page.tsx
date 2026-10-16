@@ -7,6 +7,8 @@ import ExpertQuote from "@/components/sections/ExpertQuote";
 import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import { nap } from "@/lib/contact";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/security-policy",
@@ -27,6 +29,7 @@ export default function SecurityPolicyPage() {
           Security Policy
         </h1>
         <HeadingPhoto path="/security-policy" />
+        <OfficeListingsWidget />
 
         <div className="prose prose-lg max-w-none">
           <LeftoverBand path="/security-policy" />
@@ -68,6 +71,7 @@ export default function SecurityPolicyPage() {
               <li>Any proof-of-concept code (if applicable)</li>
               <li>Your contact information (optional)</li>
             </ul>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/security-policy" slot={1} />
@@ -127,6 +131,7 @@ export default function SecurityPolicyPage() {
                 </ul>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/security-policy" slot={2} />
@@ -167,6 +172,7 @@ export default function SecurityPolicyPage() {
               Each service maintains its own security practices and compliance
               certifications.
             </p>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/security-policy" slot={3} />
@@ -185,6 +191,7 @@ export default function SecurityPolicyPage() {
               <li>Spam or abuse reports (contact support instead)</li>
               <li>Issues in third-party services (report to them directly)</li>
             </ul>
+          <SectionPresence />
           </section>
 
           {/* Security Best Practices */}
@@ -203,6 +210,7 @@ export default function SecurityPolicyPage() {
               <li>Keep your browser and OS updated</li>
               <li>Be cautious of phishing attempts</li>
             </ul>
+          <SectionPresence />
           </section>
 
           {/* Contact */}
@@ -245,6 +253,7 @@ export default function SecurityPolicyPage() {
               <UniqueInterior path="/security-policy" />
               <ExpertQuote path="/security-policy" />
             </div>
+          <SectionPresence />
           </section>
 
           {/* Last Updated */}

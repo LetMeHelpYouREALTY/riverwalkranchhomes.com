@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { pageMetadata } from "@/lib/seo";
@@ -14,6 +13,8 @@ import ExpertQuote from "@/components/sections/ExpertQuote";
 import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import RealScoutSearch from "@/components/realscout/RealScoutSearch";
 import LeftoverBand from "@/components/sections/LeftoverBand";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/neighborhoods",
@@ -30,6 +31,17 @@ export const metadata: Metadata = pageMetadata({
 });
 
 const neighborhoods = [
+  {
+    name: "Riverwalk Ranch",
+    slug: "riverwalk-ranch",
+    medianPrice: "500–700",
+    priceChange: "homes, estimated",
+    yoy: false,
+    description:
+      "North Las Vegas master plan in 89031. Estates, Manor, Crossing, High Noon, and Cove.",
+    highlights: ["89031", "High Noon", "Crossing", "D.R. Horton"],
+    bestFor: "Decatur, the 215, and Towboat Street",
+  },
   {
     name: "Summerlin",
     slug: "summerlin",
@@ -206,6 +218,7 @@ export default function NeighborhoodsPage() {
               <RealScoutSearch />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           <LeftoverBand path="/neighborhoods" />
           <section className="mb-16 max-w-6xl mx-auto">
@@ -229,8 +242,16 @@ export default function NeighborhoodsPage() {
                       <div className="font-bold text-slate-900">
                         {neighborhood.medianPrice}
                       </div>
-                      <div className="text-sm text-green-600">
-                        {neighborhood.priceChange} YoY
+                      <div
+                        className={`text-sm ${
+                          neighborhood.yoy === false
+                            ? "text-slate-500"
+                            : "text-green-600"
+                        }`}
+                      >
+                        {neighborhood.yoy === false
+                          ? neighborhood.priceChange
+                          : `${neighborhood.priceChange} YoY`}
                       </div>
                     </div>
                   </div>
@@ -250,6 +271,7 @@ export default function NeighborhoodsPage() {
                 </Link>
               ))}
             </div>
+          <SectionPresence />
           </section>
 
           <ExpertQuote path="/neighborhoods" />
@@ -261,6 +283,7 @@ export default function NeighborhoodsPage() {
             <NeighborhoodCommute path="/neighborhoods" />
             <NeighborhoodAmenities path="/neighborhoods" />
             <NeighborhoodLifestyle path="/neighborhoods" />
+          <SectionPresence />
           </section>
           <NeighborhoodFaqs path="/neighborhoods" />
 
@@ -277,6 +300,7 @@ export default function NeighborhoodsPage() {
               222-1964 with two ZIPs — we will not city-swap a recommendation.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
 
@@ -285,7 +309,6 @@ export default function NeighborhoodsPage() {
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

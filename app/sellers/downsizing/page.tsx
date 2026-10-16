@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   Heart,
@@ -19,6 +18,8 @@ import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import SellerFaqs from "@/components/sections/SellerFaqs";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import { pageMetadata } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/sellers/downsizing",
@@ -58,6 +59,7 @@ export default function DownsizingPage() {
             <OfficeProximity path="/sellers/downsizing" />
             <UniqueInterior path="/sellers/downsizing" />
           </div>
+          <OfficeListingsWidget />
 
           <LeftoverBand path="/sellers/downsizing" />
 
@@ -128,6 +130,7 @@ export default function DownsizingPage() {
                 </Link>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Dual Transaction Expertise */}
@@ -201,6 +204,7 @@ export default function DownsizingPage() {
                 </ul>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Emotional Support */}
@@ -225,6 +229,7 @@ export default function DownsizingPage() {
                 cares about their happiness, not just the sale.
               </p>
             </div>
+          <SectionPresence />
           </section>
 
           {/* 55+ Community Comparison */}
@@ -318,6 +323,7 @@ export default function DownsizingPage() {
                 View Detailed 55+ Community Guide →
               </Link>
             </p>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/sellers/downsizing" slot={2} />
@@ -387,6 +393,7 @@ export default function DownsizingPage() {
                 </ul>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/sellers/downsizing" slot={3} />
@@ -460,6 +467,7 @@ export default function DownsizingPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
           <SellerFaqs path="/sellers/downsizing" />
 
@@ -475,13 +483,13 @@ export default function DownsizingPage() {
               Jan will show you what's possible without any pressure.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

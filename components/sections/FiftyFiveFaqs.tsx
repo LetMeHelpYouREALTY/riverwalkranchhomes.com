@@ -6,6 +6,7 @@ import { ctaPhone, nap } from "@/lib/contact";
 import { fiftyFiveFaqPhotoForPath } from "@/lib/media";
 import { fiftyFiveFaqs } from "@/lib/fifty-five-faqs";
 import { generateFAQSchema } from "@/lib/schema";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 type FiftyFiveFaqsProps = {
   path: string;
@@ -39,6 +40,7 @@ export default function FiftyFiveFaqs({ path }: FiftyFiveFaqsProps) {
         {nap.brokerage} · {nap.fullAddress} · Call or text {ctaPhone.display}.
       </p>
       <CtaActions variant="onLight" />
+    <SectionPresence />
     </section>
   );
 }

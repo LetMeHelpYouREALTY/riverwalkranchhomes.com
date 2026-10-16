@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import Image from "next/image";
 import {
@@ -22,6 +21,8 @@ import UniqueInterior from "@/components/sections/UniqueInterior";
 import ExpertQuote from "@/components/sections/ExpertQuote";
 import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import LeftoverBand from "@/components/sections/LeftoverBand";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 import { maps, googleReviewsUrl } from "@/lib/contact";
 import { mediaUrl, photos } from "@/lib/media";
@@ -126,6 +127,7 @@ export default function AboutPage() {
               <ExpertQuote path="/about" />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           {/* Agent Profile */}
           <section className="mb-16">
@@ -194,7 +196,7 @@ export default function AboutPage() {
                       className="flex items-center text-slate-700 hover:text-blue-600"
                     >
                       <Mail className="h-5 w-5 mr-3 text-blue-600" />
-                      Homes@HeyBerkshire.com
+                      homes@heyberkshire.com
                     </a>
                     <div className="flex items-start text-slate-700">
                       <MapPin className="h-5 w-5 mr-3 text-blue-600 mt-0.5" />
@@ -320,6 +322,7 @@ export default function AboutPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/about" />
@@ -383,6 +386,7 @@ export default function AboutPage() {
                 Learn More About BHHS
               </Link>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Areas Served */}
@@ -417,6 +421,7 @@ export default function AboutPage() {
                 <ArrowRight className="h-4 w-4 ml-2" />
               </Link>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Client Testimonials */}
@@ -466,6 +471,7 @@ export default function AboutPage() {
                 </p>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* CTA */}
@@ -479,6 +485,7 @@ export default function AboutPage() {
               start your search or just exploring options, she's here to help.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
 
@@ -487,7 +494,6 @@ export default function AboutPage() {
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

@@ -1,10 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import OpenAI from "openai";
-
-const openrouter = new OpenAI({
-  apiKey: process.env.OPENROUTER_API_KEY,
-  baseURL: "https://openrouter.ai/api/v1",
-});
+import { getOpenRouterClient } from "@/lib/openrouter";
 
 export async function POST(request: NextRequest) {
   try {
@@ -17,7 +13,8 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    if (!process.env.OPENROUTER_API_KEY) {
+    const openrouter = getOpenRouterClient();
+    if (!openrouter) {
       return NextResponse.json(
         { error: "OpenRouter API key not configured" },
         { status: 500 },

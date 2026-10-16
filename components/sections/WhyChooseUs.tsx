@@ -4,6 +4,7 @@ import CtaActions from "@/components/sections/CtaActions";
 import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import { ctaPhone, nap } from "@/lib/contact";
 import { photos } from "@/lib/media";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 const features = [
   {
@@ -99,6 +100,7 @@ export default function WhyChooseUs() {
           </Link>
         </div>
       </div>
+    <SectionPresence />
     </section>
   );
 }

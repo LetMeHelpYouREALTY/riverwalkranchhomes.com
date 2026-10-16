@@ -1,8 +1,8 @@
-// Site Configuration - HeyBerkshire.com
-// Berkshire Hathaway HomeServices Nevada Properties
+// Site Configuration - Riverwalk Ranch Homes
+// Live host remains heyberkshire.com. Brokerage: Berkshire Hathaway HomeServices Nevada Properties.
 
 export const siteConfig = {
-  name: "HeyBerkshire",
+  name: "Riverwalk Ranch Homes",
   fullName: "Berkshire Hathaway HomeServices Nevada Properties",
   tagline: "Private Client Real Estate Advisory",
   /** Full brand line for titles and OG: Berkshire Hathaway HomeServices Nevada Properties | Private Client Real Estate Advisory */

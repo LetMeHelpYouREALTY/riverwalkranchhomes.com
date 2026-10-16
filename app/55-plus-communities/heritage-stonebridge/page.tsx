@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   Phone,
@@ -23,6 +22,8 @@ import ExpertQuote from "@/components/sections/ExpertQuote";
 import FiftyFiveAmenities from "@/components/sections/FiftyFiveAmenities";
 import RealScoutSearch from "@/components/realscout/RealScoutSearch";
 import { pageMetadata } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/55-plus-communities/heritage-stonebridge",
@@ -99,6 +100,7 @@ export default function HeritageAtStonebridgePage() {
               <RealScoutSearch />
             </div>
           </div>
+          <OfficeListingsWidget />
           <OfficeProximity path="/55-plus-communities/heritage-stonebridge" />
           <UniqueInterior path="/55-plus-communities/heritage-stonebridge" />
 
@@ -132,6 +134,7 @@ export default function HeritageAtStonebridgePage() {
                 <div className="text-slate-300 text-sm">24/7 Security</div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/55-plus-communities/heritage-stonebridge" />
@@ -202,6 +205,7 @@ export default function HeritageAtStonebridgePage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Why Choose Heritage */}
@@ -225,13 +229,13 @@ export default function HeritageAtStonebridgePage() {
               The Heritage gate is 12–18 minutes from 9406 W Lake Mead Blvd,
               next to Downtown Summerlin.
             </p>
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

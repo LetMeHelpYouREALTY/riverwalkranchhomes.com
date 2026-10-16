@@ -17,8 +17,9 @@ import ExpertQuote from "@/components/sections/ExpertQuote";
 import ProcessSteps from "@/components/sections/ProcessSteps";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import RealScoutSearch from "@/components/realscout/RealScoutSearch";
-import MlsDisclaimer from "@/components/shared/MlsDisclaimer";
 import { pageMetadata } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   title:
@@ -149,23 +150,7 @@ export default function ListingsPage() {
             </div>
             <RealScoutSearch />
           </div>
-
-          {/* RealScout Widget - Live MLS Listings */}
-          <section className="mb-16">
-            <div className="max-w-7xl mx-auto">
-              <div
-                dangerouslySetInnerHTML={{
-                  __html: `<realscout-office-listings 
-                    agent-encoded-id="QWdlbnQtMjI1MDUw" 
-                    sort-order="NEWEST" 
-                    listing-status="For Sale" 
-                    property-types=",SFR,MF,TC"
-                  ></realscout-office-listings>`,
-                }}
-              />
-              <MlsDisclaimer className="mt-4" />
-            </div>
-          </section>
+          <OfficeListingsWidget />
 
           {/* Popular Searches Section */}
           <section className="mb-16 max-w-6xl mx-auto">
@@ -198,6 +183,7 @@ export default function ListingsPage() {
                 </Link>
               ))}
             </div>
+          <SectionPresence />
           </section>
 
           {/* Price Range Guide */}
@@ -234,6 +220,7 @@ export default function ListingsPage() {
                 </div>
               ))}
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/listings" />
@@ -298,6 +285,7 @@ export default function ListingsPage() {
                 </p>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Market Stats */}
@@ -327,6 +315,7 @@ export default function ListingsPage() {
                 <div className="text-sm text-slate-600">Year-Over-Year</div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <ProcessSteps path="/listings" />
@@ -345,6 +334,7 @@ export default function ListingsPage() {
               the commission.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
 

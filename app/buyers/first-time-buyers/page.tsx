@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   DollarSign,
@@ -21,6 +20,8 @@ import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import BuyerFaqs from "@/components/sections/BuyerFaqs";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import { nap } from "@/lib/contact";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/buyers/first-time-buyers",
@@ -63,6 +64,7 @@ export default function FirstTimeBuyersPage() {
             <OfficeProximity path="/buyers/first-time-buyers" />
             <UniqueInterior path="/buyers/first-time-buyers" />
           </div>
+          <OfficeListingsWidget />
 
           <LeftoverBand path="/buyers/first-time-buyers" />
 
@@ -87,13 +89,13 @@ export default function FirstTimeBuyersPage() {
               homeownership happen.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

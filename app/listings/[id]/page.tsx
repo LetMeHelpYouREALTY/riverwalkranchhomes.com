@@ -3,7 +3,6 @@ import Image from "next/image";
 import { Bed, Bath, Square, MapPin, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import type { Metadata } from "next";
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import MlsDisclaimer from "@/components/shared/MlsDisclaimer";
 import CtaActions from "@/components/sections/CtaActions";
 import OfficeProximity from "@/components/sections/OfficeProximity";
@@ -11,6 +10,7 @@ import UniqueInterior from "@/components/sections/UniqueInterior";
 import { ctaPhone, nap } from "@/lib/contact";
 import { pageMetadata } from "@/lib/seo";
 import { mediaUrl, photos } from "@/lib/media";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
 
 type PropertyPageProps = {
   params: { id: string };
@@ -121,8 +121,8 @@ export default function PropertyPage({ params }: PropertyPageProps) {
             </div>
           </aside>
         </div>
+        <OfficeListingsWidget />
       </div>
-      <RealScoutListings />
     </main>
   );
 }

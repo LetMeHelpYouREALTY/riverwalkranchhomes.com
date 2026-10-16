@@ -19,6 +19,8 @@ import {
   hoursSummary,
   businessHours,
 } from "@/lib/contact";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 import { businessInfo, generateLocalBusinessSchema } from "@/lib/gbp-schema";
 
@@ -157,7 +159,9 @@ export default function GoogleBusinessPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
+          <OfficeListingsWidget />
           <OfficeProximity path="/google-business" />
           <UniqueInterior path="/google-business" />
           <ExpertQuote path="/google-business" />
@@ -195,6 +199,7 @@ export default function GoogleBusinessPage() {
                 ))}
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <section
@@ -252,6 +257,7 @@ export default function GoogleBusinessPage() {
             <p className="text-center text-sm text-slate-500 mt-4">
               {nap.fullAddress}
             </p>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/google-business" slot={1} />
@@ -284,6 +290,7 @@ export default function GoogleBusinessPage() {
                 Leave a Google Review
               </a>
             </div>
+          <SectionPresence />
           </section>
 
           <section className="max-w-4xl mx-auto">
@@ -297,6 +304,7 @@ export default function GoogleBusinessPage() {
               </p>
               <CtaActions variant="onDark" />
             </div>
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">

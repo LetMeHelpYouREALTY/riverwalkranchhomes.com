@@ -2,6 +2,7 @@ import CtaActions from "@/components/sections/CtaActions";
 import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import { ctaPhone, nap } from "@/lib/contact";
 import { uniqueInteriors } from "@/lib/unique-interiors";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 type UniqueInteriorProps = {
   path: string;
@@ -46,6 +47,7 @@ export default function UniqueInterior({
         {nap.brokerage} · {nap.fullAddress} · Call or text {ctaPhone.display}.
       </p>
       <CtaActions variant="onLight" />
+    <SectionPresence />
     </section>
   );
 }

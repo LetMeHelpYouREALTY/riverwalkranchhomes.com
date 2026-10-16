@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import type { Metadata } from "next";
 import { pageMetadata } from "@/lib/seo";
 import CtaActions from "@/components/sections/CtaActions";
@@ -14,6 +13,8 @@ import NeighborhoodFaqs from "@/components/sections/NeighborhoodFaqs";
 import ExpertQuote from "@/components/sections/ExpertQuote";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import RealScoutSearch from "@/components/realscout/RealScoutSearch";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/neighborhoods/green-valley",
@@ -57,6 +58,7 @@ export default function GreenValleyPage() {
               <RealScoutSearch />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           <OfficeProximity path="/neighborhoods/green-valley" />
           <UniqueInterior path="/neighborhoods/green-valley" />
@@ -97,6 +99,7 @@ export default function GreenValleyPage() {
                 <div className="text-slate-300 text-sm">YoY Appreciation</div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Main Content */}
@@ -161,6 +164,7 @@ export default function GreenValleyPage() {
                 from Suite 100. Call (702) 222-1964.
               </p>
             </div>
+          <SectionPresence />
           </section>
 
           <ExpertQuote path="/neighborhoods/green-valley" />
@@ -177,13 +181,13 @@ export default function GreenValleyPage() {
               office via I-215.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

@@ -1,5 +1,7 @@
 "use client";
 
+import SectionPresence from "@/components/sections/SectionPresence";
+
 import { useState, useEffect } from "react";
 import Image from "next/image";
 import { useReducedMotion } from "@/hooks/useReducedMotion";
@@ -94,6 +96,7 @@ export default function HeroSection() {
           </div>
         </div>
       </div>
+    <SectionPresence />
     </section>
   );
 }

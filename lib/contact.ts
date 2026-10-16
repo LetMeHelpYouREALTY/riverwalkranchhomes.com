@@ -7,9 +7,13 @@
 /** Canonical production origin for heyberkshire (www, not apex). */
 export const HEYBERKSHIRE_CANONICAL = "https://www.heyberkshire.com";
 
+/** Canonical origin for the Riverwalk Ranch Homes deployment. */
+export const RIVERWALK_CANONICAL = "https://riverwalkranchhomes.com";
+
 /** Normalized hostname → canonical origin (when env is unset). */
 export const HOST_CANONICAL_ORIGINS: Record<string, string> = {
   "heyberkshire.com": HEYBERKSHIRE_CANONICAL,
+  "riverwalkranchhomes.com": RIVERWALK_CANONICAL,
 };
 
 export function normalizeHostname(hostname: string): string {
@@ -23,24 +27,28 @@ export function normalizeHostname(hostname: string): string {
  * Site origin for canonical, og:url, and JSON-LD.
  * 1) NEXT_PUBLIC_SITE_URL when set
  * 2) Host map (heyberkshire → www) or https://{host} for other live domains
- * 3) HeyBerkshire www fallback (never bare apex)
+ * 3) Riverwalk Ranch Homes origin (never a bare apex guess)
  */
 export function resolveSiteUrl(hostname?: string | null): string {
   const fromEnv = process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "");
   if (fromEnv) return fromEnv;
 
   const clean = normalizeHostname(hostname ?? "");
-  if (clean && clean !== "localhost" && !clean.endsWith(".vercel.app")) {
+  if (
+    clean &&
+    clean !== "localhost" &&
+    clean !== "127.0.0.1" &&
+    !clean.endsWith(".vercel.app")
+  ) {
     return HOST_CANONICAL_ORIGINS[clean] ?? `https://${clean}`;
   }
 
-  return HEYBERKSHIRE_CANONICAL;
+  return RIVERWALK_CANONICAL;
 }
 
 /** Build-time default for sitemap/robots; set NEXT_PUBLIC_SITE_URL on each Vercel project. */
 export const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ??
-  HEYBERKSHIRE_CANONICAL;
+  process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ?? RIVERWALK_CANONICAL;
 
 export const ctaPhone = {
   display: "(702) 222-1964",

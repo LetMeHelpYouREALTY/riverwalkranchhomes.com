@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import type { Metadata } from "next";
 import { pageMetadata } from "@/lib/seo";
 import CtaActions from "@/components/sections/CtaActions";
@@ -15,6 +14,8 @@ import NeighborhoodFaqs from "@/components/sections/NeighborhoodFaqs";
 import ExpertQuote from "@/components/sections/ExpertQuote";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import RealScoutSearch from "@/components/realscout/RealScoutSearch";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/neighborhoods/southern-highlands",
@@ -59,6 +60,7 @@ export default function SouthernHighlandsPage() {
               <RealScoutSearch />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           <OfficeProximity path="/neighborhoods/southern-highlands" />
           <UniqueInterior path="/neighborhoods/southern-highlands" />
@@ -99,6 +101,7 @@ export default function SouthernHighlandsPage() {
                 <div className="text-slate-300 text-sm">YoY Appreciation</div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Main Content */}
@@ -170,6 +173,7 @@ export default function SouthernHighlandsPage() {
                 exceptional service.
               </p>
             </div>
+          <SectionPresence />
           </section>
 
           <ExpertQuote path="/neighborhoods/southern-highlands" />
@@ -185,13 +189,13 @@ export default function SouthernHighlandsPage() {
               I-15 run from the office. Call for a south-valley tour block.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

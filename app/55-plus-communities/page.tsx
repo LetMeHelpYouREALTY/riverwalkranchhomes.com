@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   Phone,
@@ -29,6 +28,8 @@ import ExpertQuote from "@/components/sections/ExpertQuote";
 import FiftyFiveAmenities from "@/components/sections/FiftyFiveAmenities";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import { pageMetadata, absoluteUrl } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/55-plus-communities",
@@ -266,6 +267,7 @@ export default function FiftyFiveCommunitiesPage() {
             <OfficeProximity path="/55-plus-communities" />
             <UniqueInterior path="/55-plus-communities" />
           </div>
+          <OfficeListingsWidget />
 
           <LeftoverBand path="/55-plus-communities" />
           <LeftoverBand path="/55-plus-communities" slot={1} />
@@ -300,6 +302,7 @@ export default function FiftyFiveCommunitiesPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/55-plus-communities" slot={2} />
@@ -405,6 +408,7 @@ export default function FiftyFiveCommunitiesPage() {
                 </div>
               ))}
             </div>
+          <SectionPresence />
           </section>
 
           <FiftyFiveAmenities path="/55-plus-communities" />
@@ -485,6 +489,7 @@ export default function FiftyFiveCommunitiesPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* Final CTA */}
@@ -502,13 +507,13 @@ export default function FiftyFiveCommunitiesPage() {
               Berkshire Hathaway HomeServices Nevada Properties · 9406 W Lake
               Mead Blvd, Suite 100, Las Vegas, NV 89134
             </p>
+          <SectionPresence />
           </section>
         </div>
         <div className="text-center text-sm text-slate-500 mt-8">
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

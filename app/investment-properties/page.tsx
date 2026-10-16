@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import Link from "next/link";
 import {
   Phone,
@@ -18,6 +17,8 @@ import ExpertQuote from "@/components/sections/ExpertQuote";
 import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import IntentFaqs from "@/components/sections/IntentFaqs";
 import LeftoverBand from "@/components/sections/LeftoverBand";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/investment-properties",
@@ -105,6 +106,7 @@ export default function InvestmentPropertiesPage() {
               <UniqueInterior path="/investment-properties" />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           <LeftoverBand path="/investment-properties" />
 
@@ -162,6 +164,7 @@ export default function InvestmentPropertiesPage() {
               Data represents single-family rental properties. Actual returns
               vary by property.
             </p>
+          <SectionPresence />
           </section>
 
           <ExpertQuote path="/investment-properties" />
@@ -191,6 +194,7 @@ export default function InvestmentPropertiesPage() {
                 </div>
               ))}
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/investment-properties" slot={3} />
@@ -220,6 +224,7 @@ export default function InvestmentPropertiesPage() {
                 </p>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/investment-properties" slot={4} />
@@ -287,6 +292,7 @@ export default function InvestmentPropertiesPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           <LeftoverBand path="/investment-properties" slot={5} />
@@ -364,6 +370,7 @@ export default function InvestmentPropertiesPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
 
           {/* 1031 Exchange Section */}
@@ -441,6 +448,7 @@ export default function InvestmentPropertiesPage() {
                 clients exchanging into or out of Las Vegas.
               </p>
             </div>
+          <SectionPresence />
           </section>
           <IntentFaqs path="/investment-properties" />
 
@@ -454,6 +462,7 @@ export default function InvestmentPropertiesPage() {
               Jan Duffy and Berkshire Hathaway HomeServices.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
 
@@ -462,7 +471,6 @@ export default function InvestmentPropertiesPage() {
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }

@@ -6,6 +6,7 @@ import { ctaPhone, nap } from "@/lib/contact";
 import { intentFaqPhotoForPath } from "@/lib/media";
 import { intentFaqs } from "@/lib/intent-faqs";
 import { generateFAQSchema } from "@/lib/schema";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 type IntentFaqsProps = {
   path: string;
@@ -39,6 +40,7 @@ export default function IntentFaqs({ path }: IntentFaqsProps) {
         {nap.brokerage} · {nap.fullAddress} · Call or text {ctaPhone.display}.
       </p>
       <CtaActions variant="onLight" />
+    <SectionPresence />
     </section>
   );
 }

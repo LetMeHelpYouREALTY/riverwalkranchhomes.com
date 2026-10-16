@@ -1,4 +1,3 @@
-import RealScoutListings from "@/components/realscout/RealScoutListings";
 import RealScoutHomeValue from "@/components/realscout/RealScoutHomeValue";
 import CalendlyWidget from "@/components/calendly/CalendlyWidget";
 import Link from "next/link";
@@ -12,6 +11,8 @@ import HeadingPhoto from "@/components/sections/HeadingPhoto";
 import IntentFaqs from "@/components/sections/IntentFaqs";
 import LeftoverBand from "@/components/sections/LeftoverBand";
 import { pageMetadata } from "@/lib/seo";
+import OfficeListingsWidget from "@/components/realscout/OfficeListingsWidget";
+import SectionPresence from "@/components/sections/SectionPresence";
 
 export const metadata: Metadata = pageMetadata({
   path: "/home-valuation",
@@ -57,6 +58,7 @@ export default function HomeValuationPage() {
               <UniqueInterior path="/home-valuation" />
             </div>
           </div>
+          <OfficeListingsWidget />
 
           <section className="max-w-4xl mx-auto mb-16">
             <h2 className="text-2xl font-bold text-slate-900 mb-3 text-center">
@@ -68,6 +70,7 @@ export default function HomeValuationPage() {
               comps.
             </p>
             <RealScoutHomeValue />
+          <SectionPresence />
           </section>
 
           <div className="grid lg:grid-cols-2 gap-12 max-w-6xl mx-auto mb-16">
@@ -263,6 +266,7 @@ export default function HomeValuationPage() {
               Values represent single-family homes. Your specific home may vary
               based on features and condition.
             </p>
+          <SectionPresence />
           </section>
 
           {/* The Valuation Process */}
@@ -336,6 +340,7 @@ export default function HomeValuationPage() {
                 </div>
               </div>
             </div>
+          <SectionPresence />
           </section>
           <IntentFaqs path="/home-valuation" />
 
@@ -350,6 +355,7 @@ export default function HomeValuationPage() {
               pricing. Expert guidance. Zero pressure.
             </p>
             <CtaActions variant="onDark" />
+          <SectionPresence />
           </section>
         </div>
 
@@ -358,7 +364,6 @@ export default function HomeValuationPage() {
           Last Updated: January 2026
         </div>
       </main>
-      <RealScoutListings />
     </>
   );
 }
