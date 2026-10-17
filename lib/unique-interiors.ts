@@ -15,7 +15,7 @@ export type UniqueInteriorCopy = {
 export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   "/neighborhoods/summerlin": {
     h2: "What does a Summerlin tour from 6150 N Decatur Blvd cover",
-    body: "From 6150 N Decatur Blvd, Suite 104 we typically start in The Trails or Pueblo, then loop Red Rock Country Club if the budget includes golf-course streets. Palo Verde High School commute minutes are mapped to each listing before we leave the office.",
+    body: "From 6150 N Decatur Blvd, Suite 101 we typically start in The Trails or Pueblo, then loop Red Rock Country Club if the budget includes golf-course streets. Palo Verde High School commute minutes are mapped to each listing before we leave the office.",
     facts: [
       "150+ parks and 150+ miles of trails inside the Howard Hughes villages",
       "10–15 minute drive from the GBP office pin to most Summerlin streets",
@@ -27,7 +27,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/neighborhoods/the-ridges": {
     h2: "What are the guard-gate timings for The Ridges estate showings",
-    body: "Ridges appointments are booked from Suite 104 so gate lists and off-market windows are confirmed before we drive. Typical run is 15–20 minutes from 6150 N Decatur Blvd. We do not text estate addresses on unsecured threads.",
+    body: "Ridges appointments are booked from Suite 101 so gate lists and off-market windows are confirmed before we drive. Typical run is 20–25 minutes from 6150 N Decatur Blvd. We do not text estate addresses on unsecured threads.",
     facts: [
       "Custom estates, golf, and ridge-top views above Red Rock Country Club",
       "Guard-gate check-in coordinated the morning of the tour",
@@ -39,7 +39,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/neighborhoods/southern-highlands": {
     h2: "South-valley golf and ridge streets in one tour block",
-    body: "Southern Highlands is 25–35 minutes via I-15 south from 6150 N Decatur Blvd. We group golf-course fairway lots and ridge-top streets into one south-valley block so you are not crossing the valley twice.",
+    body: "Southern Highlands is 30–40 minutes via I-15 south from 6150 N Decatur Blvd. We group golf-course fairway lots and ridge-top streets into one south-valley block so you are not crossing the valley twice.",
     facts: [
       "Championship golf, clubhouse, and ridge-top custom homes",
       "Typical Strip drive about 15 minutes once you are on I-15",
@@ -47,11 +47,11 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     ],
     h3: "Clubhouse, fairways, and I-15 access",
     h3Body:
-      "Ask for current HOA dues, golf membership rules, and commute minutes to Harry Reid International Airport. Call (702) 222-1964 to schedule the south-valley block from Suite 104.",
+      "Ask for current HOA dues, golf membership rules, and commute minutes to Harry Reid International Airport. Call (702) 222-1964 to schedule the south-valley block from Suite 101.",
   },
   "/neighborhoods/skye-canyon": {
     h2: "Skye Canyon model rows and resale streets in one northwest loop",
-    body: "Skye Canyon is 20–25 minutes via the 215 from 6150 N Decatur Blvd. Builder registration happens at the office first. Then we walk model rows and adjacent resale streets without a second freeway hop.",
+    body: "Skye Canyon is 10–15 minutes via the 215 from 6150 N Decatur Blvd. Builder registration happens at the office first. Then we walk model rows and adjacent resale streets without a second freeway hop.",
     facts: [
       "New construction plus resales next to Skye Center and trailheads",
       "Floyd Lamb Park sits immediately west of the villages",
@@ -63,7 +63,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/neighborhoods/centennial-hills": {
     h2: "Mountain-view streets near Floyd Lamb from the office pin",
-    body: "Centennial Hills is 15–20 minutes via US-95 from Suite 104. We compare mountain-view lots near Centennial Hills Park with closer-in streets toward the hospital campus, then map Arbor View High School commute minutes by address.",
+    body: "Centennial Hills is 5–10 minutes from Suite 101. We compare mountain-view lots near Centennial Hills Park with closer-in streets toward the hospital campus, then map Arbor View High School commute minutes by address.",
     facts: [
       "Northwest Las Vegas with US-95 access and desert mountain backdrop",
       "Centennial Center retail and Centennial Hills Park are on the same loop",
@@ -75,7 +75,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/neighborhoods/green-valley": {
     h2: "Green Valley trees, golf, and The District in Henderson",
-    body: "Green Valley is 25–35 minutes via I-215 east. Founded in 1988, the streets have 35-year-old trees and larger lots than most newer Henderson villages. The District at Green Valley Ranch is the practical midpoint for listing tours.",
+    body: "Green Valley is 35–45 minutes via I-215 east. Founded in 1988, the streets have 35-year-old trees and larger lots than most newer Henderson villages. The District at Green Valley Ranch is the practical midpoint for listing tours.",
     facts: [
       "Median about $520,000 (January 2026); 26 days on market typical",
       "Green Valley High School and Coronado High School are named campuses",
@@ -87,11 +87,11 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/neighborhoods/inspirada": {
     h2: "Inspirada amenity center and builder rows as a south Henderson block",
-    body: "Inspirada is 30–40 minutes from 6150 N Decatur Blvd. Tours hit the central park, amenity center, zero-entry pool, and builder/resale rows in one south Henderson run.",
+    body: "Inspirada is 35–45 minutes from 6150 N Decatur Blvd. Tours hit the central park, amenity center, zero-entry pool, and builder/resale rows in one south Henderson run.",
     facts: [
       "Median about $525,000 (January 2026)",
       "Central park, walking paths, and resort-style rec campus",
-      "Builder registration still starts at the west-valley office",
+      "Builder registration still starts at the Decatur office",
     ],
     h3: "Central park and rec campus on the same stop",
     h3Body:
@@ -99,11 +99,11 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/neighborhoods/henderson": {
     h2: "Henderson villages sequenced from one west-valley start",
-    body: "Green Valley, Anthem, Inspirada, Water Street, and Lake Las Vegas are not interchangeable. From Suite 104 we pick two contrasting villages and tour them as a 25–35 minute east run so you compare trees vs new rec campuses in one afternoon.",
+    body: "Green Valley, Anthem, Inspirada, Water Street, and Lake Las Vegas are not interchangeable. From Suite 101 we pick two contrasting villages and tour them as a 35–45 minute east run so you compare trees vs new rec campuses in one afternoon.",
     facts: [
       "Nevada's second-largest city has 60+ parks and 15–25 minute Strip drives by the village",
       "Coronado High School commute is a common Henderson comparison",
-      "The office address is 6150 N Decatur Blvd, Suite 104.",
+      "The office address is 6150 N Decatur Blvd, Suite 101.",
     ],
     h3: "Choosing a Henderson village",
     h3Body:
@@ -123,7 +123,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/neighborhoods/north-las-vegas": {
     h2: "Aliante, Craig Road, and new villages grouped as a north tour",
-    body: "North Las Vegas is 20–25 minutes away via US-95 and I-15. Aliante recreation, Craig Road employment corridors, and new-construction villages are sequenced together from Suite 104.",
+    body: "North Las Vegas is 20–25 minutes away via US-95 and I-15. Aliante recreation, Craig Road employment corridors, and new-construction villages are sequenced together from Suite 101.",
     facts: [
       "Entry price points often $350,000–$450,000 for newer product",
       "Legacy High School commute is a common named-campus check",
@@ -135,7 +135,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/55-plus-communities/sun-city-summerlin": {
     h2: "Three golf campuses and four rec centers without a long freeway run",
-    body: "Sun City Summerlin is 10–15 minutes from 6150 N Decatur Blvd. Highland Falls, Palm Valley, and Eagle Crest plus Mountain Shadows, Sun Shadows, Pinnacle, and Desert Vista recreation centers can be previewed in one west-valley afternoon.",
+    body: "Sun City Summerlin is 20–25 minutes from 6150 N Decatur Blvd. Highland Falls, Palm Valley, and Eagle Crest plus Mountain Shadows, Sun Shadows, Pinnacle, and Desert Vista recreation centers can be previewed in one west-valley afternoon.",
     facts: [
       "There are about 7,700 homes with prices typically ranging from $320,000 to $850,000.",
       "HOA fees are about $155 to $195 per month; confirm the current packet.",
@@ -143,15 +143,15 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     ],
     h3: "Rec-center tour before you pick a street",
     h3Body:
-      "We walk one rec center and one golf campus before writing offers so you know the amenity you will actually use. Call (702) 222-1964. Age-restriction rules are reviewed at Suite 104 first.",
+      "We walk one rec center and one golf campus before writing offers so you know the amenity you will actually use. Call (702) 222-1964. Age-restriction rules are reviewed at Suite 101 first.",
   },
   "/55-plus-communities/sun-city-anthem": {
     h2: "Anthem Center and upper-elevation streets as a Henderson 55+ block",
-    body: "Sun City Anthem is 30–35 minutes from 6150 N Decatur Blvd. Anthem Center, golf, and upper-elevation streets are one Henderson 55+ block—not mixed with Summerlin 55+ the same morning.",
+    body: "Sun City Anthem is 35–40 minutes from 6150 N Decatur Blvd. Anthem Center, golf, and upper-elevation streets are one Henderson 55+ block—not mixed with Summerlin 55+ the same morning.",
     facts: [
       "Del Webb 55+ campus in Henderson with golf and rec",
       "McCullough Range views on many upper streets",
-      "HOA and age-qualification rules reviewed at Suite 104 before the drive",
+      "HOA and age-qualification rules reviewed at Suite 101 before the drive",
     ],
     h3: "Golf fairways with views of the McCullough Range.",
     h3Body:
@@ -159,7 +159,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/55-plus-communities/trilogy-summerlin": {
     h2: "Trilogy clubhouse, spa, and Shea plans on the office side of the valley",
-    body: "Trilogy at Summerlin is 12–18 minutes from Suite 104. Clubhouse, spa, and Shea Homes plan rows sit on the same west-valley side as 6150 N Decatur Blvd—no Henderson freeway tax.",
+    body: "Trilogy at Summerlin is 20–25 minutes from Suite 101. Clubhouse, spa, and Shea Homes plan rows sit on the about 20–25 minutes from 6150 N Decatur Blvd.",
     facts: [
       "Shea 55+ campus with resort clubhouse and pool terrace",
       "Downtown Summerlin retail is a short hop after the clubhouse",
@@ -167,15 +167,15 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     ],
     h3: "Clubhouse pool terrace as the first stop",
     h3Body:
-      "See the amenity you will pay HOA for, then walk plans. Call (702) 222-1964. Dr. Jan Duffy holds the listing or buyer paperwork at Suite 104.",
+      "See the amenity you will pay HOA for, then walk plans. Call (702) 222-1964. Dr. Jan Duffy holds the listing or buyer paperwork at Suite 101.",
   },
   "/55-plus-communities/heritage-stonebridge": {
     h2: "24/7 gated access and Downtown Summerlin retail from 6150 N Decatur Blvd.",
-    body: "Heritage at Stonebridge is 12–18 minutes from the GBP office. The staffed gate and Downtown Summerlin retail are a short west-valley hop—useful if you want 55+ with a Summerlin ZIP and a gate, not a 7,700-home campus.",
+    body: "Heritage at Stonebridge is 20–25 minutes from the GBP office. The staffed gate and Downtown Summerlin retail are about 20–25 minutes from the Decatur office—useful if you want 55+ with a Summerlin ZIP and a gate, not a 7,700-home campus.",
     facts: [
       "Smaller 55+ campus with a staffed gate",
       "Downtown Summerlin shops and dining next door",
-      "Age-restriction and guest rules reviewed at Suite 104",
+      "Age-restriction and guest rules reviewed at Suite 101",
     ],
     h3: "Arrive at the gate, then proceed to the clubhouse.",
     h3Body:
@@ -183,7 +183,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/55-plus-communities/solera-anthem": {
     h2: "Solera's 1,200-home campus toured with nearby Anthem parks",
-    body: "Solera at Anthem is 30–35 minutes from Suite 104. This smaller 55+ campus (about 1,200 homes) is toured with nearby Anthem parks rather than hopscotching the whole valley. All residents must be 55+ here—confirm the HOA occupancy rule in writing.",
+    body: "Solera at Anthem is 35–40 minutes from Suite 101. This smaller 55+ campus (about 1,200 homes) is toured with nearby Anthem parks rather than hopscotching the whole valley. All residents must be 55+ here—confirm the HOA occupancy rule in writing.",
     facts: [
       "Typical list range about $380,000–$650,000",
       "HOA fees are often cited as $170 to $210 per month; confirm the packet.",
@@ -195,7 +195,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/55-plus-communities/sun-city-aliante": {
     h2: "18-hole course and rec campus next to the Aliante retail strip",
-    body: "Sun City Aliante is 20–25 minutes from 6150 N Decatur Blvd. The golf course and rec campus sit next to Aliante retail for a compact north tour—no need to add Henderson the same day.",
+    body: "Sun City Aliante is 5–10 minutes from 6150 N Decatur Blvd. The golf course and rec campus sit next to Aliante retail for a compact north tour—no need to add Henderson the same day.",
     facts: [
       "North Las Vegas 55+ with golf and rec in one campus",
       "Aliante Casino and retail strip adjacent",
@@ -211,15 +211,15 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     facts: [
       "Henderson lake setting with golf and Del Webb plans",
       "Longer drive is the trade for water and golf context",
-      "HOA and dock/golf rules reviewed at Suite 104 first",
+      "HOA and dock/golf rules reviewed at Suite 101 first",
     ],
     h3: "Shoreline and golf before floor plans",
     h3Body:
-      "See the lake and golf setting, then walk interiors. Call (702) 222-1964. Start at 6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130.",
+      "See the lake and golf setting, then walk interiors. Call (702) 222-1964. Start at 6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031.",
   },
   "/": {
     h2: "Same-day Summerlin-then-Henderson routing from the Maps pin",
-    body: "Buyer and seller appointments start at Dr. Jan Duffy, 6150 N Decatur Blvd, Suite 104. We loop Summerlin first (10–15 minutes) and Henderson second (25–35 minutes) so you are not crisscrossing I-15.",
+    body: "Buyer and seller appointments start at Dr. Jan Duffy, 6150 N Decatur Blvd, Suite 101. We loop Summerlin first (20–25 minutes) and Henderson second (35–45 minutes) so you are not crisscrossing I-15.",
     facts: [
       "GBP name, address, and office line (702) 500-1942 match this pin",
       "Call or text (702) 222-1964 for a same-day showing window",
@@ -230,8 +230,8 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
       "Mon–Fri 9am–6pm, Sat 10am–4pm, Sunday by appointment. License S.0197614.LLC. Book a consult, then we drive. Directions and Google Reviews links are in the footer on every page.",
   },
   "/about": {
-    h2: "Meeting Dr. Jan Duffy at Suite 104",
-    body: "License S.0197614.LLC appointments are held at 6150 N Decatur Blvd, Suite 104 unless we meet at a listing. The west-valley office is the Google Business pin—walk in during posted hours or book Calendly.",
+    h2: "Meeting Dr. Jan Duffy at Suite 101",
+    body: "License S.0197614.LLC appointments are held at 6150 N Decatur Blvd, Suite 101 unless we meet at a listing. The Decatur office is the Google Business pin—walk in during posted hours or book Calendly.",
     facts: [
       "The brokerage name is in the footer.",
       "Markets: Las Vegas, Henderson, Summerlin",
@@ -243,9 +243,9 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/contact": {
     h2: "Walk-in desk and Calendly showings from the same pin",
-    body: "Walk-ins during posted hours are welcome at Suite 104. Calendly showings can start here and continue to the property. Email DrDuffySells@RiverwalkRanchHomes.com for documents; do not send listing keys by unsecured email.",
+    body: "Walk-ins during posted hours are welcome at Suite 101. Calendly showings can start here and continue to the property. Email DrDuffySells@RiverwalkRanchHomes.com for documents; do not send listing keys by unsecured email.",
     facts: [
-      "Address: 6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130",
+      "Address: 6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031",
       "Call or text (702) 222-1964; office (702) 500-1942",
       "Map embed, directions, and Google reviews appear on this page and in the footer",
     ],
@@ -257,7 +257,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     h2: "This page exists so Maps, GBP, and the website say the same thing",
     body: "Name, address, and office line (702) 500-1942 match the Google listing. Call or text (702) 222-1964 for a same-day reply. Hours, map pin, reviews, and photos on this URL are kept aligned with the Business Profile.",
     facts: [
-      "6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130",
+      "6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031",
       "Mon–Fri 9am–6pm, Sat 10am–4pm, Sunday by appointment",
       "Reviews, posts, and photos should match what you see on Google",
     ],
@@ -266,8 +266,8 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
       "Use the buttons on this page to call, get directions, or open Google Reviews. Inconsistent NAP is a Maps ranking leak—this page is the on-site source of truth.",
   },
   "/faq": {
-    h2: "Live Q&A is 10 minutes from most Summerlin villages",
-    body: "Bring loan pre-approval and a target ZIP to Suite 104. We map commute minutes to listings from this desk instead of answering with valley-wide averages only.",
+    h2: "Live Q&A is 20–25 minutes from most Summerlin villages",
+    body: "Bring loan pre-approval and a target ZIP to Suite 101. We map commute minutes to listings from this desk instead of answering with valley-wide averages only.",
     facts: [
       "FAQs below are Fair Housing safe and cover square footage, amenities, named campuses, and commute times",
       "Client CTA (702) 222-1964",
@@ -279,7 +279,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/services": {
     h2: "Buy, sell, 55+, and relocation paperwork start at one desk",
-    body: "Each service meeting starts at 6150 N Decatur Blvd, Suite 104 so MLS, showing routes, and brokerage paperwork use the same west-valley start.",
+    body: "Each service meeting starts at 6150 N Decatur Blvd, Suite 101 so MLS, showing routes, and brokerage paperwork use the same Decatur start.",
     facts: [
       "We offer buyer representation, listing services, 55+ campuses, and California relocation",
       "RealScout handles property matching; we do not duplicate that engine",
@@ -290,12 +290,12 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
       "Call (702) 222-1964. We will not send you to a generic city page—each service has its own interior and next-step CTA.",
   },
   "/security-policy": {
-    h2: "Showing access and data questions stay at Suite 104",
+    h2: "Showing access and data questions stay at Suite 101",
     body: "Privacy, lockbox, and showing-access questions are handled at the office. We do not collect listing keys by unsecured email.",
     facts: [
       "Email DrDuffySells@RiverwalkRanchHomes.com for written policy questions",
       "Office phone (702) 500-1942 matches GBP; CTA phone (702) 222-1964",
-      "Address: 6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130",
+      "Address: 6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031",
     ],
     h3: "What we will not do",
     h3Body:
@@ -307,7 +307,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     facts: [
       "Agent ID QWdlbnQtMjI1MDUw appears on RealScout widgets",
       "MLS disclaimer and listing attribution stay visible",
-      "Same-day tours begin at 6150 N Decatur Blvd, Suite 104",
+      "Same-day tours begin at 6150 N Decatur Blvd, Suite 101",
     ],
     h3: "How to use the live search without getting lost",
     h3Body:
@@ -315,7 +315,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/home-valuation": {
     h2: "Comps at the desk, then photos at the house",
-    body: "Bring the APN or address to Suite 104. Comps are pulled here before we drive to the house for photos and pricing. Overpriced homes sit; we price to recent closed sales, not a wish list.",
+    body: "Bring the APN or address to Suite 101. Comps are pulled here before we drive to the house for photos and pricing. Overpriced homes sit; we price to recent closed sales, not a wish list.",
     facts: [
       "CMA review on-site or at your property",
       "listing marketing scope is set before the photographer is booked",
@@ -327,7 +327,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/new-construction": {
     h2: "Register the buyer agent before any model-home visit",
-    body: "Builders in Las Vegas and Henderson require your agent at the first visit. Register Dr. Jan Duffy at 6150 N Decatur Blvd, Suite 104 before touring a model row in Skye Canyon, Inspirada, or Cadence.",
+    body: "Builders in Las Vegas and Henderson require your agent at the first visit. Register Dr. Jan Duffy at 6150 N Decatur Blvd, Suite 101 before touring a model row in Skye Canyon, Inspirada, or Cadence.",
     facts: [
       "Registration first, models second",
       "Incentives and lot premiums change weekly—do not rely on last month's flyer",
@@ -339,7 +339,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/buyers": {
     h2: "Pre-approval, search criteria, and first-tour routing at one desk",
-    body: "Buyer-agent onboarding happens at Suite 104 so you are not touring without a plan. RealScout does matching; we sequence the drives and the offer.",
+    body: "Buyer-agent onboarding happens at Suite 101 so you are not touring without a plan. RealScout does matching; we sequence the drives and the offer.",
     facts: [
       "Named campuses and commute minutes, not school ratings as slogans",
       "Call (702) 222-1964 to start",
@@ -351,7 +351,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/buyers/first-time-buyers": {
     h2: "FHA, VA, and Nevada down-payment programs before the first tour",
-    body: "First-time paperwork is reviewed at 6150 N Decatur Blvd, Suite 104. Then we schedule model or resale tours. North Las Vegas, Mountains Edge, and Centennial Hills are common entry ZIPs—compared by square footage and commute, not slogans.",
+    body: "First-time paperwork is reviewed at 6150 N Decatur Blvd, Suite 101. Then we schedule model or resale tours. North Las Vegas, Mountains Edge, and Centennial Hills are common entry ZIPs—compared by square footage and commute, not slogans.",
     facts: [
       "Lender intro and program checklist at this desk",
       "We provide commute mapping for Arbor View High School and Legacy High School by address.",
@@ -363,7 +363,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/buyers/california-relocator": {
     h2: "How do California sale proceeds compare to Las Vegas ZIP targets before a tour week?",
-    body: "We compare your California net to Las Vegas ZIP targets at Suite 104 (or video), then schedule a concentrated Summerlin-then-Henderson tour week so you are not flying in for a random open-house hopscotch.",
+    body: "We compare your California net to Las Vegas ZIP targets at Suite 101 (or video), then schedule a concentrated Summerlin-then-Henderson tour week so you are not flying in for a random open-house hopscotch.",
     facts: [
       "No state income tax in Nevada; property-tax and insurance still apply",
       "We provide commute checks for Palo Verde High School and Coronado High School.",
@@ -375,7 +375,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/buyers/luxury-homes-las-vegas": {
     h2: "Private luxury search—gate codes stay off group texts",
-    body: "The Ridges is about 15–20 minutes from Suite 104. Gate codes and off-market times are confirmed here. This page is the buyer luxury search; the /luxury-homes hub is listing-or-search intake for either side.",
+    body: "The Ridges is about 20–25 minutes from Suite 101. Gate codes and off-market times are confirmed here. This page is the buyer luxury search; the /luxury-homes hub is listing-or-search intake for either side.",
     facts: [
       "The H1 for this page is Private Luxury Home Search in Las Vegas.",
       "Silverado High School commute is a Henderson luxury check when relevant",
@@ -386,7 +386,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
       "Tell Dr. Jan the view you want (Strip, Red Rock, or golf). We will not send a PDF of 40 estates. Call (702) 222-1964.",
   },
   "/sellers": {
-    h2: "Pricing and listing marketing scoped at Suite 104, then the CMA walkthrough",
+    h2: "Pricing and listing marketing scoped at Suite 101, then the CMA walkthrough",
     body: "Listing prep happens at the office, then we go on-site. Homes priced above last month's closes sit. We price to the comps and launch listing marketing once photos are done.",
     facts: [
       "Photographer and copy are booked after the walkthrough",
@@ -411,7 +411,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/sellers/downsizing": {
     h2: "List the larger home or tour 55+ the same day from 6150 N Decatur Blvd",
-    body: "Sun City Summerlin is 10–15 minutes from Suite 104. We can list the larger home and preview 55+ campuses the same afternoon so you are not guessing at square footage you have not walked.",
+    body: "Sun City Summerlin is 20–25 minutes from Suite 101. We can list the larger home and preview 55+ campuses the same afternoon so you are not guessing at square footage you have not walked.",
     facts: [
       "HOA-maintained 55+ vs a smaller resale with a yard",
       "Age-restriction rules reviewed before you tour",
@@ -423,7 +423,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/sellers/relocation": {
     h2: "Las Vegas closing dates lined up with the next city",
-    body: "Destination-city agents are briefed from this office so your Las Vegas sale and the next purchase share a calendar. Outbound sale coordination is a Suite 104 plus destination-agent call.",
+    body: "Destination-city agents are briefed from this office so your Las Vegas sale and the next purchase share a calendar. Outbound sale coordination is a Suite 101 plus destination-agent call.",
     facts: [
       "Corporate and individual relocations",
       "Named campuses and commute times for the destination if you stay local first",
@@ -433,8 +433,8 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     h3Body: "Bring both contract drafts to the desk. Call (702) 222-1964.",
   },
   "/sellers/divorce-probate": {
-    h2: "Court dates and showing access at Suite 104, not the lobby",
-    body: "Confidential file review is by appointment at 6150 N Decatur Blvd, Suite 104. Court dates, attorney contacts, and lockbox rules are handled here—not in a public lobby conversation.",
+    h2: "Court dates and showing access at Suite 101, not the lobby",
+    body: "Confidential file review is by appointment at 6150 N Decatur Blvd, Suite 101. Court dates, attorney contacts, and lockbox rules are handled here—not in a public lobby conversation.",
     facts: [
       "The process is neutral, access is documented, and offers are written.",
       "Call (702) 222-1964 to schedule a private slot",
@@ -458,7 +458,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/investment-properties": {
     h2: "Rent comps and HOA rental rules before the area drive",
-    body: "Cap-rate review happens at Suite 104. Then we tour North Las Vegas, Henderson, or southwest ZIP clusters. HOA rental caps kill deals—we check them before you fly in.",
+    body: "Cap-rate review happens at Suite 101. Then we tour North Las Vegas, Henderson, or southwest ZIP clusters. HOA rental caps kill deals—we check them before you fly in.",
     facts: [
       "Downtown and mid-rise product vs suburban 3/2 rentals",
       "Named campus commutes only as a location fact, not a targeting pitch",
@@ -480,11 +480,11 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
       "We confirm HOA vendor lists and drone rules before listing day. Call (702) 222-1964.",
   },
   "/why-berkshire-hathaway": {
-    h2: "referral network samples at Suite 104 before you sign a listing agreement",
+    h2: "referral network samples at Suite 101 before you sign a listing agreement",
     body: "Brand questions are answered on-site: referral network, listing marketing samples, and who actually answers the phone. Dr. Jan Duffy, license S.0197614.LLC, Dr. Jan Duffy.",
     facts: [
       "Global referral network for inbound and outbound moves",
-      "Local showings start at 6150 N Decatur Blvd, Suite 104.",
+      "Local showings start at 6150 N Decatur Blvd, Suite 101.",
       "Call (702) 222-1964",
     ],
     h3: "Reputation is the brokerage; the work is the agent",
@@ -504,7 +504,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/market-update": {
     h2: "This week's numbers against your address or buyer criteria",
-    body: "Weekly stats are interpreted at this desk or by phone from Suite 104—not as a valley-wide average only.",
+    body: "Weekly stats are interpreted at this desk or by phone from Suite 101—not as a valley-wide average only.",
     facts: [
       "DOM and inventory move; we will not invent a rate or a price",
       "Office hours are Mon–Fri 9am–6pm, Sat 10am–4pm.",
@@ -516,7 +516,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/market-report": {
     h2: "Full CMA and report review with the property address in the room",
-    body: "Bring the property address to 6150 N Decatur Blvd, Suite 104. We pull comps at this desk and map them to your next step—list, wait, or buy.",
+    body: "Bring the property address to 6150 N Decatur Blvd, Suite 101. We pull comps at this desk and map them to your next step—list, wait, or buy.",
     facts: [
       "Report date on this page: January 2026",
       "Area breakdown is not a substitute for a CMA on one APN",
@@ -528,7 +528,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/neighborhoods": {
     h2: "Two contrasting areas from one west-valley start",
-    body: "Neighborhood comparison begins at Suite 104. Summerlin is 10–15 minutes away; Green Valley is 25–35 minutes away. Differences include trees, HOA, and commute.",
+    body: "Neighborhood comparison begins at Suite 101. Summerlin is 20–25 minutes away; Green Valley is 35–45 minutes away. Differences include trees, HOA, and commute.",
     facts: [
       "Each community page has its own H1 photo and drive-time note",
       "Named campuses and commute times, not ratings as marketing",
@@ -540,7 +540,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
   },
   "/55-plus-communities": {
     h2: "Age-restriction rules at the desk, clubhouses on the drive",
-    body: "Sun City Summerlin is 10–15 minutes; Anthem campuses are 30–35. HOA packets and HOPA occupancy rules are reviewed at Suite 104 before we drive to clubhouses.",
+    body: "Sun City Summerlin is 20–25 minutes; Anthem campuses are 35–40. HOA packets and HOPA occupancy rules are reviewed at Suite 101 before we drive to clubhouses.",
     facts: [
       "Price bands on this hub span roughly $280,000–$1.2 million depending on campus",
       "California relocators: we still tour by amenity, not by slogan",

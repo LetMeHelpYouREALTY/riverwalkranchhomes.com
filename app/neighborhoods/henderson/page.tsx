@@ -64,8 +64,8 @@ export default function HendersonPage() {
             <HeadingPhoto path="/neighborhoods/henderson" />
 
             <p className="text-xl text-slate-600">
-              Green Valley trees vs Inspirada rec — two villages, 25–35 minutes
-              from Suite 104. $485K median, 1,280 listings with{" "}
+              Green Valley trees vs Inspirada rec — two villages, 35–45 minutes
+              from Suite 101. $485K median, 1,280 listings with{" "}
               Dr. Jan
               Duffy.
             </p>
@@ -147,7 +147,7 @@ export default function HendersonPage() {
                 the waterfront properties at
                 <strong> Lake Las Vegas</strong>—Green Valley, Inspirada,
                 MacDonald Highlands, and the 320-acre lake are compared by
-                square footage, HOA packet, and drive time from Suite 104.
+                square footage, HOA packet, and drive time from Suite 101.
                 <strong>
                   {" "}
                   Dr. Jan Duffy
@@ -200,7 +200,7 @@ export default function HendersonPage() {
           {/* CTA */}
           <section className="text-center bg-blue-600 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Pick two Henderson villages from Suite 104 — trees or rec campus
+              Pick two Henderson villages from Suite 101 — trees or rec campus
             </h2>
             <p className="text-xl text-blue-100 mb-8">
               Compare Green Valley, Anthem, Inspirada, and Water Street from one

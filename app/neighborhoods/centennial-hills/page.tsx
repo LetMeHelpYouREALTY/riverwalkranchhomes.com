@@ -48,7 +48,7 @@ export default function CentennialHillsPage() {
 
             <p className="text-xl text-slate-600">
               Arbor View High School commute and Centennial Hills Park, 15–20
-              minutes from Suite 104. $495K median, 25 DOM, 203 listings with{" "}
+              minutes from Suite 101. $495K median, 25 DOM, 203 listings with{" "}
               Dr. Jan
               Duffy.
             </p>

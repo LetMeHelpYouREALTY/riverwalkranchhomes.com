@@ -8,7 +8,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/reviews",
   title: "Google Reviews | Dr. Jan Duffy Las Vegas REALTOR®",
   description:
-    "Read Google reviews for Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties, 6150 N Decatur Blvd, Suite 104, Las Vegas. Call (702) 222-1964.",
+    "Read Google reviews for Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties, 6150 N Decatur Blvd, Suite 101, Las Vegas. Call (702) 222-1964.",
   keywords: [
     "Dr. Jan Duffy reviews",
     "Berkshire Hathaway HomeServices Nevada Properties reviews.",
@@ -25,7 +25,7 @@ const faqs = [
   {
     question: "How do I ask a question before hiring?",
     answer:
-      "Call (702) 222-1964 or book a showing. The office is 6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130. License S.0197614.LLC.",
+      "Call (702) 222-1964 or book a showing. The office is 6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031. License S.0197614.LLC.",
   },
 ];
 

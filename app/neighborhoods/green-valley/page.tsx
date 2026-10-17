@@ -46,8 +46,8 @@ export default function GreenValleyPage() {
             <HeadingPhoto path="/neighborhoods/green-valley" />
 
             <p className="text-xl text-slate-600">
-              1988 tree canopy, The District midpoint, 25–35 minutes from Suite
-              104. $520K median, 26 DOM with{" "}
+              1988 tree canopy, The District midpoint, 35–45 minutes from Suite
+              101. $520K median, 26 DOM with{" "}
               Dr. Jan
               Duffy.
             </p>
@@ -112,7 +112,7 @@ export default function GreenValleyPage() {
                 and golf. Three decades later the comparison is canopy age and
                 lot size vs newer Henderson rec campuses. Today,{" "}
                 <strong>Dr. Jan Duffy</strong> sequences Green
-                Valley tours from Suite 104: The District first, then
+                Valley tours from Suite 101: The District first, then
                 golf-course HOAs and interior streets on a 25–35 minute I-215
                 east clock.
               </p>
@@ -160,7 +160,7 @@ export default function GreenValleyPage() {
                 between Green Valley proper, Green Valley Ranch, and Green
                 Valley South. Each area is compared by tree canopy age,
                 golf-course adjacency, The District retail, and commute minutes
-                from Suite 104. Call (702) 222-1964.
+                from Suite 101. Call (702) 222-1964.
               </p>
             </div>
           <SectionPresence />
@@ -176,7 +176,7 @@ export default function GreenValleyPage() {
             </h2>
             <p className="text-xl text-blue-100 mb-8">
               Meet at The District, then tour Green Valley's mature-tree
-              streets. Henderson is 25–35 minutes east of 6150 N Decatur Blvd
+              streets. Henderson is 35–45 minutes east of 6150 N Decatur Blvd
               office via I-215.
             </p>
             <CtaActions variant="onDark" />

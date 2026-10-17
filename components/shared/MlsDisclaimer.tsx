@@ -4,7 +4,7 @@ export default function MlsDisclaimer({
   className?: string;
 }) {
   return (
-    <p className={`text-slate-500 text-xs leading-relaxed ${className}`}>
+    <p className={`text-slate-700 text-xs leading-relaxed ${className}`}>
       Listing information is provided by Greater Las Vegas Association of
       REALTORS® MLS and is deemed reliable but not guaranteed. IDX information
       is provided exclusively for consumers&apos; personal, non-commercial use.

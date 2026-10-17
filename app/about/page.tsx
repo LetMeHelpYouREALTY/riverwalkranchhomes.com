@@ -59,10 +59,10 @@ const personSchema = {
     name: "Berkshire Hathaway HomeServices Nevada Properties",
     address: {
       "@type": "PostalAddress",
-      streetAddress: "6150 N Decatur Blvd, Suite 104",
-      addressLocality: "Las Vegas",
+      streetAddress: "6150 N Decatur Blvd, Suite 101",
+      addressLocality: "North Las Vegas",
       addressRegion: "NV",
-      postalCode: "89130",
+      postalCode: "89031",
     },
   },
   hasCredential: {
@@ -144,7 +144,7 @@ export default function AboutPage() {
                   <p>
                     When you choose to work with{" "}
                     <strong>Dr. Jan Duffy</strong>, you get
-                    direct phone access and a tour planned from Suite 104.
+                    direct phone access and a tour planned from Suite 101.
                     Local market work and written disclosure come from this
                     desk.
                   </p>
@@ -167,7 +167,7 @@ export default function AboutPage() {
                     making a large financial decision, that paperwork matters.
                   </p>
                   <p>
-                    Files start at Suite 104. Square-footage tours, listing
+                    Files start at Suite 101. Square-footage tours, listing
                     APNs, 55+ occupancy packets, and California inbound nets get
                     the same dated CMA. Real estate is a walkthrough and a
                     number, not a caption.
@@ -197,9 +197,9 @@ export default function AboutPage() {
                     <div className="flex items-start text-slate-700">
                       <MapPin className="h-5 w-5 mr-3 text-blue-600 mt-0.5" />
                       <address className="not-italic">
-                        6150 N Decatur Blvd, Suite 104
+                        6150 N Decatur Blvd, Suite 101
                         <br />
-                        Las Vegas, NV 89130
+                        North Las Vegas, NV 89031
                       </address>
                     </div>
                     <div className="flex items-center text-slate-700">
@@ -332,7 +332,7 @@ export default function AboutPage() {
             </h2>
             <p className="text-slate-300 text-center max-w-3xl mx-auto mb-8">
               Dr. Jan Duffy holds the desk.
-              Appointments start at Suite 104. Call or text (702) 222-1964. The
+              Appointments start at Suite 101. Call or text (702) 222-1964. The
               office line on Google is (702) 500-1942.
             </p>
             <div className="grid md:grid-cols-3 gap-8 mb-8">
@@ -344,7 +344,7 @@ export default function AboutPage() {
                   License on the paperwork
                 </h3>
                 <p className="text-slate-300 text-sm">
-                  The brokerage name is in the footer, not a slogan. Suite 104 is the
+                  The brokerage name is in the footer, not a slogan. Suite 101 is the
                   Maps pin.
                 </p>
               </div>
@@ -357,7 +357,7 @@ export default function AboutPage() {
                 </h3>
                 <p className="text-slate-300 text-sm">
                   50,000+ agents for a California listing referral paired
-                  with a Suite 104 buyer file.
+                  with a Suite 101 buyer file.
                 </p>
               </div>
               <div className="text-center">
@@ -388,13 +388,10 @@ export default function AboutPage() {
           <section className="mb-16 max-w-6xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4 text-center">
               The Ridges, Summerlin, Henderson, NLV — commute minutes from Suite
-              104
+              101
             </h2>
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">
-              Files start at 6150 N Decatur Blvd, Suite 104. Summerlin is
-              10–15 minutes. The Ridges gate is 15–20. Henderson is 25–35 via
-              I-215 east. North Las Vegas new construction is a separate
-              afternoon. Call (702) 222-1964.
+              Files start at 6150 N Decatur Blvd, Suite 101. Summerlin is 20–25 minutes. The Ridges gate is 20–25. Henderson is 35–45 via I-215 east. Aliante is 5–10 minutes. Call (702) 222-1964.
             </p>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
               {areasServed.map((area) => (
@@ -422,7 +419,7 @@ export default function AboutPage() {
           {/* Client Testimonials */}
           <section className="mb-16 max-w-5xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4 text-center">
-              Dated files and Google Reviews — 4.9 on the Suite 104 pin
+              Dated files and Google Reviews — 4.9 on the Suite 101 pin
             </h2>
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">
               With a 4.9-star rating and hundreds of satisfied clients, Dr. Jan
@@ -472,7 +469,7 @@ export default function AboutPage() {
           {/* CTA */}
           <section className="text-center bg-blue-600 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Book Suite 104 — license S.0197614.LLC is on the card
+              Book Suite 101 — license S.0197614.LLC is on the card
             </h2>
             <p className="text-xl text-blue-100 mb-8">
               Questions about buying or selling in Las Vegas? Call or text Dr.

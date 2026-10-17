@@ -22,7 +22,7 @@ export const metadata: Metadata = pageMetadata({
   title:
     "Berkshire Hathaway The Ridges | Las Vegas Luxury Homes",
   description:
-    "Find The Ridges homes with Berkshire Hathaway HomeServices Nevada Properties. Guard-gated Summerlin ridge lots, 15–20 minutes from Suite 104. Median $2.5M, 42 listings, 67 DOM (January 2026). Call (702) 222-1964.",
+    "Find The Ridges homes with Berkshire Hathaway HomeServices Nevada Properties. Guard-gated Summerlin ridge lots, 20–25 minutes from Suite 101. Median $2.5M, 42 listings, 67 DOM (January 2026). Call (702) 222-1964.",
   keywords: [
     "Berkshire Hathaway HomeServices The Ridges",
     "The Ridges homes for sale",
@@ -48,7 +48,7 @@ export default function TheRidgesPage() {
             <HeadingPhoto path="/neighborhoods/the-ridges" />
 
             <p className="text-xl text-slate-600">
-              Guard-gated ridge lots, 15–20 minutes from Suite 104. $2.5M
+              Guard-gated ridge lots, 20–25 minutes from Suite 101. $2.5M
               median, 67 DOM, 42 listings (January 2026) with{" "}
               Dr. Jan
               Duffy.
@@ -114,14 +114,14 @@ export default function TheRidgesPage() {
                 desert views. When buyers compare ridge-top lots to Downtown
                 Summerlin retail, they start with{" "}
                 <strong>Dr. Jan Duffy</strong> so gate lists
-                and showing windows are confirmed from Suite 104.
+                and showing windows are confirmed from Suite 101.
               </p>
               <p>
                 Six villages—Bear&apos;s Best, Falcon Ridge, Azure, Talon Ridge,
                 Silver Ridge, and Eagle Hills—share architectural guidelines.
                 Square footage, lot elevation, and golf-club access vary by
                 village. Compare those numbers at 6150 N Decatur Blvd, Suite
-                104 instead of a slogan. Photography and access are scheduled,
+                101 instead of a slogan. Photography and access are scheduled,
                 not improvised.
               </p>
               <p>
@@ -133,7 +133,7 @@ export default function TheRidgesPage() {
                 transactions require gate lists, photography scoped in writing,
                 and addresses kept off group texts. The office referral desk
                 connects Ridges appointments from 6150 N Decatur Blvd, Suite
-                104 — typically 15–20 minutes to the guardhouse.
+                101 — typically 20–25 minutes to the guardhouse.
               </p>
 
               <CommunityHighlights path="/neighborhoods/the-ridges" />
@@ -160,7 +160,7 @@ export default function TheRidgesPage() {
               <p>
                 Working with <strong>Dr. Jan Duffy</strong> in
                 The Ridges means working with agents who schedule gate lists,
-                photography, and off-market windows from Suite 104. Dr. Jan
+                photography, and off-market windows from Suite 101. Dr. Jan
                 Duffy coordinates access with architects, designers, and
                 property managers when the brief includes those vendors. When
                 the list price is measured in millions, the Dr. Jan Duffy
@@ -176,7 +176,7 @@ export default function TheRidgesPage() {
           {/* CTA */}
           <section className="text-center bg-blue-600 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Put your name on a Ridges gate list from Suite 104
+              Put your name on a Ridges gate list from Suite 101
             </h2>
             <p className="text-xl text-blue-100 mb-8">
               Book a confidential Ridges gate tour. Estate showings are

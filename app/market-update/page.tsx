@@ -97,7 +97,7 @@ export default function MarketUpdatePage() {
           {/* CTA */}
           <section className="text-center bg-blue-600 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Price this week against your APN at Suite 104
+              Price this week against your APN at Suite 101
             </h2>
             <p className="text-xl text-blue-100 mb-8">
               $452,500 median is a snapshot. Call (702) 222-1964. Bring the

@@ -9,7 +9,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/guides/book-a-showing",
   title: "How to Book a Showing in Las Vegas | Dr. Jan Duffy",
   description:
-    "Book a Las Vegas home showing with Dr. Jan Duffy. Call (702) 222-1964 or use the showing calendar. Office: 6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130.",
+    "Book a Las Vegas home showing with Dr. Jan Duffy. Call (702) 222-1964 or use the showing calendar. Office: 6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031.",
   keywords: [
     "book a showing Las Vegas",
     "schedule a home tour Las Vegas",
@@ -21,7 +21,7 @@ const faqs = [
   {
     question: "How do I book a showing?",
     answer:
-      "Call or text (702) 222-1964, or use the showing calendar on this page. The calendar is https://calendly.com/drjanduffy/showing. Tours can start at 6150 N Decatur Blvd, Suite 104, or at the property.",
+      "Call or text (702) 222-1964, or use the showing calendar on this page. The calendar is https://calendly.com/drjanduffy/showing. Tours can start at 6150 N Decatur Blvd, Suite 101, or at the property.",
   },
   {
     question: "What should I have ready?",
@@ -40,7 +40,7 @@ export default function BookShowingGuidePage() {
     <GuidePage
       eyebrow="Showing guide"
       title="How to book a showing in Las Vegas"
-      lede="Use the phone or the showing calendar. Both reach the same desk at Suite 104."
+      lede="Use the phone or the showing calendar. Both reach the same desk at Suite 101."
       faqs={faqs}
     >
       <section className="mx-auto my-16 max-w-3xl">

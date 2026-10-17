@@ -8,7 +8,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/credentials",
   title: "License & Brokerage – Dr. Jan Duffy S.0197614.LLC",
   description:
-    "Dr. Jan Duffy holds Nevada real estate license S.0197614.LLC with Berkshire Hathaway HomeServices Nevada Properties. Office address is 6150 N Decatur Blvd, Suite 104, Las Vegas. Call (702) 222-1964.",
+    "Dr. Jan Duffy holds Nevada real estate license S.0197614.LLC with Berkshire Hathaway HomeServices Nevada Properties. Office address is 6150 N Decatur Blvd, Suite 101, Las Vegas. Call (702) 222-1964.",
   keywords: [
     "Dr. Jan Duffy license",
     "S.0197614.LLC",

@@ -62,7 +62,7 @@ export default function WhyChooseUs() {
           </h2>
           <HeadingPhoto path="/" level="h2" photo={photos.agent} priority />
           <p className="text-xl text-slate-600 max-w-3xl mx-auto">
-            Appointments start at Dr. Jan Duffy, Suite 104. We sequence the tour from this desk — not a
+            Appointments start at Dr. Jan Duffy, Suite 101. We sequence the tour from this desk — not a
             call center.
           </p>
         </div>

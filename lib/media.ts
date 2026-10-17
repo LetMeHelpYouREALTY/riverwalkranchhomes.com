@@ -64,13 +64,13 @@ export const photos = {
   },
   office: {
     src: "/images/hero/office-lake-mead-blvd.jpg",
-    alt: "Dr. Jan Duffy office area near 6150 N Decatur Blvd, Las Vegas",
+    alt: "Illustrative glass office building with desert landscaping and a mountain backdrop",
     width: 1920,
     height: 1080,
   },
   officeExterior: {
     src: "/images/hero/west-las-vegas-office-exterior.jpg",
-    alt: "West Las Vegas office building near W Lake Mead Blvd with visitor parking and mountain backdrop",
+    alt: "Illustrative two-story office building with visitor parking and a mountain backdrop",
     width: 1920,
     height: 1080,
   },

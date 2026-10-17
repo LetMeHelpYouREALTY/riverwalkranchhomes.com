@@ -71,11 +71,11 @@ export const nap = {
   license: "S.0197614.LLC",
   email: "DrDuffySells@RiverwalkRanchHomes.com",
   emailHref: "mailto:DrDuffySells@RiverwalkRanchHomes.com",
-  street: "6150 N Decatur Blvd, Suite 104",
-  city: "Las Vegas",
+  street: "6150 N Decatur Blvd, Suite 101",
+  city: "North Las Vegas",
   state: "NV",
-  zip: "89130",
-  fullAddress: "6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130",
+  zip: "89031",
+  fullAddress: "6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031",
 } as const;
 
 export const geo = {
@@ -129,11 +129,11 @@ export const hoursSummary =
 
 export const maps = {
   embedSrc:
-    "https://maps.google.com/maps?q=6150+N+Decatur+Blvd+Suite+104+Las+Vegas+NV+89130&z=15&output=embed",
+    "https://maps.google.com/maps?q=6150+N+Decatur+Blvd+Suite+101+North+Las+Vegas+NV+89031&z=15&output=embed",
   directionsUrl:
-    "https://www.google.com/maps/dir/?api=1&destination=6150+N+Decatur+Blvd+Suite+104,+Las+Vegas,+NV+89130",
+    "https://www.google.com/maps/dir/?api=1&destination=6150+N+Decatur+Blvd+Suite+101,+North+Las+Vegas,+NV+89031",
   placeUrl:
-    "https://www.google.com/maps/search/?api=1&query=6150+N+Decatur+Blvd+Suite+104+Las+Vegas+NV+89130",
+    "https://www.google.com/maps/search/?api=1&query=6150+N+Decatur+Blvd+Suite+101+North+Las+Vegas+NV+89031",
 } as const;
 
 export const googleReviewsUrl =

@@ -31,11 +31,11 @@ export const agentInfo = {
 export const officeInfo = {
   name: "Berkshire Hathaway HomeServices Nevada Properties",
   address: {
-    street: "6150 N Decatur Blvd, Suite 104",
-    city: "Las Vegas",
+    street: "6150 N Decatur Blvd, Suite 101",
+    city: "North Las Vegas",
     state: "NV",
-    zip: "89130",
-    full: "6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130",
+    zip: "89031",
+    full: "6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031",
   },
   coordinates: {
     lat: 36.272079,

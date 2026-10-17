@@ -66,7 +66,7 @@ const sellerTypes = [
     title: "Move-Up Sellers",
     href: "/sellers/move-up",
     description:
-      "Coordinate the sale and the next purchase from Suite 104 so dates do not collide.",
+      "Coordinate the sale and the next purchase from Suite 101 so dates do not collide.",
   },
   {
     title: "Downsizing Sellers",
@@ -150,7 +150,7 @@ export default function ServicesPage() {
             </h2>
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">
               /buyers/california-relocator, /buyers/first-time-buyers, and
-              /buyers/luxury-homes-las-vegas are separate clocks from Suite 104.
+              /buyers/luxury-homes-las-vegas are separate clocks from Suite 101.
               We do not stack a Henderson luxury afternoon with a first-purchase
               FHA briefing. Call (702) 222-1964.
             </p>
@@ -185,7 +185,7 @@ export default function ServicesPage() {
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">
               /sellers/move-up, /sellers/downsizing, /sellers/divorce-probate,
               and /sellers/relocation start with dates at 6150 N Decatur Blvd,
-              Suite 104. The MLS remarks wait until the occupancy and
+              Suite 101. The MLS remarks wait until the occupancy and
               next-address clock is written. Call (702) 222-1964.
             </p>
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">

@@ -106,7 +106,7 @@ export default function SunCityAnthemPage() {
           <div className="max-w-4xl mx-auto text-center mb-16">
             <div className="inline-flex items-center bg-green-100 text-green-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
               <Mountain className="h-4 w-4 mr-2" />
-              64,000 sq ft Anthem Center · 30–35 minutes from Suite 104
+              64,000 sq ft Anthem Center · 35–40 minutes from Suite 101
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
               Sun City Anthem
@@ -174,11 +174,11 @@ export default function SunCityAnthemPage() {
           {/* CTA */}
           <section className="text-center bg-green-600 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Anthem Center first — 30–35 minutes east, packet at the desk
+              Anthem Center first — 35–40 minutes east, packet at the desk
             </h2>
             <p className="text-xl text-green-100 mb-8">
               Anthem Center is about 64,000 sq ft. We review occupancy rules at
-              Suite 104, then drive. Call (702) 222-1964.
+              Suite 101, then drive. Call (702) 222-1964.
             </p>
             <CtaActions variant="onDark" />
           <SectionPresence />

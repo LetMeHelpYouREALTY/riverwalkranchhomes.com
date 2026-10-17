@@ -19,8 +19,8 @@ export type ProcessCopy = {
 export const processSteps: Record<string, ProcessCopy[]> = {
   "/buyers": [
     {
-      h2: "Five buyer clocks from Suite 104, not a copied MLS-search loop",
-      body: "This page provides the lender letter, two-ZIP tours, inspections, and occupancy information. Live inventory search is at /listings. Call (702) 222-1964. 6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130.",
+      h2: "Five buyer clocks from Suite 101, not a copied MLS-search loop",
+      body: "This page provides the lender letter, two-ZIP tours, inspections, and occupancy information. Live inventory search is at /listings. Call (702) 222-1964. 6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031.",
       steps: [
         {
           title: "Lender letter before the first showing",
@@ -28,11 +28,11 @@ export const processSteps: Record<string, ProcessCopy[]> = {
         },
         {
           title: "Beds, baths, and square footage on the saved search",
-          body: "RealScout holds the live MLS. We set filters at Suite 104 so alerts match the budget on the letter, not a wish list.",
+          body: "RealScout holds the live MLS. We set filters at Suite 101 so alerts match the budget on the letter, not a wish list.",
         },
         {
           title: "Two-ZIP tour, not twelve",
-          body: "Summerlin is 10–15 minutes from this pin. Henderson is 25–35. We sequence one west loop or one east loop — not both plus North Las Vegas on day one.",
+          body: "Summerlin is 20–25 minutes from this pin. Henderson is 35–45. We sequence one west loop or one east loop — not both plus North Las Vegas on day one.",
         },
         {
           title: "Inspection, appraisal, and HOA docs in writing",
@@ -60,7 +60,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
         },
         {
           title: "Save a shortlist of addresses, not a camera roll",
-          body: "RealScout search saved from 6150 N Decatur Blvd, Suite 104",
+          body: "RealScout search saved from 6150 N Decatur Blvd, Suite 101",
         },
         {
           title: "Book the showing clock, not a random open-house hopscotch",
@@ -76,7 +76,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
   "/services": [
     {
       h2: "What are the intake, MLS filters, and closing paperwork steps?",
-      body: "Buyer, listing, 55+, and relocation files start at 6150 N Decatur Blvd, Suite 104. Showing routes and brokerage paperwork share one start. Call (702) 222-1964.",
+      body: "Buyer, listing, 55+, and relocation files start at 6150 N Decatur Blvd, Suite 101. Showing routes and brokerage paperwork share one start. Call (702) 222-1964.",
       steps: [
         {
           title: "Intake on address, timeline, and occupancy",
@@ -102,7 +102,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
       steps: [
         {
           title: "Brokerage line on every listing and buyer agreement",
-          body: "Dr. Jan Duffy, license S.0197614.LLC. 6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130. Office/GBP (702) 500-1942.",
+          body: "Dr. Jan Duffy, license S.0197614.LLC. 6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031. Office/GBP (702) 500-1942.",
         },
         {
           title: "Written disclosure standards on every file",
@@ -110,7 +110,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
         },
         {
           title: "Referral desks for inbound California and outbound states",
-          body: "Destination-city agents are briefed from this office. Local showings still start at Suite 104 — 10–15 minutes to most Summerlin villages.",
+          body: "Destination-city agents are briefed from this office. Local showings still start at Suite 101 — 20–25 minutes to most Summerlin villages.",
         },
       ],
     },
@@ -121,8 +121,8 @@ export const processSteps: Record<string, ProcessCopy[]> = {
       body: "Brand questions are answered on-site: who photographs, who writes remarks, who negotiates. Call (702) 222-1964. License S.0197614.LLC.",
       steps: [
         {
-          title: "Suite 104 on the listing agreement",
-          body: "The agent on the contract is Dr. Jan Duffy. The brokerage name is in the footer. Samples are reviewed at 6150 N Decatur Blvd, Suite 104.",
+          title: "Suite 101 on the listing agreement",
+          body: "The agent on the contract is Dr. Jan Duffy. The brokerage name is in the footer. Samples are reviewed at 6150 N Decatur Blvd, Suite 101.",
         },
         {
           title: "Listing syndication beyond the local MLS",
@@ -138,7 +138,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
         },
         {
           title: "Brokerage name stays in the footer",
-          body: "The brokerage name is in the footer. Local showings still start at Suite 104.",
+          body: "The brokerage name is in the footer. Local showings still start at Suite 101.",
         },
         {
           title: "Closed-file street comps you can ask for at the desk",
@@ -150,11 +150,11 @@ export const processSteps: Record<string, ProcessCopy[]> = {
   "/contact": [
     {
       h2: "What happens after you call the Decatur Blvd desk",
-      body: "Walk-ins during posted hours are welcome at Suite 104. Calendly showings can start here and continue to the property. Call or text (702) 222-1964. Email DrDuffySells@RiverwalkRanchHomes.com for documents — not listing keys.",
+      body: "Walk-ins during posted hours are welcome at Suite 101. Calendly showings can start here and continue to the property. Call or text (702) 222-1964. Email DrDuffySells@RiverwalkRanchHomes.com for documents — not listing keys.",
       steps: [
         {
           title: "A named agent, not a round-robin call center",
-          body: "Dr. Jan Duffy, license S.0197614.LLC, Dr. Jan Duffy. The Maps pin is 6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130.",
+          body: "Dr. Jan Duffy, license S.0197614.LLC, Dr. Jan Duffy. The Maps pin is 6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031.",
         },
         {
           title: "Same-day reply on the number you left",
@@ -169,7 +169,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
   ],
   "/luxury-homes": [
     {
-      h2: "How a $1M+ listing is marketed from Suite 104",
+      h2: "How a $1M+ listing is marketed from Suite 101",
       body: "Photography, gate access, and off-market windows are scoped at 6150 N Decatur Blvd before any public caption. Drive times: Ridges 15–20 minutes, Southern Highlands 25–35, Lake Las Vegas 35–45. Call (702) 222-1964.",
       steps: [
         {

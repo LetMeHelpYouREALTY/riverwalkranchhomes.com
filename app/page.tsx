@@ -123,7 +123,7 @@ export default async function Home() {
           </h2>
           <HeadingPhoto path="/" level="h2" photo={photos.summerlin} priority />
           <p className="text-lg text-slate-600 mb-8 text-center">
-            Same west-valley start at 6150 N Decatur Blvd, Suite 104. We pick
+            Same west-valley start at 6150 N Decatur Blvd, Suite 101. We pick
             two contrasting pins so you are not averaging the whole valley.
           </p>
           <div className="grid md:grid-cols-3 gap-6">

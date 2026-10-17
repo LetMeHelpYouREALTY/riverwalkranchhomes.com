@@ -140,7 +140,7 @@ export default function MarketReportPage() {
           {/* Buyer and seller takeaways */}
           <section className="mb-16 max-w-4xl mx-auto">
             <h2 className="text-3xl font-bold text-slate-900 mb-8 text-center">
-              What the January 2026 snapshot means at Suite 104
+              What the January 2026 snapshot means at Suite 101
             </h2>
             <div className="grid md:grid-cols-2 gap-6">
               <div className="bg-white border border-slate-200 rounded-lg p-6">
@@ -175,7 +175,7 @@ export default function MarketReportPage() {
           <section className="mb-16 max-w-5xl mx-auto">
             <h2 className="text-3xl font-bold text-slate-900 mb-8 text-center">
               California inbound, builder credits, $1M+ streets — apply at Suite
-              104
+              101
             </h2>
             <div className="grid md:grid-cols-3 gap-8">
               <div className="text-center">
@@ -219,7 +219,7 @@ export default function MarketReportPage() {
           {/* CTA */}
           <section className="text-center bg-blue-600 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Bring your APN to Suite 104 for a ZIP-level CMA
+              Bring your APN to Suite 101 for a ZIP-level CMA
             </h2>
             <p className="text-xl text-blue-100 mb-8">
               Want to know what these numbers mean for your specific

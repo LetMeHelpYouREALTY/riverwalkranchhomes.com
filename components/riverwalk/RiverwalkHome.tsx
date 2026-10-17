@@ -347,7 +347,7 @@ export default function RiverwalkHome({
               </h2>
               <p className="mt-5 leading-relaxed text-[#3f3832]">
                 License {nap.license}. The office pin is Suite
-                104 at 6150 N Decatur Blvd, not the Towboat gate.
+                101 at 6150 N Decatur Blvd, not the Towboat gate.
               </p>
               <a
                 href={ctaPhone.href}
