@@ -31,7 +31,7 @@ export async function generateMetadata(): Promise<Metadata> {
     return pageMetadata({
       path: "/",
       hostname,
-      title: "Riverwalk Ranch Homes | North Las Vegas 89031",
+      title: "Riverwalk Ranch Homes for Sale | North Las Vegas 89031",
       description: RIVERWALK_DESCRIPTION,
       keywords: riverwalkKeywords,
     });

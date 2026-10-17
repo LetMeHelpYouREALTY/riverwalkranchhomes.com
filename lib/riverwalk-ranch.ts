@@ -12,10 +12,12 @@ export const RIVERWALK_AS_OF = "October 16, 2026";
 export const RIVERWALK_BRAND = "Riverwalk Ranch Homes";
 
 export const RIVERWALK_DESCRIPTION =
-  "Riverwalk Ranch Homes are located in North Las Vegas, ZIP 89031. The development includes five sections, ranging from D.R. Horton single-family plans to High Noon townhomes. Dr. Jan Duffy, REALTOR® S.0197614.LLC. Call (702) 222-1964.";
+  "Riverwalk Ranch homes for sale are in North Las Vegas, ZIP 89031. The development includes five sections, ranging from D.R. Horton single-family plans to High Noon townhomes. Dr. Jan Duffy, REALTOR® S.0197614.LLC. Call (702) 222-1964.";
 
 export const riverwalkKeywords = [
   "Riverwalk Ranch Homes",
+  "Riverwalk Ranch homes for sale",
+  "Riverwalk Ranch North Las Vegas homes for sale",
   "Riverwalk Ranch North Las Vegas",
   "Riverwalk Ranch 89031",
   "Riverwalk Ranch High Noon",

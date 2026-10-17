@@ -19,7 +19,10 @@ import {
   generateWebSiteSchema,
   combineSchemas,
 } from "@/lib/schema";
-import { generateLocalBusinessSchema } from "@/lib/gbp-schema";
+import {
+  generateLocalBusinessSchema,
+  generatePersonSchema,
+} from "@/lib/gbp-schema";
 import { realscout, nap, resolveSiteUrl } from "@/lib/contact";
 import CalendlyFloatingBadge from "@/components/calendly/CalendlyFloatingBadge";
 import {
@@ -34,7 +37,7 @@ export async function generateMetadata(): Promise<Metadata> {
   const config = getDomainConfig(domain);
   const riverwalk = isRiverwalkHost(domain);
   const title = riverwalk
-    ? "Riverwalk Ranch Homes | North Las Vegas 89031"
+    ? "Riverwalk Ranch Homes for Sale | North Las Vegas 89031"
     : `${config.neighborhood} Real Estate | Dr. Jan Duffy, REALTOR®`;
   const siteUrl = resolveSiteUrl(domain);
   const canonical = absoluteUrl(pathname, domain);
@@ -79,10 +82,12 @@ export default async function RootLayout({
   const siteUrl = resolveSiteUrl(domain);
   const siteSchemas = combineSchemas(
     generateLocalBusinessSchema(siteUrl),
+    generatePersonSchema(siteUrl),
     generateOrganizationSchema(siteUrl),
     generateWebSiteSchema(
       siteUrl,
       riverwalk ? RIVERWALK_BRAND : nap.brokerage,
+      riverwalk ? RIVERWALK_DESCRIPTION : undefined,
     ),
   );
 

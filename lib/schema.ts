@@ -6,7 +6,7 @@
  * @see https://developers.google.com/search/docs/appearance/structured-data
  */
 
-import { SITE_URL } from "./contact";
+import { SITE_URL, businessHours } from "./contact";
 import { siteConfig, agentInfo, officeInfo } from "./site-config";
 
 // ============================================================================
@@ -136,22 +136,14 @@ export function generateRealEstateAgentSchema() {
         name: "Green Valley",
       },
     ],
-    openingHoursSpecification: [
-      {
+    openingHoursSpecification: businessHours
+      .filter((day) => day.opens && day.closes)
+      .map((day) => ({
         "@type": "OpeningHoursSpecification",
-        dayOfWeek: [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday",
-        ],
-        opens: "08:00",
-        closes: "20:00",
-      },
-    ],
+        dayOfWeek: day.day,
+        opens: day.opens,
+        closes: day.closes,
+      })),
     hasCredential: {
       "@type": "EducationalOccupationalCredential",
       credentialCategory: "Real Estate License",
@@ -238,11 +230,13 @@ export function generateBreadcrumbSchema(items: BreadcrumbItem[]) {
 }
 
 /**
- * Generate WebSite schema with search action
+ * WebSite entity. No SearchAction: /listings does not read a q parameter.
+ * Live search is the RealScout widget.
  */
 export function generateWebSiteSchema(
   siteUrl: string = SITE_URL,
   siteName: string = siteConfig.name,
+  description: string = siteConfig.description,
 ) {
   const base = siteUrl.replace(/\/$/, "");
   return {
@@ -251,17 +245,9 @@ export function generateWebSiteSchema(
     "@id": `${base}#website`,
     name: siteName,
     url: base,
-    description: siteConfig.description,
+    description,
     publisher: {
-      "@id": `${base}#organization`,
-    },
-    potentialAction: {
-      "@type": "SearchAction",
-      target: {
-        "@type": "EntryPoint",
-        urlTemplate: `${base}/listings?q={search_term_string}`,
-      },
-      "query-input": "required name=search_term_string",
+      "@id": `${base}/#organization`,
     },
   };
 }
