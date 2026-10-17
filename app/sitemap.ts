@@ -5,7 +5,6 @@ import { resolveSiteUrl } from "@/lib/contact";
 export default function sitemap(): MetadataRoute.Sitemap {
   const host = headers().get("x-domain") || headers().get("host");
   const baseUrl = resolveSiteUrl(host);
-  const lastModified = new Date();
 
   // Core pages
   const corePages = [
@@ -322,7 +321,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return allPages.map((page) => ({
     url: page.url,
-    lastModified,
     changeFrequency: page.changeFrequency,
     priority: page.priority,
   }));

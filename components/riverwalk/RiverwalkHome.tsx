@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { headers } from "next/headers";
 import { Phone } from "lucide-react";
 import RealScoutSearch from "@/components/realscout/RealScoutSearch";
 import SchemaScript from "@/components/SchemaScript";
@@ -12,6 +13,7 @@ import {
   maps,
   nap,
   officePhone,
+  resolveSiteUrl,
 } from "@/lib/contact";
 import { photos } from "@/lib/media";
 import { riverwalkGuideLinks } from "@/lib/riverwalk-guide-pages";
@@ -43,15 +45,19 @@ const corridorPhoto = {
 };
 
 export default function RiverwalkHome({
-  heading = "Riverwalk Ranch Homes in North Las Vegas 89031",
+  heading = "Riverwalk Ranch Homes for Sale in North Las Vegas 89031",
   lede = "The North Las Vegas master plan in ZIP 89031 includes five sections. No single published unit count.",
   showGuideLink = true,
 }: RiverwalkHomeProps) {
+  const host = headers().get("x-domain") || headers().get("host");
+  const origin = resolveSiteUrl(host);
   const placeSchema = {
     "@context": "https://schema.org",
     "@type": "Place",
+    "@id": `${origin}/#riverwalk-ranch`,
     name: "Riverwalk Ranch",
     description: lede,
+    url: `${origin}/neighborhoods/riverwalk-ranch`,
     address: {
       "@type": "PostalAddress",
       addressLocality: "North Las Vegas",
@@ -62,6 +68,7 @@ export default function RiverwalkHome({
     containedInPlace: {
       "@type": "City",
       name: "North Las Vegas",
+      sameAs: "https://en.wikipedia.org/wiki/North_Las_Vegas,_Nevada",
     },
   };
 

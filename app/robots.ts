@@ -1,6 +1,7 @@
 import { MetadataRoute } from "next";
 import { headers } from "next/headers";
 import { resolveSiteUrl } from "@/lib/contact";
+import { AI_CRAWLER_AGENTS, CRAWLER_DISALLOW } from "@/lib/aeo-surface";
 
 export default function robots(): MetadataRoute.Robots {
   const host = headers().get("x-domain") || headers().get("host");
@@ -11,11 +12,13 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: "*",
         allow: "/",
-        disallow: ["/api/", "/admin/", "/monitoring/"],
+        disallow: [...CRAWLER_DISALLOW],
       },
-      { userAgent: "Googlebot", allow: "/" },
-      { userAgent: "Googlebot-Image", allow: "/" },
-      { userAgent: "Google-Extended", allow: "/" },
+      {
+        userAgent: ["Googlebot", "Googlebot-Image", ...AI_CRAWLER_AGENTS],
+        allow: "/",
+        disallow: [...CRAWLER_DISALLOW],
+      },
     ],
     sitemap: `${siteUrl}/sitemap.xml`,
     host: new URL(siteUrl).host,

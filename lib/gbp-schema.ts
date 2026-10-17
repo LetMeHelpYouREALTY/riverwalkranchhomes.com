@@ -314,6 +314,9 @@ export function generateLocalBusinessSchema(
         closes: "16:00",
       },
     ],
+    employee: {
+      "@id": `${origin}/#person`,
+    },
     areaServed: businessInfo.serviceAreas.map((area) => ({
       "@type": "City",
       name: area,
@@ -334,6 +337,31 @@ export function generateLocalBusinessSchema(
       ...businessInfo.socialProfiles,
       "https://www.google.com/maps/search/?api=1&query=6150+N+Decatur+Blvd+Suite+101+North+Las+Vegas+NV+89031",
     ],
+  };
+}
+
+export function generatePersonSchema(
+  siteUrl: string = SITE_URL,
+): Record<string, unknown> {
+  const origin = siteUrl.replace(/\/$/, "");
+  return {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": `${origin}/#person`,
+    name: "Dr. Jan Duffy",
+    jobTitle: "REALTOR®",
+    telephone: businessInfo.phone.tel,
+    email: businessInfo.email,
+    image: `${origin}/images/dr-jan-duffy.jpg`,
+    url: `${origin}/about`,
+    identifier: businessInfo.license,
+    address: {
+      "@type": "PostalAddress",
+      ...businessInfo.address,
+    },
+    worksFor: {
+      "@id": `${origin}/#organization`,
+    },
   };
 }
 
