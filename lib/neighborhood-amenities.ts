@@ -22,12 +22,12 @@ export type NeighborhoodAmenityCopy = {
 
 export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
   "/neighborhoods": {
-    h3: "Retail options near Suite 100: Downtown Summerlin and The District",
+    h3: "Retail options near Suite 104: Downtown Summerlin and The District",
     body: "Do not pick a ZIP from a card grid. We time one west retail loop and one Henderson loop so you compare parking, store mix, and drive minutes — not a slogan.",
     pins: [
       {
         name: "Downtown Summerlin",
-        note: "10–15 minutes from 9406 W Lake Mead Blvd. Apple, Nordstrom, and the movie house on the same west loop as The Trails.",
+        note: "10–15 minutes from 6150 N Decatur Blvd. Apple, Nordstrom, and the movie house on the same west loop as The Trails.",
       },
       {
         name: "The District at Green Valley Ranch",
@@ -45,7 +45,7 @@ export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
     pins: [
       {
         name: "Downtown Summerlin",
-        note: "125+ stores on the Howard Hughes town center. 10–15 minutes from Suite 100. We park once and walk Apple to the cinema.",
+        note: "125+ stores on the Howard Hughes town center. 10–15 minutes from Suite 104. We park once and walk Apple to the cinema.",
       },
       {
         name: "Boca Park",
@@ -67,7 +67,7 @@ export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
       },
       {
         name: "Downtown Summerlin",
-        note: "High-end retail after the gate. Same west-valley clock as Suite 100 — 15–20 minutes from The Ridges streets.",
+        note: "High-end retail after the gate. Same west-valley clock as Suite 104 — 15–20 minutes from The Ridges streets.",
       },
       {
         name: "Henderson Executive Airport",
@@ -99,7 +99,7 @@ export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
     pins: [
       {
         name: "Skye Center",
-        note: "15-acre amenity campus: resort pool, lap pool, fitness, tennis and pickleball. Registration and HOA packet at Suite 100 first if you are walking builder models.",
+        note: "15-acre amenity campus: resort pool, lap pool, fitness, tennis and pickleball. Registration and HOA packet at Suite 104 first if you are walking builder models.",
       },
       {
         name: "Floyd Lamb Park",
@@ -121,7 +121,7 @@ export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
       },
       {
         name: "Centennial Hills Hospital",
-        note: "Full-service hospital and ER on the US-95 corridor. Suite 100 is a separate west-valley start — we do not pretend it is next door.",
+        note: "Full-service hospital and ER on the US-95 corridor. Suite 104 is a separate west-valley start — we do not pretend it is next door.",
       },
       {
         name: "Retail options at Centennial Center",
@@ -135,7 +135,7 @@ export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
     pins: [
       {
         name: "The District at Green Valley Ranch",
-        note: "Outdoor shops, GVR, and cinema within 25–35 minutes from Suite 100 via I-215 east",
+        note: "Outdoor shops, GVR, and cinema within 25–35 minutes from Suite 104 via I-215 east",
       },
       {
         name: "Whitney Mesa Recreation Area",
@@ -149,7 +149,7 @@ export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
   },
   "/neighborhoods/henderson": {
     h3: "Water Street, St. Rose Siena, and Galleria locations",
-    body: "Henderson is 25–35 minutes from Suite 100. We pick two villages plus one civic pin so you are not listing every mall.",
+    body: "Henderson is 25–35 minutes from Suite 104. We pick two villages plus one civic pin so you are not listing every mall.",
     pins: [
       {
         name: "Water Street District",
@@ -189,7 +189,7 @@ export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
     pins: [
       {
         name: "Aliante",
-        note: "Golf and rec campus plus casino retail. Common first pin from Suite 100 when the ZIP is North Las Vegas.",
+        note: "Golf and rec campus plus casino retail. Common first pin from Suite 104 when the ZIP is North Las Vegas.",
       },
       {
         name: "Craig Ranch and Craig Road employers",
@@ -207,7 +207,7 @@ export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
     pins: [
       {
         name: "Exploration Peak Park",
-        note: "About 120 acres. Summit trail with Strip and mountain views. First stop from Suite 100 on a Mountains Edge day.",
+        note: "About 120 acres. Summit trail with Strip and mountain views. First stop from Suite 104 on a Mountains Edge day.",
       },
       {
         name: "Mountains Edge Marketplace",

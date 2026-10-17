@@ -22,7 +22,7 @@ const faqs = [
   {
     question: "Who is the private client contact?",
     answer:
-      "Dr. Jan Duffy, REALTOR®, license S.0197614.LLC, works from Suite 100. Call or text (702) 222-1964. The office is 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
+      "Dr. Jan Duffy, REALTOR®, license S.0197614.LLC, works from Suite 104. Call or text (702) 222-1964. The office is 6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130.",
   },
   {
     question: "What does a private client appointment cover?",
@@ -41,7 +41,7 @@ export default function PrivateClientPage() {
     <GuidePage
       eyebrow="Las Vegas · Henderson · Summerlin"
       title="Private client real estate with Dr. Jan Duffy."
-      lede="One agent provides a single office pin and a showing calendar. Dr. Jan Duffy at Suite 100."
+      lede="One agent provides a single office pin and a showing calendar. Dr. Jan Duffy at Suite 104."
       faqs={faqs}
     >
       <section className="mx-auto my-16 max-w-3xl">
@@ -51,7 +51,7 @@ export default function PrivateClientPage() {
         <p className="mt-4 text-slate-700">
           Buyers use the time to set a tour route and a price band. Sellers
           use it to review a listing plan for a specific address. {nap.shortName}{" "}
-          writes the next step before you leave Suite 100. Call {ctaPhone.display}.
+          writes the next step before you leave Suite 104. Call {ctaPhone.display}.
         </p>
         <p className="mt-4 text-slate-700">
           Public listing search is on{" "}

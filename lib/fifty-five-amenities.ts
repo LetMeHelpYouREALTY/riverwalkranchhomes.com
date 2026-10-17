@@ -18,8 +18,8 @@ export type FiftyFiveAmenityCopy = {
 
 export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
   "/55-plus-communities": {
-    h2: "Which rec campus we walk first from Suite 100",
-    body: "Sun City Summerlin is 10 to 15 minutes away. Anthem campuses are 30 to 35 minutes away. We review HOA packets at 9406 W Lake Mead Blvd before driving to clubhouses.",
+    h2: "Which rec campus we walk first from Suite 104",
+    body: "Sun City Summerlin is 10 to 15 minutes away. Anthem campuses are 30 to 35 minutes away. We review HOA packets at 6150 N Decatur Blvd before driving to clubhouses.",
     pins: [
       {
         name: "Sun City Summerlin rec",
@@ -37,7 +37,7 @@ export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
   },
   "/55-plus-communities/sun-city-summerlin": {
     h2: "Highland Falls, Palm Valley, Eagle Crest — three courses, four rec buildings",
-    body: "We pick one rec building and one course per visit so you are not touring 7,700 homes in a blur. Suite 100 is 10–15 minutes.",
+    body: "We pick one rec building and one course per visit so you are not touring 7,700 homes in a blur. Suite 104 is 10–15 minutes.",
     pins: [
       {
         name: "Mountain Shadows Recreation Center",
@@ -55,7 +55,7 @@ export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
   },
   "/55-plus-communities/sun-city-anthem": {
     h2: "Anthem Center first — 64,000 sq ft before any Henderson golf add-on",
-    body: "30–35 minutes from Suite 100. Anthem Center is the indoor/outdoor rec campus. Golf is a second pin, not the H2.",
+    body: "30–35 minutes from Suite 104. Anthem Center is the indoor/outdoor rec campus. Golf is a second pin, not the H2.",
     pins: [
       {
         name: "Anthem Center",
@@ -73,7 +73,7 @@ export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
   },
   "/55-plus-communities/trilogy-summerlin": {
     h2: "Club restaurant, spa, then the pool terrace — Trilogy rec in one west stop",
-    body: "Trilogy sits in Summerlin, 10–20 minutes from Suite 100. Rec is clubhouse-scale, not a four-building Sun City campus.",
+    body: "Trilogy sits in Summerlin, 10–20 minutes from Suite 104. Rec is clubhouse-scale, not a four-building Sun City campus.",
     pins: [
       {
         name: "On-site restaurant",
@@ -113,7 +113,7 @@ export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
     pins: [
       {
         name: "Solera clubhouse and pool",
-        note: "Boutique rec. Walk it after we review occupancy at Suite 100.",
+        note: "Boutique rec. Walk it after we review occupancy at Suite 104.",
       },
       {
         name: "Tennis / pickleball",
@@ -127,7 +127,7 @@ export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
   },
   "/55-plus-communities/sun-city-aliante": {
     h2: "Aliante recreation and golf for 55+ near Craig Road in North Las Vegas",
-    body: "Not a Summerlin rec day. Aliante rec sits with desert-hills golf. Suite 100 is a west-valley start; we drive northwest as its own loop.",
+    body: "Not a Summerlin rec day. Aliante rec sits with desert-hills golf. Suite 104 is a west-valley start; we drive northwest as its own loop.",
     pins: [
       {
         name: "Sun City Aliante recreation",
@@ -149,7 +149,7 @@ export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
     pins: [
       {
         name: "Del Webb clubhouse and pools",
-        note: "Resort rec on the lake plat. Walk it after the HOA packet at Suite 100.",
+        note: "Resort rec on the lake plat. Walk it after the HOA packet at Suite 104.",
       },
       {
         name: "MonteLago Village",

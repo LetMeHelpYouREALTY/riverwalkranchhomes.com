@@ -47,7 +47,7 @@ export default function InspiradaPage() {
             <HeadingPhoto path="/neighborhoods/inspirada" />
 
             <p className="text-xl text-slate-600">
-              2,000-acre Henderson campus, 30–40 minutes from Suite 100. $525K
+              2,000-acre Henderson campus, 30–40 minutes from Suite 104. $525K
               median, 23 DOM, 98 listings (January 2026) with{" "}
               Dr. Jan
               Duffy.
@@ -109,7 +109,7 @@ export default function InspiradaPage() {
               <p>
                 <strong>Inspirada</strong> is a 2,000-acre Henderson campus.
                 Pools, slides, cabanas, and trail mileage are in the HOA packet.
-                Call (702) 222-1964 from 9406 W Lake Mead Blvd, Suite 100. Do
+                Call (702) 222-1964 from 6150 N Decatur Blvd, Suite 104. Do
                 not stack this with a Summerlin gate afternoon.
               </p>
               <p>

@@ -9,7 +9,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/guides/writing-an-offer",
   title: "Writing an Offer on a Las Vegas Home | Dr. Jan Duffy",
   description:
-    "A written offer in Las Vegas starts with Dr. Jan Duffy. Call (702) 222-1964. Office: 9406 W Lake Mead Blvd, Suite 100. License S.0197614.LLC.",
+    "A written offer in Las Vegas starts with Dr. Jan Duffy. Call (702) 222-1964. Office: 6150 N Decatur Blvd, Suite 104. License S.0197614.LLC.",
   keywords: [
     "write an offer Las Vegas",
     "Las Vegas home offer process",
@@ -21,7 +21,7 @@ const faqs = [
   {
     question: "Where is the offer written?",
     answer:
-      "You can meet Dr. Jan Duffy at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134 or schedule a call. Call (702) 222-1964.",
+      "You can meet Dr. Jan Duffy at 6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130 or schedule a call. Call (702) 222-1964.",
   },
   {
     question: "What comes before the offer?",
@@ -55,7 +55,7 @@ export default function WritingAnOfferPage() {
           <li>Inspections and closing follow the dates in the signed offer.</li>
         </ol>
         <p className="mt-4 text-slate-700">
-          Buyer representation is explained at Suite 100. Start with{" "}
+          Buyer representation is explained at Suite 104. Start with{" "}
           <Link href="/buyers" className="font-semibold text-blue-700 underline">
             the Las Vegas buyer guide
           </Link>

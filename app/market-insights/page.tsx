@@ -89,7 +89,7 @@ export default function MarketInsightsPage() {
           {/* CTA */}
           <section className="text-center bg-purple-600 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Apply this page to your ZIP at 9406 W Lake Mead Blvd
+              Apply this page to your ZIP at 6150 N Decatur Blvd
             </h2>
             <p className="text-xl text-purple-100 mb-8">
               Bring the APN or a lender letter. Call (702) 222-1964. Dr. Jan

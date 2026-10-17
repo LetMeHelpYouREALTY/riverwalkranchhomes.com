@@ -80,7 +80,7 @@ export default function FirstTimeBuyersPage() {
           {/* CTA */}
           <section className="text-center bg-blue-600 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Lender letter at Suite 100, then two ZIPs — Calendly or (702)
+              Lender letter at Suite 104, then two ZIPs — Calendly or (702)
               222-1964
             </h2>
             <p className="text-xl text-blue-100 mb-8">

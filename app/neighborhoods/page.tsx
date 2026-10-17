@@ -291,7 +291,7 @@ export default function NeighborhoodsPage() {
             data-neighborhood-cta="/neighborhoods"
           >
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Time one west loop and one Henderson loop from Suite 100
+              Time one west loop and one Henderson loop from Suite 104
             </h2>
             <p className="text-xl text-blue-100 mb-8">
               Summerlin is 10–15 minutes. Green Valley is 25–35. Call (702)

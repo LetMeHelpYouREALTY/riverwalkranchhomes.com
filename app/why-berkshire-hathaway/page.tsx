@@ -15,7 +15,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/why-berkshire-hathaway",
   title: "Why Choose Berkshire Hathaway HomeServices | Las Vegas Real Estate",
   description:
-    "Berkshire Hathaway HomeServices Nevada Properties provides listing files. Marketing samples are at Suite 100. Call (702) 222-1964.",
+    "Berkshire Hathaway HomeServices Nevada Properties provides listing files. Marketing samples are at Suite 104. Call (702) 222-1964.",
   keywords: [
     "Berkshire Hathaway HomeServices",
     "why choose BHHS",
@@ -62,7 +62,7 @@ export default function WhyBerkshireHathawayPage() {
 
             <p className="text-xl text-slate-600 leading-relaxed">
               When you work with Dr. Jan Duffy, you get a named agent,
-              written disclosure, and a tour planned from Suite 100.
+              written disclosure, and a tour planned from Suite 104.
             </p>
             <div className="mt-8">
               <CtaActions variant="onLight" />
@@ -80,7 +80,7 @@ export default function WhyBerkshireHathawayPage() {
           {/* Stats Section */}
           <section className="mb-16 bg-blue-600 text-white rounded-2xl p-8 md:p-12 max-w-5xl mx-auto">
             <h2 className="text-3xl font-bold mb-8 text-center">
-              50,000 agents, $138B 2024 volume — then ask what Suite 100 puts on
+              50,000 agents, $138B 2024 volume — then ask what Suite 104 puts on
               YOUR file
             </h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
@@ -121,7 +121,7 @@ export default function WhyBerkshireHathawayPage() {
               sign
             </h2>
             <p className="text-xl text-slate-300 mb-8">
-              Call (702) 222-1964. License S.0197614.LLC. Suite 100 on W Lake
+              Call (702) 222-1964. License S.0197614.LLC. Suite 104 on W Lake
               Mead Blvd.
             </p>
             <CtaActions variant="onDark" />

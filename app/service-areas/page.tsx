@@ -9,7 +9,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/service-areas",
   title: "Las Vegas Service Areas | Dr. Jan Duffy REALTOR®",
   description:
-    "Dr. Jan Duffy serves Las Vegas, Henderson, Summerlin, and North Las Vegas from 9406 W Lake Mead Blvd, Suite 100. Call (702) 222-1964.",
+    "Dr. Jan Duffy serves Las Vegas, Henderson, Summerlin, and North Las Vegas from 6150 N Decatur Blvd, Suite 104. Call (702) 222-1964.",
   keywords: [
     "Las Vegas realtor service area",
     "Henderson homes",
@@ -23,7 +23,7 @@ const faqs = [
   {
     question: "Where is the office?",
     answer:
-      "The office is at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. That address is the Google Business Profile pin. Call (702) 222-1964 to tour. Office line (702) 500-1942.",
+      "The office is at 6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130. That address is the Google Business Profile pin. Call (702) 222-1964 to tour. Office line (702) 500-1942.",
   },
   {
     question: "Which cities are on this desk?",
@@ -41,12 +41,12 @@ const areas = [
   {
     name: "Las Vegas",
     href: "/listings",
-    note: "Valley listings, searched live in RealScout, with tours booked from Suite 100.",
+    note: "Valley listings, searched live in RealScout, with tours booked from Suite 104.",
   },
   {
     name: "Summerlin",
     href: "/neighborhoods/summerlin",
-    note: "West Valley is about 10–15 minutes from 9406 W Lake Mead Blvd.",
+    note: "West Valley is about 10–15 minutes from 6150 N Decatur Blvd.",
   },
   {
     name: "Henderson",
@@ -68,7 +68,7 @@ const areas = [
 export default function ServiceAreasPage() {
   return (
     <GuidePage
-      eyebrow="From Suite 100"
+      eyebrow="From Suite 104"
       title="Dr. Jan Duffy serves the following areas"
       lede={`Dr. Jan Duffy shows homes in Las Vegas, Henderson, Summerlin, and North Las Vegas. The office pin does not move.`}
       faqs={faqs}

@@ -31,15 +31,15 @@ export const agentInfo = {
 export const officeInfo = {
   name: "Berkshire Hathaway HomeServices Nevada Properties",
   address: {
-    street: "9406 W Lake Mead Blvd, Suite 100",
+    street: "6150 N Decatur Blvd, Suite 104",
     city: "Las Vegas",
     state: "NV",
-    zip: "89134",
-    full: "9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134",
+    zip: "89130",
+    full: "6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130",
   },
   coordinates: {
-    lat: 36.1941,
-    lng: -115.2678,
+    lat: 36.272079,
+    lng: -115.206626,
   },
   phone: "(702) 500-1942",
   phoneTel: "tel:+17025001942",

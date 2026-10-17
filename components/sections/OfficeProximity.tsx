@@ -81,7 +81,7 @@ const byPath: Record<string, PlaceDrive> = {
   "/55-plus-communities/heritage-stonebridge": {
     place: "Heritage at Stonebridge",
     driveMinutes: "12–18 minutes",
-    note: "The 24/7 gate and Downtown Summerlin retail are a short west-valley hop from Lake Mead Blvd.",
+    note: "The 24/7 gate and Downtown Summerlin retail are a short west-valley hop from 6150 N Decatur Blvd.",
   },
   "/55-plus-communities/solera-anthem": {
     place: "Solera at Anthem",
@@ -106,7 +106,7 @@ const byPath: Record<string, PlaceDrive> = {
   "/about": {
     place: "You can have an in-person consult with Dr. Jan Duffy.",
     driveMinutes: "you are already at the pin",
-    note: "License S.0197614.LLC appointments are held at Suite 100 unless we meet at a listing.",
+    note: "License S.0197614.LLC appointments are held at Suite 104 unless we meet at a listing.",
   },
   "/contact": {
     place: "the contact desk",
@@ -131,12 +131,12 @@ const byPath: Record<string, PlaceDrive> = {
   "/security-policy": {
     place: "privacy questions",
     driveMinutes: "email or office visit",
-    note: "Data and showing-access questions are handled at Suite 100; we do not collect listing keys by unsecured email.",
+    note: "Data and showing-access questions are handled at Suite 104; we do not collect listing keys by unsecured email.",
   },
   "/listings": {
     place: "live MLS search follow-up",
     driveMinutes: "same-day tours from this pin",
-    note: "You save the RealScout results, then we sequence Summerlin, Henderson, or 55+ stops from Lake Mead Blvd.",
+    note: "You save the RealScout results, then we sequence Summerlin, Henderson, or 55+ stops from 6150 N Decatur Blvd.",
   },
   "/home-valuation": {
     place: "a CMA review",
@@ -171,7 +171,7 @@ const byPath: Record<string, PlaceDrive> = {
   "/sellers": {
     place: "listing appointment prep",
     driveMinutes: "we come to your house after this brief",
-    note: "Pricing, photos, and listing marketing are scoped at Suite 100, then we go on-site for the CMA walkthrough.",
+    note: "Pricing, photos, and listing marketing are scoped at Suite 104, then we go on-site for the CMA walkthrough.",
   },
   "/sellers/move-up": {
     place: "sale-and-purchase timing",
@@ -181,7 +181,7 @@ const byPath: Record<string, PlaceDrive> = {
   "/sellers/downsizing": {
     place: "downsize and 55+ options",
     driveMinutes: "It is 10–15 minutes to Sun City Summerlin.",
-    note: "List the larger home first or tour 55+ campuses the same day—both start from Lake Mead Blvd.",
+    note: "List the larger home first or tour 55+ campuses the same day—both start from 6150 N Decatur Blvd.",
   },
   "/sellers/relocation": {
     place: "outbound sale coordination",
@@ -190,7 +190,7 @@ const byPath: Record<string, PlaceDrive> = {
   },
   "/sellers/divorce-probate": {
     place: "confidential file review",
-    driveMinutes: "by appointment at Suite 100",
+    driveMinutes: "by appointment at Suite 104",
     note: "Court dates, attorney contacts, and showing access are handled here—not in a public lobby conversation.",
   },
   "/relocation": {
@@ -211,7 +211,7 @@ const byPath: Record<string, PlaceDrive> = {
   "/why-berkshire-hathaway": {
     place: "brand and representation questions",
     driveMinutes: "on-site",
-    note: "referral network referrals and listing marketing samples are shown at Suite 100 before you commit to a listing agreement.",
+    note: "referral network referrals and listing marketing samples are shown at Suite 104 before you commit to a listing agreement.",
   },
   "/market-insights": {
     place: "market briefing",

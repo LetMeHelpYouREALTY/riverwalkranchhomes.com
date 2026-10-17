@@ -23,15 +23,15 @@ export type NeighborhoodFaqCopy = {
 
 export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
   "/neighborhoods": {
-    h2: "Which two villages should we time from Suite 100 first?",
+    h2: "Which two villages should we time from Suite 104 first?",
     items: [
       {
         q: "Las Vegas neighborhoods to compare from office pin",
-        a: "Begin with the commute from the office at 9406 W Lake Mead Blvd Suite 100. Then consider HOA dues and home size. Summerlin villages are typically 10–15 minutes. Green Valley is a 25–35 minute I-215 east run. January 2026 medians are published on those pages: Summerlin about $625,000, Henderson about $485,000, North Las Vegas about $385,000. Call (702) 222-1964.",
+        a: "Begin with the commute from the office at 6150 N Decatur Blvd Suite 104. Then consider HOA dues and home size. Summerlin villages are typically 10–15 minutes. Green Valley is a 25–35 minute I-215 east run. January 2026 medians are published on those pages: Summerlin about $625,000, Henderson about $485,000, North Las Vegas about $385,000. Call (702) 222-1964.",
       },
       {
         q: "Dr. Jan Duffy tours per day",
-        a: "Yes. Call (702) 222-1964 to book a clustered tour. Dr. Jan Duffy is at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. We pair a west-valley loop with one east or northwest block so you are not recrossing the valley twice.",
+        a: "Yes. Call (702) 222-1964 to book a clustered tour. Dr. Jan Duffy is at 6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130. We pair a west-valley loop with one east or northwest block so you are not recrossing the valley twice.",
       },
       {
         q: "Do these neighborhood pages use live MLS data?",
@@ -44,11 +44,11 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
     ],
   },
   "/neighborhoods/summerlin": {
-    h2: "Summerlin questions we actually answer before we leave Suite 100",
+    h2: "Summerlin questions we actually answer before we leave Suite 104",
     items: [
       {
-        q: "How long is a Summerlin village tour from 9406 W Lake Mead Blvd?",
-        a: "Most Summerlin streets are 10–15 minutes from Suite 100. We typically start in The Trails or Pueblo, time Palo Verde High School on Pavilion Center Drive, then add Red Rock Canyon Scenic Drive on the west end of the same loop. Call (702) 222-1964.",
+        q: "How long is a Summerlin village tour from 6150 N Decatur Blvd?",
+        a: "Most Summerlin streets are 10–15 minutes from Suite 104. We typically start in The Trails or Pueblo, time Palo Verde High School on Pavilion Center Drive, then add Red Rock Canyon Scenic Drive on the west end of the same loop. Call (702) 222-1964.",
       },
       {
         q: "What January 2026 median was published for Summerlin on this page?",
@@ -56,7 +56,7 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
       },
       {
         q: "How many days on market did this page last publish for Summerlin?",
-        a: "Summerlin homes currently average 22 days on market, faster than the Las Vegas Valley average of 28 days on the same January 2026 snapshot. Well-priced homes in villages we tour from Suite 100 often receive multiple offers within the first week.",
+        a: "Summerlin homes currently average 22 days on market, faster than the Las Vegas Valley average of 28 days on the same January 2026 snapshot. Well-priced homes in villages we tour from Suite 104 often receive multiple offers within the first week.",
       },
       {
         q: "What makes a Summerlin loop different from a Henderson day?",
@@ -68,8 +68,8 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
     h2: "Ridges gate-list questions",
     items: [
       {
-        q: "Do Ridges showings start at the gate or at Suite 100?",
-        a: "Both. Gate lists and off-market windows are confirmed at 9406 W Lake Mead Blvd, Suite 100. The drive to the guardhouse is typically 15–20 minutes. We do not text estate addresses on unsecured threads. Call (702) 222-1964.",
+        q: "Do Ridges showings start at the gate or at Suite 104?",
+        a: "Both. Gate lists and off-market windows are confirmed at 6150 N Decatur Blvd, Suite 104. The drive to the guardhouse is typically 15–20 minutes. We do not text estate addresses on unsecured threads. Call (702) 222-1964.",
       },
       {
         q: "What was the January 2026 median home price for The Ridges?",
@@ -77,7 +77,7 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
       },
       {
         q: "How many home sites and villages are on a Ridges showing sheet?",
-        a: "About 900 home sites across six villages, with 24/7 guard-gated check-in and architectural guidelines. We sequence gate windows from Suite 100 so you are not sitting in valley traffic between ridge streets.",
+        a: "About 900 home sites across six villages, with 24/7 guard-gated check-in and architectural guidelines. We sequence gate windows from Suite 104 so you are not sitting in valley traffic between ridge streets.",
       },
       {
         q: "Is Henderson Executive Airport included on The Ridges commute map?",
@@ -86,11 +86,11 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
     ],
   },
   "/neighborhoods/southern-highlands": {
-    h2: "I-15 South: clubhouse, Harry Reid, and Suite 100 details",
+    h2: "I-15 South: clubhouse, Harry Reid, and Suite 104 details",
     items: [
       {
-        q: "How far is Southern Highlands from the Lake Mead Blvd office compared to Harry Reid?",
-        a: "The office run is 25–35 minutes via I-15 south from Suite 100. Once you are on I-15, Harry Reid International was previously published at about 10 miles / 15 minutes off-peak. The Strip was about 8 miles / 12 minutes off-peak. Call (702) 222-1964 to keep golf and ridge streets in one south-valley block.",
+        q: "How far is Southern Highlands from 6150 N Decatur Blvd compared to Harry Reid?",
+        a: "The office run is 25–35 minutes via I-15 south from Suite 104. Once you are on I-15, Harry Reid International was previously published at about 10 miles / 15 minutes off-peak. The Strip was about 8 miles / 12 minutes off-peak. Call (702) 222-1964 to keep golf and ridge streets in one south-valley block.",
       },
       {
         q: "What was the January 2026 median home price for Southern Highlands?",
@@ -110,8 +110,8 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
     h2: "Skye Canyon registration, Floyd Lamb, and 2027 school",
     items: [
       {
-        q: "Do I register at Suite 100 before touring Skye Canyon models?",
-        a: "Yes. Builder registration happens at 9406 W Lake Mead Blvd, Suite 100 first. The 215 northwest run is typically 20–25 minutes. Then we walk model rows and adjacent resales without a second freeway hop. Call (702) 222-1964.",
+        q: "Do I register at Suite 104 before touring Skye Canyon models?",
+        a: "Yes. Builder registration happens at 6150 N Decatur Blvd, Suite 104 first. The 215 northwest run is typically 20–25 minutes. Then we walk model rows and adjacent resales without a second freeway hop. Call (702) 222-1964.",
       },
       {
         q: "What median was published for Skye Canyon in January 2026?",
@@ -128,11 +128,11 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
     ],
   },
   "/neighborhoods/centennial-hills": {
-    h2: "US-95 park loop, Arbor View, and Suite 100",
+    h2: "US-95 park loop, Arbor View, and Suite 104",
     items: [
       {
-        q: "Is Centennial Hills a US-95 loop from Suite 100 or a 215 hop?",
-        a: "US-95 from 9406 W Lake Mead Blvd, Suite 100 is typically 15–20 minutes. We compare mountain-view lots near Centennial Hills Park with closer-in streets toward the hospital campus, then map Arbor View High School by address. Call (702) 222-1964.",
+        q: "Is Centennial Hills a US-95 loop from Suite 104 or a 215 hop?",
+        a: "US-95 from 6150 N Decatur Blvd, Suite 104 is typically 15–20 minutes. We compare mountain-view lots near Centennial Hills Park with closer-in streets toward the hospital campus, then map Arbor View High School by address. Call (702) 222-1964.",
       },
       {
         q: "What January 2026 median was published for Centennial Hills?",
@@ -152,8 +152,8 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
     h2: "What is the District midpoint for Green Valley?",
     items: [
       {
-        q: "Do Green Valley tours meet at The District or at Lake Mead Blvd?",
-        a: "Either. The office run is 25–35 minutes via I-215 east from Suite 100. The District at Green Valley Ranch is the practical midpoint for listing tours. Call (702) 222-1964 and we will pick the start that saves a freeway hop.",
+        q: "Do Green Valley tours meet at The District or at 6150 N Decatur Blvd?",
+        a: "Either. The office run is 25–35 minutes via I-215 east from Suite 104. The District at Green Valley Ranch is the practical midpoint for listing tours. Call (702) 222-1964 and we will pick the start that saves a freeway hop.",
       },
       {
         q: "What January 2026 median and days on market were published for Green Valley?",
@@ -173,8 +173,8 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
     h2: "Two-village Henderson days from one west-valley start",
     items: [
       {
-        q: "Can we compare two Henderson villages in one afternoon from Suite 100?",
-        a: "Yes. From 9406 W Lake Mead Blvd we pick two contrasting villages as a 25–35 minute east run so you compare 35-year-old trees vs new rec campuses in one day. Call (702) 222-1964.",
+        q: "Can we compare two Henderson villages in one afternoon from Suite 104?",
+        a: "Yes. From 6150 N Decatur Blvd we pick two contrasting villages as a 25–35 minute east run so you compare 35-year-old trees vs new rec campuses in one day. Call (702) 222-1964.",
       },
       {
         q: "What January 2026 median was published for Henderson as a city?",
@@ -194,8 +194,8 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
     h2: "Inspirada rec campus vs Green Valley trees — same east day",
     items: [
       {
-        q: "Inspirada add-on after Green Valley from Suite 100",
-        a: "Yes. Inspirada is 30–40 minutes from 9406 W Lake Mead Blvd. Green Valley was previously about 5 miles / 10 minutes from Inspirada streets. Tours hit the central park and amenity campus, then The District if you want 35-year-old trees the same afternoon. Call (702) 222-1964.",
+        q: "Inspirada add-on after Green Valley from Suite 104",
+        a: "Yes. Inspirada is 30–40 minutes from 6150 N Decatur Blvd. Green Valley was previously about 5 miles / 10 minutes from Inspirada streets. Tours hit the central park and amenity campus, then The District if you want 35-year-old trees the same afternoon. Call (702) 222-1964.",
       },
       {
         q: "What January 2026 median was published for Inspirada?",
@@ -212,11 +212,11 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
     ],
   },
   "/neighborhoods/north-las-vegas": {
-    h2: "Aliante recreation and Craig Road jobs from Suite 100",
+    h2: "Aliante recreation and Craig Road jobs from Suite 104",
     items: [
       {
-        q: "Aliante sequencing with Craig Road from Suite 100",
-        a: "Yes. North Las Vegas is 20–25 minutes via US-95 / I-15 from 9406 W Lake Mead Blvd. Aliante recreation is the north anchor; Craig Road employment corridors and new-construction villages are sequenced on the same tour. Call (702) 222-1964.",
+        q: "Aliante sequencing with Craig Road from Suite 104",
+        a: "Yes. North Las Vegas is 20–25 minutes via US-95 / I-15 from 6150 N Decatur Blvd. Aliante recreation is the north anchor; Craig Road employment corridors and new-construction villages are sequenced on the same tour. Call (702) 222-1964.",
       },
       {
         q: "January 2026 median for North Las Vegas",
@@ -224,7 +224,7 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
       },
       {
         q: "Which builders and villages are on a north-tour showing sheet?",
-        a: "Lennar, KB Home, Richmond American, and Century Communities appear on recent north-valley sheets. Villages we group include Aliante, Tule Springs, Valley Vista, and Camino Al Norte. Register Dr. Jan as buyer agent at Suite 100 before models.",
+        a: "Lennar, KB Home, Richmond American, and Century Communities appear on recent north-valley sheets. Villages we group include Aliante, Tule Springs, Valley Vista, and Camino Al Norte. Register Dr. Jan as buyer agent at Suite 104 before models.",
       },
       {
         q: "Which campuses are included on North Las Vegas tour maps?",
@@ -236,8 +236,8 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
     h2: "How does Exploration Peak differ from Summerlin?",
     items: [
       {
-        q: "Do Mountains Edge tours begin at Exploration Peak or Suite 100?",
-        a: "Suite 100 first (20–30 minutes via the southwest Beltway), then Exploration Peak Park as the trailhead pin on the same showing block. Call (702) 222-1964. Southern Highlands Golf Club is about 5 miles / 10 minutes if you want a southwest golf comparison the same day.",
+        q: "Do Mountains Edge tours begin at Exploration Peak or Suite 104?",
+        a: "Suite 104 first (20–30 minutes via the southwest Beltway), then Exploration Peak Park as the trailhead pin on the same showing block. Call (702) 222-1964. Southern Highlands Golf Club is about 5 miles / 10 minutes if you want a southwest golf comparison the same day.",
       },
       {
         q: "What January 2026 median was published for Mountains Edge?",

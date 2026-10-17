@@ -21,7 +21,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/neighborhoods/north-las-vegas",
   title: "Berkshire Hathaway HomeServices North Las Vegas | Affordable Homes",
   description:
-    "North Las Vegas homes are listed with Berkshire Hathaway HomeServices Nevada Properties. The January 2026 median price is $385K. Named campuses and commute minutes from Suite 100. Call (702) 222-1964.",
+    "North Las Vegas homes are listed with Berkshire Hathaway HomeServices Nevada Properties. The January 2026 median price is $385K. Named campuses and commute minutes from Suite 104. Call (702) 222-1964.",
   keywords: [
     "Berkshire Hathaway HomeServices North Las Vegas",
     "North Las Vegas homes for sale",
@@ -48,7 +48,7 @@ export default function NorthLasVegasPage() {
 
             <p className="text-xl text-slate-600">
               $385K median, 32 DOM, 892 listings — Aliante rec vs Craig Road,
-              20–25 minutes from Suite 100 with{" "}
+              20–25 minutes from Suite 104 with{" "}
               Dr. Jan
               Duffy.
             </p>
@@ -112,7 +112,7 @@ export default function NorthLasVegasPage() {
                 transformation over the past decade. What was once considered a
                 distant suburb is now a thriving city with new master-planned
                 communities, major employers, and infrastructure improvements
-                that make it an inventory band to compare at Suite 100.{" "}
+                that make it an inventory band to compare at Suite 104.{" "}
                 <strong>Dr. Jan Duffy</strong> compares $385K
                 median listings, named campuses, and commute minutes on this
                 north clock.

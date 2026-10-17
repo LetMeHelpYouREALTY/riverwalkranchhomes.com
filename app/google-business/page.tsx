@@ -170,7 +170,7 @@ export default function GoogleBusinessPage() {
             data-leftover-band="/google-business#2"
           >
             <h2 className="text-3xl font-bold text-slate-900 mb-6 text-center">
-              Mon–Fri 9am–6pm, Sat 10am–4pm at Suite 100 — Sunday by appointment
+              Mon–Fri 9am–6pm, Sat 10am–4pm at Suite 104 — Sunday by appointment
             </h2>
             <HeadingPhoto
               path="/google-business"
@@ -181,7 +181,7 @@ export default function GoogleBusinessPage() {
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-6">
               Hours on this URL must match Google Business. Walk-ins welcome
               during posted hours. Call (702) 222-1964. Office/GBP (702)
-              500-1942. 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.
+              500-1942. 6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130.
             </p>
             <div className="bg-slate-50 rounded-xl p-6">
               <div className="flex items-center gap-2 mb-4">
@@ -206,7 +206,7 @@ export default function GoogleBusinessPage() {
             data-leftover-band="/google-business#3"
           >
             <h2 className="text-3xl font-bold text-slate-900 mb-6 text-center">
-              Maps pin at 9406 W Lake Mead Blvd — Directions and Google Reviews
+              Maps pin at 6150 N Decatur Blvd — Directions and Google Reviews
               on this URL
             </h2>
             <HeadingPhoto
@@ -222,7 +222,7 @@ export default function GoogleBusinessPage() {
             </p>
             <div className="rounded-xl overflow-hidden border border-slate-200 mb-6">
               <iframe
-                title="Map to Dr. Jan Duffy, 9406 W Lake Mead Blvd"
+                title="Map to Dr. Jan Duffy, 6150 N Decatur Blvd"
                 src={maps.embedSrc}
                 className="w-full h-72"
                 loading="lazy"
@@ -273,7 +273,7 @@ export default function GoogleBusinessPage() {
               />
               <h2 className="text-2xl font-bold text-slate-900 mb-4">
                 Write the GBP review on this URL — Maps ranking uses the Suite
-                100 pin
+                104 pin
               </h2>
               <p className="text-slate-600 mb-6 max-w-2xl mx-auto">
                 If Dr. Jan helped you buy or sell a home, please consider
@@ -295,7 +295,7 @@ export default function GoogleBusinessPage() {
           <section className="max-w-4xl mx-auto">
             <div className="bg-slate-900 text-white rounded-2xl p-8 md:p-12 text-center">
               <h2 className="text-3xl font-bold mb-4">
-                The Maps pin is 9406 W Lake Mead Blvd, Suite 100 — start there
+                The Maps pin is 6150 N Decatur Blvd, Suite 104 — start there
               </h2>
               <p className="text-xl text-slate-300 mb-8">
                 Contact Dr. Jan Duffy for a free consultation about buying or

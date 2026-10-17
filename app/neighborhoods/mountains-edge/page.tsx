@@ -48,7 +48,7 @@ export default function MountainsEdgePage() {
 
             <p className="text-xl text-slate-600">
               Exploration Peak then I-15/Blue Diamond, 20–30 minutes from Suite
-              100. $475K median, 27 DOM, 234 listings with{" "}
+              104. $475K median, 27 DOM, 234 listings with{" "}
               Dr. Jan
               Duffy.
             </p>
@@ -137,7 +137,7 @@ export default function MountainsEdgePage() {
                 Duffy understands that value doesn't mean compromise—it means
                 finding the right home at the right price. For buyers priced out
                 of Summerlin or Henderson, Mountains Edge is compared by square
-                footage, HOA dues, and minutes from Suite 100 — not as a swapped
+                footage, HOA dues, and minutes from Suite 104 — not as a swapped
                 Summerlin caption.
               </p>
 

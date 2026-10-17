@@ -163,11 +163,11 @@ export default function LuxuryHomesPage() {
           <section className="text-center bg-gradient-to-r from-slate-900 to-slate-800 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
               Ridges or MacDonald Highlands first — book the gate block from
-              Suite 100
+              Suite 104
             </h2>
             <p className="text-xl text-slate-300 mb-8">
-              Call (702) 222-1964. Addresses stay off unsecured threads. 9406 W
-              Lake Mead Blvd, Suite 100 is where the showing clock is written.
+              Call (702) 222-1964. Addresses stay off unsecured threads. 6150 N
+              Decatur Blvd, Suite 104 is where the showing clock is written.
             </p>
             <CtaActions variant="onDark" bookLabel="Request Private Showing" />
           <SectionPresence />

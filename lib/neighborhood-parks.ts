@@ -23,11 +23,11 @@ export type NeighborhoodParkCopy = {
 export const neighborhoodParks: Record<string, NeighborhoodParkCopy> = {
   "/neighborhoods/centennial-hills": {
     h3: "120-acre Centennial Hills Park and Floyd Lamb Lakes recreation areas",
-    body: "We measure park acreage on the same US-95 afternoon as mountain-view streets. Suite 100 is 15–20 minutes west. Do not treat a listing photo as the park.",
+    body: "We measure park acreage on the same US-95 afternoon as mountain-view streets. Suite 104 is 15–20 minutes west. Do not treat a listing photo as the park.",
     pins: [
       {
         name: "Centennial Hills Park",
-        note: "About 120 acres: sports fields, playground, skate park, dog park. First rec stop from 9406 W Lake Mead Blvd on a Centennial Hills day.",
+        note: "About 120 acres: sports fields, playground, skate park, dog park. First rec stop from 6150 N Decatur Blvd on a Centennial Hills day.",
       },
       {
         name: "Centennial Hills YMCA facilities",
@@ -45,11 +45,11 @@ export const neighborhoodParks: Record<string, NeighborhoodParkCopy> = {
   },
   "/neighborhoods/mountains-edge": {
     h3: "Exploration Peak summit trail and Mountains Edge Regional Park splash pad comparison",
-    body: "Southwest rec is two parks, not one caption. We walk a trail at Exploration Peak before the splash pad so acreage and elevation are facts. Suite 100 is 20–30 minutes via the Beltway.",
+    body: "Southwest rec is two parks, not one caption. We walk a trail at Exploration Peak before the splash pad so acreage and elevation are facts. Suite 104 is 20–30 minutes via the Beltway.",
     pins: [
       {
         name: "Exploration Peak Park overview",
-        note: "About 120 acres. Summit trail with Strip and mountain views. First stop from Suite 100 on a Mountains Edge day.",
+        note: "About 120 acres. Summit trail with Strip and mountain views. First stop from Suite 104 on a Mountains Edge day.",
       },
       {
         name: "Mountains Edge Regional Park",

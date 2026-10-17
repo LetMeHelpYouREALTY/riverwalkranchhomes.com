@@ -46,10 +46,10 @@ const contactSchema = {
     email: "DrDuffySells@RiverwalkRanchHomes.com",
     address: {
       "@type": "PostalAddress",
-      streetAddress: "9406 W Lake Mead Blvd, Suite 100",
+      streetAddress: "6150 N Decatur Blvd, Suite 104",
       addressLocality: "Las Vegas",
       addressRegion: "NV",
-      postalCode: "89134",
+      postalCode: "89130",
       addressCountry: "US",
     },
   },
@@ -145,9 +145,9 @@ export default function ContactPage() {
                     <address className="not-italic text-slate-700">
                       Dr. Jan Duffy
                       <br />
-                      9406 W Lake Mead Blvd, Suite 100
+                      6150 N Decatur Blvd, Suite 104
                       <br />
-                      Las Vegas, NV 89134
+                      Las Vegas, NV 89130
                     </address>
                   </div>
                 </div>
@@ -224,7 +224,7 @@ export default function ContactPage() {
                 <div className="bg-blue-600 text-white p-6 text-center">
                   <Calendar className="h-10 w-10 mx-auto mb-3" />
                   <h2 className="text-2xl font-bold mb-2">
-                    Book Calendly for Suite 100, a phone consult, or a showing
+                    Book Calendly for Suite 104, a phone consult, or a showing
                   </h2>
                   <p className="text-blue-100">
                     Book a time that works for you—phone consultation, property
@@ -241,7 +241,7 @@ export default function ContactPage() {
           {/* Service Areas Section */}
           <section className="max-w-5xl mx-auto mt-16">
             <h2 className="text-3xl font-bold text-slate-900 mb-6 text-center">
-              ZIPs we time from 9406 W Lake Mead Blvd
+              ZIPs we time from 6150 N Decatur Blvd
             </h2>
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">
               Summerlin is 10–15 minutes. Henderson and Green Valley are 25–35.

@@ -19,8 +19,8 @@ export type LeftoverCopy = {
 export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/": [
     {
-      h2: "What is the 4.9 Google Business Profile rating for Suite 100?",
-      body: "Reviews on this page support Maps ranking for 9406 W Lake Mead Blvd, Suite 100. Call (702) 222-1964. Office phone (702) 500-1942.",
+      h2: "What is the 4.9 Google Business Profile rating for Suite 104?",
+      body: "Reviews on this page support Maps ranking for 6150 N Decatur Blvd, Suite 104. Call (702) 222-1964. Office phone (702) 500-1942.",
       pins: [
         {
           name: "4.9 on the pin",
@@ -28,7 +28,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Directions",
-          note: "Visitor parking on W Lake Mead Blvd: Mon–Fri 9am–6pm, Sat 10am–4pm, Sunday by appointment.",
+          note: "Visitor parking at 6150 N Decatur Blvd: Mon–Fri 9am–6pm, Sat 10am–4pm, Sunday by appointment.",
         },
         {
           name: "Two-ZIP clock",
@@ -41,8 +41,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "How long to Summerlin (10–15) or Henderson (25–35) from W Lake Mead Blvd? (702) 222-1964.",
-      body: "The Maps pin is located at 9406 W Lake Mead Blvd, Suite 100. Live MLS is RealScout. Office phone (702) 500-1942.",
+      h2: "How long to Summerlin (10–15) or Henderson (25–35) from 6150 N Decatur Blvd? (702) 222-1964.",
+      body: "The Maps pin is located at 6150 N Decatur Blvd, Suite 104. Live MLS is RealScout. Office phone (702) 500-1942.",
       pins: [
         {
           name: "Buyer file",
@@ -66,7 +66,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/55-plus-communities/sun-city-anthem": [
     {
       h2: "Anthem Center 64,000 sq ft, Liberty, Independence, Heritage by elevation",
-      body: "Sun City Anthem is 30–35 minutes from 9406 W Lake Mead Blvd, Suite 100. Occupancy rules are reviewed at the desk before the Henderson drive. Call (702) 222-1964. Do not mix this with a Summerlin 55+ morning.",
+      body: "Sun City Anthem is 30–35 minutes from 6150 N Decatur Blvd, Suite 104. Occupancy rules are reviewed at the desk before the Henderson drive. Call (702) 222-1964. Do not mix this with a Summerlin 55+ morning.",
       pins: [
         {
           name: "Anthem Center",
@@ -89,8 +89,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/55-plus-communities": [
     {
-      h2: "Occupancy packets at Suite 100, then one rec campus — not a slogan grid",
-      body: "HOPA occupancy is reviewed at 9406 W Lake Mead Blvd before we drive. Sun City Summerlin is 10–15 minutes. Anthem campuses are 30–35. Call (702) 222-1964. Nevada has no state income tax; HOA dues still apply.",
+      h2: "Occupancy packets at Suite 104, then one rec campus — not a slogan grid",
+      body: "HOPA occupancy is reviewed at 6150 N Decatur Blvd before we drive. Sun City Summerlin is 10–15 minutes. Anthem campuses are 30–35. Call (702) 222-1964. Nevada has no state income tax; HOA dues still apply.",
       pins: [
         {
           name: "HOA-maintained exteriors",
@@ -112,11 +112,11 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "55+ homes $280K–$1.2M published bands HOA $140–$350",
-      body: "January 2026 snapshot on this hub. Occupancy rules are reviewed at 9406 W Lake Mead Blvd before any clubhouse. Call (702) 222-1964. Pick one west campus or one Henderson campus.",
+      body: "January 2026 snapshot on this hub. Occupancy rules are reviewed at 6150 N Decatur Blvd before any clubhouse. Call (702) 222-1964. Pick one west campus or one Henderson campus.",
       pins: [
         {
           name: "West first",
-          note: "Sun City Summerlin 10–15 minutes. Trilogy and Heritage 12–18. Same west clock as Suite 100.",
+          note: "Sun City Summerlin 10–15 minutes. Trilogy and Heritage 12–18. Same west clock as Suite 104.",
         },
         {
           name: "Henderson second",
@@ -133,12 +133,12 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "How to open a 55+ campus page and book the rec building from W Lake Mead Blvd",
+      h2: "How to open a 55+ campus page and book the rec building from 6150 N Decatur Blvd",
       body: "The card grid is a menu. The decision is a drive. Call (702) 222-1964. Named rec square footage and commute minutes beat a slogan row.",
       pins: [
         {
           name: "Sun City Summerlin",
-          note: "Four rec campuses. 7,700+ homes. 10–15 minutes from Suite 100.",
+          note: "Four rec campuses. 7,700+ homes. 10–15 minutes from Suite 104.",
         },
         {
           name: "Trilogy / Heritage",
@@ -158,7 +158,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/buyers/luxury-homes-las-vegas": [
     {
       h2: "Which is best: Ridges gate, MacDonald Strip view, or Lake Las Vegas shoreline",
-      body: "This URL is buyer luxury search. Gate codes stay off group texts. The /luxury-homes hub is listing-or-search intake. Call (702) 222-1964 from 9406 W Lake Mead Blvd, Suite 100.",
+      body: "This URL is buyer luxury search. Gate codes stay off group texts. The /luxury-homes hub is listing-or-search intake. Call (702) 222-1964 from 6150 N Decatur Blvd, Suite 104.",
       pins: [
         {
           name: "The Ridges",
@@ -180,7 +180,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Luxury median $1.45M in Dec 2025, +161% since 2015, 60% cash — data from this desk",
-      body: "Numbers on this URL are a snapshot, not a CMA for one lot. Gate lists stay off group texts. Call (702) 222-1964 from 9406 W Lake Mead Blvd, Suite 100.",
+      body: "Numbers on this URL are a snapshot, not a CMA for one lot. Gate lists stay off group texts. Call (702) 222-1964 from 6150 N Decatur Blvd, Suite 104.",
       pins: [
         {
           name: "+161% since 2015",
@@ -188,7 +188,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "#4 national luxury growth",
-          note: "Headline on this URL. Offer language is written at Suite 100, not from a rank.",
+          note: "Headline on this URL. Offer language is written at Suite 104, not from a rank.",
         },
         {
           name: "Median price $1.45M Dec 2025",
@@ -204,7 +204,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/luxury-homes": [
     {
       h2: "Drone, floor plans, and paid placement — initialed before listing day",
-      body: "Marketing is a punch list at Suite 100, not a slogan. HOA drone rules and gate vendor lists are confirmed before photographer day. Call (702) 222-1964.",
+      body: "Marketing is a punch list at Suite 104, not a slogan. HOA drone rules and gate vendor lists are confirmed before photographer day. Call (702) 222-1964.",
       pins: [
         {
           name: "Photography scoped in writing",
@@ -212,7 +212,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Off-market window",
-          note: "Private showing blocks are booked from 9406 W Lake Mead Blvd. Addresses stay off unsecured threads.",
+          note: "Private showing blocks are booked from 6150 N Decatur Blvd. Addresses stay off unsecured threads.",
         },
         {
           name: "Buyer search vs listing hub",
@@ -226,7 +226,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Luxury median $1.2M, 890 listings over $1M, 45 days on market, +8.5% YoY — data Jan 2026",
-      body: "This page provides a snapshot of the listing or search results. A Ridges CMA is not a MacDonald Highlands CMA. Call (702) 222-1964. 9406 W Lake Mead Blvd, Suite 100.",
+      body: "This page provides a snapshot of the listing or search results. A Ridges CMA is not a MacDonald Highlands CMA. Call (702) 222-1964. 6150 N Decatur Blvd, Suite 104.",
       pins: [
         {
           name: "$1.2M luxury median",
@@ -249,8 +249,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/security-policy": [
     {
-      h2: "Lockbox, showing logs, and wire instructions stay at Suite 100 — not unsecured email",
-      body: "Report security@heyberkshire.com or call (702) 222-1964. Desk reply within 48 hours. 9406 W Lake Mead Blvd, Suite 100. We do not collect listing keys by open email.",
+      h2: "Lockbox, showing logs, and wire instructions stay at Suite 104 — not unsecured email",
+      body: "Report security@heyberkshire.com or call (702) 222-1964. Desk reply within 48 hours. 6150 N Decatur Blvd, Suite 104. We do not collect listing keys by open email.",
       pins: [
         {
           name: "security@heyberkshire.com",
@@ -280,7 +280,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Monitoring",
-          note: "Monitoring tools: Sentry, Vercel Analytics, automated scans. Alerts reviewed at Suite 100.",
+          note: "Monitoring tools: Sentry, Vercel Analytics, automated scans. Alerts reviewed at Suite 104.",
         },
         {
           name: "Data",
@@ -315,12 +315,12 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Padlock on heyberkshire.com, then the Suite 100 pin — phishing stays off this file",
+      h2: "Padlock on heyberkshire.com, then the Suite 104 pin — phishing stays off this file",
       body: "Confirm the domain and HTTPS before you send documents. Email DrDuffySells@RiverwalkRanchHomes.com. Call (702) 222-1964. Do not change wiring from a text that is not this number.",
       pins: [
         {
           name: "Correct domain",
-          note: "heyberkshire.com with the padlock. Maps pin is 9406 W Lake Mead Blvd, Suite 100",
+          note: "heyberkshire.com with the padlock. Maps pin is 6150 N Decatur Blvd, Suite 104",
         },
         {
           name: "Out of scope",
@@ -332,7 +332,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Walk-in",
-          note: "Contact Suite 100: client phone (702) 222-1964, office phone (702) 500-1942",
+          note: "Contact Suite 104: client phone (702) 222-1964, office phone (702) 500-1942",
         },
       ],
     },
@@ -340,7 +340,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/services": [
     {
       h2: "Buyer, listing, 55+, and relocation desks — pick the file type first",
-      body: "Service meetings begin at 9406 W Lake Mead Blvd, Suite 100. MLS, showing routes, and brokerage paperwork share that start. Call (702) 222-1964",
+      body: "Service meetings begin at 6150 N Decatur Blvd, Suite 104. MLS, showing routes, and brokerage paperwork share that start. Call (702) 222-1964",
       pins: [
         {
           name: "Buyer representation",
@@ -362,7 +362,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Investor math, new-construction registration, and 55+ packets — not a second slogan grid",
-      body: "Specialized files still start at Suite 100. Builder registration happens before any model row. HOA rental caps are checked before you fly in. Call (702) 222-1964.",
+      body: "Specialized files still start at Suite 104. Builder registration happens before any model row. HOA rental caps are checked before you fly in. Call (702) 222-1964.",
       pins: [
         {
           name: "Investment",
@@ -370,7 +370,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "New construction",
-          note: "Open /new-construction. Register Dr. Jan at Suite 100 before Skye Canyon, Inspirada, or Cadence models.",
+          note: "Open /new-construction. Register Dr. Jan at Suite 104 before Skye Canyon, Inspirada, or Cadence models.",
         },
         {
           name: "Relocation calendar",
@@ -385,7 +385,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/listings": [
     {
-      h2: "Village cards with January 2026 medians — commute minutes from Suite 100",
+      h2: "Village cards with January 2026 medians — commute minutes from Suite 104",
       body: "This hub is inventory. Neighborhood pages hold named campuses and parks. Filter here, then call (702) 222-1964. We will not tour twelve ZIPs in one afternoon.",
       pins: [
         {
@@ -398,7 +398,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "The Ridges $2.5M",
-          note: "15–20 minutes to the guardhouse. Gate list from Suite 100.",
+          note: "15–20 minutes to the guardhouse. Gate list from Suite 104.",
         },
         {
           name: "North Las Vegas $385K",
@@ -407,8 +407,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "$450K median, 28 DOM, 4,850 listings, +4.2% YoY — valley snapshot at Suite 100, not your street CMA",
-      body: "January 2026 figures are shown on this search hub. Offer math lives on /buyers. Call (702) 222-1964. 9406 W Lake Mead Blvd, Suite 100.",
+      h2: "$450K median, 28 DOM, 4,850 listings, +4.2% YoY — valley snapshot at Suite 104, not your street CMA",
+      body: "January 2026 figures are shown on this search hub. Offer math lives on /buyers. Call (702) 222-1964. 6150 N Decatur Blvd, Suite 104.",
       pins: [
         {
           name: "$450K median",
@@ -431,8 +431,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/why-berkshire-hathaway": [
     {
-      h2: "License S.0197614.LLC at Suite 100 — the parent company is on the letterhead",
-      body: "The photographer, remark writer, and negotiator are identified. Dr. Jan Duffy, 9406 W Lake Mead Blvd, Suite 100. Call (702) 222-1964. Closed volume cited on this site: $127M+ since 2008.",
+      h2: "License S.0197614.LLC at Suite 104 — the parent company is on the letterhead",
+      body: "The photographer, remark writer, and negotiator are identified. Dr. Jan Duffy, 6150 N Decatur Blvd, Suite 104. Call (702) 222-1964. Closed volume cited on this site: $127M+ since 2008.",
       pins: [
         {
           name: "Brokerage on the contract",
@@ -440,7 +440,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Referral desk information",
-          note: "Inbound California and outbound states are briefed from Suite 100. Local showings still start here.",
+          note: "Inbound California and outbound states are briefed from Suite 104. Local showings still start here.",
         },
         {
           name: "Closed-file street comps",
@@ -453,15 +453,15 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Parent company on the letterhead — then who photographs YOUR listing at Suite 100",
-      body: "The parent company is named in the footer. The file is this desk. Ask for listing-marketing samples at 9406 W Lake Mead Blvd before you sign. Call (702) 222-1964.",
+      h2: "Parent company on the letterhead — then who photographs YOUR listing at Suite 104",
+      body: "The parent company is named in the footer. The file is this desk. Ask for listing-marketing samples at 6150 N Decatur Blvd before you sign. Call (702) 222-1964.",
       pins: [
         {
           name: "Parent on the letterhead",
           note: "Parent-company materials are not a CMA for your street.",
         },
         {
-          name: "This file at Suite 100",
+          name: "This file at Suite 104",
           note: "Who photographs, who writes remarks, who negotiates — named before photographer day.",
         },
         {
@@ -477,8 +477,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/new-construction": [
     {
-      h2: "How to register at Suite 100 for builder corridors such as Toll, Lennar, KB, or Shea",
-      body: "Builders in Las Vegas and Henderson often require an agent on the first visit. Register with Dr. Jan Duffy at 9406 W Lake Mead Blvd before visiting Skye Canyon, Inspirada, or Cadence. Call (702) 222-1964",
+      h2: "How to register at Suite 104 for builder corridors such as Toll, Lennar, KB, or Shea",
+      body: "Builders in Las Vegas and Henderson often require an agent on the first visit. Register with Dr. Jan Duffy at 6150 N Decatur Blvd before visiting Skye Canyon, Inspirada, or Cadence. Call (702) 222-1964",
       pins: [
         {
           name: "Toll Brothers",
@@ -499,7 +499,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Toll, Lennar, KB, Shea — one builder row per afternoon after Suite 100 registration",
+      h2: "Toll, Lennar, KB, Shea — one builder row per afternoon after Suite 104 registration",
       body: "The card grid is a menu. Registration happens before any model. Call (702) 222-1964. Incentives on this page are January 2026 — confirm the week you tour.",
       pins: [
         {
@@ -508,7 +508,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "South Henderson rows",
-          note: "Inspirada and Cadence eastward; 25–35 minutes from 9406 W Lake Mead Blvd",
+          note: "Inspirada and Cadence eastward; 25–35 minutes from 6150 N Decatur Blvd",
         },
         {
           name: "Southwest rows",
@@ -521,8 +521,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Builder steps: register, models, design studio – W Lake Mead Blvd",
-      body: "The sequence is written at Suite 100. Most builders require Dr. Jan on visit one. Call (702) 222-1964 before Skye Canyon, Inspirada, or Cadence.",
+      h2: "Builder steps: register, models, design studio – 6150 N Decatur Blvd",
+      body: "The sequence is written at Suite 104. Most builders require Dr. Jan on visit one. Call (702) 222-1964 before Skye Canyon, Inspirada, or Cadence.",
       pins: [
         {
           name: "Register first",
@@ -544,7 +544,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Rate buydown, design-studio credit, lot premium — negotiated after registration, not at the model desk",
-      body: "Builder credits belong on the contract, not a lobby flyer. Register Dr. Jan at 9406 W Lake Mead Blvd first. Call (702) 222-1964.",
+      body: "Builder credits belong on the contract, not a lobby flyer. Register Dr. Jan at 6150 N Decatur Blvd first. Call (702) 222-1964.",
       pins: [
         {
           name: "Closing-cost and rate credits",
@@ -568,7 +568,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/google-business": [
     {
       h2: "Maps, hours, and reviews on this URL must match the Business Profile",
-      body: "Name, address, and office line (702) 500-1942 match GBP. Client CTA (702) 222-1964. 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Inconsistent NAP is a Maps ranking leak.",
+      body: "Name, address, and office line (702) 500-1942 match GBP. Client CTA (702) 222-1964. 6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130. Inconsistent NAP is a Maps ranking leak.",
       pins: [
         {
           name: "Call",
@@ -576,7 +576,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Directions",
-          note: "Map pin location: Suite 100 address; visitor parking faces W Lake Mead Blvd.",
+          note: "Map pin location: Suite 104 address; visitor parking is at 6150 N Decatur Blvd.",
         },
         {
           name: "View Google Reviews",
@@ -589,7 +589,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "What is the license S.0197614.LLC and office hours for Suite 100?",
+      h2: "What is the license S.0197614.LLC and office hours for Suite 104?",
       body: "This section aligns the Google Business Profile with the website. It defines who, what, and where so GBP and heyberkshire.com stay consistent. Call (702) 222-1964. Office/GBP (702) 500-1942.",
       pins: [
         {
@@ -602,7 +602,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Where",
-          note: "9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Summerlin 10–15 minutes. Henderson 25–35 via I-215 east.",
+          note: "6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130. Summerlin 10–15 minutes. Henderson 25–35 via I-215 east.",
         },
         {
           name: "Hours",
@@ -611,12 +611,12 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Mon–Fri 9am–6pm, Sat 10am–4pm at Suite 100 — Sunday by appointment",
-      body: "Hours on this URL must match Google Business. Walk-ins welcome during posted hours. Call (702) 222-1964. Office/GBP (702) 500-1942. 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
+      h2: "Mon–Fri 9am–6pm, Sat 10am–4pm at Suite 104 — Sunday by appointment",
+      body: "Hours on this URL must match Google Business. Walk-ins welcome during posted hours. Call (702) 222-1964. Office/GBP (702) 500-1942. 6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130.",
       pins: [
         {
           name: "Monday–Friday",
-          note: "9am–6pm. Visitor parking faces W Lake Mead Blvd.",
+          note: "9am–6pm. Visitor parking is at 6150 N Decatur Blvd.",
         },
         {
           name: "Saturday",
@@ -633,12 +633,12 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Map pin at 9406 W Lake Mead Blvd — Directions and Google Reviews available on this page",
+      h2: "Map pin at 6150 N Decatur Blvd — Directions and Google Reviews available on this page",
       body: "The embed, Get Directions, and View Google Reviews buttons are the GBP actions. Call or text (702) 222-1964. License S.0197614.LLC. Dr. Jan Duffy.",
       pins: [
         {
           name: "Get Directions",
-          note: "Opens the Suite 100 pin. Do not use a different street for GBP.",
+          note: "Opens the Suite 104 pin. Do not use a different street for GBP.",
         },
         {
           name: "View Google Reviews",
@@ -650,15 +650,15 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Office address",
-          note: "9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134",
+          note: "6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130",
         },
       ],
     },
   ],
   "/sellers": [
     {
-      h2: "Photographer, remarks, and comps scoped at Suite 100 before go-live",
-      body: "Listing files start at 9406 W Lake Mead Blvd, Suite 100. Photos and MLS remarks wait until the walkthrough. Call (702) 222-1964. We do not promise a portal we cannot name.",
+      h2: "Photographer, remarks, and comps scoped at Suite 104 before go-live",
+      body: "Listing files start at 6150 N Decatur Blvd, Suite 104. Photos and MLS remarks wait until the walkthrough. Call (702) 222-1964. We do not promise a portal we cannot name.",
       pins: [
         {
           name: "listing syndication punch list",
@@ -670,7 +670,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Offer terms at the desk",
-          note: "Inspection, appraisal, and occupancy dates are drafted before you leave Suite 100.",
+          note: "Inspection, appraisal, and occupancy dates are drafted before you leave Suite 104.",
         },
         {
           name: "Net sheet",
@@ -680,11 +680,11 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "CMA at the desk, photos at the house, then MLS — that is the listing clock",
-      body: "The selling sequence is dated at Suite 100. We do not skip the walkthrough. Call (702) 222-1964.",
+      body: "The selling sequence is dated at Suite 104. We do not skip the walkthrough. Call (702) 222-1964.",
       pins: [
         {
           name: "Valuation",
-          note: "Home valuation comps for 9406 W Lake Mead Blvd",
+          note: "Home valuation comps for 6150 N Decatur Blvd",
         },
         {
           name: "Prep punch list",
@@ -702,7 +702,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Move-up, downsize, probate, or outbound sale — open the matching seller URL",
-      body: "/sellers/move-up, /sellers/downsizing, /sellers/divorce-probate, and /sellers/relocation are separate clocks from Suite 100. Call (702) 222-1964.",
+      body: "/sellers/move-up, /sellers/downsizing, /sellers/divorce-probate, and /sellers/relocation are separate clocks from Suite 104. Call (702) 222-1964.",
       pins: [
         {
           name: "Move-up",
@@ -714,7 +714,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Divorce or probate",
-          note: "Court orders and lockbox rules at Suite 100, not the lobby. Private slot required.",
+          note: "Court orders and lockbox rules at Suite 104, not the lobby. Private slot required.",
         },
         {
           name: "Outbound relocation process",
@@ -723,8 +723,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "MLS remarks, HOA vendor list, showing calendar at Suite 100",
-      body: "What you get when you list is a punch list, not a slogan. Call (702) 222-1964. 9406 W Lake Mead Blvd, Suite 100. We do not promise a portal we cannot name.",
+      h2: "MLS remarks, HOA vendor list, showing calendar at Suite 104",
+      body: "What you get when you list is a punch list, not a slogan. Call (702) 222-1964. 6150 N Decatur Blvd, Suite 104. We do not promise a portal we cannot name.",
       pins: [
         {
           name: "Photography",
@@ -745,7 +745,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "January 2026 valley median $450K is not your CMA — bring the APN to Suite 100",
+      h2: "January 2026 valley median $450K is not your CMA — bring the APN to Suite 104",
       body: "Open /home-valuation with the address. We will not invent your number from a metro headline. Call (702) 222-1964. Typical close cited on this site: $450,000 valley snapshot.",
       pins: [
         {
@@ -769,8 +769,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/sellers/downsizing": [
     {
-      h2: "List the larger house, then one 55+ rec campus — same afternoon from Suite 100",
-      body: "Sun City Summerlin is 10–15 minutes from 9406 W Lake Mead Blvd. Occupancy rules are reviewed before the clubhouse. Call (702) 222-1964. Do not guess at square footage you have not walked.",
+      h2: "List the larger house, then one 55+ rec campus — same afternoon from Suite 104",
+      body: "Sun City Summerlin is 10–15 minutes from 6150 N Decatur Blvd. Occupancy rules are reviewed before the clubhouse. Call (702) 222-1964. Do not guess at square footage you have not walked.",
       pins: [
         {
           name: "Sun City Summerlin",
@@ -791,8 +791,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "55+ rec campus, single-story, or condo sq ft — next file at Suite 100",
-      body: "Sun City Summerlin is located 10–15 minutes from 9406 W Lake Mead Blvd. Occupancy rules apply before the clubhouse. Call (702) 222-1964. The 55+ price band on this page ranges from $375K to $650K.",
+      h2: "55+ rec campus, single-story, or condo sq ft — next file at Suite 104",
+      body: "Sun City Summerlin is located 10–15 minutes from 6150 N Decatur Blvd. Occupancy rules apply before the clubhouse. Call (702) 222-1964. The 55+ price band on this page ranges from $375K to $650K.",
       pins: [
         {
           name: "55+ rec",
@@ -836,11 +836,11 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "What is the process for CMA, occupancy packet, and the recommended walk?",
-      body: "The sequence is dated at Suite 100. We do not skip the walkthrough. Call (702) 222-1964.",
+      body: "The sequence is dated at Suite 104. We do not skip the walkthrough. Call (702) 222-1964.",
       pins: [
         {
           name: "CMA",
-          note: "APN at 9406 W Lake Mead Blvd. January 2026 valley median $450K is not your number.",
+          note: "APN at 6150 N Decatur Blvd. January 2026 valley median $450K is not your number.",
         },
         {
           name: "Occupancy packet",
@@ -859,7 +859,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/sellers/move-up": [
     {
-      h2: "2015–2021 purchase equity is a CMA at Suite 100, not a slogan",
+      h2: "2015–2021 purchase equity is a CMA at Suite 104, not a slogan",
       body: "If you bought in that window, bring the APN. We will not invent a gain. January 2026 DOM cited on this site is 28 days for priced-right listings. Call (702) 222-1964.",
       pins: [
         {
@@ -872,7 +872,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Two stops from this pin",
-          note: "Current house and next ZIP start at 9406 W Lake Mead Blvd",
+          note: "Current house and next ZIP start at 6150 N Decatur Blvd",
         },
         {
           name: "Contingent vs non-contingent",
@@ -881,7 +881,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Square footage, lot size, and next APN upgrade paths at Suite 100",
+      h2: "Square footage, lot size, and next APN upgrade paths at Suite 104",
       body: "Centennial Hills to Summerlin is a Palo Verde High School commute mapped by next address. Call (702) 222-1964. We do not invent the gain on a 2015–2021 purchase.",
       pins: [
         {
@@ -898,13 +898,13 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Two files",
-          note: "Current APN and next ZIP share 9406 W Lake Mead Blvd. Office/GBP (702) 500-1942.",
+          note: "Current APN and next ZIP share 6150 N Decatur Blvd. Office/GBP (702) 500-1942.",
         },
       ],
     },
     {
-      h2: "List this APN and date the next one on one Suite 100 calendar",
-      body: "Sale and purchase share one clock at 9406 W Lake Mead Blvd. Call (702) 222-1964. Contingency language is written before you list.",
+      h2: "List this APN and date the next one on one Suite 104 calendar",
+      body: "Sale and purchase share one clock at 6150 N Decatur Blvd. Call (702) 222-1964. Contingency language is written before you list.",
       pins: [
         {
           name: "Current listing",
@@ -925,7 +925,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Contingent, bridge, or cash-gap — pick one file type at Suite 100",
+      h2: "Contingent, bridge, or cash-gap — pick one file type at Suite 104",
       body: "Three timing packets, not a slogan. January 2026 DOM cited on this site is 28 days for priced-right listings. Call (702) 222-1964.",
       pins: [
         {
@@ -947,7 +947,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Equity from this sale, then the next loan — lenders named at Suite 100",
+      h2: "Equity from this sale, then the next loan — lenders named at Suite 104",
       body: "Bridge, HELOC, or sale-contingent offers are different packets. Call (702) 222-1964. Bring the APN. We will not invent a payment.",
       pins: [
         {
@@ -972,7 +972,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/sellers/relocation": [
     {
       h2: "Las Vegas sale calendar plus a named agent in the next city",
-      body: "Outbound files start at Suite 100. Destination agents are briefed from 9406 W Lake Mead Blvd so two closings do not collide. Call (702) 222-1964.",
+      body: "Outbound files start at Suite 104. Destination agents are briefed from 6150 N Decatur Blvd so two closings do not collide. Call (702) 222-1964.",
       pins: [
         {
           name: "Remote listing",
@@ -980,7 +980,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "50,000-agent desk, local file",
-          note: "destination intro is a Suite 100 call. Local showings still start here until you leave.",
+          note: "destination intro is a Suite 104 call. Local showings still start here until you leave.",
         },
         {
           name: "Two-contract calendar",
@@ -993,8 +993,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Listing photos, lockbox, and showing logs run from Suite 100",
-      body: "The Las Vegas file remains at 9406 W Lake Mead Blvd. Call (702) 222-1964 for assistance. Addresses are not shared in group texts.",
+      h2: "Listing photos, lockbox, and showing logs run from Suite 104",
+      body: "The Las Vegas file remains at 6150 N Decatur Blvd. Call (702) 222-1964 for assistance. Addresses are not shared in group texts.",
       pins: [
         {
           name: "Remote listing",
@@ -1006,7 +1006,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Destination agent",
-          note: "destination intro is a Suite 100 call, not a cold transfer.",
+          note: "destination intro is a Suite 104 call, not a cold transfer.",
         },
         {
           name: "Two closings",
@@ -1016,7 +1016,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Job-start date first — 30/60/90 listing windows at this desk",
-      body: "The listing window is dated from Suite 100, not a caption. Call (702) 222-1964. January 2026 DOM cited on this site is 28 days for priced-right listings.",
+      body: "The listing window is dated from Suite 104, not a caption. Call (702) 222-1964. January 2026 DOM cited on this site is 28 days for priced-right listings.",
       pins: [
         {
           name: "30 days",
@@ -1037,8 +1037,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "California, Texas, Arizona destination desks — destination intro from Suite 100",
-      body: "Outbound is a named agent in the next city, briefed from 9406 W Lake Mead Blvd. Call (702) 222-1964. We do not invent a destination inventory count.",
+      h2: "California, Texas, Arizona destination desks — destination intro from Suite 104",
+      body: "Outbound is a named agent in the next city, briefed from 6150 N Decatur Blvd. Call (702) 222-1964. We do not invent a destination inventory count.",
       pins: [
         {
           name: "California",
@@ -1059,8 +1059,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "CMA, listing window, remote closing — six steps dated at Suite 100",
-      body: "The sequence is written at 9406 W Lake Mead Blvd. Call (702) 222-1964. We do not skip the CMA because the job-start is next month.",
+      h2: "CMA, listing window, remote closing — six steps dated at Suite 104",
+      body: "The sequence is written at 6150 N Decatur Blvd. Call (702) 222-1964. We do not skip the CMA because the job-start is next month.",
       pins: [
         {
           name: "CMA",
@@ -1081,8 +1081,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Inbound to 89134: named ZIP, then a dated CMA at Suite 100",
-      body: "If the file is inbound, begin at 9406 W Lake Mead Blvd. Call (702) 222-1964. One ZIP per afternoon. Named campuses at ccsd.net/zoning by address.",
+      h2: "Inbound to 89130: named ZIP, then a dated CMA at Suite 104",
+      body: "If the file is inbound, begin at 6150 N Decatur Blvd. Call (702) 222-1964. One ZIP per afternoon. Named campuses at ccsd.net/zoning by address.",
       pins: [
         {
           name: "Summerlin",
@@ -1105,8 +1105,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/sellers/divorce-probate": [
     {
-      h2: "Court orders, lockbox rules, and showing logs at Suite 100 — not the lobby",
-      body: "Confidential review is by appointment at 9406 W Lake Mead Blvd, Suite 100. Letters testamentary or court orders come with you. Call (702) 222-1964.",
+      h2: "Court orders, lockbox rules, and showing logs at Suite 104 — not the lobby",
+      body: "Confidential review is by appointment at 6150 N Decatur Blvd, Suite 104. Letters testamentary or court orders come with you. Call (702) 222-1964.",
       pins: [
         {
           name: "Divorce file",
@@ -1127,8 +1127,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Court dates, two signatures, and one listing file at Suite 100",
-      body: "Confidential review is by appointment at 9406 W Lake Mead Blvd. Call (702) 222-1964. We do not brief the lobby.",
+      h2: "Court dates, two signatures, and one listing file at Suite 104",
+      body: "Confidential review is by appointment at 6150 N Decatur Blvd. Call (702) 222-1964. We do not brief the lobby.",
       pins: [
         {
           name: "Divorce file",
@@ -1149,7 +1149,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Nevada community property and probate windows — APN at Suite 100",
+      h2: "Nevada community property and probate windows — APN at Suite 104",
       body: "State rules are a packet, not a caption. Call (702) 222-1964. Bring the court order or letters testamentary. We will not invent a timeline.",
       pins: [
         {
@@ -1172,7 +1172,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "How are separate showings managed with one MLS file and dated notes?",
-      body: "The process is documented at Suite 100. Call (702) 222-1964. Offers route to counsel. We do not post occupancy details.",
+      body: "The process is documented at Suite 104. Call (702) 222-1964. Offers route to counsel. We do not post occupancy details.",
       pins: [
         {
           name: "Showing window",
@@ -1193,8 +1193,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "50,000-agent letterhead, then this file stays confidential at Suite 100",
-      body: "brokerage documentation standards are on the letterhead. The file still sits at 9406 W Lake Mead Blvd. Call (702) 222-1964. License S.0197614.LLC.",
+      h2: "50,000-agent letterhead, then this file stays confidential at Suite 104",
+      body: "brokerage documentation standards are on the letterhead. The file still sits at 6150 N Decatur Blvd. Call (702) 222-1964. License S.0197614.LLC.",
       pins: [
         {
           name: "Paper trail",
@@ -1218,7 +1218,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/relocation": [
     {
       h2: "No state income tax is a line item — then one Summerlin or Henderson clock",
-      body: "The office is located at 9406 W Lake Mead Blvd, Suite 100. Housing prices 40–60% below many California coastal cities is a comparison, not a guarantee. Call (702) 222-1964.",
+      body: "The office is located at 6150 N Decatur Blvd, Suite 104. Housing prices 40–60% below many California coastal cities is a comparison, not a guarantee. Call (702) 222-1964.",
       pins: [
         {
           name: "Nevada tax line",
@@ -1230,7 +1230,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Trailheads and rec acres",
-          note: "Golf and hiking are compared by acreage and minutes from Suite 100, not a slogan.",
+          note: "Golf and hiking are compared by acreage and minutes from Suite 104, not a slogan.",
         },
         {
           name: "Employers",
@@ -1239,8 +1239,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Utility setup and HOA packets required at Suite 100",
-      body: "Relocation is a dated list, not a caption. Call (702) 222-1964. 9406 W Lake Mead Blvd, Suite 100. We do not tour twelve ZIPs the day you land.",
+      h2: "Utility setup and HOA packets required at Suite 104",
+      body: "Relocation is a dated list, not a caption. Call (702) 222-1964. 6150 N Decatur Blvd, Suite 104. We do not tour twelve ZIPs the day you land.",
       pins: [
         {
           name: "HOA packet",
@@ -1274,7 +1274,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Northwest",
-          note: "Arbor View High School location from Suite 100",
+          note: "Arbor View High School location from Suite 104",
         },
         {
           name: "ccsd.net/zoning",
@@ -1285,12 +1285,12 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/market-report": [
     {
-      h2: "January 2026 medians by ZIP — then a CMA on YOUR APN at Suite 100",
+      h2: "January 2026 medians by ZIP — then a CMA on YOUR APN at Suite 104",
       body: "Valley snapshot: $450K median, 28 DOM, 4,850 active listings, 2.1 months inventory. Area cards are not a substitute for one address. Call (702) 222-1964.",
       pins: [
         {
           name: "Summerlin $625K",
-          note: "22 DOM on the January 2026 snapshot. 10–15 minutes from Suite 100.",
+          note: "22 DOM on the January 2026 snapshot. 10–15 minutes from Suite 104.",
         },
         {
           name: "Henderson $485K",
@@ -1302,13 +1302,13 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "$1M+ $1.2M median",
-          note: "45 DOM, gate lists from 9406 W Lake Mead Blvd, confirm the week you tour",
+          note: "45 DOM, gate lists from 6150 N Decatur Blvd, confirm the week you tour",
         },
       ],
     },
     {
-      h2: "Rates, 4,850 listings, and 28 DOM — dated at Suite 100, not a caption",
-      body: "January 2026 snapshot on this page. Apply it to one APN at 9406 W Lake Mead Blvd. Call (702) 222-1964. California inbound is a net-sheet talk, not a slogan.",
+      h2: "Rates, 4,850 listings, and 28 DOM — dated at Suite 104, not a caption",
+      body: "January 2026 snapshot on this page. Apply it to one APN at 6150 N Decatur Blvd. Call (702) 222-1964. California inbound is a net-sheet talk, not a slogan.",
       pins: [
         {
           name: "California inbound",
@@ -1316,7 +1316,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "New construction",
-          note: "Register Dr. Jan at Suite 100 before any model row. Open /new-construction.",
+          note: "Register Dr. Jan at Suite 104 before any model row. Open /new-construction.",
         },
         {
           name: "Streets over $1M",
@@ -1331,8 +1331,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/investment-properties": [
     {
-      h2: "HOA rental caps and rent comps at Suite 100 before any area drive",
-      body: "Cap-rate reviews are conducted at 9406 W Lake Mead Blvd. The review covers the ZIP clusters North Las Vegas, Henderson, or southwest. Call (702) 222-1964. We check rental rules before you fly in.",
+      h2: "HOA rental caps and rent comps at Suite 104 before any area drive",
+      body: "Cap-rate reviews are conducted at 6150 N Decatur Blvd. The review covers the ZIP clusters North Las Vegas, Henderson, or southwest. Call (702) 222-1964. We check rental rules before you fly in.",
       pins: [
         {
           name: "No state income tax",
@@ -1353,7 +1353,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Jan 2026 bands: NLV $385K, Henderson $485K cap rates Suite 100",
+      h2: "Jan 2026 bands: NLV $385K, Henderson $485K cap rates Suite 104",
       body: "Table figures on this page are averages, not your deal. Call (702) 222-1964. Confirm rent comps the week you tour.",
       pins: [
         {
@@ -1375,7 +1375,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Rental cap packets and manager referrals at 9406 W Lake Mead Blvd",
+      h2: "Rental cap packets and manager referrals at 6150 N Decatur Blvd",
       body: "What you get is a punch list: rent comps, HOA rules, 1031 window. Call (702) 222-1964. We do not promise a portal we cannot name.",
       pins: [
         {
@@ -1397,7 +1397,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Cash-flow, 1031 identification, or multi-unit — pick the file type at Suite 100",
+      h2: "Cash-flow, 1031 identification, or multi-unit — pick the file type at Suite 104",
       body: "Buy-and-hold, value-add, or short-term rules are different packets. Call (702) 222-1964. Short-term occupancy is a HOA and city rule, not a caption.",
       pins: [
         {
@@ -1420,7 +1420,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "DOM, rent comps, and HOA rental rules — dated the day we pull them",
-      body: "Metrics without an APN provide a snapshot. Bring target cap rate and cash-to-close to 9406 W Lake Mead Blvd. Call (702) 222-1964.",
+      body: "Metrics without an APN provide a snapshot. Bring target cap rate and cash-to-close to 6150 N Decatur Blvd. Call (702) 222-1964.",
       pins: [
         {
           name: "Cap rate",
@@ -1442,7 +1442,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "North Las Vegas, Henderson, or Southwest ZIP cluster per afternoon",
-      body: "Do not tour twelve ZIPs the day you land. Call (702) 222-1964. Occupancy and rental packets at Suite 100 first.",
+      body: "Do not tour twelve ZIPs the day you land. Call (702) 222-1964. Occupancy and rental packets at Suite 104 first.",
       pins: [
         {
           name: "NLV ~$385K",
@@ -1465,8 +1465,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/home-valuation": [
     {
-      h2: "Zestimate screenshots stay in the parking lot — comps are pulled at Suite 100",
-      body: "Bring the APN to 9406 W Lake Mead Blvd. AVMs miss interiors and HOA packets. Call (702) 222-1964. A 10% miss on $450K is $45K — we will not invent your number.",
+      h2: "Zestimate screenshots stay in the parking lot — comps are pulled at Suite 104",
+      body: "Bring the APN to 6150 N Decatur Blvd. AVMs miss interiors and HOA packets. Call (702) 222-1964. A 10% miss on $450K is $45K — we will not invent your number.",
       pins: [
         {
           name: "MLS comps",
@@ -1487,12 +1487,12 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Square footage, named campuses, HOA dues, and 2.1 months inventory for comps at Suite 100",
+      h2: "Square footage, named campuses, HOA dues, and 2.1 months inventory for comps at Suite 104",
       body: "School-zone slogans are not a CMA. Palo Verde, Coronado, Arbor View, and Legacy High School minutes are mapped by address at ccsd.net/zoning. Call (702) 222-1964. January 2026 inventory cited on this page: 2.1 months.",
       pins: [
         {
           name: "ZIP and commute",
-          note: "Summerlin 10–15 minutes from Suite 100. Henderson 25–35. Not a caption premium.",
+          note: "Summerlin 10–15 minutes from Suite 104. Henderson 25–35. Not a caption premium.",
         },
         {
           name: "Beds, baths, square footage",
@@ -1512,7 +1512,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/buyers/first-time-buyers": [
     {
       h2: "Financing options for a $498,257 home",
-      body: "Lender letter is reviewed at 9406 W Lake Mead Blvd, Suite 100 before the first two-ZIP tour. 2026 FHA limit cited on this page: $498,257. Call (702) 222-1964. Confirm with your lender the week you write.",
+      body: "Lender letter is reviewed at 6150 N Decatur Blvd, Suite 104 before the first two-ZIP tour. 2026 FHA limit cited on this page: $498,257. Call (702) 222-1964. Confirm with your lender the week you write.",
       pins: [
         {
           name: "FHA",
@@ -1528,13 +1528,13 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Builder registration",
-          note: "Open new construction. Register Dr. Jan at Suite 100 before any model row.",
+          note: "Open new construction. Register Dr. Jan at Suite 104 before any model row.",
         },
       ],
     },
     {
       h2: "NLV homes starting at $350K in Centennial and Green Valley",
-      body: "First-purchase tours begin at Suite 100. Legacy High School, Arbor View, and Coronado High School commutes are mapped at ccsd.net/zoning by address. Call (702) 222-1964.",
+      body: "First-purchase tours begin at Suite 104. Legacy High School, Arbor View, and Coronado High School commutes are mapped at ccsd.net/zoning by address. Call (702) 222-1964.",
       pins: [
         {
           name: "North Las Vegas",
@@ -1542,7 +1542,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Centennial Hills",
-          note: "Northwest from W Lake Mead Blvd. Arbor View High School commute by street.",
+          note: "Northwest from 6150 N Decatur Blvd. Arbor View High School commute by street.",
         },
         {
           name: "Green Valley",
@@ -1555,7 +1555,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "$1,800 rent vs $1,900 PITI on a $400K / 3.5% FHA file — run the sheet at Suite 100",
+      h2: "$1,800 rent vs $1,900 PITI on a $400K / 3.5% FHA file — run the sheet at Suite 104",
       body: "Figures on this page are a worked example, not your payment. Rate cited here: 6.5%. 2026 FHA limit: $498,257. Call (702) 222-1964. Lender letter before the first showing.",
       pins: [
         {
@@ -1579,8 +1579,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/contact": [
     {
-      h2: "Walk-in hours and (702) 222-1964 at Suite 100 — the Maps pin is this desk",
-      body: "Dr. Jan Duffy. 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Client CTA (702) 222-1964. Office/GBP (702) 500-1942. Closed volume cited on this site: $127M+ since 2008. Map, Directions, and Google Reviews stay on this URL.",
+      h2: "Walk-in hours and (702) 222-1964 at Suite 104 — the Maps pin is this desk",
+      body: "Dr. Jan Duffy. 6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130. Client CTA (702) 222-1964. Office/GBP (702) 500-1942. Closed volume cited on this site: $127M+ since 2008. Map, Directions, and Google Reviews stay on this URL.",
       pins: [
         {
           name: "Call or text (702) 222-1964",
@@ -1591,8 +1591,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
           note: "Documents only. Do not send listing keys by unsecured email.",
         },
         {
-          name: "9406 W Lake Mead Blvd, Suite 100",
-          note: "Location: Las Vegas, NV 89134. Visitor parking faces W Lake Mead Blvd.",
+          name: "6150 N Decatur Blvd, Suite 104",
+          note: "Location: Las Vegas, NV 89130. Visitor parking is at 6150 N Decatur Blvd.",
         },
         {
           name: "Hours on the GBP listing",
@@ -1614,19 +1614,19 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Schedule via Calendly",
-          note: "Phone consult, showing, or Suite 100 meeting. Bring photo ID and target ZIPs.",
+          note: "Phone consult, showing, or Suite 104 meeting. Bring photo ID and target ZIPs.",
         },
         {
           name: "Maps pin",
-          note: "9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. License S.0197614.LLC.",
+          note: "6150 N Decatur Blvd, Suite 104, Las Vegas, NV 89130. License S.0197614.LLC.",
         },
       ],
     },
   ],
   "/market-insights": [
     {
-      h2: "37% California in-migration, 0% NV state income tax, $1B+ data-center spend — apply at Suite 100",
-      body: "These figures are January 2026 snapshots. They are not a CMA for your APN. Call (702) 222-1964. We apply them at 9406 W Lake Mead Blvd, then drive one ZIP.",
+      h2: "37% California in-migration, 0% NV state income tax, $1B+ data-center spend — apply at Suite 104",
+      body: "These figures are January 2026 snapshots. They are not a CMA for your APN. Call (702) 222-1964. We apply them at 6150 N Decatur Blvd, then drive one ZIP.",
       pins: [
         {
           name: "37% California buyers",
@@ -1647,8 +1647,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Distance to Switch, AWS, and Google campuses in Henderson (25–35 minutes from W Lake Mead Blvd)",
-      body: "Data-center jobs are an east-valley clock from Suite 100. Summerlin is a separate west loop. Call (702) 222-1964. Do not stack both in one afternoon.",
+      h2: "Distance to Switch, AWS, and Google campuses in Henderson (25–35 minutes from 6150 N Decatur Blvd)",
+      body: "Data-center jobs are an east-valley clock from Suite 104. Summerlin is a separate west loop. Call (702) 222-1964. Do not stack both in one afternoon.",
       pins: [
         {
           name: "Henderson corridor",
@@ -1656,7 +1656,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "25–35 minute drive",
-          note: "Travel from 9406 W Lake Mead Blvd to Henderson listings",
+          note: "Travel from 6150 N Decatur Blvd to Henderson listings",
         },
         {
           name: "Fiber and power",
@@ -1669,7 +1669,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Bay Area and LA net sheets versus Summerlin or Henderson ZIP (video intake from Suite 100)",
+      h2: "Bay Area and LA net sheets versus Summerlin or Henderson ZIP (video intake from Suite 104)",
       body: "California remains the top inbound source cited on this page. $250K+ average equity is a snapshot, not your proceeds. Call (702) 222-1964. Four-hour drive or about a one-hour flight to most of California.",
       pins: [
         {
@@ -1692,7 +1692,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Allegiant Stadium, Summerlin medical corridor, Nevada film credits — one employer clock at the desk",
-      body: "Diversification is three separate drives. Pick one employer cluster before we leave Suite 100. Call (702) 222-1964. Office/GBP (702) 500-1942.",
+      body: "Diversification is three separate drives. Pick one employer cluster before we leave Suite 104. Call (702) 222-1964. Office/GBP (702) 500-1942.",
       pins: [
         {
           name: "Allegiant Stadium district",
@@ -1718,7 +1718,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       pins: [
         {
           name: "Henderson",
-          note: "Inspirada, MacDonald Highlands, Green Valley Ranch – 25–35 minutes from Suite 100",
+          note: "Inspirada, MacDonald Highlands, Green Valley Ranch – 25–35 minutes from Suite 104",
         },
         {
           name: "Summerlin",
@@ -1735,7 +1735,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Applying 2026 forces to a single APN: buyer letter or listing CMA at 9406 W Lake Mead Blvd",
+      h2: "Applying 2026 forces to a single APN: buyer letter or listing CMA at 6150 N Decatur Blvd",
       body: "Inventory is wider than 2021–2023 on this page, but well-priced homes still move. Call (702) 222-1964. Builder credits belong on /new-construction after you register Dr. Jan.",
       pins: [
         {
@@ -1748,7 +1748,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Builder credits",
-          note: "Rate buydowns expire. Register at Suite 100 before any model row.",
+          note: "Rate buydowns expire. Register at Suite 104 before any model row.",
         },
         {
           name: "Listing CMA",
@@ -1776,17 +1776,17 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "26 DOM / 98.2% list-to-sale",
-          note: "Urgency and close-to-ask are dated; bring the APN to 9406 W Lake Mead Blvd",
+          note: "Urgency and close-to-ask are dated; bring the APN to 6150 N Decatur Blvd",
         },
       ],
     },
     {
       h2: "Ridges 8,400 sq ft custom closed at $4.2M in 12 days — one Summerlin gate file",
-      body: "6 bed, 7 bath, 8,400 sq ft. Cited at 97% of ask vs a luxury-segment 67-day average on this page. Gate lists stay off group texts. Call (702) 222-1964 from Suite 100.",
+      body: "6 bed, 7 bath, 8,400 sq ft. Cited at 97% of ask vs a luxury-segment 67-day average on this page. Gate lists stay off group texts. Call (702) 222-1964 from Suite 104.",
       pins: [
         {
           name: "The Ridges",
-          note: "15–20 minutes to the guardhouse from 9406 W Lake Mead Blvd. Confirm the list that morning.",
+          note: "15–20 minutes to the guardhouse from 6150 N Decatur Blvd. Confirm the list that morning.",
         },
         {
           name: "8,400 sq ft",
@@ -1803,7 +1803,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "26 DOM and 98.2% close-to-ask — write the offer or list price at Suite 100",
+      h2: "26 DOM and 98.2% close-to-ask — write the offer or list price at Suite 104",
       body: "This week the market shows modest 1.2% price increase, 8.3% volume rise, and 2.1% inventory decline. Call (702) 222-1964. A metro balance is not a CMA. Bring the address.",
       pins: [
         {
@@ -1830,7 +1830,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       pins: [
         {
           name: "Get the letter",
-          note: "FHA, VA, or conventional compared at Suite 100 so the first appointment has a number.",
+          note: "FHA, VA, or conventional compared at Suite 104 so the first appointment has a number.",
         },
         {
           name: "Price to comps",
@@ -1848,11 +1848,11 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Summerlin $628K 21 DOM vs Henderson $487,500 23 DOM vs Mountains Edge $478K 26 DOM",
-      body: "Area rows on this page are this week's snapshot. Central Las Vegas is cited at $425,000. Call (702) 222-1964. Two clocks from Suite 100 — not twelve ZIPs.",
+      body: "Area rows on this page are this week's snapshot. Central Las Vegas is cited at $425,000. Call (702) 222-1964. Two clocks from Suite 104 — not twelve ZIPs.",
       pins: [
         {
           name: "Summerlin $628,000 price",
-          note: "142 sold, 21 days on market, 10–15 minutes from W Lake Mead Blvd.",
+          note: "142 sold, 21 days on market, 10–15 minutes from 6150 N Decatur Blvd.",
         },
         {
           name: "Henderson $487,500",
@@ -1871,7 +1871,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/neighborhoods": [
     {
-      h2: "Which area is closer to Suite 100: Summerlin or Green Valley, 10–15 vs 25–35 minutes",
+      h2: "Which area is closer to Suite 104: Summerlin or Green Valley, 10–15 vs 25–35 minutes",
       body: "The card grid is a menu. The decision is a drive. Call (702) 222-1964. Named campuses and commute minutes are on each community page — not a slogan row.",
       pins: [
         {
@@ -1893,8 +1893,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Two-ZIP tour, named-campus commute minutes, RealScout match — book from W Lake Mead Blvd",
-      body: "Area tours start at 9406 W Lake Mead Blvd, Suite 100. We map Palo Verde, Coronado, Arbor View, and Legacy High School minutes using ccsd.net/zoning by address. Call (702) 222-1964.",
+      h2: "Two-ZIP tour, named-campus commute minutes, RealScout match — book from 6150 N Decatur Blvd",
+      body: "Area tours start at 6150 N Decatur Blvd, Suite 104. We map Palo Verde, Coronado, Arbor View, and Legacy High School minutes using ccsd.net/zoning by address. Call (702) 222-1964.",
       pins: [
         {
           name: "Area tours",
@@ -1917,8 +1917,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/neighborhoods/the-ridges": [
     {
-      h2: "900 homesites on 793 acres — Bear's Best, Falcon Ridge, Azure, Talon Ridge from Suite 100",
-      body: "Gate lists are confirmed at 9406 W Lake Mead Blvd, Suite 100 before the 15–20 minute drive. Call (702) 222-1964. January 2026 on this page: $2.5M median, 67 DOM, 42 listings. Architectural guidelines vary by village — compare lot elevation and golf access at the desk.",
+      h2: "900 homesites on 793 acres — Bear's Best, Falcon Ridge, Azure, Talon Ridge from Suite 104",
+      body: "Gate lists are confirmed at 6150 N Decatur Blvd, Suite 104 before the 15–20 minute drive. Call (702) 222-1964. January 2026 on this page: $2.5M median, 67 DOM, 42 listings. Architectural guidelines vary by village — compare lot elevation and golf access at the desk.",
       pins: [
         {
           name: "Bear's Best",
@@ -1941,8 +1941,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/neighborhoods/summerlin": [
     {
-      h2: "$625K median, 22 DOM, 342 listings, +6.8% YoY — Downtown Summerlin vs Red Rock from Suite 100",
-      body: "The snapshot on this URL is not a CMA for your street. Call (702) 222-1964. Palo Verde High School commute minutes by address at 9406 W Lake Mead Blvd, Suite 100. 10–15 minute west-valley clock.",
+      h2: "$625K median, 22 DOM, 342 listings, +6.8% YoY — Downtown Summerlin vs Red Rock from Suite 104",
+      body: "The snapshot on this URL is not a CMA for your street. Call (702) 222-1964. Palo Verde High School commute minutes by address at 6150 N Decatur Blvd, Suite 104. 10–15 minute west-valley clock.",
       pins: [
         {
           name: "Downtown Summerlin",
@@ -1958,7 +1958,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "The Trails / Pueblo",
-          note: "Typical first two villages from Suite 100. Red Rock Country Club is a separate golf-street block.",
+          note: "Typical first two villages from Suite 104. Red Rock Country Club is a separate golf-street block.",
         },
       ],
     },
@@ -1966,7 +1966,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/neighborhoods/southern-highlands": [
     {
       h2: "I-15 golf-and-ridge: $750K median, 35 DOM, 156 listings, +7.2% YoY",
-      body: "Southern Highlands is 25–35 minutes via I-15 south from 9406 W Lake Mead Blvd, Suite 100. Call (702) 222-1964. Robert Trent Jones Jr. scorecard 74.1 / 140 is on this page — HOA and golf membership rules are confirmed the week you tour.",
+      body: "Southern Highlands is 25–35 minutes via I-15 south from 6150 N Decatur Blvd, Suite 104. Call (702) 222-1964. Robert Trent Jones Jr. scorecard 74.1 / 140 is on this page — HOA and golf membership rules are confirmed the week you tour.",
       pins: [
         {
           name: "Clubhouse / fairways",
@@ -1990,7 +1990,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/neighborhoods/skye-canyon": [
     {
       h2: "Skye Center and Floyd Lamb: $550K median, 21 DOM, 124 listings",
-      body: "Builder registration at 9406 W Lake Mead Blvd, Suite 100. Call (702) 222-1964. Skye Center, splash pad, and Floyd Lamb Park are a 20–25 minute 215 clock.",
+      body: "Builder registration at 6150 N Decatur Blvd, Suite 104. Call (702) 222-1964. Skye Center, splash pad, and Floyd Lamb Park are a 20–25 minute 215 clock.",
       pins: [
         {
           name: "Skye Center",
@@ -2006,15 +2006,15 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "215 Beltway",
-          note: "Northwest clock from Suite 100. Do not add an Inspirada south-Henderson loop the same afternoon.",
+          note: "Northwest clock from Suite 104. Do not add an Inspirada south-Henderson loop the same afternoon.",
         },
       ],
     },
   ],
   "/neighborhoods/centennial-hills": [
     {
-      h2: "Median price $495K, 25 days on market, 203 listings near Arbor View High School from Suite 100",
-      body: "Centennial Hills is 15–20 minutes via US-95 from 9406 W Lake Mead Blvd, Suite 100. Call (702) 222-1964. Compare square footage of mountain-view lots near Centennial Hills Park with those on streets toward the hospital campus.",
+      h2: "Median price $495K, 25 days on market, 203 listings near Arbor View High School from Suite 104",
+      body: "Centennial Hills is 15–20 minutes via US-95 from 6150 N Decatur Blvd, Suite 104. Call (702) 222-1964. Compare square footage of mountain-view lots near Centennial Hills Park with those on streets toward the hospital campus.",
       pins: [
         {
           name: "Centennial Hills Park",
@@ -2037,8 +2037,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/neighborhoods/green-valley": [
     {
-      h2: "$520K median, 26 DOM, 187 listings — 1988 canopy and The District from Suite 100",
-      body: "Green Valley is 25–35 minutes via I-215 east from 9406 W Lake Mead Blvd, Suite 100. Call (702) 222-1964. Founded in 1988: 35-year street trees and larger lots than most newer Henderson villages. The District is the tour midpoint.",
+      h2: "$520K median, 26 DOM, 187 listings — 1988 canopy and The District from Suite 104",
+      body: "Green Valley is 25–35 minutes via I-215 east from 6150 N Decatur Blvd, Suite 104. Call (702) 222-1964. Founded in 1988: 35-year street trees and larger lots than most newer Henderson villages. The District is the tour midpoint.",
       pins: [
         {
           name: "The District",
@@ -2061,8 +2061,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/neighborhoods/henderson": [
     {
-      h2: "$485K median, 24 DOM, 1,280 listings — two Henderson villages per afternoon from Suite 100",
-      body: "Green Valley, Anthem, Inspirada, Water Street, and Lake Las Vegas are distinct areas. Call (702) 222-1964. From 9406 W Lake Mead Blvd, Suite 100 we select two contrasting villages on a 25–35 minute east run.",
+      h2: "$485K median, 24 DOM, 1,280 listings — two Henderson villages per afternoon from Suite 104",
+      body: "Green Valley, Anthem, Inspirada, Water Street, and Lake Las Vegas are distinct areas. Call (702) 222-1964. From 6150 N Decatur Blvd, Suite 104 we select two contrasting villages on a 25–35 minute east run.",
       pins: [
         {
           name: "Green Valley",
@@ -2070,7 +2070,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Inspirada",
-          note: "2,000-acre Town Center recommendation; builder registration starts at Suite 100",
+          note: "2,000-acre Town Center recommendation; builder registration starts at Suite 104",
         },
         {
           name: "Water Street",
@@ -2085,8 +2085,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/neighborhoods/inspirada": [
     {
-      h2: "$525K median, 23 DOM, 98 listings — Town Center rec on a 2,000-acre Henderson plat from Suite 100",
-      body: "Inspirada is 30–40 minutes from 9406 W Lake Mead Blvd, Suite 100. Call (702) 222-1964. Tours hit the central park, amenity center, and zero-entry pool in one south Henderson run. Builder registration still starts at this desk.",
+      h2: "$525K median, 23 DOM, 98 listings — Town Center rec on a 2,000-acre Henderson plat from Suite 104",
+      body: "Inspirada is 30–40 minutes from 6150 N Decatur Blvd, Suite 104. Call (702) 222-1964. Tours hit the central park, amenity center, and zero-entry pool in one south Henderson run. Builder registration still starts at this desk.",
       pins: [
         {
           name: "Town Center",
@@ -2109,8 +2109,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/neighborhoods/north-las-vegas": [
     {
-      h2: "$385K median, 32 DOM, 892 listings — Aliante rec vs Craig Road from Suite 100",
-      body: "North Las Vegas is 20–25 minutes via US-95 / I-15 from 9406 W Lake Mead Blvd, Suite 100. Call (702) 222-1964. Aliante recreation, Craig Road employment corridors, and new-construction villages are sequenced together — not mixed with a Henderson afternoon.",
+      h2: "$385K median, 32 DOM, 892 listings — Aliante rec vs Craig Road from Suite 104",
+      body: "North Las Vegas is 20–25 minutes via US-95 / I-15 from 6150 N Decatur Blvd, Suite 104. Call (702) 222-1964. Aliante recreation, Craig Road employment corridors, and new-construction villages are sequenced together — not mixed with a Henderson afternoon.",
       pins: [
         {
           name: "Aliante rec",
@@ -2126,7 +2126,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "I-15 and US-95 corridor",
-          note: "North clock from Suite 100. Entry bands on this page often $350K–$450K for newer product.",
+          note: "North clock from Suite 104. Entry bands on this page often $350K–$450K for newer product.",
         },
       ],
     },
@@ -2134,7 +2134,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/neighborhoods/mountains-edge": [
     {
       h2: "Exploration Peak and Blue Diamond: $475K median price, 27 days on market, 234 listings",
-      body: "Mountains Edge is 20–30 minutes via the southwest Beltway from 9406 W Lake Mead Blvd, Suite 100. Call (702) 222-1964. Trailheads at Exploration Peak and tile-roof resale streets fit a single southwest loop. Strip about 15–20 minutes; Harry Reid International (LAS) about 20 minutes.",
+      body: "Mountains Edge is 20–30 minutes via the southwest Beltway from 6150 N Decatur Blvd, Suite 104. Call (702) 222-1964. Trailheads at Exploration Peak and tile-roof resale streets fit a single southwest loop. Strip about 15–20 minutes; Harry Reid International (LAS) about 20 minutes.",
       pins: [
         {
           name: "Exploration Peak",
@@ -2158,7 +2158,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/about": [
     {
       h2: "Ridges $1M+ listings, Toll Brothers registration, Sun City packets, and CA net sheets",
-      body: "Pick a file type at 9406 W Lake Mead Blvd, Suite 100. License S.0197614.LLC. Call (702) 222-1964. We do not route you through a call center.",
+      body: "Pick a file type at 6150 N Decatur Blvd, Suite 104. License S.0197614.LLC. Call (702) 222-1964. We do not route you through a call center.",
       pins: [
         {
           name: "Residential resale",
@@ -2179,8 +2179,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "4.9-star GBP reviews on this URL — Maps ranking uses the Suite 100 pin",
-      body: "The review schema and Google Reviews link align with the office address at 9406 W Lake Mead Blvd, Suite 100. Call (702) 222-1964. Office/GBP (702) 500-1942. License S.0197614.LLC.",
+      h2: "4.9-star GBP reviews on this URL — Maps ranking uses the Suite 104 pin",
+      body: "The review schema and Google Reviews link align with the office address at 6150 N Decatur Blvd, Suite 104. Call (702) 222-1964. Office/GBP (702) 500-1942. License S.0197614.LLC.",
       pins: [
         {
           name: "View Google Reviews",
@@ -2203,8 +2203,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/buyers/california-relocator": [
     {
-      h2: "How does Nevada's 0% income tax compare to California's 9.3%–13.3% for a $250K W-2 at Suite 100",
-      body: "Run the net sheet at 9406 W Lake Mead Blvd before you fly. Nevada has no state income tax. HOA, property tax, and insurance still apply. Call (702) 222-1964.",
+      h2: "How does Nevada's 0% income tax compare to California's 9.3%–13.3% for a $250K W-2 at Suite 104",
+      body: "Run the net sheet at 6150 N Decatur Blvd before you fly. Nevada has no state income tax. HOA, property tax, and insurance still apply. Call (702) 222-1964.",
       pins: [
         {
           name: "0% NV state income tax",
@@ -2226,7 +2226,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "$1.2M 1,800 sq ft home in CA vs $700K 3,000 sq ft home in Summerlin – net sheet at this desk",
-      body: "California proceeds vs Las Vegas ZIP targets are compared at Suite 100 or by video. Call (702) 222-1964. We will not invent a sale price on either side.",
+      body: "California proceeds vs Las Vegas ZIP targets are compared at Suite 104 or by video. Call (702) 222-1964. We will not invent a sale price on either side.",
       pins: [
         {
           name: "Price $1.2M for 1,800 sq ft in CA",
@@ -2234,7 +2234,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Price $700K for 3,000 sq ft in Summerlin",
-          note: "4BR/3BA example with cash left. 10–15 minutes from 9406 W Lake Mead Blvd",
+          note: "4BR/3BA example with cash left. 10–15 minutes from 6150 N Decatur Blvd",
         },
         {
           name: "Price $550K for 4BR in Henderson",
@@ -2242,12 +2242,12 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "$450K new construction",
-          note: "Register Dr. Jan at Suite 100 before any model. Open /new-construction. Office/GBP (702) 500-1942.",
+          note: "Register Dr. Jan at Suite 104 before any model. Open /new-construction. Office/GBP (702) 500-1942.",
         },
       ],
     },
     {
-      h2: "Summerlin 10–15 min, Henderson 25–35, Ridges 15–20 — three inbound clocks from W Lake Mead Blvd",
+      h2: "Summerlin 10–15 min, Henderson 25–35, Ridges 15–20 — three inbound clocks from 6150 N Decatur Blvd",
       body: "Pick one west afternoon or one east afternoon. Palo Verde High School and Coronado High School commutes are mapped by address at ccsd.net/zoning. Call (702) 222-1964.",
       pins: [
         {
@@ -2260,7 +2260,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "The Ridges",
-          note: "15–20 minutes to the guardhouse. Published bands $1.5M–$10M+. Gate list from Suite 100.",
+          note: "15–20 minutes to the guardhouse. Published bands $1.5M–$10M+. Gate list from Suite 104.",
         },
         {
           name: "Three-day inbound week",
@@ -2269,8 +2269,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "Video net sheet at Suite 100, then a three-day inbound week — not a tax slogan",
-      body: "Bring California proceeds and a target ZIP. Nevada has no state income tax; HOA still applies. Call (702) 222-1964. 9406 W Lake Mead Blvd, Suite 100.",
+      h2: "Video net sheet at Suite 104, then a three-day inbound week — not a tax slogan",
+      body: "Bring California proceeds and a target ZIP. Nevada has no state income tax; HOA still applies. Call (702) 222-1964. 6150 N Decatur Blvd, Suite 104.",
       pins: [
         {
           name: "Video intake",
@@ -2294,7 +2294,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/buyers": [
     {
       h2: "What is the January 2026 buyer snapshot for the two ZIPs: $450K median, 4,850 listings, 28 DOM?",
-      body: "Valley figures on this page. Summerlin and Henderson medians live on their community pages. Call (702) 222-1964. Lender letter at Suite 100 before the first showing.",
+      body: "Valley figures on this page. Summerlin and Henderson medians live on their community pages. Call (702) 222-1964. Lender letter at Suite 104 before the first showing.",
       pins: [
         {
           name: "$450K median",
@@ -2310,15 +2310,15 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "+4.2% year over year",
-          note: "Two-ZIP tour from 9406 W Lake Mead Blvd",
+          note: "Two-ZIP tour from 6150 N Decatur Blvd",
         },
       ],
     },
   ],
   "/faq": [
     {
-      h2: "Call (702) 222-1964 or book Calendly at Suite 100",
-      body: "FAQ copy is the desk version of the same questions. Bring a ZIP and a pre-approval. 9406 W Lake Mead Blvd, Suite 100 is about 10 minutes from most Summerlin villages. Office/GBP (702) 500-1942.",
+      h2: "Call (702) 222-1964 or book Calendly at Suite 104",
+      body: "FAQ copy is the desk version of the same questions. Bring a ZIP and a pre-approval. 6150 N Decatur Blvd, Suite 104 is about 10 minutes from most Summerlin villages. Office/GBP (702) 500-1942.",
       pins: [
         {
           name: "Live Q&A",
@@ -2326,7 +2326,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Calendly",
-          note: "Phone, showing, or Suite 100 meeting: Photo ID and target ZIPs",
+          note: "Phone, showing, or Suite 104 meeting: Photo ID and target ZIPs",
         },
         {
           name: "Email",
@@ -2341,12 +2341,12 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/55-plus-communities/sun-city-summerlin": [
     {
-      h2: "How far are 7,700 homes and four rec campuses from 9406 W Lake Mead Blvd (10–15 minutes)",
-      body: "The community includes three courses—Highland Falls, Palm Valley, and Eagle Crest—and four recreation buildings—Mountain Shadows, Sun Shadows, Pinnacle, and Desert Vista. Call (702) 222-1964 for more information. HOA fees listed on this page range from $155 to $195. Age-restriction rules are available at Suite 100.",
+      h2: "How far are 7,700 homes and four rec campuses from 6150 N Decatur Blvd (10–15 minutes)",
+      body: "The community includes three courses—Highland Falls, Palm Valley, and Eagle Crest—and four recreation buildings—Mountain Shadows, Sun Shadows, Pinnacle, and Desert Vista. Call (702) 222-1964 for more information. HOA fees listed on this page range from $155 to $195. Age-restriction rules are available at Suite 104.",
       pins: [
         {
           name: "Mountain Shadows",
-          note: "Rec campus walk before you pick a street. Same west clock as Suite 100.",
+          note: "Rec campus walk before you pick a street. Same west clock as Suite 104.",
         },
         {
           name: "Highland Falls",
@@ -2365,7 +2365,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/55-plus-communities/trilogy-summerlin": [
     {
-      h2: "Shea clubhouse and spa – 12–18 minutes from Suite 100",
+      h2: "Shea clubhouse and spa – 12–18 minutes from Suite 104",
       body: "Trilogy sits on the office side of the valley. Downtown Summerlin retail is a short hop after the clubhouse. Call (702) 222-1964. HOA cited on this page: $250–$350. Register before walking models.",
       pins: [
         {
@@ -2382,15 +2382,15 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Anthem inclusion policy",
-          note: "Henderson 55+ community – Call (702) 222-1964 from 9406 W Lake Mead Blvd",
+          note: "Henderson 55+ community – Call (702) 222-1964 from 6150 N Decatur Blvd",
         },
       ],
     },
   ],
   "/55-plus-communities/heritage-stonebridge": [
     {
-      h2: "1,100+ homes near Downtown Summerlin – 12–18 min from Suite 100",
-      body: "Listings are managed from 9406 W Lake Mead Blvd, so appointments are scheduled. Call (702) 222-1964. Published price range on this page: $400K–$750K. HOA $175–$220. This is not a 7,700-home campus.",
+      h2: "1,100+ homes near Downtown Summerlin – 12–18 min from Suite 104",
+      body: "Listings are managed from 6150 N Decatur Blvd, so appointments are scheduled. Call (702) 222-1964. Published price range on this page: $400K–$750K. HOA $175–$220. This is not a 7,700-home campus.",
       pins: [
         {
           name: "Staffed gate",
@@ -2402,7 +2402,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Downtown Summerlin",
-          note: "Retail on the same west hop as Suite 100. Not a Henderson add-on.",
+          note: "Retail on the same west hop as Suite 104. Not a Henderson add-on.",
         },
         {
           name: "Occupancy packet",
@@ -2413,12 +2413,12 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/55-plus-communities/solera-anthem": [
     {
-      h2: "1,200-home Henderson, staffed gate – 30–35 min from Suite 100",
+      h2: "1,200-home Henderson, staffed gate – 30–35 min from Suite 104",
       body: "All residents must be 55+ here — confirm the HOA occupancy rule in writing. Call (702) 222-1964. Published band on this page: $380K–$650K. HOA $170–$210. Compare Sun City Anthem on the same east clock only if that is the brief.",
       pins: [
         {
           name: "Occupancy in writing",
-          note: "The campus is all-55+. Pick up the packet at 9406 W Lake Mead Blvd before the drive.",
+          note: "The campus is all-55+. Pick up the packet at 6150 N Decatur Blvd before the drive.",
         },
         {
           name: "Clubhouse and pool",
@@ -2426,7 +2426,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Staffed gate",
-          note: "Guest list from Suite 100. Do not mix with a Summerlin 55+ morning.",
+          note: "Guest list from Suite 104. Do not mix with a Summerlin 55+ morning.",
         },
         {
           name: "Anthem parks",
@@ -2437,8 +2437,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/55-plus-communities/sun-city-aliante": [
     {
-      h2: "42,000 sq ft rec, 18-hole course, 2,800+ homes — 20–25 minutes north from Suite 100",
-      body: "Golf and rec sit next to the Aliante retail strip. Call (702) 222-1964. Occupancy rules at 9406 W Lake Mead Blvd before the north loop. Do not add Henderson the same day.",
+      h2: "42,000 sq ft rec, 18-hole course, 2,800+ homes — 20–25 minutes north from Suite 104",
+      body: "Golf and rec sit next to the Aliante retail strip. Call (702) 222-1964. Occupancy rules at 6150 N Decatur Blvd before the north loop. Do not add Henderson the same day.",
       pins: [
         {
           name: "42,000 sq ft rec",
@@ -2461,8 +2461,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   ],
   "/55-plus-communities/del-webb-lake-las-vegas": [
     {
-      h2: "$400K–$900K, pickleball, 320-acre lake — 35–45 minutes from Suite 100",
-      body: "Del Webb at Lake Las Vegas is a 55+ campus built from 2016 to present. It is located at 9406 W Lake Mead Blvd before the Henderson drive. Call (702) 222-1964. HOA fees are $200–$280. Do not stack with a Summerlin 55+ morning.",
+      h2: "$400K–$900K, pickleball, 320-acre lake — 35–45 minutes from Suite 104",
+      body: "Del Webb at Lake Las Vegas is a 55+ campus built from 2016 to present. It is located at 6150 N Decatur Blvd before the Henderson drive. Call (702) 222-1964. HOA fees are $200–$280. Do not stack with a Summerlin 55+ morning.",
       pins: [
         {
           name: "320-acre lake",
@@ -2478,7 +2478,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "East clock only",
-          note: "35–45 minutes from Suite 100. Office/GBP (702) 500-1942.",
+          note: "35–45 minutes from Suite 104. Office/GBP (702) 500-1942.",
         },
       ],
     },

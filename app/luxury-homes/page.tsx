@@ -50,7 +50,7 @@ const luxuryNeighborhoods = [
     location: "Summerlin",
     priceRange: "$2M - $15M+",
     description:
-      "Guard-gated ridge lots are available in Summerlin. Bear's Best Golf Club and custom estates are also featured. January 2026 median $2.5M. Gate lists from Suite 100.",
+      "Guard-gated ridge lots are available in Summerlin. Bear's Best Golf Club and custom estates are also featured. January 2026 median $2.5M. Gate lists from Suite 104.",
     features: [
       "Guard-gated",
       "Custom estates",
@@ -63,7 +63,7 @@ const luxuryNeighborhoods = [
     location: "Henderson",
     priceRange: "Price Range $1.5M to $10M+",
     description:
-      "Hillside Henderson lots, Dragon Ridge Country Club, and Strip-view streets are in the vicinity. The published price band is $1.5M–$10M+. Travel time is 25–35 minutes from Suite 100.",
+      "Hillside Henderson lots, Dragon Ridge Country Club, and Strip-view streets are in the vicinity. The published price band is $1.5M–$10M+. Travel time is 25–35 minutes from Suite 104.",
     features: [
       "Hillside location",
       "Strip views",
@@ -89,7 +89,7 @@ const luxuryNeighborhoods = [
     location: "Summerlin",
     priceRange: "$3M - $20M+",
     description:
-      "Tom Fazio golf, 250 homesites, and membership by invitation define the community. The published price band is $3M–$20M+. Gate lists are confirmed at Suite 100.",
+      "Tom Fazio golf, 250 homesites, and membership by invitation define the community. The published price band is $3M–$20M+. Gate lists are confirmed at Suite 104.",
     features: [
       "Private golf",
       "250 homesites",
@@ -154,7 +154,7 @@ export default function LuxuryHomesPage() {
             <div className="flex flex-wrap justify-center gap-4 text-sm text-slate-500">
               <span className="flex items-center">
                 <CheckCircle className="h-4 w-4 text-green-500 mr-1" /> Gate
-                lists confirmed at Suite 100
+                lists confirmed at Suite 104
               </span>
               <span className="flex items-center">
                 <CheckCircle className="h-4 w-4 text-green-500 mr-1" />{" "}
@@ -221,7 +221,7 @@ export default function LuxuryHomesPage() {
             </h2>
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">
               Guard-gated, golf-course, and lakefront luxury product is compared
-              by square footage, HOA packet, and drive time from Suite 100—not
+              by square footage, HOA packet, and drive time from Suite 104—not
               by slogan. From The Ridges to Southern Highlands to Lake Las
               Vegas, we sequence one campus per afternoon.
             </p>

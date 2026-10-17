@@ -20,7 +20,7 @@ export const villageDetails: Record<string, VillageDetailCopy[]> = {
   "/neighborhoods/the-ridges": [
     {
       h3: "Bear's Best, Falcon Ridge, Azure, Talon Ridge, Silver Ridge, Eagle Hills",
-      body: "Six named villages sit on the Ridges gate sheet. We confirm which village is on the appointment before we leave Suite 100 — 15–20 minutes to the guardhouse. List prices on this page are January 2026 bands, not a live quote.",
+      body: "Six named villages sit on the Ridges gate sheet. We confirm which village is on the appointment before we leave Suite 104 — 15–20 minutes to the guardhouse. List prices on this page are January 2026 bands, not a live quote.",
       pins: [
         {
           name: "Bear's Best",
@@ -28,7 +28,7 @@ export const villageDetails: Record<string, VillageDetailCopy[]> = {
         },
         {
           name: "Falcon Ridge",
-          note: "Elevated custom lots. Published band $2.5M–$10M. Gate list from 9406 W Lake Mead Blvd, Suite 100.",
+          note: "Elevated custom lots. Published band $2.5M–$10M. Gate list from 6150 N Decatur Blvd, Suite 104.",
         },
         {
           name: "Azure",
@@ -52,7 +52,7 @@ export const villageDetails: Record<string, VillageDetailCopy[]> = {
   "/neighborhoods/southern-highlands": [
     {
       h3: "Robert Trent Jones Jr. scorecard: 74.1 / 140; 35,000 sq ft clubhouse",
-      body: "The course is the south-valley centerpiece, not a copied Ridges golf caption. Membership and HOA packets are reviewed at Suite 100 before the 25–35 minute I-15 drive.",
+      body: "The course is the south-valley centerpiece, not a copied Ridges golf caption. Membership and HOA packets are reviewed at Suite 104 before the 25–35 minute I-15 drive.",
       pins: [
         {
           name: "Championship tees",
@@ -76,7 +76,7 @@ export const villageDetails: Record<string, VillageDetailCopy[]> = {
   "/neighborhoods/skye-canyon": [
     {
       h3: "Toll, Woodside, Shea vs Lennar, KB, Century – two Skye Canyon registration clocks",
-      body: "Builder registration happens at Suite 100 first. Premium rows and value rows are not the same model visit. Prices below are January 2026 bands on this page — confirm the week you tour.",
+      body: "Builder registration happens at Suite 104 first. Premium rows and value rows are not the same model visit. Prices below are January 2026 bands on this page — confirm the week you tour.",
       pins: [
         {
           name: "Toll Brothers",
@@ -108,7 +108,7 @@ export const villageDetails: Record<string, VillageDetailCopy[]> = {
   "/neighborhoods/inspirada": [
     {
       h3: "Toll and Beazer vs Lennar, Woodside, Richmond, Century — one south Henderson registration",
-      body: "Inspirada builder rows wrap the 2,000-acre rec campus. Register at 9406 W Lake Mead Blvd before walking models. Bands below are January 2026 figures on this page.",
+      body: "Inspirada builder rows wrap the 2,000-acre rec campus. Register at 6150 N Decatur Blvd before walking models. Bands below are January 2026 figures on this page.",
       pins: [
         {
           name: "Toll Brothers",
@@ -128,7 +128,7 @@ export const villageDetails: Record<string, VillageDetailCopy[]> = {
         },
         {
           name: "Richmond American",
-          note: "Published band $450K–$550K. Personalization options reviewed at Suite 100.",
+          note: "Published band $450K–$550K. Personalization options reviewed at Suite 104.",
         },
         {
           name: "Century Communities",
@@ -139,7 +139,7 @@ export const villageDetails: Record<string, VillageDetailCopy[]> = {
   ],
   "/neighborhoods/henderson": [
     {
-      h3: "Barclays, Credit One, St. Rose, and Station job pins from Suite 100",
+      h3: "Barclays, Credit One, St. Rose, and Station job pins from Suite 104",
       body: "Henderson is 25–35 minutes east. We time two employer pins against two villages so the commute is a clock, not a slogan. Confirm drive minutes the week you tour.",
       pins: [
         {
@@ -202,7 +202,7 @@ export const villageDetails: Record<string, VillageDetailCopy[]> = {
     },
     {
       h3: "Aliante, Tule Springs, Valley Vista, Camino Al Norte — four north builder plats",
-      body: "New rows are not interchangeable with Aliante golf lots. Register at Suite 100. Bands below are January 2026 figures on this page — confirm live list prices.",
+      body: "New rows are not interchangeable with Aliante golf lots. Register at Suite 104. Bands below are January 2026 figures on this page — confirm live list prices.",
       pins: [
         {
           name: "Aliante",

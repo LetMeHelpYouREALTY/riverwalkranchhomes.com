@@ -191,7 +191,7 @@ export default function RelocationPage() {
               Summerlin, Henderson, or 55+ — one ZIP per inbound afternoon
             </h2>
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">
-              Inbound itineraries start at 9406 W Lake Mead Blvd, Suite 100.
+              Inbound itineraries start at 6150 N Decatur Blvd, Suite 104.
               Named campuses, commute minutes, trailheads, and HOA packets are
               compared at the desk, then we drive one ZIP. Call (702) 222-1964.
               We will not tour twelve ZIPs the day you land.
@@ -295,11 +295,11 @@ export default function RelocationPage() {
           {/* Coming From California */}
           <section className="mb-16 bg-blue-600 text-white rounded-2xl p-8 md:p-12 max-w-5xl mx-auto">
             <h2 className="text-2xl font-bold mb-4 text-center">
-              California paycheck, Nevada PITI — run the net at Suite 100
+              California paycheck, Nevada PITI — run the net at Suite 104
             </h2>
             <p className="text-blue-100 text-center max-w-3xl mx-auto mb-8">
-              California to Nevada inbound files start at 9406 W Lake Mead Blvd,
-              Suite 100. Housing prices 40–60% below many California coastal
+              California to Nevada inbound files start at 6150 N Decatur Blvd,
+              Suite 104. Housing prices 40–60% below many California coastal
               cities is a comparison, not a guarantee. Call (702) 222-1964. No
               Nevada state income tax is a line item on the net sheet.
             </p>
@@ -365,7 +365,7 @@ export default function RelocationPage() {
           {/* office Network */}
           <section className="mb-16 max-w-5xl mx-auto">
             <h2 className="text-3xl font-bold text-slate-900 mb-4 text-center">
-              50,000-agent referral, then a dated calendar at Suite 100
+              50,000-agent referral, then a dated calendar at Suite 104
             </h2>
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">
               With 50,000+ agents in 1,500+ offices worldwide, Dr. Jan Duffy provides seamless coordination for
@@ -408,7 +408,7 @@ export default function RelocationPage() {
           {/* CTA */}
           <section className="text-center bg-slate-900 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Book Suite 100 before the first inbound ZIP — (702) 222-1964
+              Book Suite 104 before the first inbound ZIP — (702) 222-1964
             </h2>
             <p className="text-xl text-slate-300 mb-8">
               LetDr. Jan Duffy make your
