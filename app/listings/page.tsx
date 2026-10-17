@@ -193,8 +193,8 @@ export default function ListingsPage() {
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">
               Nevada has no state income tax. Confirm the week you tour: under
               $400K condos and townhomes, $400K–$600K at 1,800–2,400 sq ft
-              typical, $1M+ guard-gated product. Call (702) 222-1964 from 9406 W
-              Lake Mead Blvd, Suite 100.
+              typical, $1M+ guard-gated product. Call (702) 222-1964 from 6150 N
+              Decatur Blvd, Suite 101.
             </p>
             <div className="space-y-4">
               {priceRanges.map((price, index) => (
@@ -227,11 +227,11 @@ export default function ListingsPage() {
           {/* Why Use an Agent Section */}
           <section className="mb-16 bg-slate-900 text-white rounded-2xl p-8 md:p-12 max-w-6xl mx-auto">
             <h2 className="scroll-mt-32 text-3xl font-bold mb-6 text-center">
-              Live MLS from Suite 100, then the first two ZIP loops
+              Live MLS from Suite 101, then the first two ZIP loops
             </h2>
             <p className="text-slate-300 text-center max-w-3xl mx-auto mb-8">
-              Search is opened at 9406 W Lake Mead Blvd. Dr. Jan Duffy sequences
-              Summerlin 10–15 minutes west, then a Henderson loop if that is the
+              Search is opened at 6150 N Decatur Blvd. Dr. Jan Duffy sequences
+              Summerlin 20–25 minutes west, then a Henderson loop if that is the
               brief. Call (702) 222-1964.
             </p>
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -252,7 +252,7 @@ export default function ListingsPage() {
                   <TrendingUp className="h-6 w-6" />
                 </div>
                 <h3 className="font-bold mb-2">
-                  Escalation language written at Suite 100
+                  Escalation language written at Suite 101
                 </h3>
                 <p className="text-slate-400 text-sm">
                   $127M+ in closed files. Inspection and appraisal terms are
@@ -324,7 +324,7 @@ export default function ListingsPage() {
           {/* CTA */}
           <section className="text-center bg-blue-600 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Search live MLS from Suite 100, then drive the first two ZIPs
+              Search live MLS from Suite 101, then drive the first two ZIPs
             </h2>
             <p className="text-xl text-blue-100 mb-8">
               Contact Dr. Jan Duffy for personalized guidance, off-market

@@ -44,10 +44,10 @@ const realEstateAgentSchema = {
   url: absoluteUrl("/buyers/california-relocator"),
   address: {
     "@type": "PostalAddress",
-    streetAddress: "9406 W Lake Mead Blvd, Suite 100",
-    addressLocality: "Las Vegas",
+    streetAddress: "6150 N Decatur Blvd, Suite 101",
+    addressLocality: "North Las Vegas",
     addressRegion: "NV",
-    postalCode: "89134",
+    postalCode: "89031",
   },
   areaServed: ["Las Vegas", "Henderson", "Summerlin", "North Las Vegas"],
   priceRange: "$350,000 - $10,000,000+",
@@ -267,7 +267,7 @@ export default function CaliforniaRelocatorPage() {
                 <div className="p-6">
                   <p className="text-slate-600 mb-4">
                     Guard-gated lots with Strip or Red Rock views, custom home
-                    sites, and a gate list from Suite 100.
+                    sites, and a gate list from Suite 101.
                   </p>
                   <div className="text-sm text-slate-500 mb-4">
                     <strong>Best for:</strong> Beverly Hills/Newport Beach
@@ -304,7 +304,7 @@ export default function CaliforniaRelocatorPage() {
             <div className="flex items-center mb-6">
               <Briefcase className="h-8 w-8 text-blue-600 mr-3" />
               <h2 className="text-3xl font-bold text-slate-900">
-                Keep the California paycheck — run Nevada tax math at Suite 100
+                Keep the California paycheck — run Nevada tax math at Suite 101
               </h2>
             </div>
             <div className="grid md:grid-cols-2 gap-8">

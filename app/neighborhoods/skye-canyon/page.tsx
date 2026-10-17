@@ -21,7 +21,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/neighborhoods/skye-canyon",
   title: "Berkshire Hathaway HomeServices Skye Canyon | Northwest Las Vegas",
   description:
-    "Skye Canyon homes are listed with Berkshire Hathaway HomeServices Nevada Properties. Register at Suite 100 before any northwest builder row. The median price in January 2026 is $550K. Call (702) 222-1964.",
+    "Skye Canyon homes are listed with Berkshire Hathaway HomeServices Nevada Properties. Register at Suite 101 before any northwest builder row. The median price in January 2026 is $550K. Call (702) 222-1964.",
   keywords: [
     "Berkshire Hathaway HomeServices Skye Canyon",
     "Skye Canyon homes for sale",
@@ -47,7 +47,7 @@ export default function SkyeCanyonPage() {
             <HeadingPhoto path="/neighborhoods/skye-canyon" />
 
             <p className="text-xl text-slate-600">
-              Register at Suite 100, then Skye Center and Floyd Lamb on a 20–25
+              Register at Suite 101, then Skye Center and Floyd Lamb on a 20–25
               minute northwest clock with{" "}
               Dr. Jan
               Duffy.
@@ -112,7 +112,7 @@ export default function SkyeCanyonPage() {
                 master-planned living. This 1,700-acre community in northwest
                 Las Vegas sits next to Floyd Lamb Park with Skye Center as the
                 rec campus. <strong>Dr. Jan Duffy</strong>
-                registers you at Suite 100 before the first model row so builder
+                registers you at Suite 101 before the first model row so builder
                 tours stay on one northwest clock.
               </p>
               <p>
@@ -177,7 +177,7 @@ export default function SkyeCanyonPage() {
           {/* CTA */}
           <section className="text-center bg-blue-600 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Register at Suite 100, then walk Skye Center the same day
+              Register at Suite 101, then walk Skye Center the same day
             </h2>
             <p className="text-xl text-blue-100 mb-8">
               Walk Skye Canyon model rows and resale streets in one northwest

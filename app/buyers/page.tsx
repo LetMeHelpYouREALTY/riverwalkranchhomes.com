@@ -55,13 +55,13 @@ const neighborhoods = [
     name: "Summerlin",
     price: "$625K",
     description:
-      "10–15 minutes from Suite 100. Red Rock trailheads and Downtown Summerlin on the same west clock.",
+      "20–25 minutes from Suite 101. Red Rock trailheads and Downtown Summerlin on the same west clock.",
   },
   {
     name: "Henderson",
     price: "$485K",
     description:
-      "25–35 minutes via I-215 east. Parks, trails, and named villages compared by square footage.",
+      "35–45 minutes via I-215 east. Parks, trails, and named villages compared by square footage.",
   },
   {
     name: "Green Valley",
@@ -73,7 +73,7 @@ const neighborhoods = [
     name: "The Ridges",
     price: "$2.5M",
     description:
-      "15–20 minutes to the guardhouse. Gate lists confirmed from Suite 100.",
+      "20–25 minutes to the guardhouse. Gate lists confirmed from Suite 101.",
   },
   {
     name: "North Las Vegas",
@@ -111,7 +111,7 @@ export default function BuyersPage() {
             <p className="text-xl text-slate-600 mb-8">
               When you work with{" "}
               <strong>Dr. Jan Duffy</strong>,
-              the seller-paid buyer-broker fee is explained at Suite 100 — and
+              the seller-paid buyer-broker fee is explained at Suite 101 — and
               it costs you nothing at the closing table. The representation is
               yours.
             </p>
@@ -145,7 +145,7 @@ export default function BuyersPage() {
                   The seller pays the buyer-broker fee — the file is still yours
                 </h2>
                 <p className="text-slate-300 mb-6">
-                  Buyer representation is explained at Suite 100. The seller
+                  Buyer representation is explained at Suite 101. The seller
                   typically pays the buyer-broker fee, and the agency file is
                   yours. Dr. Jan Duffy
                   write offers, inspections, and occupancy dates for the buyer —
@@ -191,11 +191,11 @@ export default function BuyersPage() {
           <section className="mb-16 bg-slate-50 rounded-2xl p-8 md:p-12 max-w-6xl mx-auto">
             <h2 className="text-3xl font-bold text-slate-900 mb-4 text-center">
               January 2026 medians by village — then we time the drive from
-              Suite 100
+              Suite 101
             </h2>
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">
               Published January 2026 bands, not a live quote. Square footage,
-              HOA dues, and commute minutes from 9406 W Lake Mead Blvd beat a
+              HOA dues, and commute minutes from 6150 N Decatur Blvd beat a
               slogan. Named campuses are mapped by address at ccsd.net/zoning.
             </p>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -236,7 +236,7 @@ export default function BuyersPage() {
               California, first-time, or $1M+ — three different first desks
             </h2>
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">
-              First-time paperwork is FHA/VA at Suite 100. California relocators
+              First-time paperwork is FHA/VA at Suite 101. California relocators
               compare net proceeds to ZIP targets, then a three-day itinerary.
               Luxury buyers confirm gate lists here. Call (702) 222-1964.
             </p>
@@ -299,10 +299,10 @@ export default function BuyersPage() {
           {/* Why office */}
           <section className="mb-16 max-w-5xl mx-auto">
             <h2 className="scroll-mt-32 text-3xl font-bold text-slate-900 mb-4 text-center">
-              Buyer-agency paperwork at Suite 100 before any model row
+              Buyer-agency paperwork at Suite 101 before any model row
             </h2>
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">
-              Representation is signed at 9406 W Lake Mead Blvd, Suite 100.
+              Representation is signed at 6150 N Decatur Blvd, Suite 101.
               License S.0197614.LLC is on the card. Call (702) 222-1964 before
               the first builder visit.
             </p>
@@ -340,7 +340,7 @@ export default function BuyersPage() {
                 </h3>
                 <p className="text-slate-600 text-sm">
                   Dr. Jan has served Las Vegas since 2008 with $127M+ in
-                  transactions from Suite 100
+                  transactions from Suite 101
                 </p>
               </div>
               <div className="text-center">
@@ -348,7 +348,7 @@ export default function BuyersPage() {
                   <TrendingUp className="h-7 w-7 text-blue-600" />
                 </div>
                 <h3 className="font-bold text-slate-900 mb-2">
-                  Offer math at 9406 W Lake Mead Blvd
+                  Offer math at 6150 N Decatur Blvd
                 </h3>
                 <p className="text-slate-600 text-sm">
                   500+ closed files. Escalation and inspection terms are written
@@ -367,7 +367,7 @@ export default function BuyersPage() {
           {/* CTA */}
           <section className="text-center bg-slate-900 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Register as buyer agent at 9406 W Lake Mead Blvd before any model
+              Register as buyer agent at 6150 N Decatur Blvd before any model
             </h2>
             <p className="text-xl text-slate-300 mb-8">
               Questions about buying in Las Vegas? Call or text Dr. Jan Duffy

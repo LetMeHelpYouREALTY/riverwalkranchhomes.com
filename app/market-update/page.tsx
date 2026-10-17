@@ -97,11 +97,11 @@ export default function MarketUpdatePage() {
           {/* CTA */}
           <section className="text-center bg-blue-600 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Price this week against your APN at Suite 100
+              Price this week against your APN at Suite 101
             </h2>
             <p className="text-xl text-blue-100 mb-8">
               $452,500 median is a snapshot. Call (702) 222-1964. Bring the
-              address to 9406 W Lake Mead Blvd.
+              address to 6150 N Decatur Blvd.
             </p>
             <CtaActions variant="onDark" />
           <SectionPresence />
@@ -110,7 +110,7 @@ export default function MarketUpdatePage() {
           {/* Newsletter Signup */}
           <section className="mt-16 max-w-2xl mx-auto text-center">
             <h3 className="text-xl font-bold text-slate-900 mb-4">
-              Monday briefing from 9406 W Lake Mead Blvd — not a valley blast
+              Monday briefing from 6150 N Decatur Blvd — not a valley blast
             </h3>
             <p className="text-slate-600 mb-6">
               Join 2,500+ Las Vegas homeowners and investors who receive Dr.

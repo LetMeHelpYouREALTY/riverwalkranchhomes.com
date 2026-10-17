@@ -57,12 +57,12 @@ export default function WhyChooseUs() {
             id="why-choose-heading"
             className="text-3xl md:text-4xl lg:text-5xl font-bold text-slate-900 mb-4 scroll-mt-32"
           >
-            Start at 9406 W Lake Mead Blvd — then we drive Summerlin or
+            Start at 6150 N Decatur Blvd — then we drive Summerlin or
             Henderson
           </h2>
           <HeadingPhoto path="/" level="h2" photo={photos.agent} priority />
           <p className="text-xl text-slate-600 max-w-3xl mx-auto">
-            Appointments start at Dr. Jan Duffy, Suite 100. We sequence the tour from this desk — not a
+            Appointments start at Dr. Jan Duffy, Suite 101. We sequence the tour from this desk — not a
             call center.
           </p>
         </div>

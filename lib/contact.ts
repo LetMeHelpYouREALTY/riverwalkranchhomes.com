@@ -71,17 +71,17 @@ export const nap = {
   license: "S.0197614.LLC",
   email: "DrDuffySells@RiverwalkRanchHomes.com",
   emailHref: "mailto:DrDuffySells@RiverwalkRanchHomes.com",
-  street: "9406 W Lake Mead Blvd, Suite 100",
-  city: "Las Vegas",
+  street: "6150 N Decatur Blvd, Suite 101",
+  city: "North Las Vegas",
   state: "NV",
-  zip: "89134",
-  fullAddress: "9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134",
+  zip: "89031",
+  fullAddress: "6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031",
 } as const;
 
 export const geo = {
-  /** Matches GBP pin */
-  latitude: 36.1941,
-  longitude: -115.2678,
+  /** Building pin for 6150 N Decatur Blvd. Same street number as the Sprouts storefront. */
+  latitude: 36.272079,
+  longitude: -115.206626,
 } as const;
 
 export const businessHours = [
@@ -129,11 +129,11 @@ export const hoursSummary =
 
 export const maps = {
   embedSrc:
-    "https://maps.google.com/maps?q=9406+W+Lake+Mead+Blvd+Suite+100+Las+Vegas+NV+89134&z=15&output=embed",
+    "https://maps.google.com/maps?q=6150+N+Decatur+Blvd+Suite+101+North+Las+Vegas+NV+89031&z=15&output=embed",
   directionsUrl:
-    "https://www.google.com/maps/dir/?api=1&destination=9406+W+Lake+Mead+Blvd+Suite+100,+Las+Vegas,+NV+89134",
+    "https://www.google.com/maps/dir/?api=1&destination=6150+N+Decatur+Blvd+Suite+101,+North+Las+Vegas,+NV+89031",
   placeUrl:
-    "https://www.google.com/maps/search/?api=1&query=9406+W+Lake+Mead+Blvd+Suite+100+Las+Vegas+NV+89134",
+    "https://www.google.com/maps/search/?api=1&query=6150+N+Decatur+Blvd+Suite+101+North+Las+Vegas+NV+89031",
 } as const;
 
 export const googleReviewsUrl =

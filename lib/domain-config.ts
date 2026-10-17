@@ -686,7 +686,7 @@ export const DOMAIN_CONFIGS: Record<string, DomainConfig> = {
     realscoutAgentId: REALSCOUT_AGENT_ID,
     ctaBadge: "89031",
     ctaHeadline: "Tour Riverwalk Ranch with Dr. Jan",
-    ctaSubheadline: "Call or text (702) 222-1964. Office pin is Suite 100.",
+    ctaSubheadline: "Call or text (702) 222-1964. Office pin is Suite 101.",
   },
   "opportunityzonespecialists.com": {
     domain: "opportunityzonespecialists.com",
@@ -738,7 +738,7 @@ export const DOMAIN_CONFIGS: Record<string, DomainConfig> = {
       "Dr. Jan Duffy, Las Vegas REALTOR® — buy, sell, and invest across the Las Vegas Valley.",
     heroHeadline: "Dr. Jan Duffy | Las Vegas Real Estate",
     heroSubheadline:
-      "30+ years serving Las Vegas buyers and sellers from Suite 100 on Lake Mead Blvd.",
+      "30+ years serving Las Vegas buyers and sellers from Suite 101 at 6150 N Decatur Blvd.",
     keywords: ["Dr Jan Duffy", "Las Vegas realtor", "Dr Jan Duffy real estate"],
     pageType: "search",
     realscoutAgentId: REALSCOUT_AGENT_ID,
@@ -776,9 +776,9 @@ export const DEFAULT_CONFIG: DomainConfig = {
   tagline: "Las Vegas Homes for Sale",
   description:
     "Search Las Vegas homes for sale. Expert real estate guidance from Dr. Jan Duffy, BHHS Nevada Properties",
-  heroHeadline: "Buy or sell at 9406 W Lake Mead Blvd, Suite 100",
+  heroHeadline: "Buy or sell at 6150 N Decatur Blvd, Suite 101",
   heroSubheadline:
-    "Dr. Jan Duffy serves Summerlin in 10–15 minutes and Henderson in 25–35 minutes. Call (702) 222-1964",
+    "Dr. Jan Duffy serves Summerlin in 20–25 minutes and Henderson in 35–45 minutes. Call (702) 222-1964",
   keywords: [
     "Las Vegas homes for sale",
     "Las Vegas real estate",
@@ -787,7 +787,7 @@ export const DEFAULT_CONFIG: DomainConfig = {
   pageType: "search",
   realscoutAgentId: REALSCOUT_AGENT_ID,
   ctaBadge: "License S.0197614.LLC",
-  ctaHeadline: "Book Suite 100 and then the first two ZIP loops",
+  ctaHeadline: "Book Suite 101 and then the first two ZIP loops",
   ctaSubheadline: "Call or text (702) 222-1964. The Maps pin is this desk.",
 };
 

@@ -22,23 +22,23 @@ export type FaqHubCategory = {
 export const faqHubCategories: FaqHubCategory[] = [
   {
     id: "bhhs",
-    h2: "What is this office at Suite 100",
+    h2: "What is this office at Suite 101",
     items: [
       {
         q: "Where do I see local office samples before I pick an agent?",
-        a: "At 9406 W Lake Mead Blvd, Suite 100. Photography, remarks, and who answers the phone are shown here. Call (702) 222-1964.",
+        a: "At 6150 N Decatur Blvd, Suite 101. Photography, remarks, and who answers the phone are shown here. Call (702) 222-1964.",
       },
       {
         q: "Is Dr. Jan Duffy owned by Warren Buffett?",
         a: "No. Dr. Jan Duffy is the agent, license S.0197614.LLC. The brokerage name is in the footer.",
       },
       {
-        q: "Which cities does this office actually tour from Lake Mead Blvd?",
-        a: "Las Vegas, Henderson, North Las Vegas, and Clark County streets we can time from Suite 100. Specialized pages exist for Summerlin, The Ridges, Skye Canyon, Southern Highlands, Green Valley, and Inspirada. Call (702) 222-1964.",
+        q: "Which cities does this office actually tour from 6150 N Decatur Blvd?",
+        a: "Las Vegas, Henderson, North Las Vegas, and Clark County streets we can time from Suite 101. Specialized pages exist for Summerlin, The Ridges, Skye Canyon, Southern Highlands, Green Valley, and Inspirada. Call (702) 222-1964.",
       },
       {
         q: "Is commission posted as a higher rate on this site?",
-        a: "No. Commission is negotiated in writing at the appointment. We walk every cost at Suite 100. Call (702) 222-1964.",
+        a: "No. Commission is negotiated in writing at the appointment. We walk every cost at Suite 101. Call (702) 222-1964.",
       },
     ],
   },
@@ -51,7 +51,7 @@ export const faqHubCategories: FaqHubCategory[] = [
         a: "Typically 30–45 days. Cash can close in about 7–14 days when title is clean. Timeline still depends on financing, inspections, and contingencies. Call (702) 222-1964.",
       },
       {
-        q: "Do I need a pre-approval before the first Suite 100 meeting?",
+        q: "Do I need a pre-approval before the first Suite 101 meeting?",
         a: "A letter helps on competitive streets, but the first desk meeting can start without it. We introduce local lenders from this office. Call (702) 222-1964.",
       },
       {
@@ -60,7 +60,7 @@ export const faqHubCategories: FaqHubCategory[] = [
       },
       {
         q: "Do I need to register with Dr. Jan before touring a builder model",
-        a: "Yes. Most Las Vegas and Henderson builders require your agent on the first visit. Start at Suite 100, then the model row. Call (702) 222-1964.",
+        a: "Yes. Most Las Vegas and Henderson builders require your agent on the first visit. Start at Suite 101, then the model row. Call (702) 222-1964.",
       },
     ],
   },
@@ -70,7 +70,7 @@ export const faqHubCategories: FaqHubCategory[] = [
     items: [
       {
         q: "Where is a listing CMA pulled before photography is booked?",
-        a: "At Suite 100, then we walk the house. Overpriced homes sit. We price to recent closes. Call (702) 222-1964.",
+        a: "At Suite 101, then we walk the house. Overpriced homes sit. We price to recent closes. Call (702) 222-1964.",
       },
       {
         q: "What January 2026 days-on-market figures did this hub last publish?",
@@ -82,7 +82,7 @@ export const faqHubCategories: FaqHubCategory[] = [
       },
       {
         q: "How is a listing marketed once photos are done?",
-        a: "Professional photography, virtual tours, MLS syndication, referral network exposure, and paid digital. Scope is set at Suite 100 before the photographer is booked.",
+        a: "Professional photography, virtual tours, MLS syndication, referral network exposure, and paid digital. Scope is set at Suite 101 before the photographer is booked.",
       },
     ],
   },
@@ -92,7 +92,7 @@ export const faqHubCategories: FaqHubCategory[] = [
     items: [
       {
         q: "Where are rent comps and HOA rental caps reviewed?",
-        a: "Register at Suite 100 before you fly in. HOA rental caps kill deals. Then we tour North Las Vegas, Henderson, or southwest ZIP clusters. Call (702) 222-1964.",
+        a: "Register at Suite 101 before you fly in. HOA rental caps kill deals. Then we tour North Las Vegas, Henderson, or southwest ZIP clusters. Call (702) 222-1964.",
       },
       {
         q: "What cash-on-cash range did this hub last publish?",
@@ -110,7 +110,7 @@ export const faqHubCategories: FaqHubCategory[] = [
     items: [
       {
         q: "Can this desk coordinate the origin-city sale with this office?",
-        a: "Yes. Origin and destination agents are briefed from Suite 100 so both contracts share a calendar. Call (702) 222-1964.",
+        a: "Yes. Origin and destination agents are briefed from Suite 101 so both contracts share a calendar. Call (702) 222-1964.",
       },
       {
         q: "Which named campuses do we time on Day 1 vs Day 2?",
@@ -132,7 +132,7 @@ export const faqHubCategories: FaqHubCategory[] = [
       },
       {
         q: "Which number to call versus office line",
-        a: "Client phone is (702) 222-1964. Office phone is (702) 500-1942. Email is DrDuffySells@RiverwalkRanchHomes.com. Address is 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
+        a: "Client phone is (702) 222-1964. Office phone is (702) 500-1942. Email is DrDuffySells@RiverwalkRanchHomes.com. Address is 6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031.",
       },
       {
         q: "What closed-volume snapshot did this hub last publish?",

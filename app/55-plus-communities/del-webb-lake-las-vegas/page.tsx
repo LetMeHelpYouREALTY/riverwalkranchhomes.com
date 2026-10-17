@@ -77,10 +77,10 @@ export default function DelWebbLakeLasVegasPage() {
             <div className="prose prose-lg max-w-none text-slate-700">
               <h2 className="text-3xl font-bold text-slate-900 mb-6">
                 1,800+ homes, pickleball, and a 320-acre lake — 35–45 minutes
-                from Suite 100
+                from Suite 101
               </h2>
               <p>
-                <strong>Del Webb at Lake Las Vegas</strong> Del Webb at Lake Las Vegas is a 2016-to-present 55+ campus on Lake Las Vegas. Occupancy rules are reviewed at 9406 W Lake Mead Blvd, Suite 100 before the Henderson drive. Call (702) 222-1964. Do not stack this with a Summerlin 55+ morning.
+                <strong>Del Webb at Lake Las Vegas</strong> Del Webb at Lake Las Vegas is a 2016-to-present 55+ campus on Lake Las Vegas. Occupancy rules are reviewed at 6150 N Decatur Blvd, Suite 101 before the Henderson drive. Call (702) 222-1964. Do not stack this with a Summerlin 55+ morning.
               </p>
               <p>
                 Open floor plans, fitness, pools, and pickleball sit on this

@@ -23,14 +23,14 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
     items: [
       {
         q: "Where does a same-day Summerlin-then-Henderson tour actually start?",
-        a: "The office is at 9406 W Lake Mead Blvd, Suite 100. Summerlin is 10–15 minutes away. Henderson is 25–35 minutes via I-215 east. Call or text (702) 222-1964. Office line is (702) 500-1942.",
+        a: "The office is at 6150 N Decatur Blvd, Suite 101. Summerlin is 20–25 minutes away. Henderson is 35–45 minutes via I-215 east. Call or text (702) 222-1964. Office line is (702) 500-1942.",
       },
       {
         q: "Is the live MLS search on this homepage or on /listings?",
         a: "RealScout widgets appear here and on /listings. Matching stays in RealScout; we sequence the drive from this desk. Agent ID QWdlbnQtMjI1MDUw. Call (702) 222-1964 after you save a list.",
       },
       {
-        q: "What hours is Suite 100 open for a walk-in?",
+        q: "What hours is Suite 101 open for a walk-in?",
         a: "Desk hours are Monday–Friday 9am–6pm, Saturday 10am–4pm, Sunday by appointment. License S.0197614.LLC. Directions and Google Reviews are in the footer on every page.",
       },
       {
@@ -40,11 +40,11 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
     ],
   },
   "/contact": {
-    h2: "Walk-in, Calendly, or call — how Suite 100 actually answers",
+    h2: "Walk-in, Calendly, or call — how Suite 101 actually answers",
     items: [
       {
-        q: "Can I walk into Suite 100 without a Calendly hold?",
-        a: "Yes, you can walk in during posted hours. Monday–Friday 9am–6pm, Saturday 10am–4pm, Sunday by appointment. Address is 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Call or text (702) 222-1964 if you are already in the parking lot.",
+        q: "Can I walk into Suite 101 without a Calendly hold?",
+        a: "Yes, you can walk in during posted hours. Monday–Friday 9am–6pm, Saturday 10am–4pm, Sunday by appointment. Address is 6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031. Call or text (702) 222-1964 if you are already in the parking lot.",
       },
       {
         q: "What do I bring to a first desk meeting?",
@@ -56,7 +56,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
       },
       {
         q: "Is the first consultation billed?",
-        a: "No. Desk time at Suite 100 is not billed as a consulting hour. Buyer-broker and listing compensation are written later, not at the door. Call (702) 222-1964.",
+        a: "No. Desk time at Suite 101 is not billed as a consulting hour. Buyer-broker and listing compensation are written later, not at the door. Call (702) 222-1964.",
       },
     ],
   },
@@ -65,7 +65,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
     items: [
       {
         q: "Where do I see office listing samples before I sign?",
-        a: "The office is at 9406 W Lake Mead Blvd, Suite 100. Brand questions are answered on-site, including referral network, photography samples, and who answers the phone. Call (702) 222-1964.",
+        a: "The office is at 6150 N Decatur Blvd, Suite 101. Brand questions are answered on-site, including referral network, photography samples, and who answers the phone. Call (702) 222-1964.",
       },
       {
         q: "Is Dr. Jan Duffy owned by Warren Buffett?",
@@ -73,7 +73,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
       },
       {
         q: "Is commission higher than other Las Vegas brokerages?",
-        a: "No posted rate on this page. Commission is negotiated in writing at the listing or buyer-broker appointment. We walk every cost at Suite 100. Call (702) 222-1964.",
+        a: "No posted rate on this page. Commission is negotiated in writing at the listing or buyer-broker appointment. We walk every cost at Suite 101. Call (702) 222-1964.",
       },
       {
         q: "Can an agent in another city brief this office on my outbound or inbound move?",
@@ -82,7 +82,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
     ],
   },
   "/listings": {
-    h2: "How to save the MLS list and sequence the drive from Lake Mead Blvd",
+    h2: "How to save the MLS list and sequence the drive from 6150 N Decatur Blvd",
     items: [
       {
         q: "Is this page the live MLS search or a buyer-process explainer?",
@@ -94,11 +94,11 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
       },
       {
         q: "How do we sequence Summerlin vs Henderson after I save results?",
-        a: "Summerlin is visited first, followed by Henderson. Summerlin first (10–15 minutes from Suite 100), Henderson second (25–35 minutes via I-215 east). We will not tour 12 ZIPs in one day. Named campuses we time by street: Palo Verde High School, Coronado High School. No ratings. Call (702) 222-1964.",
+        a: "Summerlin is visited first, followed by Henderson. Summerlin first (20–25 minutes from Suite 101), Henderson second (35–45 minutes via I-215 east). We will not tour 12 ZIPs in one day. Named campuses we time by street: Palo Verde High School, Coronado High School. No ratings. Call (702) 222-1964.",
       },
       {
         q: "Where are HOA dues checked before I write an offer from this search?",
-        a: "At Suite 100 or on the listing packet before the offer. This page last published HOA ranges from about $25/month for basic maintenance to $400+/month for guard-gated product, with many streets in a $50–$150 band. Confirm the packet for the APN — not this range.",
+        a: "At Suite 101 or on the listing packet before the offer. This page last published HOA ranges from about $25/month for basic maintenance to $400+/month for guard-gated product, with many streets in a $50–$150 band. Confirm the packet for the APN — not this range.",
       },
     ],
   },
@@ -107,7 +107,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
     items: [
       {
         q: "Which phone number matches Google Business vs the client CTA?",
-        a: "The office phone is (702) 500-1942. Client CTA on this site is (702) 222-1964. Address is 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Hours: Monday–Friday 9am–6pm, Saturday 10am–4pm, Sunday by appointment.",
+        a: "The office phone is (702) 500-1942. Client CTA on this site is (702) 222-1964. Address is 6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031. Hours: Monday–Friday 9am–6pm, Saturday 10am–4pm, Sunday by appointment.",
       },
       {
         q: "How do I leave a Google review that actually helps the Maps listing?",
@@ -119,7 +119,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
       },
       {
         q: "Can I get directions and a same-day desk visit from this page?",
-        a: "Yes. Directions, Call, and Reviews buttons are on this URL and in the footer. Walk-ins during posted hours start at Suite 100. Call or text (702) 222-1964 if you are already in the parking lot.",
+        a: "Yes. Directions, Call, and Reviews buttons are on this URL and in the footer. Walk-ins during posted hours start at Suite 101. Call or text (702) 222-1964 if you are already in the parking lot.",
       },
     ],
   },
@@ -128,7 +128,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
     items: [
       {
         q: "Is the dark stats band a live quote for my address?",
-        a: "The report is a January 2026 snapshot, not a CMA. Bring the APN to 9406 W Lake Mead Blvd, Suite 100. The decision needs your address. Call (702) 222-1964.",
+        a: "The report is a January 2026 snapshot, not a CMA. Bring the APN to 6150 N Decatur Blvd, Suite 101. The decision needs your address. Call (702) 222-1964.",
       },
       {
         q: "What median and YoY figures did this report last publish?",
@@ -149,7 +149,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
     items: [
       {
         q: "Where are these 2026 forces applied to a specific ZIP?",
-        a: "At Suite 100. California inbound demand, data-center hiring, no state income tax, new-construction inventory, and mortgage-rate ranges are briefing notes — not a forecast letter. Call (702) 222-1964.",
+        a: "At Suite 101. California inbound demand, data-center hiring, no state income tax, new-construction inventory, and mortgage-rate ranges are briefing notes — not a forecast letter. Call (702) 222-1964.",
       },
       {
         q: "What median and DOM did the insights page last publish for January 2026?",
@@ -170,7 +170,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
     items: [
       {
         q: "What week does this update cover, and where do I get same-week comps?",
-        a: "The update covers the week of January 20, 2026. Call (702) 222-1964 for same-week comps in your ZIP. Desk: 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
+        a: "The update covers the week of January 20, 2026. Call (702) 222-1964 for same-week comps in your ZIP. Desk: 6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031.",
       },
       {
         q: "What valley print did that week last publish?",

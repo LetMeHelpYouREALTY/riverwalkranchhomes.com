@@ -46,10 +46,10 @@ const contactSchema = {
     email: "DrDuffySells@RiverwalkRanchHomes.com",
     address: {
       "@type": "PostalAddress",
-      streetAddress: "9406 W Lake Mead Blvd, Suite 100",
-      addressLocality: "Las Vegas",
+      streetAddress: "6150 N Decatur Blvd, Suite 101",
+      addressLocality: "North Las Vegas",
       addressRegion: "NV",
-      postalCode: "89134",
+      postalCode: "89031",
       addressCountry: "US",
     },
   },
@@ -145,9 +145,9 @@ export default function ContactPage() {
                     <address className="not-italic text-slate-700">
                       Dr. Jan Duffy
                       <br />
-                      9406 W Lake Mead Blvd, Suite 100
+                      6150 N Decatur Blvd, Suite 101
                       <br />
-                      Las Vegas, NV 89134
+                      North Las Vegas, NV 89031
                     </address>
                   </div>
                 </div>
@@ -224,7 +224,7 @@ export default function ContactPage() {
                 <div className="bg-blue-600 text-white p-6 text-center">
                   <Calendar className="h-10 w-10 mx-auto mb-3" />
                   <h2 className="text-2xl font-bold mb-2">
-                    Book Calendly for Suite 100, a phone consult, or a showing
+                    Book Calendly for Suite 101, a phone consult, or a showing
                   </h2>
                   <p className="text-blue-100">
                     Book a time that works for you—phone consultation, property
@@ -241,11 +241,11 @@ export default function ContactPage() {
           {/* Service Areas Section */}
           <section className="max-w-5xl mx-auto mt-16">
             <h2 className="text-3xl font-bold text-slate-900 mb-6 text-center">
-              ZIPs we time from 9406 W Lake Mead Blvd
+              ZIPs we time from 6150 N Decatur Blvd
             </h2>
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">
-              Summerlin is 10–15 minutes. Henderson and Green Valley are 25–35.
-              Southern Highlands is 25–35 via I-15. Call (702) 222-1964. We will
+              Summerlin is 20–25 minutes. Henderson and Green Valley are 35–45.
+              Southern Highlands is 30–40 via I-15. Call (702) 222-1964. We will
               not tour twelve ZIPs in one afternoon.
             </p>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">

@@ -19,11 +19,11 @@ export type CommunityHighlightCopy = {
 export const communityHighlights: Record<string, CommunityHighlightCopy> = {
   "/neighborhoods/summerlin": {
     h3: "Nine golf courses and 150 parks on the Howard Hughes plat — counted, not captioned",
-    body: "Summerlin is not one village. We count parks, trail miles, and golf campuses on the west loop from Suite 100 so the 22,500-acre plat is a map, not a slogan.",
+    body: "Summerlin is not one village. We count parks, trail miles, and golf campuses on the west loop from Suite 101 so the 22,500-acre plat is a map, not a slogan.",
     pins: [
       {
         name: "150+ parks and 150+ trail miles",
-        note: "Howard Hughes villages share the trail spine. We walk one park and one trailhead the same afternoon as The Trails or Pueblo — typically 10–15 minutes from 9406 W Lake Mead Blvd.",
+        note: "Howard Hughes villages share the trail spine. We walk one park and one trailhead the same afternoon as The Trails or Pueblo — typically 20–25 minutes from 6150 N Decatur Blvd.",
       },
       {
         name: "Golf campuses that include Red Rock Country Club",
@@ -33,11 +33,11 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
   },
   "/neighborhoods/the-ridges": {
     h3: "Six Ridges villages and about 900 home sites — names before the gate",
-    body: "The Ridges covers nearly 800 acres above Red Rock Country Club. Gate lists are confirmed at Suite 100. Village names on the showing sheet are Bear's Best, Falcon Ridge, Azure, Talon Ridge, Silver Ridge, and Eagle Hills.",
+    body: "The Ridges covers nearly 800 acres above Red Rock Country Club. Gate lists are confirmed at Suite 101. Village names on the showing sheet are Bear's Best, Falcon Ridge, Azure, Talon Ridge, Silver Ridge, and Eagle Hills.",
     pins: [
       {
         name: "About 900 custom home sites",
-        note: "Typical list prices exceed $2 million. Photography and access are scheduled from 9406 W Lake Mead Blvd, Suite 100 — usually 15–20 minutes to the guardhouse.",
+        note: "Typical list prices exceed $2 million. Photography and access are scheduled from 6150 N Decatur Blvd, Suite 101 — usually 20–25 minutes to the guardhouse.",
       },
       {
         name: "Bear's Best Golf Club location within the plat",
@@ -47,7 +47,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
   },
   "/neighborhoods/southern-highlands": {
     h3: "Fairway lots vs ridge streets on the 2,200-acre Southern Highlands plat",
-    body: "This is an I-15 south block, 25–35 minutes from Suite 100. We do not mix it with a Summerlin village day. Fairway lots and ridge-top streets are two different showing clocks on the same plat.",
+    body: "This is an I-15 south block, 35–45 minutes from Suite 101. We do not mix it with a Summerlin village day. Fairway lots and ridge-top streets are two different showing clocks on the same plat.",
     pins: [
       {
         name: "Robert Trent Jones Jr. designed course with 35,000 sq ft clubhouse",
@@ -55,17 +55,17 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
       },
       {
         name: "Guard-gated enclaves on ridge streets",
-        note: "Custom and semi-custom lots sit above the fairways. Guest lists are confirmed from Suite 100. Call (702) 222-1964. Janet Lundahl Elementary is mapped by address at ccsd.net/zoning.",
+        note: "Custom and semi-custom lots sit above the fairways. Guest lists are confirmed from Suite 101. Call (702) 222-1964. Janet Lundahl Elementary is mapped by address at ccsd.net/zoning.",
       },
     ],
   },
   "/neighborhoods/skye-canyon": {
     h3: "Model rows compared to adjacent resales in Skye Canyon that are not in Centennial Hills",
-    body: "Northwest afternoon, 20–25 minutes via the 215. Builder registration happens at Suite 100 first. New rows and resale streets sit next to the 15-acre Skye Center — we walk both so vintage vs new stucco is obvious.",
+    body: "Northwest afternoon, 20–25 minutes via the 215. Builder registration happens at Suite 101 first. New rows and resale streets sit next to the 15-acre Skye Center — we walk both so vintage vs new stucco is obvious.",
     pins: [
       {
         name: "Active builder model rows",
-        note: "Register Dr. Jan as buyer agent before the first model visit. Plans and lot premiums change by phase; we pull the current sheet at 9406 W Lake Mead Blvd.",
+        note: "Register Dr. Jan as buyer agent before the first model visit. Plans and lot premiums change by phase; we pull the current sheet at 6150 N Decatur Blvd.",
       },
       {
         name: "Resales located next to Floyd Lamb Park",
@@ -89,7 +89,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
   },
   "/neighborhoods/green-valley": {
     h3: "1988 street trees plus golf-course lots — Green Valley plats that new Henderson rows do not copy",
-    body: "Founded in 1988. 35-year canopy and larger lots than most newer Henderson villages. The District is the tour midpoint, 25–35 minutes via I-215 east from Suite 100.",
+    body: "Founded in 1988. 35-year canopy and larger lots than most newer Henderson villages. The District is the tour midpoint, 35–45 minutes via I-215 east from Suite 101.",
     pins: [
       {
         name: "35-year street trees and larger lots",
@@ -103,7 +103,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
   },
   "/neighborhoods/henderson": {
     h3: "Water Street civic row compared with MacDonald Highlands custom lots in Henderson",
-    body: "Henderson is Nevada's second-largest city, 25–35 minutes from Suite 100. We pick two contrasting villages on the first east day so you are not listing every mall. 60+ city parks sit under the civic layer.",
+    body: "Henderson is Nevada's second-largest city, 35–45 minutes from Suite 101. We pick two contrasting villages on the first east day so you are not listing every mall. 60+ city parks sit under the civic layer.",
     pins: [
       {
         name: "Water Street District details",
@@ -117,7 +117,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
   },
   "/neighborhoods/inspirada": {
     h3: "Toll Brothers and Lennar rows around a 2,000-acre rec campus",
-    body: "Inspirada is 30–40 minutes from 9406 W Lake Mead Blvd. The rec campus is the point of the drive. Builder registration still starts at the west-valley office.",
+    body: "Inspirada is 35–45 minutes from 6150 N Decatur Blvd. The rec campus is the point of the drive. Builder registration still starts at the Decatur office.",
     pins: [
       {
         name: "Town Center resort pool and 10+ miles of paths",
@@ -131,7 +131,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
   },
   "/neighborhoods/north-las-vegas": {
     h3: "$320,000s entry product compared with Aliante golf lots in North Las Vegas price bands",
-    body: "North Las Vegas is 20–25 minutes via US-95 / I-15. This is not a Summerlin retail swap. Entry product and Aliante golf-adjacent lots are two different showing clocks.",
+    body: "Aliante is about 5–10 minutes. The desk is already in North Las Vegas. This is not a Summerlin retail swap. Entry product and Aliante golf-adjacent lots are two different showing clocks.",
     pins: [
       {
         name: "Entry listings often in the $320,000s–$450,000s",
@@ -149,7 +149,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
     pins: [
       {
         name: "I-15 and Blue Diamond commute route",
-        note: "Strip about 15–20 minutes, Harry Reid International about 20 minutes from many streets. Timed from Suite 100 the week you tour.",
+        note: "Strip about 15–20 minutes, Harry Reid International about 20 minutes from many streets. Timed from Suite 101 the week you tour.",
       },
       {
         name: "Rhodes Ranch Golf Club proximity",

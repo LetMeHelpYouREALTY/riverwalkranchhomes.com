@@ -144,7 +144,7 @@ export default function HeritageAtStonebridgePage() {
           {/* Location Benefits */}
           <section className="mb-16 bg-slate-50 rounded-2xl p-8 md:p-12 max-w-5xl mx-auto">
             <h2 className="text-3xl font-bold text-slate-900 mb-6 text-center">
-              Downtown Summerlin retail, 12–18 minutes from 9406 W Lake Mead
+              Downtown Summerlin retail, 20–25 minutes from 6150 N Decatur
               Blvd
             </h2>
             <div className="grid md:grid-cols-2 gap-6">
@@ -216,17 +216,17 @@ export default function HeritageAtStonebridgePage() {
           {/* CTA */}
           <section className="text-center bg-purple-600 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Get on the Heritage gate list from Suite 100, then Downtown
+              Get on the Heritage gate list from Suite 101, then Downtown
               Summerlin
             </h2>
             <p className="text-xl text-purple-100 mb-8">
-              Heritage sits 10–20 minutes from Suite 100. Tour the staffed gate
+              Heritage sits 20–25 minutes from Suite 101. Tour the staffed gate
               and clubhouse with Dr. Jan Duffy, then Downtown Summerlin if time
               remains.
             </p>
             <CtaActions variant="onDark" />
             <p className="text-purple-200">
-              The Heritage gate is 12–18 minutes from 9406 W Lake Mead Blvd,
+              The Heritage gate is 20–25 minutes from 6150 N Decatur Blvd,
               next to Downtown Summerlin.
             </p>
           <SectionPresence />

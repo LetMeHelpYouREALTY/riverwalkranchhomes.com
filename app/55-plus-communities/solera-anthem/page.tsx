@@ -143,7 +143,7 @@ export default function SoleraAnthemPage() {
           {/* Henderson Location */}
           <section className="mb-16 bg-slate-50 rounded-2xl p-8 md:p-12 max-w-5xl mx-auto">
             <h2 className="text-3xl font-bold text-slate-900 mb-6 text-center">
-              Anthem parks, staffed gate, 30–35 minutes from Suite 100
+              Anthem parks, staffed gate, 35–40 minutes from Suite 101
             </h2>
             <div className="grid md:grid-cols-2 gap-6">
               <div className="bg-white rounded-xl p-6 border border-slate-200">
@@ -170,8 +170,8 @@ export default function SoleraAnthemPage() {
                     </h3>
                     <p className="text-slate-600 text-sm">
                       Located inside the Anthem master-planned streets in
-                      Henderson. Mountain and desert views. 30–35 minutes from
-                      Suite 100.
+                      Henderson. Mountain and desert views. 35–40 minutes from
+                      Suite 101.
                     </p>
                   </div>
                 </div>

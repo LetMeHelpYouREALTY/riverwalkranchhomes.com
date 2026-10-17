@@ -231,7 +231,7 @@ const communities = [
       "Strong sense of community",
     ],
     description:
-      "Siena is a smaller Summerlin 55+ campus with an 18-hole course. Confirm occupancy rules at Suite 100.",
+      "Siena is a smaller Summerlin 55+ campus with an 18-hole course. Confirm occupancy rules at Suite 101.",
     color: "slate",
   },
 ];
@@ -279,14 +279,14 @@ export default function FiftyFiveCommunitiesPage() {
                 <Users className="h-8 w-8 text-blue-600 mr-4 flex-shrink-0 mt-1" />
                 <div>
                   <h3 className="text-xl font-bold text-slate-900 mb-4">
-                    HOPA 80/20 occupancy — packet at Suite 100 before any
+                    HOPA 80/20 occupancy — packet at Suite 101 before any
                     clubhouse
                   </h3>
                   <div className="text-slate-700 space-y-3">
                     <p>
                       <strong>Federal HOPA:</strong> At least 80% of occupied
                       units must have one resident 55 or older. Individual HOAs
-                      can be stricter. We read the packet at 9406 W Lake Mead
+                      can be stricter. We read the packet at 6150 N Decatur
                       Blvd before we drive.
                     </p>
                     <p>
@@ -295,7 +295,7 @@ export default function FiftyFiveCommunitiesPage() {
                       writing. Call (702) 222-1964.
                     </p>
                     <p className="text-blue-800 font-medium">
-                      Sun City Summerlin is 10–15 minutes. Anthem campuses are
+                      Sun City Summerlin is 20–25 minutes. Anthem campuses are
                       30–35. Pick one clock.
                     </p>
                   </div>
@@ -422,7 +422,7 @@ export default function FiftyFiveCommunitiesPage() {
             data-fifty-five-why="/55-plus-communities"
           >
             <h2 className="text-3xl font-bold text-slate-900 mb-6 text-center">
-              HOA packets at Suite 100 before any 55+ clubhouse drive
+              HOA packets at Suite 101 before any 55+ clubhouse drive
             </h2>
             <div className="grid md:grid-cols-2 gap-6">
               <div className="flex items-start">
@@ -432,11 +432,11 @@ export default function FiftyFiveCommunitiesPage() {
                 <div>
                   <h3 className="font-bold text-slate-900 mb-1">
                     Age-qualification packets and HOA reserves — read at Suite
-                    100
+                    101
                   </h3>
                   <p className="text-slate-600 text-sm">
                     Occupancy rules, guest ages, and HOA reserve lines are
-                    reviewed at 9406 W Lake Mead Blvd before any clubhouse. Call
+                    reviewed at 6150 N Decatur Blvd before any clubhouse. Call
                     (702) 222-1964.
                   </p>
                 </div>
@@ -448,11 +448,11 @@ export default function FiftyFiveCommunitiesPage() {
                 <div>
                   <h3 className="font-bold text-slate-900 mb-1">
                     Out-of-state occupancy packet, then one rec campus from
-                    Suite 100
+                    Suite 101
                   </h3>
                   <p className="text-slate-600 text-sm">
-                    Virtual tours and destination intros start at 9406 W
-                    Lake Mead Blvd. We do not stack a Summerlin 55+ morning with
+                    Virtual tours and destination intros start at 6150 N
+                    Decatur Blvd. We do not stack a Summerlin 55+ morning with
                     a Henderson 55+ drive.
                   </p>
                 </div>
@@ -466,8 +466,8 @@ export default function FiftyFiveCommunitiesPage() {
                     Occupancy rules in writing before any clubhouse
                   </h3>
                   <p className="text-slate-600 text-sm">
-                    The Dr. Jan Duffy name is on the paperwork at 9406 W
-                    Lake Mead Blvd, Suite 100. We review age-qualification and
+                    The Dr. Jan Duffy name is on the paperwork at 6150 N
+                    Decatur Blvd, Suite 101. We review age-qualification and
                     guest rules before the drive.
                   </p>
                 </div>
@@ -481,8 +481,8 @@ export default function FiftyFiveCommunitiesPage() {
                     One campus per afternoon — occupancy packet before the drive
                   </h3>
                   <p className="text-slate-600 text-sm">
-                    We review HOA occupancy and guest rules at 9406 W Lake Mead
-                    Blvd, Suite 100, then tour one rec building. Call (702)
+                    We review HOA occupancy and guest rules at 6150 N Decatur
+                    Blvd, Suite 101, then tour one rec building. Call (702)
                     222-1964. We do not stack Summerlin and Henderson 55+ on the
                     same morning.
                   </p>
@@ -495,17 +495,17 @@ export default function FiftyFiveCommunitiesPage() {
           {/* Final CTA */}
           <section className="text-center bg-gradient-to-r from-blue-600 to-blue-700 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Compare two 55+ campuses from Suite 100 — west first, Henderson
+              Compare two 55+ campuses from Suite 101 — west first, Henderson
               second
             </h2>
             <p className="text-xl text-blue-100 mb-8">
-              Sun City Summerlin is 10–15 minutes. Anthem campuses are 30–35.
+              Sun City Summerlin is 20–25 minutes. Anthem campuses are 35–40.
               Call (702) 222-1964 with occupancy questions before we drive.
             </p>
             <CtaActions variant="onDark" />
             <p className="mt-4 text-blue-300 text-sm">
-              Dr. Jan Duffy · 9406 W Lake
-              Mead Blvd, Suite 100, Las Vegas, NV 89134
+              Dr. Jan Duffy · 6150 N Decatur
+              Blvd, Suite 101, North Las Vegas, NV 89031
             </p>
           <SectionPresence />
           </section>

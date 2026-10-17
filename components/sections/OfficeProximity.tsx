@@ -15,98 +15,98 @@ type PlaceDrive = {
 const byPath: Record<string, PlaceDrive> = {
   "/neighborhoods/summerlin": {
     place: "Summerlin",
-    driveMinutes: "10–15 minutes",
+    driveMinutes: "20–25 minutes",
     note: "Village tours in The Trails, Pueblo, and Red Rock Country Club can start the same afternoon as an office meeting.",
   },
   "/neighborhoods/the-ridges": {
     place: "The Ridges",
-    driveMinutes: "15–20 minutes",
+    driveMinutes: "20–25 minutes",
     note: "Guard-gate check-in is coordinated in advance so estate showings stay on schedule.",
   },
   "/neighborhoods/southern-highlands": {
     place: "Southern Highlands",
-    driveMinutes: "25–35 minutes via I-15 south",
+    driveMinutes: "30–40 minutes via I-15 south",
     note: "Golf-course and ridge-top listings are typically grouped into one south-valley tour block.",
   },
   "/neighborhoods/skye-canyon": {
     place: "Skye Canyon",
-    driveMinutes: "20–25 minutes via the 215",
+    driveMinutes: "10–15 minutes via the 215",
     note: "New-construction model rows and resale streets can be seen in one northwest loop.",
   },
   "/neighborhoods/centennial-hills": {
     place: "Centennial Hills",
-    driveMinutes: "15–20 minutes via US-95",
-    note: "Mountain-view streets near Floyd Lamb Park are a short hop from the office pin.",
+    driveMinutes: "5–10 minutes",
+    note: "Mountain-view streets near Centennial Hills Park are about 5–10 minutes from the office pin.",
   },
   "/neighborhoods/green-valley": {
     place: "Green Valley",
-    driveMinutes: "25–35 minutes via I-215 east",
+    driveMinutes: "35–45 minutes via I-215 east",
     note: "The District at Green Valley Ranch serves as a practical midpoint for Henderson listing tours.",
   },
   "/neighborhoods/inspirada": {
     place: "Inspirada",
-    driveMinutes: "30–40 minutes",
+    driveMinutes: "35–45 minutes",
     note: "Amenity-center and builder-row tours are scheduled as a south Henderson block.",
   },
   "/neighborhoods/henderson": {
     place: "Henderson",
-    driveMinutes: "25–35 minutes",
+    driveMinutes: "35–45 minutes",
     note: "Green Valley, Anthem, Inspirada, and Water Street stops are planned from the same office start.",
   },
   "/neighborhoods/mountains-edge": {
     place: "Mountains Edge",
-    driveMinutes: "20–30 minutes via the southwest Beltway",
+    driveMinutes: "30–40 minutes via the southwest Beltway",
     note: "Exploration Peak trailheads and resale streets fit a single southwest loop.",
   },
   "/neighborhoods/north-las-vegas": {
-    place: "North Las Vegas",
-    driveMinutes: "It takes 20–25 minutes via US-95 / I-15.",
-    note: "Aliante, Craig Road employment corridors, and new-construction villages are grouped together.",
+    place: "Aliante",
+    driveMinutes: "5–10 minutes",
+    note: "The desk is already in North Las Vegas. Craig Road corridors and new-construction villages can share this north loop.",
   },
   "/55-plus-communities/sun-city-summerlin": {
     place: "Sun City Summerlin",
-    driveMinutes: "10–15 minutes",
-    note: "Three golf campuses and four recreation centers can be previewed without a long freeway run.",
+    driveMinutes: "20–25 minutes",
+    note: "Three golf campuses and four recreation centers are about 20–25 minutes via the 215.",
   },
   "/55-plus-communities/sun-city-anthem": {
     place: "Sun City Anthem",
-    driveMinutes: "30–35 minutes",
+    driveMinutes: "35–40 minutes",
     note: "Anthem Center and upper-elevation streets are scheduled as a Henderson 55+ block.",
   },
   "/55-plus-communities/trilogy-summerlin": {
     place: "Trilogy at Summerlin",
-    driveMinutes: "12–18 minutes",
-    note: "Clubhouse, spa, and Shea plan rows sit on the same west-valley side as the office.",
+    driveMinutes: "20–25 minutes",
+    note: "Clubhouse, spa, and Shea plan rows are about 20–25 minutes via the 215.",
   },
   "/55-plus-communities/heritage-stonebridge": {
     place: "Heritage at Stonebridge",
-    driveMinutes: "12–18 minutes",
-    note: "The 24/7 gate and Downtown Summerlin retail are a short west-valley hop from Lake Mead Blvd.",
+    driveMinutes: "20–25 minutes",
+    note: "The 24/7 gate and Downtown Summerlin retail are about 20–25 minutes from 6150 N Decatur Blvd.",
   },
   "/55-plus-communities/solera-anthem": {
     place: "Solera at Anthem",
-    driveMinutes: "30–35 minutes",
+    driveMinutes: "35–40 minutes",
     note: "This smaller 55+ campus is toured with nearby Anthem parks rather than a valley-wide hopscotch.",
   },
   "/55-plus-communities/sun-city-aliante": {
     place: "Sun City Aliante",
-    driveMinutes: "20–25 minutes",
-    note: "The 18-hole course and rec campus sit next to the Aliante retail strip for a compact north tour.",
+    driveMinutes: "5–10 minutes",
+    note: "The 18-hole course and rec campus are about 5–10 minutes from this pin.",
   },
   "/55-plus-communities/del-webb-lake-las-vegas": {
     place: "Del Webb is located at Lake Las Vegas.",
-    driveMinutes: "35–45 minutes",
-    note: "Lake-adjacent plans and Reflection Bay golf are blocked as an east-Henderson half day.",
+    driveMinutes: "40–50 minutes",
+    note: "Lake-adjacent plans and Reflection Bay golf are about 40–50 minutes and are blocked as an east-Henderson half day.",
   },
   "/": {
     place: "We offer tours of Las Vegas, Henderson, and Summerlin.",
     driveMinutes: "same day from this pin",
-    note: "Buyer and seller appointments start at the west-valley office, then loop Summerlin first and Henderson second.",
+    note: "Buyer and seller appointments start at the Decatur office, then loop Summerlin first and Henderson second.",
   },
   "/about": {
     place: "You can have an in-person consult with Dr. Jan Duffy.",
     driveMinutes: "you are already at the pin",
-    note: "License S.0197614.LLC appointments are held at Suite 100 unless we meet at a listing.",
+    note: "License S.0197614.LLC appointments are held at Suite 101 unless we meet at a listing.",
   },
   "/contact": {
     place: "the contact desk",
@@ -120,23 +120,23 @@ const byPath: Record<string, PlaceDrive> = {
   },
   "/faq": {
     place: "a live Q&A",
-    driveMinutes: "10 minutes from most Summerlin villages",
+    driveMinutes: "20–25 minutes from most Summerlin villages",
     note: "Bring loan pre-approval and a target ZIP; we map commute minutes to listings from this desk.",
   },
   "/services": {
     place: "We provide a service consult (buy, sell, 55+, relocation).",
     driveMinutes: "on-site",
-    note: "Each service meeting starts here so paperwork, MLS, and showing routes use the same west-valley start.",
+    note: "Each service meeting starts here so paperwork, MLS, and showing routes use the same Decatur start.",
   },
   "/security-policy": {
     place: "privacy questions",
     driveMinutes: "email or office visit",
-    note: "Data and showing-access questions are handled at Suite 100; we do not collect listing keys by unsecured email.",
+    note: "Data and showing-access questions are handled at Suite 101; we do not collect listing keys by unsecured email.",
   },
   "/listings": {
     place: "live MLS search follow-up",
     driveMinutes: "same-day tours from this pin",
-    note: "You save the RealScout results, then we sequence Summerlin, Henderson, or 55+ stops from Lake Mead Blvd.",
+    note: "You save the RealScout results, then we sequence Summerlin, Henderson, or 55+ stops from 6150 N Decatur Blvd.",
   },
   "/home-valuation": {
     place: "a CMA review",
@@ -165,23 +165,23 @@ const byPath: Record<string, PlaceDrive> = {
   },
   "/buyers/luxury-homes-las-vegas": {
     place: "private luxury showings",
-    driveMinutes: "15–20 minutes to The Ridges",
+    driveMinutes: "20–25 minutes to The Ridges",
     note: "Gate codes and off-market times are confirmed here; we do not send luxury addresses over unsecured text threads.",
   },
   "/sellers": {
     place: "listing appointment prep",
     driveMinutes: "we come to your house after this brief",
-    note: "Pricing, photos, and listing marketing are scoped at Suite 100, then we go on-site for the CMA walkthrough.",
+    note: "Pricing, photos, and listing marketing are scoped at Suite 101, then we go on-site for the CMA walkthrough.",
   },
   "/sellers/move-up": {
     place: "sale-and-purchase timing",
     driveMinutes: "two stops from this pin",
-    note: "We map your current home and your next ZIP so both tours share one west-valley start.",
+    note: "We map your current home and your next ZIP so both tours share one Decatur start.",
   },
   "/sellers/downsizing": {
     place: "downsize and 55+ options",
-    driveMinutes: "It is 10–15 minutes to Sun City Summerlin.",
-    note: "List the larger home first or tour 55+ campuses the same day—both start from Lake Mead Blvd.",
+    driveMinutes: "It is 20–25 minutes to Sun City Summerlin.",
+    note: "List the larger home first or tour 55+ campuses the same day—both start from 6150 N Decatur Blvd.",
   },
   "/sellers/relocation": {
     place: "outbound sale coordination",
@@ -190,7 +190,7 @@ const byPath: Record<string, PlaceDrive> = {
   },
   "/sellers/divorce-probate": {
     place: "confidential file review",
-    driveMinutes: "by appointment at Suite 100",
+    driveMinutes: "by appointment at Suite 101",
     note: "Court dates, attorney contacts, and showing access are handled here—not in a public lobby conversation.",
   },
   "/relocation": {
@@ -205,13 +205,13 @@ const byPath: Record<string, PlaceDrive> = {
   },
   "/luxury-homes": {
     place: "luxury listing or search intake",
-    driveMinutes: "Travel time is 15–35 minutes to Ridges, Highlands, or Lake Las Vegas",
+    driveMinutes: "Travel time is 20–25 minutes to The Ridges, 30–40 to Southern Highlands, or 40–50 to Lake Las Vegas",
     note: "Marketing or private-search scope is set at the office so photography and gate access are not improvised on site.",
   },
   "/why-berkshire-hathaway": {
     place: "brand and representation questions",
     driveMinutes: "on-site",
-    note: "referral network referrals and listing marketing samples are shown at Suite 100 before you commit to a listing agreement.",
+    note: "referral network referrals and listing marketing samples are shown at Suite 101 before you commit to a listing agreement.",
   },
   "/market-insights": {
     place: "market briefing",
@@ -230,12 +230,12 @@ const byPath: Record<string, PlaceDrive> = {
   },
   "/neighborhoods": {
     place: "neighborhood comparison",
-    driveMinutes: "Travel time is 10–15 min to Summerlin, 25–35 min to Henderson",
-    note: "We pick two contrasting areas (for example Summerlin vs Green Valley) and tour them from this west-valley start.",
+    driveMinutes: "Travel time is 20–25 min to Summerlin, 35–45 min to Henderson",
+    note: "We pick two contrasting areas (for example Summerlin vs Green Valley) and tour them from this Decatur start.",
   },
   "/55-plus-communities": {
     place: "55+ campus comparison",
-    driveMinutes: "Travel time is 10–15 min to Sun City Summerlin, 30–35 min to Anthem",
+    driveMinutes: "Travel time is 20–25 min to Sun City Summerlin, 35–40 min to Anthem",
     note: "Age-restriction rules and HOA packets are reviewed here before we drive to clubhouses.",
   },
 };
@@ -254,9 +254,9 @@ export default function OfficeProximity({ path }: OfficeProximityProps) {
         Drive time from {nap.street} to {row.place}
       </h2>
       <p className="text-slate-700 mb-4">
-        Showings start at {nap.fullAddress}. Typical drive to {row.place} is{" "}
-        {row.driveMinutes}.{" "}
-        {row.note}
+        Showings start at {nap.fullAddress}. Typical off-peak drive to{" "}
+        {row.place} is {row.driveMinutes}. {row.note} These ranges are
+        driving estimates from this pin, not a live traffic promise.
       </p>
       <p className="text-sm text-slate-600 mb-4">
         Office (matches Google Business): {officePhone.display}. Call or text{" "}

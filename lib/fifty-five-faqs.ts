@@ -24,15 +24,15 @@ export type FiftyFiveFaqCopy = {
 
 export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
   "/55-plus-communities": {
-    h2: "Which 55+ campus do we time first from Suite 100?",
+    h2: "Which 55+ campus do we time first from Suite 101?",
     items: [
       {
-        q: "Which 55+ campus do we time first from 9406 W Lake Mead Blvd?",
-        a: "Sun City Summerlin is 10–15 minutes from Suite 100. Anthem campuses are 30–35 minutes. We review HOA packets and HOPA occupancy rules at the desk before we drive to clubhouses. Call (702) 222-1964.",
+        q: "Which 55+ campus do we time first from 6150 N Decatur Blvd?",
+        a: "Sun City Summerlin is 20–25 minutes from Suite 101. Anthem campuses are 35–40 minutes. We review HOA packets and HOPA occupancy rules at the desk before we drive to clubhouses. Call (702) 222-1964.",
       },
       {
         q: "What HOPA occupancy rule do you review before a clubhouse tour?",
-        a: "HOPA requires at least 80% of occupied units to have one resident 55 or older. Most campuses allow a younger spouse. Solera at Anthem requires all residents 55+ — confirm that packet in writing. Dr. Jan Duffy is at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
+        a: "HOPA requires at least 80% of occupied units to have one resident 55 or older. Most campuses allow a younger spouse. Solera at Anthem requires all residents 55+ — confirm that packet in writing. Dr. Jan Duffy is at 6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031.",
       },
       {
         q: "What January 2026 price band did this hub last publish?",
@@ -45,11 +45,11 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
     ],
   },
   "/55-plus-communities/sun-city-summerlin": {
-    h2: "Three golf campuses, four rec centers — west-valley FAQ from Suite 100",
+    h2: "Three golf campuses, four rec centers — west-valley FAQ from Suite 101",
     items: [
       {
         q: "Can we preview rec centers and golf campuses in one west-valley afternoon?",
-        a: "Yes. Sun City Summerlin is 10–15 minutes from 9406 W Lake Mead Blvd. Highland Falls, Palm Valley, and Eagle Crest plus Mountain Shadows, Sun Shadows, Pinnacle, and Desert Vista rec centers can be sequenced the same afternoon. Call (702) 222-1964.",
+        a: "Yes. Sun City Summerlin is 20–25 minutes from 6150 N Decatur Blvd. Highland Falls, Palm Valley, and Eagle Crest plus Mountain Shadows, Sun Shadows, Pinnacle, and Desert Vista rec centers can be sequenced the same afternoon. Call (702) 222-1964.",
       },
       {
         q: "What January 2026 price and HOA range was published for Sun City Summerlin?",
@@ -60,8 +60,8 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
         a: "About 7,700 homes with three golf courses, four recreation centers, and 100+ clubs. Mountain View Hospital sits adjacent to the campus. We walk one rec center and one golf campus before writing offers.",
       },
       {
-        q: "Do Sun City Summerlin tours start at Suite 100 or at a rec center?",
-        a: "Suite 100 first so age-restriction and HOA questions are on paper. Then we pick the rec center you will actually use. Call (702) 222-1964. Register before walking model streets.",
+        q: "Do Sun City Summerlin tours start at Suite 101 or at a rec center?",
+        a: "Suite 101 first so age-restriction and HOA questions are on paper. Then we pick the rec center you will actually use. Call (702) 222-1964. Register before walking model streets.",
       },
     ],
   },
@@ -70,7 +70,7 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
     items: [
       {
         q: "Is Sun City Anthem a same-morning add-on after Summerlin 55+?",
-        a: "No. Sun City Anthem is 30–35 minutes from the Lake Mead Blvd pin. Anthem Center, golf, and upper-elevation streets are one Henderson 55+ block — not mixed with Summerlin 55+ the same morning. Call (702) 222-1964.",
+        a: "No. Sun City Anthem is 35–40 minutes from 6150 N Decatur Blvd. Anthem Center, golf, and upper-elevation streets are one Henderson 55+ block — not mixed with Summerlin 55+ the same morning. Call (702) 222-1964.",
       },
       {
         q: "What price and HOA range were published for Sun City Anthem in January 2026?",
@@ -82,7 +82,7 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
       },
       {
         q: "What occupancy rule is included in the Sun City Anthem HOA packet?",
-        a: "At least one resident 55 or older per home, with remaining occupancy limits in the HOA docs we review at Suite 100. We do not substitute a marketing line for that packet. Call (702) 222-1964.",
+        a: "At least one resident 55 or older per home, with remaining occupancy limits in the HOA docs we review at Suite 101. We do not substitute a marketing line for that packet. Call (702) 222-1964.",
       },
     ],
   },
@@ -90,8 +90,8 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
     h2: "How far are the Trilogy clubhouse, spa, and Shea rows from the office?",
     items: [
       {
-        q: "How far is the Trilogy clubhouse from Suite 100?",
-        a: "Trilogy at Summerlin is 12–18 minutes from 9406 W Lake Mead Blvd. Clubhouse, spa, and Shea Homes plan rows sit on the same west-valley side as the office — no Henderson freeway tax. Call (702) 222-1964.",
+        q: "How far is the Trilogy clubhouse from Suite 101?",
+        a: "Trilogy at Summerlin is 20–25 minutes from 6150 N Decatur Blvd. Clubhouse, spa, and Shea Homes plan rows sit on the about 20–25 minutes from the Decatur office. Call (702) 222-1964.",
       },
       {
         q: "What January 2026 price and HOA range was published for Trilogy?",
@@ -103,16 +103,16 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
       },
       {
         q: "Do we register at the office before walking Shea plan rows?",
-        a: "Yes. Register for a private tour at Suite 100 so the amenity you pay HOA for is the first stop, then walk plans. Dr. Jan Duffy holds the listing or buyer paperwork at 9406 W Lake Mead Blvd, Suite 100.",
+        a: "Yes. Register for a private tour at Suite 101 so the amenity you pay HOA for is the first stop, then walk plans. Dr. Jan Duffy holds the listing or buyer paperwork at 6150 N Decatur Blvd, Suite 101.",
       },
     ],
   },
   "/55-plus-communities/heritage-stonebridge": {
-    h2: "Staffed gate and Downtown Summerlin — a 12–18 minute west-valley FAQ",
+    h2: "Staffed gate and Downtown Summerlin — a 20–25 minute FAQ",
     items: [
       {
-        q: "Do Heritage showings start with a gate list from Suite 100?",
-        a: "Yes. Heritage at Stonebridge is 12–18 minutes from the GBP office. We put you on the guest list from 9406 W Lake Mead Blvd, Suite 100 so arrival is not improvised. Call (702) 222-1964.",
+        q: "Do Heritage showings start with a gate list from Suite 101?",
+        a: "Yes. Heritage at Stonebridge is 20–25 minutes from the GBP office. We put you on the guest list from 6150 N Decatur Blvd, Suite 101 so arrival is not improvised. Call (702) 222-1964.",
       },
       {
         q: "What January 2026 price and HOA range was published for Heritage at Stonebridge?",
@@ -120,11 +120,11 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
       },
       {
         q: "How is Heritage different from a 7,700-home Sun City campus?",
-        a: "It is a smaller 55+ campus with a staffed gate and a Summerlin ZIP next to Downtown Summerlin retail — not a four-rec-center mega campus. Age-restriction and guest rules are reviewed at Suite 100.",
+        a: "It is a smaller 55+ campus with a staffed gate and a Summerlin ZIP next to Downtown Summerlin retail — not a four-rec-center mega campus. Age-restriction and guest rules are reviewed at Suite 101.",
       },
       {
         q: "Is Downtown Summerlin on the same route as the Heritage gate?",
-        a: "Yes. The staffed gate and Downtown Summerlin shops are a short west-valley hop after the office. That is the comparison if you want 55+ with a gate, not a 7,700-home campus.",
+        a: "Yes. The staffed gate and Downtown Summerlin shops are about 20–25 minutes from the Decatur office after the office. That is the comparison if you want 55+ with a gate, not a 7,700-home campus.",
       },
     ],
   },
@@ -133,7 +133,7 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
     items: [
       {
         q: "Is Solera all-residents-55+ or HOPA 80/20?",
-        a: "All residents must be 55+ at Solera at Anthem. Confirm the HOA occupancy rule in writing at Suite 100 before the 30–35 minute Henderson drive. Call (702) 222-1964.",
+        a: "All residents must be 55+ at Solera at Anthem. Confirm the HOA occupancy rule in writing at Suite 101 before the 35–40 minute Henderson drive. Call (702) 222-1964.",
       },
       {
         q: "What January 2026 price and HOA range was published for Solera at Anthem?",
@@ -145,7 +145,7 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
       },
       {
         q: "Can Solera be toured together with Sun City Anthem in the same Henderson afternoon?",
-        a: "Only if that is the brief. Solera is toured with nearby Anthem parks as a 30–35 minute block from Suite 100. We do not hopscotch the whole valley. Call (702) 222-1964.",
+        a: "Only if that is the brief. Solera is toured with nearby Anthem parks as a 35–40 minute block from Suite 101. We do not hopscotch the whole valley. Call (702) 222-1964.",
       },
     ],
   },
@@ -153,8 +153,8 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
     h2: "What recreational amenities does Aliante offer for north 55+ residents?",
     items: [
       {
-        q: "Is Sun City Aliante arranged as a north loop starting from Suite 100?",
-        a: "Yes. Sun City Aliante is 20–25 minutes from 9406 W Lake Mead Blvd. The golf course and recreation campus sit next to Aliante retail. This provides a compact north tour. Call (702) 222-1964.",
+        q: "Is Sun City Aliante arranged as a north loop starting from Suite 101?",
+        a: "Yes. Sun City Aliante is 5–10 minutes from 6150 N Decatur Blvd. The golf course and recreation campus sit next to Aliante retail. This provides a compact north tour. Call (702) 222-1964.",
       },
       {
         q: "What were the January 2026 price and HOA range for Sun City Aliante?",
@@ -179,11 +179,11 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
       },
       {
         q: "What were the January 2026 price and HOA range for Del Webb at Lake Las Vegas?",
-        a: "Homes typically range from about $400,000 to $900,000 as of January 2026. Monthly HOA is about $200–$280. Dock and golf rules are in the packet reviewed at Suite 100. Confirm live MLS.",
+        a: "Homes typically range from about $400,000 to $900,000 as of January 2026. Monthly HOA is about $200–$280. Dock and golf rules are in the packet reviewed at Suite 101. Confirm live MLS.",
       },
       {
         q: "What do we time before floor plans — shoreline or golf?",
-        a: "The property offers shoreline and golf views before interior finishes. The longer drive provides water and golf context. Visit at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
+        a: "The property offers shoreline and golf views before interior finishes. The longer drive provides water and golf context. Visit at 6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031.",
       },
       {
         q: "Do Summerlin 55+ communities mix with Lake Las Vegas morning?",

@@ -140,7 +140,7 @@ export default function SecurityPolicyPage() {
           <section className="mb-12">
             <p className="text-gray-700 mb-4">
               Vendors named on this URL. Keys and wire instructions stay at
-              Suite 100:
+              Suite 101:
             </p>
             <ul className="list-disc pl-6 text-gray-700 space-y-2">
               <li>
@@ -240,7 +240,7 @@ export default function SecurityPolicyPage() {
               <address className="not-italic mt-4 text-gray-700">
                 Dr. Jan Duffy
                 <br />
-                9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134
+                6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031
               </address>
             </div>
             <div className="mt-8">

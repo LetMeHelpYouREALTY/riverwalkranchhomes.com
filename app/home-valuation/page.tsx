@@ -61,7 +61,7 @@ export default function HomeValuationPage() {
 
           <section className="max-w-4xl mx-auto mb-16">
             <h2 className="text-2xl font-bold text-slate-900 mb-3 text-center">
-              RealScout estimate first, then a dated CMA at Suite 100
+              RealScout estimate first, then a dated CMA at Suite 101
             </h2>
             <p className="text-slate-600 text-center mb-6">
               Enter your Las Vegas or Henderson address for a live estimate,
@@ -77,7 +77,7 @@ export default function HomeValuationPage() {
             <div className="bg-white border border-slate-200 rounded-lg overflow-hidden">
               <div className="bg-blue-600 text-white p-4 text-center">
                 <h2 className="text-2xl font-bold">
-                  Book the CMA at Suite 100 — Calendly on this column
+                  Book the CMA at Suite 101 — Calendly on this column
                 </h2>
                 <p className="text-blue-100 text-sm mt-1">
                   Book a consultation with Dr. Jan Duffy
@@ -94,7 +94,7 @@ export default function HomeValuationPage() {
             <div className="space-y-8">
               <div className="bg-slate-900 text-white rounded-lg p-8">
                 <h2 className="text-2xl font-bold mb-4">
-                  APN at Suite 100 — comps, not a portal screenshot
+                  APN at Suite 101 — comps, not a portal screenshot
                 </h2>
                 <p className="text-slate-300 mb-6">
                   Online estimators like Zillow's "Zestimate" can be off by 10%
@@ -271,7 +271,7 @@ export default function HomeValuationPage() {
           {/* The Valuation Process */}
           <section className="max-w-5xl mx-auto mb-16">
             <h2 className="text-3xl font-bold text-slate-900 mb-8 text-center">
-              APN, street comps, then a dated CMA at Suite 100 — four steps
+              APN, street comps, then a dated CMA at Suite 101 — four steps
             </h2>
             <div className="space-y-6">
               <div className="flex items-start">
@@ -346,7 +346,7 @@ export default function HomeValuationPage() {
           {/* CTA */}
           <section className="text-center bg-blue-600 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Bring the APN to Suite 100 — (702) 222-1964 or Calendly
+              Bring the APN to Suite 101 — (702) 222-1964 or Calendly
             </h2>
             <p className="text-xl text-blue-100 mb-8">
               Get a free, no-obligation home valuation from Dr. Jan Duffy and

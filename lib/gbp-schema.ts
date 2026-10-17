@@ -7,10 +7,10 @@ export const businessInfo = {
   // NAP - Must match GBP exactly
   name: "Dr. Jan Duffy - Berkshire Hathaway HomeServices Nevada Properties",
   address: {
-    streetAddress: "9406 W Lake Mead Blvd, Suite 100",
-    addressLocality: "Las Vegas",
+    streetAddress: "6150 N Decatur Blvd, Suite 101",
+    addressLocality: "North Las Vegas",
     addressRegion: "NV",
-    postalCode: "89134",
+    postalCode: "89031",
     addressCountry: "US",
   },
   phone: {
@@ -37,8 +37,8 @@ export const businessInfo = {
 
   // Geo coordinates for distance ranking
   geo: {
-    latitude: 36.1941,
-    longitude: -115.2678,
+    latitude: 36.272079,
+    longitude: -115.206626,
   },
 
   // Service areas - Start focused, expand with prominence
@@ -182,7 +182,7 @@ Dr. Jan's approach is simple: treat every client with the same care, know the ma
 
 55+ active adult community specialization covers Sun City Summerlin (Nevada's largest 55+ community), Sun City Anthem in Henderson, Del Webb Lake Las Vegas, and Solera at Anthem. Investment property expertise spans single-family rentals, multi-family opportunities, and short-term rental analysis across the Las Vegas metro area.
 
-Office located at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Available Monday through Friday 9am-6pm, Saturday 10am-4pm, and Sunday by appointment. Call (702) 222-1964 to tour Riverwalk Ranch Homes in North Las Vegas 89031, or any other Las Vegas Valley search.`,
+Office located at 6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031. Available Monday through Friday 9am-6pm, Saturday 10am-4pm, and Sunday by appointment. Call (702) 222-1964 to tour Riverwalk Ranch Homes in North Las Vegas 89031, or any other Las Vegas Valley search.`,
 };
 
 // FAQ Schema for GBP Q&A section
@@ -232,7 +232,7 @@ export const gbpFAQs = [
   {
     question: "Schedule a consultation with Dr Jan Duffy",
     answer:
-      "Call or text (702) 500-1942 or email DrDuffySells@RiverwalkRanchHomes.com for immediate assistance. Office visits are at 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Hours are Monday-Friday 9am-6pm, Saturday 10am-4pm, Sunday by appointment.",
+      "Call or text (702) 500-1942 or email DrDuffySells@RiverwalkRanchHomes.com for immediate assistance. Office visits are at 6150 N Decatur Blvd, Suite 101, North Las Vegas, NV 89031. Hours are Monday-Friday 9am-6pm, Saturday 10am-4pm, Sunday by appointment.",
   },
   {
     question: "Dr Jan Duffy investment property services in Las Vegas",
@@ -251,18 +251,14 @@ export function generateLocalBusinessSchema(
     "@type": "RealEstateAgent",
     "@id": `${origin}/#organization`,
     name: businessInfo.name,
-    image: [
-      `${origin}/images/dr-jan-duffy.jpg`,
-      `${origin}/images/hero/office-lake-mead-blvd.jpg`,
-      `${origin}/images/hero/west-las-vegas-office-exterior.jpg`,
-    ],
+    image: [`${origin}/images/dr-jan-duffy.jpg`],
     logo: `${origin}/images/dr-jan-duffy.jpg`,
     url: origin,
     telephone: businessInfo.phone.tel,
     email: businessInfo.email,
     priceRange: businessInfo.priceRange,
     hasMap:
-      "https://www.google.com/maps/search/?api=1&query=9406+W+Lake+Mead+Blvd+Suite+100+Las+Vegas+NV+89134",
+      "https://www.google.com/maps/search/?api=1&query=6150+N+Decatur+Blvd+Suite+101+North+Las+Vegas+NV+89031",
     openingHours: ["Mo-Fr 09:00-18:00", "Sa 10:00-16:00"],
     knowsAbout: [
       "Las Vegas real estate",
@@ -336,7 +332,7 @@ export function generateLocalBusinessSchema(
     },
     sameAs: [
       ...businessInfo.socialProfiles,
-      "https://www.google.com/maps/search/?api=1&query=9406+W+Lake+Mead+Blvd+Suite+100+Las+Vegas+NV+89134",
+      "https://www.google.com/maps/search/?api=1&query=6150+N+Decatur+Blvd+Suite+101+North+Las+Vegas+NV+89031",
     ],
   };
 }

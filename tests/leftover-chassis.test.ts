@@ -143,7 +143,7 @@ const pages: { file: string; needles: string[]; banned: string[] }[] = [
       '<LeftoverBand path="/new-construction" slot={1} />',
       '<LeftoverBand path="/new-construction" slot={2} />',
       '<LeftoverBand path="/new-construction" slot={3} />',
-      "Register Dr. Jan at Suite 100 before any Skye Canyon or Inspirada model",
+      "Register Dr. Jan at Suite 101 before any Skye Canyon or Inspirada model",
     ],
     banned: [
       "Premier locations",
@@ -158,8 +158,8 @@ const pages: { file: string; needles: string[]; banned: string[] }[] = [
     needles: [
       '<LeftoverBand path="/google-business" />',
       '<LeftoverBand path="/google-business" slot={1} />',
-      "Mon–Fri 9am–6pm, Sat 10am–4pm at Suite 100",
-      "Maps pin at 9406 W Lake Mead Blvd",
+      "Mon–Fri 9am–6pm, Sat 10am–4pm at Suite 101",
+      "Maps pin at 6150 N Decatur Blvd",
     ],
     banned: [
       ">Real Estate Services<",
@@ -199,7 +199,7 @@ const pages: { file: string; needles: string[]; banned: string[] }[] = [
   {
     file: "app/about/page.tsx",
     needles: [
-      "commute minutes from Suite 100",
+      "commute minutes from Suite 101",
       '<LeftoverBand path="/about" />',
       '<LeftoverBand path="/about" slot={1} />',
     ],
@@ -272,7 +272,7 @@ const pages: { file: string; needles: string[]; banned: string[] }[] = [
   {
     file: "app/neighborhoods/henderson/page.tsx",
     needles: [
-      "drive time from Suite 100",
+      "drive time from Suite 101",
       '<LeftoverBand path="/neighborhoods/henderson" />',
     ],
     banned: ["every lifestyle and budget", "trusted specialist"],
@@ -408,7 +408,7 @@ const pages: { file: string; needles: string[]; banned: string[] }[] = [
       '<LeftoverBand path="/relocation" slot={1} />',
       '<LeftoverBand path="/relocation" slot={2} />',
       "California paycheck, Nevada PITI",
-      "Book Suite 100 before the first inbound ZIP",
+      "Book Suite 101 before the first inbound ZIP",
     ],
     banned: [
       "unique lifestyle",
@@ -585,7 +585,7 @@ const pages: { file: string; needles: string[]; banned: string[] }[] = [
     needles: [
       '<LeftoverBand path="/55-plus-communities/heritage-stonebridge" />',
       "1,100+ Homes, $175–$220 HOA, $400K–$750K Band",
-      "Downtown Summerlin retail, 12–18 minutes",
+      "Downtown Summerlin retail, 20–25 minutes",
     ],
     banned: [
       ">About Heritage at Stonebridge<",
@@ -598,7 +598,7 @@ const pages: { file: string; needles: string[]; banned: string[] }[] = [
     needles: [
       '<LeftoverBand path="/55-plus-communities/solera-anthem" />',
       "1,200+ Homes, $170–$210 HOA, $380K–$650K Band",
-      "Anthem parks, staffed gate, 30–35 minutes from Suite 100",
+      "Anthem parks, staffed gate, 35–40 minutes from Suite 101",
     ],
     banned: [
       ">About Solera at Anthem<",
