@@ -23,7 +23,7 @@ import RealScoutSearch from "@/components/realscout/RealScoutSearch";
 
 export const metadata: Metadata = pageMetadata({
   path: "/55-plus-communities/del-webb-lake-las-vegas",
-  title: "Del Webb at Lake Las Vegas Homes | Berkshire Hathaway HomeServices",
+  title: "Del Webb at Lake Las Vegas Homes | Dr. Jan Duffy",
   description:
     "Lakefront 55+ living at Del Webb Lake Las Vegas. Homes from $400K-$900K. Resort amenities, stunning lake and mountain views. Dr. Jan Duffy. Call (702) 222-1964.",
   keywords: [
@@ -91,9 +91,7 @@ export default function DelWebbLakeLasVegasPage() {
                 confirm them the week you tour.
               </p>
               <p>
-                <strong>
-                  Berkshire Hathaway HomeServices Nevada Properties
-                </strong>{" "}
+                Dr. Jan Duffy{" "}
                 helps buyers navigate Del Webb's various floor plans and lot
                 positions. Dr. Jan Duffy provides guidance on which phases offer
                 the best value and which premium lots justify their price

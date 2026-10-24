@@ -64,7 +64,7 @@ export const photos = {
   },
   office: {
     src: "/images/hero/office-lake-mead-blvd.jpg",
-    alt: "Berkshire Hathaway HomeServices Nevada Properties office area near 9406 W Lake Mead Blvd, Las Vegas",
+    alt: "Office area near 9406 W Lake Mead Blvd, Las Vegas",
     width: 1920,
     height: 1080,
   },
@@ -82,7 +82,7 @@ export const photos = {
   },
   agent: {
     src: "/images/agent/dr-jan-duffy-headshot.jpg",
-    alt: "Dr. Jan Duffy, REALTOR®, Berkshire Hathaway HomeServices Nevada Properties",
+    alt: "Dr. Jan Duffy, REALTOR®",
     width: 1024,
     height: 1365,
   },
@@ -684,7 +684,7 @@ export function villageDetailPhotoForPath(path: string, slot = 0): SitePhoto {
   return photos.consultation;
 }
 
-/** Twentieth stills for process-step / Why-BHHS interiors (not the H1–H3 or quote still). */
+/** Twentieth stills for process-step / Why-Dr. Jan Duffy interiors (not the H1–H3 or quote still). */
 export function processPhotoForPath(path: string, slot = 0): SitePhoto {
   if (path === "/buyers" && slot === 0) return photos.officeExterior;
   if (path === "/listings" && slot === 0) return photos.office;

@@ -28,9 +28,9 @@ import { mediaUrl, photos } from "@/lib/media";
 
 export const metadata: Metadata = pageMetadata({
   path: "/about",
-  title: "About Dr. Jan Duffy | Berkshire Hathaway HomeServices Las Vegas",
+  title: "About Dr. Jan Duffy | Las Vegas REALTOR®",
   description:
-    "Meet Dr. Jan Duffy, your trusted Berkshire Hathaway HomeServices Nevada Properties agent. Serving Las Vegas since 2008, $127M+ in transactions, Henderson & Summerlin specialist. Call (702) 222-1964.",
+    "Meet Dr. Jan Duffy, your trusted agent. In real estate since 1983, $127M+ in transactions, Henderson & Summerlin specialist. Call (702) 222-1964.",
   keywords: [
     "Dr. Jan Duffy",
     "Berkshire Hathaway HomeServices agent",
@@ -106,16 +106,13 @@ export default function AboutPage() {
         <div className="container mx-auto px-4">
           {/* Hero Section */}
           <div className="max-w-4xl mx-auto text-center mb-16">
-            <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
-            </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
-              Meet Your Berkshire Hathaway HomeServices Agent
+              Meet Your Agent, Dr. Jan Duffy
             </h1>
             <HeadingPhoto path="/about" />
             <p className="text-xl text-slate-600">
-              Dr. Jan Duffy has been serving Las Vegas since 2008—backed by the
-              most trusted name in real estate. Whether you're buying, selling,
+              Dr. Jan Duffy, Top 1% Las Vegas REALTOR®, has been in real estate
+              since 1983. Whether you're buying, selling,
               investing, or relocating, you'll receive expert guidance with
               integrity and professionalism.
             </p>
@@ -135,20 +132,20 @@ export default function AboutPage() {
                   Dr. Jan Duffy
                 </h2>
                 <p className="text-lg text-blue-600 mb-6">
-                  REALTOR® | License S.0197614.LLC
+                  REALTOR®
                 </p>
 
                 <div className="prose prose-lg text-slate-700 mb-8 space-y-4">
                   <p>
                     When you choose to work with{" "}
-                    <strong>Berkshire Hathaway HomeServices</strong>, you're
+                    Dr. Jan Duffy, you're
                     choosing a legacy of trust, integrity, and excellence. I'm
                     proud to represent this iconic brand in the Las Vegas real
                     estate market, bringing world-class resources and local
                     expertise to every client I serve.
                   </p>
                   <p>
-                    Since 2008, I've closed $127 million in transactions and
+                    I've closed $127 million in transactions and
                     helped hundreds of buyers and sellers find the right home in
                     Las Vegas, Henderson, Summerlin, and throughout Southern
                     Nevada. My expertise spans luxury properties, new
@@ -158,11 +155,8 @@ export default function AboutPage() {
                   </p>
                   <p>
                     What sets{" "}
-                    <strong>
-                      Berkshire Hathaway HomeServices Nevada Properties
-                    </strong>{" "}
-                    apart? We're backed by Warren Buffett's Berkshire Hathaway
-                    Inc.—a name synonymous with financial strength and ethical
+                    Dr. Jan Duffy{" "}
+—a name synonymous with financial strength and ethical
                     standards. When you're making the biggest financial decision
                     of your life, that trust matters. You deserve an agent who
                     puts your interests first, provides honest advice, and has
@@ -211,7 +205,7 @@ export default function AboutPage() {
                   </div>
                   <div className="rounded-lg overflow-hidden mt-6 border border-slate-200">
                     <iframe
-                      title="Map to Berkshire Hathaway HomeServices Nevada Properties, 9406 W Lake Mead Blvd"
+                      title="Map to Dr. Jan Duffy's office, 9406 W Lake Mead Blvd"
                       src={maps.embedSrc}
                       className="w-full h-56"
                       loading="lazy"
@@ -256,10 +250,10 @@ export default function AboutPage() {
                 <div className="grid grid-cols-2 gap-4">
                   <div className="bg-blue-50 rounded-lg p-6 text-center">
                     <div className="text-3xl font-bold text-blue-600 mb-1">
-                      Since 2008
+                      Since 1983
                     </div>
                     <div className="text-sm text-slate-600">
-                      Serving Las Vegas
+                      In Real Estate
                     </div>
                   </div>
                   <div className="bg-blue-50 rounded-lg p-6 text-center">
@@ -326,13 +320,12 @@ export default function AboutPage() {
 
           <LeftoverBand path="/about" slot={1} />
 
-          {/* Why BHHS Section */}
+          {/* Why Dr. Jan Duffy Section */}
           <section className="mb-16 bg-slate-900 text-white rounded-2xl p-8 md:p-12 max-w-6xl mx-auto">
-            <h2 className="scroll-mt-32 text-3xl md:text-4xl font-bold mb-4 text-center">
-              License S.0197614.LLC on the card at 9406 W Lake Mead Blvd
+            <h2 className="scroll-mt-32 text-3xl md:text-4xl font-bold mb-4 text-center"> on the card at 9406 W Lake Mead Blvd
             </h2>
             <p className="text-slate-300 text-center max-w-3xl mx-auto mb-8">
-              Berkshire Hathaway HomeServices Nevada Properties holds the desk.
+              Dr. Jan Duffy holds the desk.
               Appointments start at Suite 100. Call or text (702) 222-1964. The
               office line on Google is (702) 500-1942.
             </p>
@@ -342,11 +335,10 @@ export default function AboutPage() {
                   <Award className="h-8 w-8" />
                 </div>
                 <h3 className="font-bold text-xl mb-2">
-                  BHHS Nevada Properties on the paperwork
+                  Licensed brokerage on the paperwork
                 </h3>
                 <p className="text-slate-300 text-sm">
-                  The brokerage on the contract is Berkshire Hathaway
-                  HomeServices Nevada Properties, not a slogan. Suite 100 is the
+                  Dr. Jan Duffy handles your file personally. Suite 100 is the
                   Maps pin.
                 </p>
               </div>
@@ -358,7 +350,7 @@ export default function AboutPage() {
                   West Coast sale timed against a Las Vegas purchase
                 </h3>
                 <p className="text-slate-300 text-sm">
-                  50,000+ BHHS agents for a California listing referral paired
+                  50,000+ experienced local agents for a California listing referral paired
                   with a Suite 100 buyer file.
                 </p>
               </div>
@@ -380,7 +372,7 @@ export default function AboutPage() {
                 href="/why-berkshire-hathaway"
                 className="inline-block bg-white text-slate-900 px-8 py-3 rounded-md font-semibold hover:bg-slate-100 transition-colors"
               >
-                Learn More About BHHS
+                Learn More About Dr. Jan Duffy
               </Link>
             </div>
           </section>
@@ -471,7 +463,7 @@ export default function AboutPage() {
           {/* CTA */}
           <section className="text-center bg-blue-600 text-white rounded-2xl p-8 md:p-12 max-w-4xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Book Suite 100 — license S.0197614.LLC is on the card
+              Book Suite 100 — Dr. Jan Duffy, REALTOR®
             </h2>
             <p className="text-xl text-blue-100 mb-8">
               Questions about buying or selling in Las Vegas? Call or text Dr.

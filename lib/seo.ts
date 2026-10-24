@@ -40,7 +40,7 @@ export function pageMetadata({
     openGraph: {
       type: "website",
       locale: "en_US",
-      siteName: nap.brokerage,
+      siteName: nap.shortName,
       ...openGraph,
       images:
         openGraph && "images" in openGraph && openGraph.images

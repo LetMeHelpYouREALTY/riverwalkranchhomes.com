@@ -51,7 +51,7 @@ export const metadata: Metadata = pageMetadata({
   openGraph: {
     title: "Find Your Perfect 55+ Community in Las Vegas | Dr. Jan Duffy",
     description:
-      "Sun City, Del Webb, Heritage at Stonebridge & more—Dr. Duffy specializes in active adult living. Berkshire Hathaway HomeServices Nevada Properties.",
+      "Sun City, Del Webb, Heritage at Stonebridge & more—Dr. Duffy specializes in active adult living.",
     type: "website",
   },
 });
@@ -412,7 +412,7 @@ export default function FiftyFiveCommunitiesPage() {
           <ExpertQuote path="/55-plus-communities" />
           <FiftyFiveFaqs path="/55-plus-communities" />
 
-          {/* Why BHHS */}
+          {/* Why Dr. Jan Duffy */}
           <section
             className="mb-16 max-w-4xl mx-auto"
             data-fifty-five-why="/55-plus-communities"
@@ -447,7 +447,7 @@ export default function FiftyFiveCommunitiesPage() {
                     Suite 100
                   </h3>
                   <p className="text-slate-600 text-sm">
-                    Virtual tours and BHHS destination intros start at 9406 W
+                    Virtual tours and destination agent intros start at 9406 W
                     Lake Mead Blvd. We do not stack a Summerlin 55+ morning with
                     a Henderson 55+ drive.
                   </p>
@@ -462,8 +462,7 @@ export default function FiftyFiveCommunitiesPage() {
                     Occupancy rules in writing before any clubhouse
                   </h3>
                   <p className="text-slate-600 text-sm">
-                    The Berkshire Hathaway name is on the paperwork at 9406 W
-                    Lake Mead Blvd, Suite 100. We review age-qualification and
+                    Your file gets her personal attention. We review age-qualification and
                     guest rules before the drive.
                   </p>
                 </div>
@@ -498,8 +497,7 @@ export default function FiftyFiveCommunitiesPage() {
               Call (702) 222-1964 with occupancy questions before we drive.
             </p>
             <CtaActions variant="onDark" />
-            <p className="mt-4 text-blue-300 text-sm">
-              Berkshire Hathaway HomeServices Nevada Properties · 9406 W Lake
+            <p className="mt-4 text-blue-300 text-sm"> 9406 W Lake
               Mead Blvd, Suite 100, Las Vegas, NV 89134
             </p>
           </section>

@@ -12,9 +12,9 @@ import LeftoverBand from "@/components/sections/LeftoverBand";
 
 export const metadata: Metadata = pageMetadata({
   path: "/why-berkshire-hathaway",
-  title: "Why Choose Berkshire Hathaway HomeServices | Las Vegas Real Estate",
+  title: "Why Choose Dr. Jan Duffy | Las Vegas Real Estate",
   description:
-    "See what Berkshire Hathaway HomeServices Nevada Properties puts on a listing file. Marketing samples at Suite 100. Call (702) 222-1964.",
+    "See what Dr. Jan Duffy puts on a listing file. Marketing samples at Suite 100. Call (702) 222-1964.",
   keywords: [
     "Berkshire Hathaway HomeServices",
     "why choose BHHS",
@@ -52,19 +52,17 @@ export default function WhyBerkshireHathawayPage() {
           {/* Hero Section */}
           <div className="max-w-4xl mx-auto text-center mb-16">
             <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              License S.0197614.LLC · BHHS Nevada Properties
+              In Real Estate Since 1983
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
-              Why Choose Berkshire Hathaway HomeServices?
+              Why Choose Dr. Jan Duffy?
             </h1>
             <HeadingPhoto path="/why-berkshire-hathaway" />
 
             <p className="text-xl text-slate-600 leading-relaxed">
-              When you work with a{" "}
-              <strong>Berkshire Hathaway HomeServices</strong> agent, you're
-              backed by a name synonymous with trust, ethical standards, and
-              financial strength—the same principles that built Warren Buffett's
-              empire.
+              When you work with Dr. Jan Duffy, REALTOR®, you get an advisor in
+              real estate since 1983 who stands for trust, ethical standards,
+              and honest advice.
             </p>
             <div className="mt-8">
               <CtaActions variant="onLight" />
@@ -104,7 +102,6 @@ export default function WhyBerkshireHathawayPage() {
               <div className="text-center">
                 <div className="text-4xl md:text-5xl font-bold mb-2">#1</div>
                 <div className="text-blue-200">
-                  Parent: Berkshire Hathaway Inc.
                 </div>
               </div>
             </div>
@@ -121,7 +118,7 @@ export default function WhyBerkshireHathawayPage() {
               sign
             </h2>
             <p className="text-xl text-slate-300 mb-8">
-              Call (702) 222-1964. License S.0197614.LLC. Suite 100 on W Lake
+              Call (702) 222-1964. Suite 100 on W Lake
               Mead Blvd.
             </p>
             <CtaActions variant="onDark" />

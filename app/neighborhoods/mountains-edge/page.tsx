@@ -18,9 +18,9 @@ import RealScoutSearch from "@/components/realscout/RealScoutSearch";
 
 export const metadata: Metadata = pageMetadata({
   path: "/neighborhoods/mountains-edge",
-  title: "Berkshire Hathaway HomeServices Mountains Edge | Southwest Las Vegas",
+  title: "Mountains Edge Real Estate | Southwest Las Vegas",
   description:
-    "Find Mountains Edge homes with Berkshire Hathaway HomeServices Nevada Properties. Dr. Jan Duffy specializes in this southwest Las Vegas community. Median price $475K. Call (702) 222-1964.",
+    "Find Mountains Edge homes with Dr. Jan Duffy, REALTOR®, in real estate since 1983. She specializes in this southwest Las Vegas community. Median price $475K. Call (702) 222-1964.",
   keywords: [
     "Berkshire Hathaway HomeServices Mountains Edge",
     "Mountains Edge homes for sale",
@@ -37,19 +37,15 @@ export default function MountainsEdgePage() {
         <div className="container mx-auto px-4">
           {/* Hero */}
           <div className="max-w-4xl mx-auto text-center mb-16">
-            <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
-            </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
-              Berkshire Hathaway HomeServices Mountains Edge
+              Mountains Edge Real Estate
             </h1>
             <HeadingPhoto path="/neighborhoods/mountains-edge" />
 
             <p className="text-xl text-slate-600">
               Exploration Peak then I-15/Blue Diamond, 20–30 minutes from Suite
               100. $475K median, 27 DOM, 234 listings with{" "}
-              <strong>Berkshire Hathaway HomeServices</strong> and Dr. Jan
-              Duffy.
+              Dr. Jan Duffy.
             </p>
             <div className="mt-8">
               <CtaActions variant="onLight" />
@@ -111,8 +107,7 @@ export default function MountainsEdgePage() {
                 community in southwest Las Vegas offers mountain views,
                 exceptional parks, and modern homes—without the premium prices
                 of Summerlin or The Ridges.{" "}
-                <strong>Berkshire Hathaway HomeServices</strong>
-                helps value-conscious buyers discover Mountains Edge's
+                Dr. Jan Duffy helps value-conscious buyers discover Mountains Edge's
                 potential.
               </p>
               <p>
@@ -126,9 +121,7 @@ export default function MountainsEdgePage() {
                 beauty.
               </p>
               <p>
-                <strong>
-                  Berkshire Hathaway HomeServices Nevada Properties
-                </strong>{" "}
+                Dr. Jan Duffy{" "}
                 serves Mountains Edge buyers with the same commitment to
                 excellence we bring to the valley's luxury markets. Dr. Jan
                 Duffy understands that value doesn't mean compromise—it means
@@ -159,13 +152,13 @@ export default function MountainsEdgePage() {
                 properties with premium views and upgraded features.
               </p>
               <p>
-                Working with <strong>Berkshire Hathaway HomeServices</strong> in
+                Working with <strong>Dr. Jan Duffy</strong> in
                 Mountains Edge means getting honest guidance about where the
                 community offers the best value. Dr. Jan Duffy helps buyers
                 identify neighborhoods with the strongest appreciation
                 potential, homes with the best views, and properties that
                 represent genuine value rather than superficial appeal. That
-                expertise—combined with the BHHS commitment to client
+                expertise—combined with a commitment to client
                 service—ensures Mountains Edge buyers make informed decisions.
               </p>
             </div>

@@ -21,9 +21,9 @@ import LeftoverBand from "@/components/sections/LeftoverBand";
 
 export const metadata: Metadata = pageMetadata({
   path: "/investment-properties",
-  title: "Las Vegas Investment Properties | Berkshire Hathaway HomeServices",
+  title: "Las Vegas Investment Properties | Dr. Jan Duffy",
   description:
-    "Invest in Las Vegas real estate with Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties. Rental properties, ROI analysis, 1031 exchanges. No state income tax. Call (702) 222-1964.",
+    "Invest in Las Vegas real estate with Dr. Jan Duffy. Rental properties, ROI analysis, 1031 exchanges. No state income tax. Call (702) 222-1964.",
   keywords: [
     "Las Vegas investment property",
     "Las Vegas rental property",
@@ -86,9 +86,6 @@ export default function InvestmentPropertiesPage() {
         <div className="container mx-auto px-4">
           {/* Hero */}
           <div className="max-w-4xl mx-auto text-center mb-16">
-            <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
-            </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
               Las Vegas Investment Properties
             </h1>
@@ -97,7 +94,7 @@ export default function InvestmentPropertiesPage() {
             <p className="text-xl text-slate-600">
               No state income tax, strong appreciation, and excellent rental
               yields. Discover why investors choose Las Vegas—with guidance from{" "}
-              <strong>Berkshire Hathaway HomeServices</strong>.
+              Dr. Jan Duffy.
             </p>
             <div className="mt-8">
               <CtaActions variant="onLight" />
@@ -437,7 +434,7 @@ export default function InvestmentPropertiesPage() {
               <p className="text-slate-600 text-sm">
                 Dr. Jan works with qualified intermediaries and can help
                 identify replacement properties within the 45-day window.
-                Berkshire Hathaway's nationwide network is invaluable for
+                Dr. Jan's referral network is invaluable for
                 clients exchanging into or out of Las Vegas.
               </p>
             </div>
@@ -451,7 +448,7 @@ export default function InvestmentPropertiesPage() {
             </h2>
             <p className="text-xl text-slate-300 mb-8">
               Get expert guidance on Las Vegas investment properties from Dr.
-              Jan Duffy and Berkshire Hathaway HomeServices.
+              Jan Duffy and Dr. Jan Duffy.
             </p>
             <CtaActions variant="onDark" />
           </section>

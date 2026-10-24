@@ -18,9 +18,9 @@ import RealScoutSearch from "@/components/realscout/RealScoutSearch";
 
 export const metadata: Metadata = pageMetadata({
   path: "/neighborhoods/skye-canyon",
-  title: "Berkshire Hathaway HomeServices Skye Canyon | Northwest Las Vegas",
+  title: "Skye Canyon Real Estate | Northwest Las Vegas",
   description:
-    "Find Skye Canyon homes with Berkshire Hathaway HomeServices Nevada Properties. Register at Suite 100 before any northwest builder row. January 2026 median $550K. Call (702) 222-1964.",
+    "Find Skye Canyon homes with Dr. Jan Duffy. Register at Suite 100 before any northwest builder row. January 2026 median $550K. Call (702) 222-1964.",
   keywords: [
     "Berkshire Hathaway HomeServices Skye Canyon",
     "Skye Canyon homes for sale",
@@ -37,19 +37,15 @@ export default function SkyeCanyonPage() {
         <div className="container mx-auto px-4">
           {/* Hero */}
           <div className="max-w-4xl mx-auto text-center mb-16">
-            <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
-            </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
-              Berkshire Hathaway HomeServices Skye Canyon
+              Skye Canyon Real Estate
             </h1>
             <HeadingPhoto path="/neighborhoods/skye-canyon" />
 
             <p className="text-xl text-slate-600">
               Register at Suite 100, then Skye Center and Floyd Lamb on a 20–25
               minute northwest clock with{" "}
-              <strong>Berkshire Hathaway HomeServices</strong> and Dr. Jan
-              Duffy.
+              Dr. Jan Duffy.
             </p>
             <div className="mt-8">
               <CtaActions variant="onLight" />
@@ -108,7 +104,7 @@ export default function SkyeCanyonPage() {
                 <strong>Skye Canyon</strong> represents the future of Las Vegas
                 master-planned living. This 1,700-acre community in northwest
                 Las Vegas sits next to Floyd Lamb Park with Skye Center as the
-                rec campus. <strong>Berkshire Hathaway HomeServices</strong>
+                rec campus. Dr. Jan Duffy
                 registers you at Suite 100 before the first model row so builder
                 tours stay on one northwest clock.
               </p>
@@ -123,9 +119,7 @@ export default function SkyeCanyonPage() {
                 connections that transform neighborhoods into true communities.
               </p>
               <p>
-                <strong>
-                  Berkshire Hathaway HomeServices Nevada Properties
-                </strong>{" "}
+                Dr. Jan Duffy{" "}
                 offers free buyer representation on all Skye Canyon new
                 construction purchases. This is crucial because when you walk
                 into a builder's sales center, those agents work for the
@@ -156,7 +150,7 @@ export default function SkyeCanyonPage() {
                 Woodside Homes ranges from $450,000 to $800,000.
               </p>
               <p>
-                Choosing <strong>Berkshire Hathaway HomeServices</strong> for
+                Choosing <strong>Dr. Jan Duffy</strong> for
                 your Skye Canyon purchase means working with agents who know
                 which builders offer the best quality, which lots have the best
                 views, and which upgrades deliver the best value. Dr. Jan Duffy

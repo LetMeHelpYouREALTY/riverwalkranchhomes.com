@@ -9,10 +9,10 @@ export const siteConfig = {
   brandLine:
     "Berkshire Hathaway HomeServices Nevada Properties | Private Client Real Estate Advisory",
   brandName: "Berkshire Hathaway HomeServices",
-  shortName: "BHHS",
+  shortName: "Dr. Jan Duffy",
   url: "https://www.heyberkshire.com",
   description:
-    "Expert real estate services in Las Vegas and Henderson, NV. Buy, sell, or invest with Dr. Jan Duffy, your trusted Berkshire Hathaway HomeServices Nevada Properties agent.",
+    "Expert real estate services in Las Vegas and Henderson, NV. Buy, sell, or invest with Dr. Jan Duffy, your trusted agent.",
 };
 
 export const agentInfo = {
@@ -92,11 +92,11 @@ export const agentStats = {
 
 // Value Propositions
 export const valuePropositions = {
-  main: "When you work with a Berkshire Hathaway HomeServices agent, you're backed by a name synonymous with trust, ethical standards, and financial strength—the same principles that built Warren Buffett's empire.",
+  main: "When you work with a local REALTOR®, you're backed by a name synonymous with trust, ethical standards, and financial strength—the same principles that built Warren Buffett's empire.",
   trust:
     "Berkshire Hathaway HomeServices is the only real estate brand backed by Warren Buffett's Berkshire Hathaway Inc. This means unmatched financial stability, ethical standards, and a global referral network of 50,000+ agents.",
   expertise:
-    "Serving Las Vegas since 2008 with $127M+ in closed transactions, Dr. Jan Duffy combines deep local market knowledge with the resources of a global brand.",
+    "In real estate since 1983 with $127M+ in closed transactions, Dr. Jan Duffy combines deep local market knowledge with the resources of a global brand.",
 };
 
 // Neighborhoods served
@@ -278,14 +278,14 @@ export const expertQuotes = {
   investment: `"Las Vegas rental yields are among the best in the country right now. But you need to know which neighborhoods are appreciating and which have peaked."`,
   relocation: `"Moving to a new city is stressful enough. I handle everything from neighborhood tours to campus commute times to contractor referrals so you can focus on your new beginning."`,
   newConstruction: `"Builders have sales agents who work for them, not you. Having your own representation costs you nothing but can save you tens of thousands in upgrades and negotiations."`,
-  valueProposition: `"When clients ask why they should choose a Berkshire Hathaway HomeServices agent, I tell them: you're not just getting me—you're getting a global network of 50,000 agents, world-class marketing, and a brand that's synonymous with trust."`,
+  valueProposition: `"When clients ask why they should choose a local REALTOR®, I tell them: you're not just getting me—you're getting a global network of 50,000 agents, world-class marketing, and a brand that's synonymous with trust."`,
 };
 
 // Common FAQs
 export const commonFAQs = {
   general: [
     {
-      question: "Why should I choose a Berkshire Hathaway HomeServices agent?",
+      question: "Why should I choose a local REALTOR®?",
       answer:
         "Berkshire Hathaway HomeServices is the only real estate brand backed by Warren Buffett's Berkshire Hathaway Inc. This means unmatched financial stability, ethical standards, and a global referral network of 50,000+ agents. When you're making the biggest purchase of your life, that trust matters.",
     },
@@ -293,17 +293,17 @@ export const commonFAQs = {
       question:
         "What areas does Berkshire Hathaway HomeServices Nevada Properties cover?",
       answer:
-        "BHHS Nevada Properties serves all of Las Vegas, Henderson, North Las Vegas, and surrounding areas, with specialized expertise in Summerlin, The Ridges, Skye Canyon, Southern Highlands, Green Valley, and Henderson's master-planned communities.",
+        "Dr. Jan Duffy serves all of Las Vegas, Henderson, North Las Vegas, and surrounding areas, with specialized expertise in Summerlin, The Ridges, Skye Canyon, Southern Highlands, Green Valley, and Henderson's master-planned communities.",
     },
     {
-      question: "How do Berkshire Hathaway HomeServices agents get paid?",
+      question: "How do real estate agents get paid?",
       answer:
         "Commission structures are negotiable. Dr. Jan Duffy offers transparent pricing and will walk you through all costs before you sign anything. For buyers, our services are typically free as commissions are paid by the seller.",
     },
     {
       question: "What is Dr. Jan Duffy's experience in Las Vegas real estate?",
       answer:
-        "Dr. Jan Duffy has been serving Las Vegas since 2008, with $127M+ in closed transactions and 500+ satisfied clients. Her expertise spans residential, luxury, investment, and new construction properties throughout Southern Nevada.",
+        "Dr. Jan Duffy has been in real estate since 1983, with $127M+ in closed transactions and 500+ satisfied clients. Her expertise spans residential, luxury, investment, and new construction properties throughout Southern Nevada.",
     },
   ],
   buying: [
@@ -327,7 +327,7 @@ export const commonFAQs = {
     {
       question: "What is my home worth in today's Las Vegas market?",
       answer:
-        "Home values depend on location, condition, size, and recent comparable sales. Dr. Jan provides free, comprehensive home valuations using current MLS data and her expertise serving Las Vegas since 2008.",
+        "Home values depend on location, condition, size, and recent comparable sales. Dr. Jan provides free, comprehensive home valuations using current MLS data and her expertise in real estate since 1983.",
     },
     {
       question: "How long will it take to sell my home?",

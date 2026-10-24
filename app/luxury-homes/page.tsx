@@ -14,9 +14,9 @@ import { pageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
   path: "/luxury-homes",
-  title: "Las Vegas Luxury Homes for Sale | Berkshire Hathaway HomeServices",
+  title: "Las Vegas Luxury Homes for Sale | Dr. Jan Duffy",
   description:
-    "Discover Las Vegas luxury real estate with Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties. The Ridges, MacDonald Highlands, Summerlin, Southern Highlands. $1M+ homes. Call (702) 222-1964.",
+    "Discover Las Vegas luxury real estate with Dr. Jan Duffy. The Ridges, MacDonald Highlands, Summerlin, Southern Highlands. $1M+ homes. Call (702) 222-1964.",
   keywords: [
     "Las Vegas luxury homes",
     "The Ridges Las Vegas",
@@ -135,16 +135,13 @@ export default function LuxuryHomesPage() {
         <div className="container mx-auto px-4">
           {/* Hero */}
           <div className="max-w-4xl mx-auto text-center mb-16">
-            <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
-            </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
-              List or Buy Las Vegas Luxury Homes With BHHS
+              List or Buy Las Vegas Luxury Homes With Dr. Jan Duffy
             </h1>
             <HeadingPhoto path="/luxury-homes" />
 
             <p className="text-xl text-slate-600 mb-8">
-              <strong>Berkshire Hathaway HomeServices</strong> represents the
+              Dr. Jan Duffy represents the
               gold standard in luxury real estate. When you're buying or selling
               a $1M+ home, trust matters more than ever. Our global network,
               discretion, and expertise ensure your luxury transaction receives
@@ -280,7 +277,7 @@ export default function LuxuryHomesPage() {
             </h2>
             <p className="text-xl text-slate-300 mb-8">
               Whether buying or selling a luxury property, Dr. Jan Duffy
-              provides the expertise and Berkshire Hathaway prestige your
+              provides the expertise and experience your
               transaction deserves. Confidential consultations available for
               discerning clients.
             </p>

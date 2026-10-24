@@ -26,9 +26,9 @@ import { pageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
   path: "/sellers",
-  title: "Sell Your Las Vegas Home | Berkshire Hathaway HomeServices",
+  title: "Sell Your Las Vegas Home | Dr. Jan Duffy",
   description:
-    "Sell your Las Vegas or Henderson home with Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties. Free home valuation. World-class marketing priced to recent comps. Call (702) 222-1964.",
+    "Sell your Las Vegas or Henderson home with Dr. Jan Duffy. Free home valuation. World-class marketing priced to recent comps. Call (702) 222-1964.",
   keywords: [
     "sell home Las Vegas",
     "Las Vegas listing agent",
@@ -58,7 +58,7 @@ const includedServices = [
   "Drone video for properties with views or large lots",
   "Comprehensive market analysis & pricing strategy",
   "MLS listing syndicated to 100+ websites",
-  "Berkshire Hathaway global network exposure",
+  "Agent referral network exposure",
   "Social media marketing campaign",
   "Targeted digital advertising",
   "Open house coordination",
@@ -79,9 +79,6 @@ export default function SellersPage() {
         <div className="container mx-auto px-4">
           {/* Hero */}
           <div className="max-w-4xl mx-auto text-center mb-16">
-            <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
-            </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
               Sell Your Las Vegas Home for Top Dollar
             </h1>
@@ -89,9 +86,9 @@ export default function SellersPage() {
 
             <p className="text-xl text-slate-600 mb-8">
               When you list with{" "}
-              <strong>Berkshire Hathaway HomeServices</strong>, you get
+              Dr. Jan Duffy, you get
               world-class marketing, expert pricing, and a name that buyers
-              trust. Dr. Jan Duffy has been serving Las Vegas since 2008—helping
+              trust. Dr. Jan Duffy has been in real estate since 1983—helping
               sellers achieve top-dollar results with proven marketing
               strategies and skilled negotiation.
             </p>
@@ -202,8 +199,7 @@ export default function SellersPage() {
             </h2>
             <p className="text-xl text-slate-300 mb-8">
               Schedule a free listing consultation with Dr. Jan Duffy and
-              discover what your home could sell for with Berkshire Hathaway
-              HomeServices. No obligation, no pressure—just honest advice and
+              discover what your home could sell for with Dr. Jan Duffy. No obligation, no pressure—just honest advice and
               expert analysis.
             </p>
             <CtaActions variant="onDark" />

@@ -23,9 +23,9 @@ import {
 
 export const metadata: Metadata = pageMetadata({
   path: "/contact",
-  title: "Contact Dr. Jan Duffy | Berkshire Hathaway HomeServices Las Vegas",
+  title: "Contact Dr. Jan Duffy | Las Vegas REALTOR®",
   description:
-    "Contact Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties. Schedule an appointment, get directions, or call (702) 222-1964. Las Vegas, Henderson, Summerlin real estate expert.",
+    "Contact Dr. Jan Duffy. Schedule an appointment, get directions, or call (702) 222-1964. Las Vegas, Henderson, Summerlin real estate expert.",
   keywords: [
     "contact real estate agent Las Vegas",
     "Berkshire Hathaway contact",
@@ -65,9 +65,6 @@ export default function ContactPage() {
         <div className="container mx-auto px-4">
           {/* Hero */}
           <div className="text-center mb-12">
-            <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
-            </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
               Contact Dr. Jan Duffy
             </h1>
@@ -75,7 +72,7 @@ export default function ContactPage() {
 
             <p className="text-xl text-slate-600 max-w-2xl mx-auto mb-8">
               Questions about Las Vegas real estate? Your{" "}
-              <strong>Berkshire Hathaway HomeServices</strong> expert is here to
+              Dr. Jan Duffy expert is here to
               help. Schedule an appointment or reach out directly.
             </p>
             <CtaActions variant="onLight" bookLabel="Book a Consultation" />
@@ -141,7 +138,7 @@ export default function ContactPage() {
                       Office Address
                     </h3>
                     <address className="not-italic text-slate-700">
-                      Berkshire Hathaway HomeServices
+                      Dr. Jan Duffy
                       <br />
                       Nevada Properties
                       <br />
@@ -176,7 +173,7 @@ export default function ContactPage() {
                   allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Berkshire Hathaway HomeServices Nevada Properties - Office Location"
+                  title="Map to Dr. Jan Duffy's office"
                   className="w-full"
                 />
               </div>
@@ -208,9 +205,7 @@ export default function ContactPage() {
                 <p className="text-sm text-slate-700">
                   <strong>{nap.shortName}, REALTOR®</strong>
                   <br />
-                  License {nap.license}
-                  <br />
-                  {nap.brokerage}
+                  In real estate since 1983
                   <br />
                   {nap.fullAddress}
                 </p>

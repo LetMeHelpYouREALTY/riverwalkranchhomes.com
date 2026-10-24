@@ -13,7 +13,7 @@ import { nap } from "@/lib/contact";
 
 export const metadata: Metadata = pageMetadata({
   path: "/buyers/luxury-homes-las-vegas",
-  title: "Luxury Homes Las Vegas | Berkshire Hathaway HomeServices",
+  title: "Luxury Homes Las Vegas | Dr. Jan Duffy",
   description:
     "Las Vegas luxury real estate from $1.2M to $10M+. Guard-gated estates, Strip penthouses, and custom homes. Dr. Jan Duffy provides discrete, expert representation. Call (702) 222-1964.",
   keywords: [
@@ -105,7 +105,7 @@ export default function LuxuryHomesPage() {
                 <p className="text-slate-700 mb-4">
                   Luxury transactions require a level of discretion that most
                   agents can't provide. Dr. Jan Duffy and{" "}
-                  <strong>Berkshire Hathaway HomeServices</strong> understand
+                  Dr. Jan Duffy understand
                   that privacy isn't a luxury—it's a requirement.
                 </p>
                 <ul className="space-y-3">

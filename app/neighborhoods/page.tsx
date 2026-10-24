@@ -17,9 +17,9 @@ import LeftoverBand from "@/components/sections/LeftoverBand";
 
 export const metadata: Metadata = pageMetadata({
   path: "/neighborhoods",
-  title: "Las Vegas Neighborhoods | Berkshire Hathaway HomeServices",
+  title: "Las Vegas Neighborhoods | Dr. Jan Duffy",
   description:
-    "Explore Las Vegas and Henderson neighborhoods with Dr. Jan Duffy at Berkshire Hathaway HomeServices Nevada Properties. Summerlin, Henderson, The Ridges, Southern Highlands & more.",
+    "Explore Las Vegas and Henderson neighborhoods with Dr. Jan Duffy. Summerlin, Henderson, The Ridges, Southern Highlands & more.",
   keywords: [
     "Las Vegas neighborhoods",
     "Henderson communities",
@@ -184,9 +184,6 @@ export default function NeighborhoodsPage() {
         <div className="container mx-auto px-4">
           {/* Hero */}
           <div className="max-w-4xl mx-auto text-center mb-16">
-            <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
-            </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
               Las Vegas & Henderson Neighborhoods
             </h1>
@@ -194,7 +191,7 @@ export default function NeighborhoodsPage() {
 
             <p className="text-xl text-slate-600">
               Compare Las Vegas and Henderson neighborhoods with Dr. Jan Duffy,
-              your <strong>Berkshire Hathaway HomeServices</strong> neighborhood
+              your neighborhood
               expert
             </p>
             <div className="mt-8">

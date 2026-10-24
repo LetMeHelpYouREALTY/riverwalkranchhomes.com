@@ -19,9 +19,9 @@ import RealScoutSearch from "@/components/realscout/RealScoutSearch";
 export const metadata: Metadata = pageMetadata({
   path: "/neighborhoods/the-ridges",
   title:
-    "Berkshire Hathaway HomeServices The Ridges | Las Vegas Luxury Real Estate",
+    "The Ridges Real Estate | Las Vegas Luxury Real Estate",
   description:
-    "Find The Ridges homes with Berkshire Hathaway HomeServices Nevada Properties. Guard-gated Summerlin ridge lots, 15–20 minutes from Suite 100. Median $2.5M, 42 listings, 67 DOM (January 2026). Call (702) 222-1964.",
+    "Find The Ridges homes with Dr. Jan Duffy. Guard-gated Summerlin ridge lots, 15–20 minutes from Suite 100. Median $2.5M, 42 listings, 67 DOM (January 2026). Call (702) 222-1964.",
   keywords: [
     "Berkshire Hathaway HomeServices The Ridges",
     "The Ridges homes for sale",
@@ -38,19 +38,15 @@ export default function TheRidgesPage() {
         <div className="container mx-auto px-4">
           {/* Hero */}
           <div className="max-w-4xl mx-auto text-center mb-16">
-            <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              Berkshire Hathaway HomeServices Nevada Properties
-            </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
-              Berkshire Hathaway HomeServices The Ridges
+              The Ridges Real Estate
             </h1>
             <HeadingPhoto path="/neighborhoods/the-ridges" />
 
             <p className="text-xl text-slate-600">
               Guard-gated ridge lots, 15–20 minutes from Suite 100. $2.5M
               median, 67 DOM, 42 listings (January 2026) with{" "}
-              <strong>Berkshire Hathaway HomeServices</strong> and Dr. Jan
-              Duffy.
+              Dr. Jan Duffy.
             </p>
             <div className="mt-8">
               <CtaActions variant="onLight" />
@@ -110,7 +106,7 @@ export default function TheRidgesPage() {
                 staffed gate, and ridge-top lots with Strip, mountain, and
                 desert views. When buyers compare ridge-top lots to Downtown
                 Summerlin retail, they start with{" "}
-                <strong>Berkshire Hathaway HomeServices</strong> so gate lists
+                Dr. Jan Duffy so gate lists
                 and showing windows are confirmed from Suite 100.
               </p>
               <p>
@@ -122,13 +118,9 @@ export default function TheRidgesPage() {
                 not improvised.
               </p>
               <p>
-                <strong>
-                  Berkshire Hathaway HomeServices Nevada Properties
-                </strong>{" "}
-                has represented buyers and sellers in The Ridges since the
-                community's inception. Dr. Jan Duffy understands that luxury
+                Dr. Jan Duffy, in real estate since 1983, understands that luxury
                 transactions require gate lists, photography scoped in writing,
-                and addresses kept off group texts. The BHHS referral desk
+                and addresses kept off group texts. Her referral desk
                 connects Ridges appointments from 9406 W Lake Mead Blvd, Suite
                 100 — typically 15–20 minutes to the guardhouse.
               </p>
@@ -155,12 +147,12 @@ export default function TheRidgesPage() {
                 most spectacular custom estates.
               </p>
               <p>
-                Working with <strong>Berkshire Hathaway HomeServices</strong> in
+                Working with <strong>Dr. Jan Duffy</strong> in
                 The Ridges means working with agents who schedule gate lists,
                 photography, and off-market windows from Suite 100. Dr. Jan
                 Duffy coordinates access with architects, designers, and
                 property managers when the brief includes those vendors. When
-                the list price is measured in millions, the Berkshire Hathaway
+                the list price is measured in millions, the Dr. Jan Duffy
                 name is on the paperwork at 9406 W Lake Mead Blvd.
               </p>
             </div>

@@ -36,7 +36,7 @@ export default function CommunityHighlights({
         ))}
       </div>
       <p className="text-slate-600 text-sm mt-4">
-        {nap.brokerage} · {nap.fullAddress} · Call or text {ctaPhone.display}.
+        {nap.shortName}, REALTOR® · {nap.fullAddress} · Call or text {ctaPhone.display}.
       </p>
     </div>
   );
