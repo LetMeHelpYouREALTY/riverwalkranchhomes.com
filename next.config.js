@@ -38,6 +38,18 @@ const nextConfig = {
         destination: "https://www.heyberkshire.com/:path*",
         permanent: true,
       },
+      // This domain served a full copy of heyberkshire.com, so send it there.
+      {
+        source: "/:path*",
+        has: [
+          {
+            type: "host",
+            value: "(www\\.)?riverwalkranchhomes\\.com",
+          },
+        ],
+        destination: "https://www.heyberkshire.com/:path*",
+        permanent: true,
+      },
     ];
   },
 
