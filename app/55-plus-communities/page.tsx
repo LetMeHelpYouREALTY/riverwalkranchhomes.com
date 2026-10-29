@@ -478,7 +478,7 @@ export default function FiftyFiveCommunitiesPage() {
                   <p className="text-slate-600 text-sm">
                     We review HOA occupancy and guest rules at 9406 W Lake Mead
                     Blvd, Suite 100, then tour one rec building. Call (702)
-                    222-1964. We do not stack Summerlin and Henderson 55+ on the
+                    500-1955. We do not stack Summerlin and Henderson 55+ on the
                     same morning.
                   </p>
                 </div>

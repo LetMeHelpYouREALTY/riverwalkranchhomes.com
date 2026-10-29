@@ -271,7 +271,7 @@ export default function NeighborhoodsPage() {
             </h2>
             <p className="text-xl text-blue-100 mb-8">
               Summerlin is 10–15 minutes. Green Valley is 25–35. Call (702)
-              222-1964 with two ZIPs — we will not city-swap a recommendation.
+              500-1955 with two ZIPs — we will not city-swap a recommendation.
             </p>
             <CtaActions variant="onDark" />
           </section>
