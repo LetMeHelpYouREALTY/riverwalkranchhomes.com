@@ -40,7 +40,7 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
       },
       {
         q: "Is Solera occupancy the same as Sun City Summerlin?",
-        a: "No. Solera requires all residents 55+. Sun City Summerlin follows HOPA 80/20 with a younger-spouse rule in the HOA docs. Guest-stay limits are also in that packet — we do not publish a one-size guest slogan. Call (702) 222-1964.",
+        a: "No. Solera requires all residents 55+. Sun City Summerlin follows HOPA 80/20 with a younger-spouse rule in the HOA docs. Guest-stay limits are also in that packet — we do not publish a one-size guest slogan. Call (702) 500-1955.",
       },
     ],
   },
@@ -82,7 +82,7 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
       },
       {
         q: "What occupancy rule is in the Sun City Anthem HOA packet?",
-        a: "At least one resident 55 or older per home, with remaining occupancy limits in the HOA docs we review at Suite 100. We do not substitute a marketing line for that packet. Call (702) 222-1964.",
+        a: "At least one resident 55 or older per home, with remaining occupancy limits in the HOA docs we review at Suite 100. We do not substitute a marketing line for that packet. Call (702) 500-1955.",
       },
     ],
   },
@@ -145,7 +145,7 @@ export const fiftyFiveFaqs: Record<string, FiftyFiveFaqCopy> = {
       },
       {
         q: "Do we tour Solera with Sun City Anthem the same Henderson afternoon?",
-        a: "Only if that is the brief. Solera is toured with nearby Anthem parks as a 30–35 minute block from Suite 100. We do not hopscotch the whole valley. Call (702) 222-1964.",
+        a: "Only if that is the brief. Solera is toured with nearby Anthem parks as a 30–35 minute block from Suite 100. We do not hopscotch the whole valley. Call (702) 500-1955.",
       },
     ],
   },

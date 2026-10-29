@@ -71,7 +71,7 @@ export const neighborhoodAmenities: Record<string, NeighborhoodAmenityCopy> = {
       },
       {
         name: "Henderson Executive Airport",
-        note: "Private-aviation pin only if the brief includes it. Not a default tour stop. Call (702) 222-1964.",
+        note: "Private-aviation pin only if the brief includes it. Not a default tour stop. Call (702) 500-1955.",
       },
     ],
   },

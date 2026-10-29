@@ -69,7 +69,7 @@ export const neighborhoodFaqs: Record<string, NeighborhoodFaqCopy> = {
     items: [
       {
         q: "Do Ridges showings start at the gate or at Suite 100?",
-        a: "Both. Gate lists and off-market windows are confirmed at 9406 W Lake Mead Blvd, Suite 100. The drive to the guardhouse is typically 15–20 minutes. We do not text estate addresses on unsecured threads. Call (702) 222-1964.",
+        a: "Both. Gate lists and off-market windows are confirmed at 9406 W Lake Mead Blvd, Suite 100. The drive to the guardhouse is typically 15–20 minutes. We do not text estate addresses on unsecured threads. Call (702) 500-1955.",
       },
       {
         q: "What January 2026 median was published for The Ridges?",
