@@ -1,6 +1,6 @@
 /**
  * Single source of truth for NAP, phones, hours, maps, and social.
- * CTA line: (702) 222-1964 — client-facing call buttons.
+ * CTA line: (702) 500-1955 — client-facing call buttons.
  * Office/GBP NAP: (702) 500-1942 — footer schema and Google Business match.
  */
 
@@ -43,10 +43,10 @@ export const SITE_URL =
   HEYBERKSHIRE_CANONICAL;
 
 export const ctaPhone = {
-  display: "(702) 222-1964",
-  displayShort: "702-222-1964",
-  tel: "+17022221964",
-  href: "tel:+17022221964",
+  display: "(702) 500-1955",
+  displayShort: "702-500-1955",
+  tel: "+17025001955",
+  href: "tel:+17025001955",
 } as const;
 
 export const officePhone = {

@@ -24,7 +24,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/buyers",
   title: "Home Buying Guide Las Vegas | Dr. Jan Duffy",
   description:
-    "Looking to buy a home in Las Vegas? Dr. Jan Duffy, REALTOR®, guides you through every step. Free buyer consultation. Call (702) 222-1964.",
+    "Looking to buy a home in Las Vegas? Dr. Jan Duffy, REALTOR®, guides you through every step. Free buyer consultation. Call (702) 500-1955.",
   keywords: [
     "buy home Las Vegas",
     "Las Vegas home buyer",
@@ -144,7 +144,7 @@ export default function BuyersPage() {
                   typically pays the buyer-broker fee, and the agency file is
                   yours. Experienced local agents
                   write offers, inspections, and occupancy dates for the buyer —
-                  not the listing agent. Call (702) 222-1964.
+                  not the listing agent. Call (702) 500-1955.
                 </p>
                 <ul className="space-y-2">
                   {[
@@ -231,7 +231,7 @@ export default function BuyersPage() {
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">
               First-time paperwork is FHA/VA at Suite 100. California relocators
               compare net proceeds to ZIP targets, then a three-day itinerary.
-              Luxury buyers confirm gate lists here. Call (702) 222-1964.
+              Luxury buyers confirm gate lists here. Call (702) 500-1955.
             </p>
             <div className="grid md:grid-cols-3 gap-6">
               <Link
@@ -294,7 +294,7 @@ export default function BuyersPage() {
               Buyer-agency paperwork at Suite 100 before any model row
             </h2>
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">
-              Representation is signed at 9406 W Lake Mead Blvd, Suite 100. is on the card. Call (702) 222-1964 before
+              Representation is signed at 9406 W Lake Mead Blvd, Suite 100. is on the card. Call (702) 500-1955 before
               the first builder visit.
             </p>
             <div className="grid md:grid-cols-4 gap-6">

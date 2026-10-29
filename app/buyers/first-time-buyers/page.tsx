@@ -26,7 +26,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/buyers/first-time-buyers",
   title: "First-Time Home Buyers Las Vegas | Dr. Jan Duffy",
   description:
-    "First-time buyer in Las Vegas? Down payment assistance, builder incentives, and expert guidance from Dr. Jan Duffy. Call (702) 222-1964.",
+    "First-time buyer in Las Vegas? Down payment assistance, builder incentives, and expert guidance from Dr. Jan Duffy. Call (702) 500-1955.",
   keywords: [
     "first time home buyer Las Vegas",
     "first time buyer Nevada",
