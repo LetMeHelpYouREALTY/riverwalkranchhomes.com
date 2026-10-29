@@ -269,7 +269,7 @@ export default function AboutPage() {
                   </div>
                   <div className="bg-blue-50 rounded-lg p-6 text-center">
                     <div className="text-3xl font-bold text-blue-600 mb-1">
-                      4.9★
+                      5.0★
                     </div>
                     <div className="text-sm text-slate-600">Client Rating</div>
                   </div>
@@ -416,7 +416,7 @@ export default function AboutPage() {
               Dated files and Google Reviews — 4.9 on the Suite 100 pin
             </h2>
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">
-              With a 4.9-star rating and hundreds of satisfied clients, Dr. Jan
+              With a 5.0★ rating from 50 Realtor.com reviews and hundreds of satisfied clients, Dr. Jan
               has built a reputation for excellence, integrity, and personalized
               service.
             </p>

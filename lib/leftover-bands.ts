@@ -2179,7 +2179,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       ],
     },
     {
-      h2: "4.9-star GBP reviews on this URL — Maps ranking uses the Suite 100 pin",
+      h2: "Google reviews on this URL — Maps ranking uses the Suite 100 pin",
       body: "Review schema and the Google Reviews link stay aligned with 9406 W Lake Mead Blvd, Suite 100. Call (702) 500-1955.",
       pins: [
         {
