@@ -118,7 +118,7 @@ export default function TheRidgesPage() {
                 not improvised.
               </p>
               <p>
-                Dr. Jan Duffy, in real estate since 1983, understands that luxury
+                Dr. Jan Duffy, licensed since 2008 · 35 years in Las Vegas, understands that luxury
                 transactions require gate lists, photography scoped in writing,
                 and addresses kept off group texts. Her referral desk
                 connects Ridges appointments from 9406 W Lake Mead Blvd, Suite

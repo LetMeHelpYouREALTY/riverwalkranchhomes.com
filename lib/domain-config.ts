@@ -120,7 +120,7 @@ export const DOMAIN_CONFIGS: Record<string, DomainConfig> = {
       "Read what clients say about Dr. Jan Duffy, Las Vegas real estate agent.",
     heroHeadline: "What Clients Say About Dr. Jan",
     heroSubheadline:
-      "500+ clients helped. In real estate since 1983. Real results, real reviews.",
+      "500+ Dr. Duffy Group sales. Licensed since 2008 · 35 years in Las Vegas. Real results, real reviews.",
     keywords: [
       "Dr Jan Duffy reviews",
       "BHHS Nevada Properties reviews",
@@ -129,7 +129,7 @@ export const DOMAIN_CONFIGS: Record<string, DomainConfig> = {
     pageType: "search",
     realscoutAgentId: REALSCOUT_AGENT_ID,
     ctaBadge: "Client Reviews",
-    ctaHeadline: "Join 500+ Happy Clients",
+    ctaHeadline: "Join 500+ Dr. Duffy Group Clients",
     ctaSubheadline:
       "Let's talk about your real estate goals — no pressure, just expertise.",
   },
@@ -141,7 +141,7 @@ export const DOMAIN_CONFIGS: Record<string, DomainConfig> = {
       "Dr. Jan Duffy, Las Vegas REALTOR®.",
     heroHeadline: "Dr. Jan Duffy | Las Vegas Real Estate Expert",
     heroSubheadline:
-      "In real estate since 1983. 500+ transactions, $127M+ in career sales. Your trusted Las Vegas REALTOR®.",
+      "Licensed since 2008 · 35 years in Las Vegas. 500+ team sales, $127M+ in Dr. Duffy Group career sales. Your trusted Las Vegas REALTOR®.",
     keywords: ["Dr Jan Duffy", "Las Vegas realtor", "BHHS Nevada Properties"],
     pageType: "search",
     realscoutAgentId: REALSCOUT_AGENT_ID,
@@ -178,7 +178,7 @@ export const DOMAIN_CONFIGS: Record<string, DomainConfig> = {
       "Las Vegas real estate tips, market data, and insider knowledge from Dr. Jan Duffy.",
     heroHeadline: "Good to Know — Las Vegas Real Estate",
     heroSubheadline:
-      "Market data, neighborhood guides, and insider tips from a career in real estate since 1983.",
+      "Market data, neighborhood guides, and insider tips from a career licensed since 2008 · 35 years in Las Vegas.",
     keywords: [
       "Las Vegas real estate tips",
       "Las Vegas market data",
@@ -189,7 +189,7 @@ export const DOMAIN_CONFIGS: Record<string, DomainConfig> = {
     ctaBadge: "Market Expert",
     ctaHeadline: "Get the Insider Knowledge",
     ctaSubheadline:
-      "Las Vegas real estate data at your fingertips, from an agent in real estate since 1983.",
+      "Las Vegas real estate data at your fingertips, from an agent licensed since 2008 · 35 years in Las Vegas.",
   },
   "heritageatstonebridgehomes.com": {
     domain: "heritageatstonebridgehomes.com",
@@ -241,7 +241,7 @@ export const DOMAIN_CONFIGS: Record<string, DomainConfig> = {
       "Ready to buy or sell in Las Vegas? Just call Dr. Jan Duffy at 702-500-1955.",
     heroHeadline: "Just Call Dr. Jan",
     heroSubheadline:
-      "In real estate since 1983. 500+ clients. No runaround — just expert Las Vegas real estate guidance.",
+      "Licensed since 2008 · 35 years in Las Vegas. 500+ team sales. No runaround — just expert Las Vegas real estate guidance.",
     keywords: ["call Dr Jan Duffy", "Las Vegas realtor phone", "BHHS Nevada"],
     pageType: "search",
     realscoutAgentId: REALSCOUT_AGENT_ID,
@@ -268,7 +268,7 @@ export const DOMAIN_CONFIGS: Record<string, DomainConfig> = {
     realscoutAgentId: REALSCOUT_AGENT_ID,
     ctaBadge: "Las Vegas Expert",
     ctaHeadline: "Work With the Expert",
-    ctaSubheadline: "Las Vegas market knowledge, in real estate since 1983, working for you.",
+    ctaSubheadline: "Las Vegas market knowledge, licensed since 2008 · 35 years in Las Vegas, working for you.",
   },
   "lonemountainheights.com": {
     domain: "lonemountainheights.com",
@@ -435,7 +435,7 @@ export const DOMAIN_CONFIGS: Record<string, DomainConfig> = {
     realscoutAgentId: REALSCOUT_AGENT_ID,
     ctaBadge: "Las Vegas Expert",
     ctaHeadline: "Find Your Las Vegas Home",
-    ctaSubheadline: "Experience in real estate since 1983, working for you.",
+    ctaSubheadline: "Experience licensed since 2008 · 35 years in Las Vegas, working for you.",
   },
   "searchforhomesinhenderson.com": {
     domain: "searchforhomesinhenderson.com",
@@ -737,7 +737,7 @@ export const DOMAIN_CONFIGS: Record<string, DomainConfig> = {
       "Dr. Jan Duffy, Las Vegas REALTOR® — buy, sell, and invest across the Las Vegas Valley.",
     heroHeadline: "Dr. Jan Duffy | Las Vegas Real Estate",
     heroSubheadline:
-      "In real estate since 1983, serving Las Vegas buyers and sellers from Suite 100 on Lake Mead Blvd.",
+      "Licensed since 2008 · 35 years in Las Vegas, serving Las Vegas buyers and sellers from Suite 100 on Lake Mead Blvd.",
     keywords: ["Dr Jan Duffy", "Las Vegas realtor", "Dr Jan Duffy real estate"],
     pageType: "search",
     realscoutAgentId: REALSCOUT_AGENT_ID,

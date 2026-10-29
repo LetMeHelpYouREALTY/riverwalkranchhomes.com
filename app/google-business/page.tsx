@@ -39,7 +39,7 @@ export const metadata: Metadata = pageMetadata({
   openGraph: {
     title: "Dr. Jan Duffy, REALTOR®",
     description:
-      "Trusted Las Vegas REALTOR® in real estate since 1983. Summerlin, Henderson, luxury homes, 55+ communities.",
+      "Trusted Las Vegas REALTOR® licensed since 2008 · 35 years in Las Vegas. Summerlin, Henderson, luxury homes, 55+ communities.",
     type: "profile",
   },
 });
@@ -73,9 +73,9 @@ export default function GoogleBusinessPage() {
                   <HeadingPhoto path="/google-business" />
 
                   <p className="text-xl text-blue-200 mb-2">
-                    Top 1% Las Vegas REALTOR®
+                    Las Vegas REALTOR®
                   </p>
-                  <p className="text-slate-300 mb-6">In real estate since 1983</p>
+                  <p className="text-slate-300 mb-6">Licensed since 2008 · 35 years in Las Vegas</p>
 
                   <div className="space-y-3">
                     <div className="flex items-start gap-3">

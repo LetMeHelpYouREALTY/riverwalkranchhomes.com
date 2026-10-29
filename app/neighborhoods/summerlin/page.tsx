@@ -178,7 +178,7 @@ export default function SummerlinPage() {
               <p>
                 Working with Dr. Jan Duffy gives you access to listings before they hit the market
                 and offer math written at 9406 W Lake Mead Blvd. Dr. Jan Duffy
-                has been in real estate since 1983 and knows Summerlin — which streets have
+                has been licensed since 2008, with 35 years in Las Vegas, and knows Summerlin — which streets have
                 mountain views and which builder rows we register first are desk
                 facts, not a search screenshot.
               </p>

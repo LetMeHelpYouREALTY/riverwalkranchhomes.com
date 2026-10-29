@@ -35,7 +35,7 @@ export default function Footer() {
               Dr. Jan Duffy, REALTOR®
             </h2>
             <p className="text-slate-300 mb-4 text-sm">
-              In real estate since 1983. Buying, selling, and
+              Licensed since 2008 · 35 years in Las Vegas. Buying, selling, and
               relocating in Las Vegas, Henderson, and Summerlin.
             </p>
             <address className="not-italic text-slate-300 text-sm mb-4">

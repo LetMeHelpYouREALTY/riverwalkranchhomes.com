@@ -30,7 +30,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/about",
   title: "About Dr. Jan Duffy | Las Vegas REALTOR®",
   description:
-    "Meet Dr. Jan Duffy, your trusted agent. In real estate since 1983, $127M+ in transactions, Henderson & Summerlin specialist. Call (702) 500-1955.",
+    "Meet Dr. Jan Duffy, your trusted agent. Licensed since 2008 · 35 years in Las Vegas, $127M+ in Dr. Duffy Group career sales, Henderson & Summerlin specialist. Call (702) 500-1955.",
   keywords: [
     "Dr. Jan Duffy",
     "Berkshire Hathaway HomeServices agent",
@@ -111,8 +111,7 @@ export default function AboutPage() {
             </h1>
             <HeadingPhoto path="/about" />
             <p className="text-xl text-slate-600">
-              Dr. Jan Duffy, Top 1% Las Vegas REALTOR®, has been in real estate
-              since 1983. Whether you're buying, selling,
+              Dr. Jan Duffy, Las Vegas REALTOR®, has been licensed since 2008 · 35 years in Las Vegas. Whether you're buying, selling,
               investing, or relocating, you'll receive expert guidance with
               integrity and professionalism.
             </p>
@@ -145,7 +144,7 @@ export default function AboutPage() {
                     expertise to every client I serve.
                   </p>
                   <p>
-                    I've closed $127 million in transactions and
+                    I've led the Dr. Duffy Group to $127 million in career sales and
                     helped hundreds of buyers and sellers find the right home in
                     Las Vegas, Henderson, Summerlin, and throughout Southern
                     Nevada. My expertise spans luxury properties, new
@@ -250,7 +249,7 @@ export default function AboutPage() {
                 <div className="grid grid-cols-2 gap-4">
                   <div className="bg-blue-50 rounded-lg p-6 text-center">
                     <div className="text-3xl font-bold text-blue-600 mb-1">
-                      Since 1983
+                      Since 2008
                     </div>
                     <div className="text-sm text-slate-600">
                       In Real Estate
@@ -260,13 +259,13 @@ export default function AboutPage() {
                     <div className="text-3xl font-bold text-blue-600 mb-1">
                       $127M+
                     </div>
-                    <div className="text-sm text-slate-600">Volume Closed</div>
+                    <div className="text-sm text-slate-600">Team Career Sales</div>
                   </div>
                   <div className="bg-blue-50 rounded-lg p-6 text-center">
                     <div className="text-3xl font-bold text-blue-600 mb-1">
                       500+
                     </div>
-                    <div className="text-sm text-slate-600">Transactions</div>
+                    <div className="text-sm text-slate-600">Team Sales</div>
                   </div>
                   <div className="bg-blue-50 rounded-lg p-6 text-center">
                     <div className="text-3xl font-bold text-blue-600 mb-1">

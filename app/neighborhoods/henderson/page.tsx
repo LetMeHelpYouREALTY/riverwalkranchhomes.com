@@ -20,7 +20,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/neighborhoods/henderson",
   title: "Henderson Real Estate | Nevada Real Estate",
   description:
-    "Find Henderson homes with Dr. Jan Duffy, REALTOR®, in real estate since 1983. She specializes in Henderson's residential communities with parks and recreation. Median price $485K. Call (702) 500-1955.",
+    "Find Henderson homes with Dr. Jan Duffy, REALTOR®, licensed since 2008 · 35 years in Las Vegas. She specializes in Henderson's residential communities with parks and recreation. Median price $485K. Call (702) 500-1955.",
   keywords: [
     "Berkshire Hathaway HomeServices Henderson",
     "Henderson homes for sale",
@@ -121,7 +121,7 @@ export default function HendersonPage() {
                 <strong>Henderson</strong> is Nevada's second-largest city with
                 over 320,000 residents. Compare streets by square footage, HOA
                 dues, parks, and commute minutes from 9406 W Lake Mead Blvd—not
-                by slogan. Dr. Jan Duffy, in real estate since 1983, brings
+                by slogan. Dr. Jan Duffy, licensed since 2008 · 35 years in Las Vegas, brings
                 unmatched expertise to every transaction.
               </p>
               <p>

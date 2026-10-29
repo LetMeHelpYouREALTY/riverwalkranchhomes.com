@@ -205,7 +205,7 @@ export default function ContactPage() {
                 <p className="text-sm text-slate-700">
                   <strong>{nap.shortName}, REALTOR®</strong>
                   <br />
-                  In real estate since 1983
+                  Licensed since 2008 · 35 years in Las Vegas
                   <br />
                   {nap.fullAddress}
                 </p>

@@ -26,9 +26,9 @@ const features = [
   },
   {
     icon: Award,
-    title: "$127M+ Closed",
+    title: "$127M+ Team Career Sales",
     description:
-      "500+ transactions across Las Vegas, Henderson, and Summerlin.",
+      "500+ Dr. Duffy Group sales across Las Vegas, Henderson, and Summerlin.",
   },
   {
     icon: Clock,

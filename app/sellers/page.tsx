@@ -88,7 +88,7 @@ export default function SellersPage() {
               When you list with{" "}
               Dr. Jan Duffy, you get
               world-class marketing, expert pricing, and a name that buyers
-              trust. Dr. Jan Duffy has been in real estate since 1983—helping
+              trust. Dr. Jan Duffy has been licensed since 2008 · 35 years in Las Vegas—helping
               sellers achieve top-dollar results with proven marketing
               strategies and skilled negotiation.
             </p>

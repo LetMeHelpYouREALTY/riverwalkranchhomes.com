@@ -432,7 +432,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/why-berkshire-hathaway": [
     {
       h2: "Dr. Jan Duffy at Suite 100",
-      body: "Ask who photographs, who writes remarks, who negotiates. Dr. Jan Duffy, REALTOR®, 9406 W Lake Mead Blvd, Suite 100. Call (702) 500-1955. Closed volume cited on this site: $127M+.",
+      body: "Ask who photographs, who writes remarks, who negotiates. Dr. Jan Duffy, REALTOR®, 9406 W Lake Mead Blvd, Suite 100. Call (702) 500-1955. Dr. Duffy Group career sales: $127M+.",
       pins: [
         {
           name: "Brokerage on the contract",
@@ -465,8 +465,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
           note: "Who photographs, who writes remarks, who negotiates — named before photographer day.",
         },
         {
-          name: "$127M+ closed",
-          note: "Volume cited on this site. Ask for recent closes on YOUR street. We will not invent a price.",
+          name: "$127M+ team career sales",
+          note: "Dr. Duffy Group career sales. Ask for recent closes on YOUR street. We will not invent a price.",
         },
         {
           name: "",
@@ -594,7 +594,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
       pins: [
         {
           name: "Who",
-          note: "Dr. Jan Duffy, REALTOR®. Closed volume cited on this site: $127M+.",
+          note: "Dr. Jan Duffy, REALTOR®. Dr. Duffy Group career sales: $127M+.",
         },
         {
           name: "What",
@@ -1580,7 +1580,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/contact": [
     {
       h2: "Walk-in hours and (702) 500-1955 at Suite 100 — the Maps pin is this desk",
-      body: "9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Call (702) 500-1955. Closed volume cited on this site: $127M+. Map, Directions, and Google Reviews stay on this URL.",
+      body: "9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Call (702) 500-1955. Dr. Duffy Group career sales: $127M+. Map, Directions, and Google Reviews stay on this URL.",
       pins: [
         {
           name: "Call or text (702) 500-1955",
@@ -2188,7 +2188,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Dated files",
-          note: "Closed volume cited on this site: $127M+.",
+          note: "Dr. Duffy Group career sales: $127M+.",
         },
         {
           name: "Hours",

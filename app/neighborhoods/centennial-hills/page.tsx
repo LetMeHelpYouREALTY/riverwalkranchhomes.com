@@ -120,7 +120,7 @@ export default function CentennialHillsPage() {
                 suggest.
               </p>
               <p>
-                Dr. Jan Duffy, in real estate since 1983, knows which streets
+                Dr. Jan Duffy, licensed since 2008 · 35 years in Las Vegas, knows which streets
                 offer the strongest mountain views, commute times to the Strip
                 and Downtown Summerlin, and which HOAs publish current reserve
                 studies. This local knowledge, combined with a commitment

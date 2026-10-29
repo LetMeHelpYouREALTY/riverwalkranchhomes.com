@@ -153,7 +153,7 @@ export default function BuyersPage() {
                     "Contract and disclosure review",
                     "Inspection coordination and repair negotiation",
                     "Lender and service provider referrals",
-                    "In real estate since 1983",
+                    "Licensed since 2008 · 35 years in Las Vegas",
                   ].map((item) => (
                     <li key={item} className="flex items-center">
                       <CheckCircle className="h-5 w-5 text-green-400 mr-2 flex-shrink-0" />
@@ -173,7 +173,7 @@ export default function BuyersPage() {
                   table and beyond.
                 </p>
                 <div className="text-sm text-slate-500">
-                  In real estate since 1983 | $127M+ in transactions
+                  Licensed since 2008 · 35 years in Las Vegas | $127M+ in Dr. Duffy Group career sales
                 </div>
               </div>
             </div>
@@ -330,8 +330,7 @@ export default function BuyersPage() {
                   West-valley start, then the listing street
                 </h3>
                 <p className="text-slate-600 text-sm">
-                  Dr. Jan has been in real estate since 1983, with $127M+ in
-                  transactions from Suite 100
+                  Dr. Jan has been licensed since 2008 · 35 years in Las Vegas, with $127M+ in Dr. Duffy Group career sales from Suite 100
                 </p>
               </div>
               <div className="text-center">
@@ -342,7 +341,7 @@ export default function BuyersPage() {
                   Offer math at 9406 W Lake Mead Blvd
                 </h3>
                 <p className="text-slate-600 text-sm">
-                  500+ closed files. Escalation and inspection terms are written
+                  500+ Dr. Duffy Group sales. Escalation and inspection terms are written
                   at the desk.
                 </p>
               </div>

@@ -69,7 +69,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
       },
       {
         q: "Who handles my transaction?",
-        a: "Dr. Jan Duffy, REALTOR®, in real estate since 1983, handles your transaction personally from Suite 100.",
+        a: "Dr. Jan Duffy, REALTOR®, licensed since 2008 · 35 years in Las Vegas, handles your transaction personally from Suite 100.",
       },
       {
         q: "Is Dr. Jan Duffy commission higher than other Las Vegas brokerages?",

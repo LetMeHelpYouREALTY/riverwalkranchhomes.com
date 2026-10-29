@@ -19,7 +19,7 @@ export const metadata: Metadata = pageMetadata({
   path: "/neighborhoods/green-valley",
   title: "Green Valley Real Estate | Henderson Real Estate",
   description:
-    "Find Green Valley homes with Dr. Jan Duffy, REALTOR®, in real estate since 1983. She specializes in this Henderson community with parks, shopping, and Green Valley High School nearby. Median price $520K. Call (702) 500-1955.",
+    "Find Green Valley homes with Dr. Jan Duffy, REALTOR®, licensed since 2008 · 35 years in Las Vegas. She specializes in this Henderson community with parks, shopping, and Green Valley High School nearby. Median price $520K. Call (702) 500-1955.",
   keywords: [
     "Berkshire Hathaway HomeServices Green Valley",
     "Green Valley homes for sale",
