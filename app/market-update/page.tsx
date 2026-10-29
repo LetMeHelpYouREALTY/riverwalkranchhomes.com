@@ -15,7 +15,7 @@ export const metadata: Metadata = pageMetadata({
   title:
     "Las Vegas Market Update Real Estate | January 2026",
   description:
-    "Weekly Las Vegas real estate market update from Dr. Jan Duffy. Get the latest stats, notable sales, and expert analysis from Dr. Jan Duffy. Call (702) 222-1964.",
+    "Weekly Las Vegas real estate market update from Dr. Jan Duffy. Get the latest stats, notable sales, and expert analysis from Dr. Jan Duffy. Call (702) 500-1955.",
   keywords: [
     "Berkshire Hathaway HomeServices Las Vegas market update",
     "Las Vegas real estate market",
@@ -98,7 +98,7 @@ export default function MarketUpdatePage() {
               Price this week against your APN at Suite 100
             </h2>
             <p className="text-xl text-blue-100 mb-8">
-              $452,500 median is a snapshot. Call (702) 222-1964. Bring the
+              $452,500 median is a snapshot. Call (702) 500-1955. Bring the
               address to 9406 W Lake Mead Blvd.
             </p>
             <CtaActions variant="onDark" />

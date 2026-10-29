@@ -14,7 +14,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/neighborhoods": {
     h2: "I will not let you pick a ZIP from the card grid",
     quote:
-      "From Suite 100 we time one west loop and one Henderson loop. Summerlin is 10–15 minutes. Green Valley is 25–35. You compare parking, trees, and rec campuses — not a slogan. Call (702) 222-1964 with two ZIPs.",
+      "From Suite 100 we time one west loop and one Henderson loop. Summerlin is 10–15 minutes. Green Valley is 25–35. You compare parking, trees, and rec campuses — not a slogan. Call (702) 500-1955 with two ZIPs.",
   },
   "/neighborhoods/summerlin": {
     h2: "Which Summerlin village I drive first from Suite 100",
@@ -49,7 +49,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/neighborhoods/henderson": {
     h2: "Two Henderson villages, one east afternoon",
     quote:
-      "I pick Green Valley trees or Inspirada rec — not both plus Water Street on the first east day. Suite 100 is 25–35 minutes west. Square footage, HOA dues, and park acreage are the comparison points. Call (702) 222-1964 with the commute target.",
+      "I pick Green Valley trees or Inspirada rec — not both plus Water Street on the first east day. Suite 100 is 25–35 minutes west. Square footage, HOA dues, and park acreage are the comparison points. Call (702) 500-1955 with the commute target.",
   },
   "/neighborhoods/inspirada": {
     h2: "Town Center pool before any builder model",
@@ -59,7 +59,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/neighborhoods/north-las-vegas": {
     h2: "Aliante first when the ZIP is North Las Vegas",
     quote:
-      "This is not a Summerlin retail swap. Aliante rec and Craig Road employers are the first pins. Legacy High School is mapped by street at ccsd.net/zoning. North Vista Hospital is the hospital check. Call (702) 222-1964.",
+      "This is not a Summerlin retail swap. Aliante rec and Craig Road employers are the first pins. Legacy High School is mapped by street at ccsd.net/zoning. North Vista Hospital is the hospital check. Call (702) 500-1955.",
   },
   "/neighborhoods/mountains-edge": {
     h2: "Walk Exploration Peak before the mall caption",
@@ -109,7 +109,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/": {
     h2: "Same-day routing starts at the Maps pin, not a call center",
     quote:
-      "Buyer and seller appointments start at 9406 W Lake Mead Blvd, Suite 100. Summerlin first, Henderson second, so you are not crisscrossing I-15. Call or text (702) 222-1964. The office line on Google is (702) 500-1942.",
+      "Buyer and seller appointments start at 9406 W Lake Mead Blvd, Suite 100. Summerlin first, Henderson second, so you are not crisscrossing I-15. Call or text (702) 500-1955. The office line on Google is (702) 500-1942.",
   },
   "/about": {
     h2: "Appointments are at Suite 100",
@@ -124,12 +124,12 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/google-business": {
     h2: "Maps, GBP, and this page must say the same NAP",
     quote:
-      "9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Office (702) 500-1942. Client CTA (702) 222-1964. If a directory disagrees, we fix the directory — not this page.",
+      "9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Office (702) 500-1942. Client CTA (702) 500-1955. If a directory disagrees, we fix the directory — not this page.",
   },
   "/faq": {
     h2: "Bring a ZIP and a pre-approval to the live Q&A",
     quote:
-      "FAQ copy is the desk version of the same questions. Named campuses and commute minutes replace slogans. Call (702) 222-1964. Suite 100 is 10 minutes from most Summerlin villages.",
+      "FAQ copy is the desk version of the same questions. Named campuses and commute minutes replace slogans. Call (702) 500-1955. Suite 100 is 10 minutes from most Summerlin villages.",
   },
   "/services": {
     h2: "Buy, sell, 55+, and relocation paperwork share one desk",
@@ -144,7 +144,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/listings": {
     h2: "Save the RealScout results, then we sequence the tour",
     quote:
-      "Live MLS search sits on RealScout. I sequence Summerlin, Henderson, or 55+ stops from Lake Mead Blvd so you are not hopscotching I-15. Call (702) 222-1964 with the saved-search link.",
+      "Live MLS search sits on RealScout. I sequence Summerlin, Henderson, or 55+ stops from Lake Mead Blvd so you are not hopscotching I-15. Call (702) 500-1955 with the saved-search link.",
   },
   "/home-valuation": {
     h2: "Bring the APN — we do not price from a Zestimate screenshot",
@@ -154,22 +154,22 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/new-construction": {
     h2: "Do not walk a model unescorted — register Dr. Jan first",
     quote:
-      "Most builders require Dr. Jan on the first visit. Registration happens at Suite 100, then Skye Canyon, Inspirada, or Mountains Edge rows. Call (702) 222-1964 before you walk a model unescorted.",
+      "Most builders require Dr. Jan on the first visit. Registration happens at Suite 100, then Skye Canyon, Inspirada, or Mountains Edge rows. Call (702) 500-1955 before you walk a model unescorted.",
   },
   "/buyers": {
     h2: "Pre-approval and first-tour routing at one desk",
     quote:
-      "Search criteria and commute minutes are set at Suite 100 so you are not touring without a plan. Call (702) 222-1964. RealScout holds the live MLS; I hold the sequence.",
+      "Search criteria and commute minutes are set at Suite 100 so you are not touring without a plan. Call (702) 500-1955. RealScout holds the live MLS; I hold the sequence.",
   },
   "/buyers/first-time-buyers": {
     h2: "Walk FHA and VA numbers at Suite 100 before any model row",
     quote:
-      "We review program fit at Suite 100, then time a resale or builder row. Named campuses and commute minutes replace slogans. Call (702) 222-1964. North Las Vegas and Henderson entry prices are compared to the same desk math.",
+      "We review program fit at Suite 100, then time a resale or builder row. Named campuses and commute minutes replace slogans. Call (702) 500-1955. North Las Vegas and Henderson entry prices are compared to the same desk math.",
   },
   "/buyers/california-relocator": {
     h2: "California sale proceeds vs Las Vegas ZIP targets",
     quote:
-      "We compare your net to Summerlin vs Henderson vs North Las Vegas before a tour week. Nevada has no state income tax — that is a tax fact, not a slogan. Call (702) 222-1964 for a video intake from Suite 100.",
+      "We compare your net to Summerlin vs Henderson vs North Las Vegas before a tour week. Nevada has no state income tax — that is a tax fact, not a slogan. Call (702) 500-1955 for a video intake from Suite 100.",
   },
   "/buyers/luxury-homes-las-vegas": {
     h2: "Gate codes stay off group texts",
@@ -179,17 +179,17 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/sellers": {
     h2: "Day-one pricing from comps, not from a portal estimate",
     quote:
-      "We pull comps at the desk, then go on-site for photos. Overpricing from a Zestimate costs days on market. Call (702) 222-1964 with the APN. 9406 W Lake Mead Blvd, Suite 100.",
+      "We pull comps at the desk, then go on-site for photos. Overpricing from a Zestimate costs days on market. Call (702) 500-1955 with the APN. 9406 W Lake Mead Blvd, Suite 100.",
   },
   "/sellers/move-up": {
     h2: "Your current house and the next ZIP share one tour clock",
     quote:
-      "I map your current home and the next ZIP so both tours share Suite 100. Summerlin-to-Henderson moves are sequenced, not improvised. Call (702) 222-1964.",
+      "I map your current home and the next ZIP so both tours share Suite 100. Summerlin-to-Henderson moves are sequenced, not improvised. Call (702) 500-1955.",
   },
   "/sellers/downsizing": {
     h2: "List the larger home or tour 55+ the same day",
     quote:
-      "Sun City Summerlin is 10–15 minutes from Suite 100. We can list photos in the morning and walk a rec campus after. Occupancy rules are reviewed at the desk first. Call (702) 222-1964.",
+      "Sun City Summerlin is 10–15 minutes from Suite 100. We can list photos in the morning and walk a rec campus after. Occupancy rules are reviewed at the desk first. Call (702) 500-1955.",
   },
   "/sellers/relocation": {
     h2: "One calendar for the Las Vegas sale and the destination purchase",
@@ -204,36 +204,36 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/relocation": {
     h2: "I will not crisscross I-15 four times on a tour week",
     quote:
-      "Day one west-valley, day two east-valley, day three 55+ or builder rows if needed. I will not crisscross I-15 four times. Call (702) 222-1964. Start at 9406 W Lake Mead Blvd, Suite 100.",
+      "Day one west-valley, day two east-valley, day three 55+ or builder rows if needed. I will not crisscross I-15 four times. Call (702) 500-1955. Start at 9406 W Lake Mead Blvd, Suite 100.",
   },
   "/investment-properties": {
     h2: "Check HOA rental caps at the desk before any investment loop",
     quote:
-      "North Las Vegas, Henderson, and southwest ZIP clusters are not interchangeable. We check HOA rental caps at Suite 100 before we tour. Call (702) 222-1964 with the APN list.",
+      "North Las Vegas, Henderson, and southwest ZIP clusters are not interchangeable. We check HOA rental caps at Suite 100 before we tour. Call (702) 500-1955 with the APN list.",
   },
   "/luxury-homes": {
     h2: "Ridges, Highlands, or Lake Las Vegas — pick the first gate",
     quote:
-      "Photography and gate access are scheduled from Suite 100, not improvised on site. Square footage and HOA dues beat slogans. Call (702) 222-1964. Discretion on addresses is the default.",
+      "Photography and gate access are scheduled from Suite 100, not improvised on site. Square footage and HOA dues beat slogans. Call (702) 500-1955. Discretion on addresses is the default.",
   },
   "/why-berkshire-hathaway": {
     h2: "See marketing samples at Suite 100 before you sign",
     quote:
-      "I show marketing samples and referral paths at 9406 W Lake Mead Blvd. Call (702) 222-1964.",
+      "I show marketing samples and referral paths at 9406 W Lake Mead Blvd. Call (702) 500-1955.",
   },
   "/market-insights": {
     h2: "Apply January 2026 numbers to your ZIP, then we drive",
     quote:
-      "Median and days-on-market snapshots live on this page. The decision needs your address. Call (702) 222-1964. We apply the numbers at Suite 100, then drive.",
+      "Median and days-on-market snapshots live on this page. The decision needs your address. Call (702) 500-1955. We apply the numbers at Suite 100, then drive.",
   },
   "/market-update": {
     h2: "A metro headline is not a CMA for your address",
     quote:
-      "Weekly stats are a snapshot. I will not price your house from a metro headline. Call (702) 222-1964. Bring the APN to 9406 W Lake Mead Blvd, Suite 100.",
+      "Weekly stats are a snapshot. I will not price your house from a metro headline. Call (702) 500-1955. Bring the APN to 9406 W Lake Mead Blvd, Suite 100.",
   },
   "/market-report": {
     h2: "Full CMA with the property address in the room",
     quote:
-      "The dark stats band is a snapshot. Comps are pulled at the desk with your APN. Call (702) 222-1964. Then we drive for photos if you are listing.",
+      "The dark stats band is a snapshot. Comps are pulled at the desk with your APN. Call (702) 500-1955. Then we drive for photos if you are listing.",
   },
 };

@@ -55,7 +55,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
       },
       {
         name: "Guard-gated enclaves on ridge streets",
-        note: "Custom and semi-custom lots sit above the fairways. Guest lists are confirmed from Suite 100. Call (702) 222-1964. Janet Lundahl Elementary is mapped by address at ccsd.net/zoning.",
+        note: "Custom and semi-custom lots sit above the fairways. Guest lists are confirmed from Suite 100. Call (702) 500-1955. Janet Lundahl Elementary is mapped by address at ccsd.net/zoning.",
       },
     ],
   },
@@ -69,7 +69,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
       },
       {
         name: "Resales next to Floyd Lamb Park",
-        note: "About 680 acres of park sit immediately west. Compare shade and trail access against new-construction streets. Call (702) 222-1964.",
+        note: "About 680 acres of park sit immediately west. Compare shade and trail access against new-construction streets. Call (702) 500-1955.",
       },
     ],
   },
@@ -83,7 +83,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
       },
       {
         name: "Centennial Center on the Durango cluster",
-        note: "Target, Costco, and theatres without a Summerlin hopscotch. Call (702) 222-1964 to time Arbor View High School by address after the park loop.",
+        note: "Target, Costco, and theatres without a Summerlin hopscotch. Call (702) 500-1955 to time Arbor View High School by address after the park loop.",
       },
     ],
   },
@@ -111,7 +111,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
       },
       {
         name: "MacDonald Highlands and Lake Las Vegas",
-        note: "Custom lots and shoreline product are a second Henderson clock. Call (702) 222-1964 with the commute target (Strip, Harry Reid International, or a named campus).",
+        note: "Custom lots and shoreline product are a second Henderson clock. Call (702) 500-1955 with the commute target (Strip, Harry Reid International, or a named campus).",
       },
     ],
   },
@@ -125,7 +125,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
       },
       {
         name: "Toll Brothers, Lennar, and resale streets",
-        note: "Plan rows change by village inside the 2,000 acres. St. Rose Dominican — Siena is the hospital pin. Call (702) 222-1964.",
+        note: "Plan rows change by village inside the 2,000 acres. St. Rose Dominican — Siena is the hospital pin. Call (702) 500-1955.",
       },
     ],
   },
@@ -139,7 +139,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
       },
       {
         name: "Aliante golf and rec campus",
-        note: "Golf, rec, and casino retail as the north anchor. Legacy High School is mapped by street at ccsd.net/zoning. Call (702) 222-1964.",
+        note: "Golf, rec, and casino retail as the north anchor. Legacy High School is mapped by street at ccsd.net/zoning. Call (702) 500-1955.",
       },
     ],
   },
@@ -153,7 +153,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
       },
       {
         name: "Rhodes Ranch Golf Club nearby",
-        note: "Public golf adjacent to the southwest plat. Southern Highlands Golf Club is a separate I-15 add-on, not the same stop. Call (702) 222-1964.",
+        note: "Public golf adjacent to the southwest plat. Southern Highlands Golf Club is a separate I-15 add-on, not the same stop. Call (702) 500-1955.",
       },
     ],
   },

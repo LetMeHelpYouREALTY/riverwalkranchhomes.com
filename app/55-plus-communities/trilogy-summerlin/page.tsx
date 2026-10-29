@@ -29,7 +29,7 @@ export const metadata: Metadata = pageMetadata({
   title:
     "Trilogy at Summerlin Homes for Sale | Luxury Resort 55+ Living | Dr. Jan Duffy",
   description:
-    "Trilogy at Summerlin - luxury resort-style 55+ community. Homes from $500K-$1.1M. On-site farm-to-table restaurant, spa, contemporary designs. Dr. Jan Duffy, REALTOR®. Call (702) 222-1964.",
+    "Trilogy at Summerlin - luxury resort-style 55+ community. Homes from $500K-$1.1M. On-site farm-to-table restaurant, spa, contemporary designs. Dr. Jan Duffy, REALTOR®. Call (702) 500-1955.",
   keywords: [
     "Trilogy at Summerlin homes for sale",
     "Trilogy Summerlin Las Vegas",
