@@ -211,7 +211,7 @@ export default function TrilogySummerlinPage() {
             <p className="text-xl text-rose-100 mb-8">
               Clubhouse, spa, and Shea plan rows sit 12–18 minutes from 9406 W
               Lake Mead Blvd. Register before walking models. Call (702)
-              222-1964.
+              500-1955.
             </p>
             <CtaActions variant="onDark" />
             <p className="text-rose-200">
