@@ -174,8 +174,8 @@ export default function GoogleBusinessPage() {
             />
             <p className="text-slate-600 text-center max-w-3xl mx-auto mb-6">
               Hours on this URL must match Google Business. Walk-ins welcome
-              during posted hours. Call (702) 500-1955. Office/GBP (702)
-              500-1942. 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.
+              during posted hours. Call (702) 500-1955.
+              9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.
             </p>
             <div className="bg-slate-50 rounded-xl p-6">
               <div className="flex items-center gap-2 mb-4">

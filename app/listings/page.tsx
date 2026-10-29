@@ -45,7 +45,7 @@ const listingsSchema = {
   provider: {
     "@type": "RealEstateAgent",
     name: "Dr. Jan Duffy - Berkshire Hathaway HomeServices Nevada Properties",
-    telephone: "+17025001942",
+    telephone: "+17025001955",
   },
   areaServed: [
     { "@type": "City", name: "Las Vegas, NV" },

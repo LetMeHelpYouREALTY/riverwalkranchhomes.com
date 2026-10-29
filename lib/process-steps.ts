@@ -40,7 +40,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
         },
         {
           title: "Keys after the occupancy date is on the calendar",
-          body: "Typical close is 30–45 days from acceptance. Call (702) 500-1955 when the letter is in hand. Office/GBP (702) 500-1942.",
+          body: "Typical close is 30–45 days from acceptance. Call (702) 500-1955 when the letter is in hand.",
         },
       ],
     },
@@ -68,7 +68,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
         },
         {
           title: "Leave the offer, inspection, and keys on the buyers page",
-          body: "This URL is search chassis. Representation, lender letters, and occupancy dates are /buyers. Office/GBP (702) 500-1942.",
+          body: "This URL is search chassis. Representation, lender letters, and occupancy dates are /buyers. Call (702) 500-1955.",
         },
       ],
     },
@@ -102,7 +102,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
       steps: [
         {
           title: "Brokerage line on every listing and buyer agreement",
-          body: "Dr. Jan Duffy, REALTOR®. 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Office/GBP (702) 500-1942.",
+          body: "Dr. Jan Duffy, REALTOR®. 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Call (702) 500-1955.",
         },
         {
           title: "Written disclosure standards on every file",
@@ -142,7 +142,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
         },
         {
           title: "Closed-file street comps you can ask for at the desk",
-          body: "Ask for recent closes on your street. Call (702) 500-1955. We will not invent a price. Office/GBP (702) 500-1942.",
+          body: "Ask for recent closes on your street. Call (702) 500-1955. We will not invent a price.",
         },
       ],
     },
@@ -158,7 +158,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
         },
         {
           title: "Same-day reply on the number you left",
-          body: "Client CTA (702) 500-1955. Office/GBP (702) 500-1942. Do not swap the lines. Hours: Mon–Fri 9am–6pm, Sat 10am–4pm, Sunday by appointment.",
+          body: "Call (702) 500-1955. Hours: Mon–Fri 9am–6pm, Sat 10am–4pm, Sunday by appointment.",
         },
         {
           title: "Showing or listing appointment on the calendar",
@@ -186,7 +186,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
         },
         {
           title: "A dedicated listing coordinator, not a concierge caption",
-          body: "Who photographs, who writes remarks, who negotiates — named at the desk. Call (702) 500-1955. Office/GBP (702) 500-1942.",
+          body: "Who photographs, who writes remarks, who negotiates — named at the desk. Call (702) 500-1955.",
         },
       ],
     },

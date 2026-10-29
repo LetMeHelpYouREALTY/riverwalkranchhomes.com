@@ -23,7 +23,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
     items: [
       {
         q: "Where does a same-day Summerlin-then-Henderson tour actually start?",
-        a: "At 9406 W Lake Mead Blvd, Suite 100. Summerlin first (10–15 minutes), Henderson second (25–35 minutes via I-215 east). Call or text (702) 500-1955. Office/GBP line is (702) 500-1942.",
+        a: "At 9406 W Lake Mead Blvd, Suite 100. Summerlin first (10–15 minutes), Henderson second (25–35 minutes via I-215 east). Call or text (702) 500-1955.",
       },
       {
         q: "Is the live MLS search on this homepage or on /listings?",
@@ -52,7 +52,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
       },
       {
         q: "How fast do you reply to a call or text vs email?",
-        a: "Call or text (702) 500-1955 for the fastest reply during posted hours. This page last published a typical two-hour window for calls, texts, and emails during business hours. Office/GBP line is (702) 500-1942.",
+        a: "Call or text (702) 500-1955 for the fastest reply during posted hours. This page last published a typical two-hour window for calls, texts, and emails during business hours.",
       },
       {
         q: "Is the first consultation billed?",
@@ -106,8 +106,8 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
     h2: "Maps, GBP, and this URL must show the same NAP",
     items: [
       {
-        q: "Which phone number matches Google Business vs the client CTA?",
-        a: "Office/GBP line is (702) 500-1942. Client CTA on this site is (702) 500-1955. Address is 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Hours: Monday–Friday 9am–6pm, Saturday 10am–4pm, Sunday by appointment.",
+        q: "Which phone number do I call?",
+        a: " Call (702) 500-1955. Address is 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Hours: Monday–Friday 9am–6pm, Saturday 10am–4pm, Sunday by appointment.",
       },
       {
         q: "How do I leave a Google review that actually helps the Maps listing?",

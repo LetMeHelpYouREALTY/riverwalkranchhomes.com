@@ -63,7 +63,7 @@ export const intentFaqs: Record<string, IntentFaqCopy> = {
     items: [
       {
         q: "Where are comps pulled before photos at the house?",
-        a: "Bring the APN or address to 9406 W Lake Mead Blvd, Suite 100. Comps are pulled here before we drive for photos and pricing. Call (702) 500-1955. Office/GBP line is (702) 500-1942.",
+        a: "Bring the APN or address to 9406 W Lake Mead Blvd, Suite 100. Comps are pulled here before we drive for photos and pricing. Call (702) 500-1955.",
       },
       {
         q: "What did this page last publish about Zestimate accuracy vs a CMA?",

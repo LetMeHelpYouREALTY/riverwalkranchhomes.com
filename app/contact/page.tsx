@@ -41,7 +41,7 @@ const contactSchema = {
   mainEntity: {
     "@type": "RealEstateAgent",
     name: "Dr. Jan Duffy - Berkshire Hathaway HomeServices Nevada Properties",
-    telephone: "+17025001942",
+    telephone: "+17025001955",
     email: "homes@heyberkshire.com",
     address: {
       "@type": "PostalAddress",

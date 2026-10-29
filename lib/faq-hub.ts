@@ -131,8 +131,8 @@ export const faqHubCategories: FaqHubCategory[] = [
         a: "Dr. Jan Duffy, REALTOR®. Never Janet as the agent name.",
       },
       {
-        q: "Which number do I call vs the office/GBP line?",
-        a: "Client CTA is (702) 500-1955. Office/GBP is (702) 500-1942. Email homes@heyberkshire.com. Address: 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
+        q: "Which number do I call?",
+        a: "Call (702) 500-1955. Email homes@heyberkshire.com. Address: 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
       },
       {
         q: "What closed-volume snapshot did this hub last publish?",

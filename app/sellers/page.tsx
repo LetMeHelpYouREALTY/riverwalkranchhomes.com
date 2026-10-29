@@ -47,7 +47,7 @@ const sellerSchema = {
   provider: {
     "@type": "RealEstateAgent",
     name: "Dr. Jan Duffy - Berkshire Hathaway HomeServices Nevada Properties",
-    telephone: "+17025001942",
+    telephone: "+17025001955",
   },
   areaServed: "Las Vegas, Henderson, Summerlin, Clark County NV",
   serviceType: "Seller Representation",
