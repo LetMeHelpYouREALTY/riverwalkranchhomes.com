@@ -98,7 +98,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
     },
     {
       h2: "What actually goes on the contract",
-      body: "Dr. Jan Duffy handles your file personally. Volume cited on this site: $127M+. Call (702) 500-1955.",
+      body: "Dr. Jan Duffy handles your file personally. Dr. Duffy Group career sales: $127M+. Call (702) 500-1955.",
       steps: [
         {
           title: "Brokerage line on every listing and buyer agreement",

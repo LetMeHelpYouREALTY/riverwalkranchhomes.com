@@ -30,7 +30,7 @@ export const faqHubCategories: FaqHubCategory[] = [
       },
       {
         q: "Who handles my transaction?",
-        a: "Dr. Jan Duffy, REALTOR®, in real estate since 1983, handles your transaction personally from Suite 100.",
+        a: "Dr. Jan Duffy, REALTOR®, licensed since 2008 · 35 years in Las Vegas, handles your transaction personally from Suite 100.",
       },
       {
         q: "Which cities does this office actually tour from Lake Mead Blvd?",
@@ -136,7 +136,7 @@ export const faqHubCategories: FaqHubCategory[] = [
       },
       {
         q: "What closed-volume snapshot did this hub last publish?",
-        a: "This page last published $127M+ in closed transactions and 500+ clients served. Ask the desk for current production — do not treat that snapshot as a live ranking.",
+        a: "This page last published $127M+ in Dr. Duffy Group career sales and 500+ team sales. Ask the desk for current production — do not treat that snapshot as a live ranking.",
       },
     ],
   },

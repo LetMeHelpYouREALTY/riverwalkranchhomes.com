@@ -52,7 +52,7 @@ export default function WhyBerkshireHathawayPage() {
           {/* Hero Section */}
           <div className="max-w-4xl mx-auto text-center mb-16">
             <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-semibold mb-6">
-              In Real Estate Since 1983
+              Licensed Since 2008
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mb-6">
               Why Choose Dr. Jan Duffy?
@@ -60,8 +60,7 @@ export default function WhyBerkshireHathawayPage() {
             <HeadingPhoto path="/why-berkshire-hathaway" />
 
             <p className="text-xl text-slate-600 leading-relaxed">
-              When you work with Dr. Jan Duffy, REALTOR®, you get an advisor in
-              real estate since 1983 who stands for trust, ethical standards,
+              When you work with Dr. Jan Duffy, REALTOR®, you get an advisor licensed since 2008 · 35 years in Las Vegas who stands for trust, ethical standards,
               and honest advice.
             </p>
             <div className="mt-8">

@@ -89,7 +89,7 @@ export default function Navbar() {
               <span className="text-blue-600"> REALTOR®</span>
             </span>
             <span className="text-xs text-slate-500 hidden sm:block">
-              Las Vegas Real Estate · In Real Estate Since 1983
+              Las Vegas Real Estate · Licensed Since 2008
             </span>
           </Link>
 
