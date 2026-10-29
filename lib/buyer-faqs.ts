@@ -85,7 +85,7 @@ export const buyerFaqs: Record<string, BuyerFaqCopy> = {
     items: [
       {
         q: "Do Ridges gate codes go on a group text from this luxury search page?",
-        a: "No. The Ridges is typically 15–20 minutes from Suite 100. Gate codes and off-market windows are confirmed at 9406 W Lake Mead Blvd, Suite 100. We do not send a PDF of 40 estates. Call (702) 222-1964.",
+        a: "No. The Ridges is typically 15–20 minutes from Suite 100. Gate codes and off-market windows are confirmed at 9406 W Lake Mead Blvd, Suite 100. We do not send a PDF of 40 estates. Call (702) 500-1955.",
       },
       {
         q: "What December 2025 luxury median did this page last publish?",

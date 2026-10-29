@@ -81,7 +81,7 @@ export default function DelWebbLakeLasVegasPage() {
                 <strong>Del Webb at Lake Las Vegas</strong> is a 2016-to-present
                 55+ campus on Lake Las Vegas. Occupancy rules are reviewed at
                 9406 W Lake Mead Blvd, Suite 100 before the Henderson drive.
-                Call (702) 222-1964. Do not stack this with a Summerlin 55+
+                Call (702) 500-1955. Do not stack this with a Summerlin 55+
                 morning.
               </p>
               <p>
