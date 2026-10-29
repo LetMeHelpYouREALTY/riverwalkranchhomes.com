@@ -35,7 +35,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     ],
     h3: "Pool terraces and valley overlooks on the showing route",
     h3Body:
-      "Most Ridges tours include the club campus, selected ridge streets, and a return to Downtown Summerlin if you also want retail context. Call (702) 500-1955 for a private gate window.",
+      "Most Ridges tours include the club campus, selected ridge streets, and a return to Downtown Summerlin if you also want retail context. Call (702) 222-1964 for a private gate window.",
   },
   "/neighborhoods/southern-highlands": {
     h2: "South-valley golf and ridge streets in one tour block",
@@ -437,7 +437,7 @@ export const uniqueInteriors: Record<string, UniqueInteriorCopy> = {
     body: "Confidential file review is by appointment at 9406 W Lake Mead Blvd, Suite 100. Court dates, attorney contacts, and lockbox rules are handled here—not in a public lobby conversation.",
     facts: [
       "Neutral process, documented access, written offers",
-      "Call (702) 500-1955 to schedule a private slot",
+      "Call (702) 222-1964 to schedule a private slot",
       "Do not email sensitive orders to a shared inbox without a heads-up call",
     ],
     h3: "What to bring",

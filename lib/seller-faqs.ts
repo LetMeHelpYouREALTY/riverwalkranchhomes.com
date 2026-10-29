@@ -76,7 +76,7 @@ export const sellerFaqs: Record<string, SellerFaqCopy> = {
       },
       {
         q: "What occupancy rule do we review before a 55+ downsizing tour?",
-        a: "HOPA 80/20 vs all-residents-55+ (Solera). Guest-stay limits are in the HOA packet — we do not publish a one-size guest slogan. Call (702) 500-1955.",
+        a: "HOPA 80/20 vs all-residents-55+ (Solera). Guest-stay limits are in the HOA packet — we do not publish a one-size guest slogan. Call (702) 222-1964.",
       },
     ],
   },
@@ -106,7 +106,7 @@ export const sellerFaqs: Record<string, SellerFaqCopy> = {
     items: [
       {
         q: "Where are court dates and lockbox rules reviewed?",
-        a: "By appointment at 9406 W Lake Mead Blvd, Suite 100. Court dates, attorney contacts, and access rules are not a public-lobby conversation. Call (702) 500-1955 to book a private slot.",
+        a: "By appointment at 9406 W Lake Mead Blvd, Suite 100. Court dates, attorney contacts, and access rules are not a public-lobby conversation. Call (702) 222-1964 to book a private slot.",
       },
       {
         q: "What Nevada probate timing did this page last publish?",
@@ -114,7 +114,7 @@ export const sellerFaqs: Record<string, SellerFaqCopy> = {
       },
       {
         q: "What documents do we bring to the private appointment?",
-        a: "Letters testamentary or court orders, HOA contacts, and a preferred showing window. Do not email sensitive orders to a shared inbox without a heads-up call. Call (702) 500-1955.",
+        a: "Letters testamentary or court orders, HOA contacts, and a preferred showing window. Do not email sensitive orders to a shared inbox without a heads-up call. Call (702) 222-1964.",
       },
       {
         q: "How is listing price handled when parties disagree?",

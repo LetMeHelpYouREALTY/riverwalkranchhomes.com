@@ -64,7 +64,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
         },
         {
           title: "Book the showing clock, not a random open-house hopscotch",
-          body: "Call (702) 500-1955 with the saved-search link. Same-day tours start at this pin. Do not add twelve ZIPs to one afternoon.",
+          body: "Call (702) 222-1964 with the saved-search link. Same-day tours start at this pin. Do not add twelve ZIPs to one afternoon.",
         },
         {
           title: "Leave the offer, inspection, and keys on the buyers page",
@@ -158,7 +158,7 @@ export const processSteps: Record<string, ProcessCopy[]> = {
         },
         {
           title: "Same-day reply on the number you left",
-          body: "Client CTA (702) 500-1955. Office/GBP (702) 500-1942. Do not swap the lines. Hours: Mon–Fri 9am–6pm, Sat 10am–4pm, Sunday by appointment.",
+          body: "Client CTA (702) 222-1964. Office/GBP (702) 500-1942. Do not swap the lines. Hours: Mon–Fri 9am–6pm, Sat 10am–4pm, Sunday by appointment.",
         },
         {
           title: "Showing or listing appointment on the calendar",

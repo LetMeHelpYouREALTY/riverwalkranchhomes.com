@@ -182,7 +182,7 @@ export const supportFaqs: Record<string, SupportFaqCopy> = {
       },
       {
         q: "Is the inbox signup on this page a blast, or can it attach to my listing?",
-        a: "If you want the update applied to a listing, send the APN to the desk. Call (702) 500-1955. Do not treat a weekly bump as an automatic list-now order.",
+        a: "If you want the update applied to a listing, send the APN to the desk. Call (702) 222-1964. Do not treat a weekly bump as an automatic list-now order.",
       },
     ],
   },

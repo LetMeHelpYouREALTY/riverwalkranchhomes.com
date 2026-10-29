@@ -27,7 +27,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
       },
       {
         name: "Nine golf campuses including Red Rock Country Club",
-        note: "Public and private courses sit on the same west clock as Downtown Summerlin. Call (702) 500-1955 to sequence golf streets vs interior lots.",
+        note: "Public and private courses sit on the same west clock as Downtown Summerlin. Call (702) 222-1964 to sequence golf streets vs interior lots.",
       },
     ],
   },
@@ -41,7 +41,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
       },
       {
         name: "Bear's Best Golf Club inside the plat",
-        note: "Jack Nicklaus tribute holes wind through the villages. We time the club campus before any public-mall stop. Call (702) 500-1955 for a private gate window.",
+        note: "Jack Nicklaus tribute holes wind through the villages. We time the club campus before any public-mall stop. Call (702) 222-1964 for a private gate window.",
       },
     ],
   },
@@ -97,7 +97,7 @@ export const communityHighlights: Record<string, CommunityHighlightCopy> = {
       },
       {
         name: "Golf-course HOAs on the same Henderson clock",
-        note: "Green Valley High School and Coronado High School are named campuses by street. Call (702) 500-1955. Do not add Downtown Summerlin on this afternoon.",
+        note: "Green Valley High School and Coronado High School are named campuses by street. Call (702) 222-1964. Do not add Downtown Summerlin on this afternoon.",
       },
     ],
   },

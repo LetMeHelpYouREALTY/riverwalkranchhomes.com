@@ -24,7 +24,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/neighborhoods/the-ridges": {
     h2: "Gate lists stay off the group text",
     quote:
-      "Ridges appointments are booked from Suite 100 so the guard list is confirmed that morning. Typical run is 15–20 minutes. I do not text estate addresses on unsecured threads. Call (702) 500-1955 for a private gate window.",
+      "Ridges appointments are booked from Suite 100 so the guard list is confirmed that morning. Typical run is 15–20 minutes. I do not text estate addresses on unsecured threads. Call (702) 222-1964 for a private gate window.",
   },
   "/neighborhoods/southern-highlands": {
     h2: "South-valley golf is its own I-15 block",
@@ -34,7 +34,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/neighborhoods/skye-canyon": {
     h2: "Register at the desk before any Skye Canyon model row",
     quote:
-      "Builder registration happens at Suite 100 first. Then we walk Skye Center and Floyd Lamb on one northwest loop. Do not add Downtown Summerlin on the same clock. Call (702) 500-1955 before the first model visit.",
+      "Builder registration happens at Suite 100 first. Then we walk Skye Center and Floyd Lamb on one northwest loop. Do not add Downtown Summerlin on the same clock. Call (702) 222-1964 before the first model visit.",
   },
   "/neighborhoods/centennial-hills": {
     h2: "Arbor View commute minutes, then the 120-acre park",
@@ -84,7 +84,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/55-plus-communities/trilogy-summerlin": {
     h2: "Club restaurant and spa — not a four-building Sun City campus",
     quote:
-      "Trilogy sits 10–20 minutes from Suite 100. Rec is clubhouse-scale: restaurant, spa, pool terrace. I do not mix this with a Henderson Anthem day. Call (702) 500-1955 to sequence the west-valley stop.",
+      "Trilogy sits 10–20 minutes from Suite 100. Rec is clubhouse-scale: restaurant, spa, pool terrace. I do not mix this with a Henderson Anthem day. Call (702) 222-1964 to sequence the west-valley stop.",
   },
   "/55-plus-communities/heritage-stonebridge": {
     h2: "Staffed gate, then Downtown Summerlin",
@@ -99,7 +99,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/55-plus-communities/sun-city-aliante": {
     h2: "North Las Vegas rec — not a Summerlin clone",
     quote:
-      "Aliante rec and golf sit with Craig Road employers. I do not pair this with Sun City Summerlin the same afternoon. Suite 100 is a west-valley start; the northwest loop is its own drive. Call (702) 500-1955.",
+      "Aliante rec and golf sit with Craig Road employers. I do not pair this with Sun City Summerlin the same afternoon. Suite 100 is a west-valley start; the northwest loop is its own drive. Call (702) 222-1964.",
   },
   "/55-plus-communities/del-webb-lake-las-vegas": {
     h2: "Lake path at 35–45 minutes — not a west-valley add-on",
@@ -114,12 +114,12 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/about": {
     h2: "Appointments are at Suite 100",
     quote:
-      "I do not route you through a call center. Walk in during posted hours or book Calendly. Bring pre-approval or an APN. Visitor parking faces W Lake Mead Blvd. Call (702) 500-1955 for a Sunday window.",
+      "I do not route you through a call center. Walk in during posted hours or book Calendly. Bring pre-approval or an APN. Visitor parking faces W Lake Mead Blvd. Call (702) 222-1964 for a Sunday window.",
   },
   "/contact": {
     h2: "Walk-ins and Calendly showings use the same pin",
     quote:
-      "Documents go to homes@heyberkshire.com. Do not send listing keys by unsecured email. Call or text (702) 500-1955. Office NAP matches Google Business: 9406 W Lake Mead Blvd, Suite 100.",
+      "Documents go to homes@heyberkshire.com. Do not send listing keys by unsecured email. Call or text (702) 222-1964. Office NAP matches Google Business: 9406 W Lake Mead Blvd, Suite 100.",
   },
   "/google-business": {
     h2: "Maps, GBP, and this page must say the same NAP",
@@ -134,12 +134,12 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/services": {
     h2: "Buy, sell, 55+, and relocation paperwork share one desk",
     quote:
-      "Each service meeting starts at Suite 100 so MLS, showing routes, and HOA packets use the same west-valley start. Call (702) 500-1955. Do not split the file across three offices.",
+      "Each service meeting starts at Suite 100 so MLS, showing routes, and HOA packets use the same west-valley start. Call (702) 222-1964. Do not split the file across three offices.",
   },
   "/security-policy": {
     h2: "Showing access stays at Suite 100, not unsecured email",
     quote:
-      "We do not collect listing keys by open email. Data and lockbox questions are handled at 9406 W Lake Mead Blvd. Call (702) 500-1955.",
+      "We do not collect listing keys by open email. Data and lockbox questions are handled at 9406 W Lake Mead Blvd. Call (702) 222-1964.",
   },
   "/listings": {
     h2: "Save the RealScout results, then we sequence the tour",
@@ -149,7 +149,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/home-valuation": {
     h2: "Bring the APN — we do not price from a Zestimate screenshot",
     quote:
-      "Bring the APN or address to Suite 100. We pull comps here before we drive for photos and pricing. Call (702) 500-1955. Do not price from a Zestimate screenshot.",
+      "Bring the APN or address to Suite 100. We pull comps here before we drive for photos and pricing. Call (702) 222-1964. Do not price from a Zestimate screenshot.",
   },
   "/new-construction": {
     h2: "Do not walk a model unescorted — register Dr. Jan first",
@@ -174,7 +174,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/buyers/luxury-homes-las-vegas": {
     h2: "Gate codes stay off group texts",
     quote:
-      "Ridges, Southern Highlands, and Lake Las Vegas windows are confirmed from Suite 100. I do not send luxury addresses on unsecured threads. Call (702) 500-1955 for a private showing block.",
+      "Ridges, Southern Highlands, and Lake Las Vegas windows are confirmed from Suite 100. I do not send luxury addresses on unsecured threads. Call (702) 222-1964 for a private showing block.",
   },
   "/sellers": {
     h2: "Day-one pricing from comps, not from a portal estimate",
@@ -194,12 +194,12 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/sellers/relocation": {
     h2: "One calendar for the Las Vegas sale and the destination purchase",
     quote:
-      "Destination agents are briefed from this office so the sale and the next purchase share a calendar. Call (702) 500-1955. Do not leave the file in two CRMs with no owner.",
+      "Destination agents are briefed from this office so the sale and the next purchase share a calendar. Call (702) 222-1964. Do not leave the file in two CRMs with no owner.",
   },
   "/sellers/divorce-probate": {
     h2: "Private file review by appointment — not a lobby conversation",
     quote:
-      "Attorney contacts, access rules, and listing timing stay in a private file. Walk-ins for this work are by appointment. Call (702) 500-1955. We do not discuss case details in the reception area.",
+      "Attorney contacts, access rules, and listing timing stay in a private file. Walk-ins for this work are by appointment. Call (702) 222-1964. We do not discuss case details in the reception area.",
   },
   "/relocation": {
     h2: "I will not crisscross I-15 four times on a tour week",

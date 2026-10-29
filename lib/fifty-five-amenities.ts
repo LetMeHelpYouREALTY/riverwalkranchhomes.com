@@ -49,7 +49,7 @@ export const fiftyFiveAmenities: Record<string, FiftyFiveAmenityCopy> = {
       },
       {
         name: "Pinnacle and Desert Vista rec",
-        note: "The other two rec buildings. We do not walk all four the first afternoon. Call (702) 500-1955.",
+        note: "The other two rec buildings. We do not walk all four the first afternoon. Call (702) 222-1964.",
       },
     ],
   },

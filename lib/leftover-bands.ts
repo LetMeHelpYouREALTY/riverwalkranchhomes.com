@@ -66,7 +66,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/55-plus-communities/sun-city-anthem": [
     {
       h2: "Anthem Center 64,000 sq ft, then Liberty, Independence, and Heritage by elevation",
-      body: "Sun City Anthem is 30–35 minutes from 9406 W Lake Mead Blvd, Suite 100. Occupancy rules are reviewed at the desk before the Henderson drive. Call (702) 500-1955. Do not mix this with a Summerlin 55+ morning.",
+      body: "Sun City Anthem is 30–35 minutes from 9406 W Lake Mead Blvd, Suite 100. Occupancy rules are reviewed at the desk before the Henderson drive. Call (702) 222-1964. Do not mix this with a Summerlin 55+ morning.",
       pins: [
         {
           name: "Anthem Center",
@@ -250,7 +250,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/security-policy": [
     {
       h2: "Lockbox, showing logs, and wire instructions stay at Suite 100 — not unsecured email",
-      body: "Report security@heyberkshire.com or call (702) 500-1955. Desk reply within 48 hours. 9406 W Lake Mead Blvd, Suite 100. We do not collect listing keys by open email.",
+      body: "Report security@heyberkshire.com or call (702) 222-1964. Desk reply within 48 hours. 9406 W Lake Mead Blvd, Suite 100. We do not collect listing keys by open email.",
       pins: [
         {
           name: "security@heyberkshire.com",
@@ -258,7 +258,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Client CTA",
-          note: "(702) 500-1955. Do not swap with office/GBP (702) 500-1942.",
+          note: "(702) 222-1964. Do not swap with office/GBP (702) 500-1942.",
         },
         {
           name: "48-hour desk reply",
@@ -316,7 +316,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Padlock on heyberkshire.com, then the Suite 100 pin — phishing stays off this file",
-      body: "Confirm the domain and HTTPS before you send documents. Email homes@heyberkshire.com. Call (702) 500-1955. Do not change wiring from a text that is not this number.",
+      body: "Confirm the domain and HTTPS before you send documents. Email homes@heyberkshire.com. Call (702) 222-1964. Do not change wiring from a text that is not this number.",
       pins: [
         {
           name: "Correct domain",
@@ -590,7 +590,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Suite 100 hours, and the Maps pin on one URL",
-      body: "This About band is for Google Business Profile alignment. Who, what, and where live here so GBP and heyberkshire.com do not drift. Call (702) 500-1955. Office/GBP (702) 500-1942.",
+      body: "This About band is for Google Business Profile alignment. Who, what, and where live here so GBP and heyberkshire.com do not drift. Call (702) 222-1964. Office/GBP (702) 500-1942.",
       pins: [
         {
           name: "Who",
@@ -658,7 +658,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/sellers": [
     {
       h2: "Photographer, remarks, and comps scoped at Suite 100 before go-live",
-      body: "Listing files start at 9406 W Lake Mead Blvd, Suite 100. Photos and MLS remarks wait until the walkthrough. Call (702) 500-1955. We do not promise a portal we cannot name.",
+      body: "Listing files start at 9406 W Lake Mead Blvd, Suite 100. Photos and MLS remarks wait until the walkthrough. Call (702) 222-1964. We do not promise a portal we cannot name.",
       pins: [
         {
           name: "Dr. Jan Duffy syndication punch list",
@@ -680,7 +680,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "CMA at the desk, photos at the house, then MLS — that is the listing clock",
-      body: "The selling sequence is dated at Suite 100. We do not skip the walkthrough. Call (702) 500-1955.",
+      body: "The selling sequence is dated at Suite 100. We do not skip the walkthrough. Call (702) 222-1964.",
       pins: [
         {
           name: "Valuation",
@@ -724,7 +724,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Photo set, MLS remarks, HOA vendor list, and showing calendar — initialed at Suite 100",
-      body: "What you get when you list is a punch list, not a slogan. Call (702) 500-1955. 9406 W Lake Mead Blvd, Suite 100. We do not promise a portal we cannot name.",
+      body: "What you get when you list is a punch list, not a slogan. Call (702) 222-1964. 9406 W Lake Mead Blvd, Suite 100. We do not promise a portal we cannot name.",
       pins: [
         {
           name: "Photography",
@@ -770,7 +770,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/sellers/downsizing": [
     {
       h2: "List the larger house, then one 55+ rec campus — same afternoon from Suite 100",
-      body: "Sun City Summerlin is 10–15 minutes from 9406 W Lake Mead Blvd. Occupancy rules are reviewed before the clubhouse. Call (702) 500-1955. Do not guess at square footage you have not walked.",
+      body: "Sun City Summerlin is 10–15 minutes from 9406 W Lake Mead Blvd. Occupancy rules are reviewed before the clubhouse. Call (702) 222-1964. Do not guess at square footage you have not walked.",
       pins: [
         {
           name: "Sun City Summerlin",
@@ -836,7 +836,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "CMA, occupancy packet, then one rec walk — four steps from W Lake Mead Blvd",
-      body: "The sequence is dated at Suite 100. We do not skip the walkthrough. Call (702) 500-1955.",
+      body: "The sequence is dated at Suite 100. We do not skip the walkthrough. Call (702) 222-1964.",
       pins: [
         {
           name: "CMA",
@@ -882,7 +882,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Sq ft, lot, and the next APN — upgrade paths dated at Suite 100",
-      body: "Centennial Hills to Summerlin is a Palo Verde High School commute mapped by next address. Call (702) 500-1955. We do not invent the gain on a 2015–2021 purchase.",
+      body: "Centennial Hills to Summerlin is a Palo Verde High School commute mapped by next address. Call (702) 222-1964. We do not invent the gain on a 2015–2021 purchase.",
       pins: [
         {
           name: "Centennial to Summerlin",
@@ -972,7 +972,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/sellers/relocation": [
     {
       h2: "Las Vegas sale calendar plus a named agent in the next city",
-      body: "Outbound files start at Suite 100. Destination agents are briefed from 9406 W Lake Mead Blvd so two closings do not collide. Call (702) 500-1955.",
+      body: "Outbound files start at Suite 100. Destination agents are briefed from 9406 W Lake Mead Blvd so two closings do not collide. Call (702) 222-1964.",
       pins: [
         {
           name: "Remote listing",
@@ -988,7 +988,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Office/GBP",
-          note: "(702) 500-1942. Client CTA (702) 500-1955. Do not swap the lines.",
+          note: "(702) 500-1942. Client CTA (702) 222-1964. Do not swap the lines.",
         },
       ],
     },
@@ -1038,7 +1038,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "California, Texas, Arizona destination desks — Dr. Jan Duffy intro from Suite 100",
-      body: "Outbound is a named agent in the next city, briefed from 9406 W Lake Mead Blvd. Call (702) 500-1955. We do not invent a destination inventory count.",
+      body: "Outbound is a named agent in the next city, briefed from 9406 W Lake Mead Blvd. Call (702) 222-1964. We do not invent a destination inventory count.",
       pins: [
         {
           name: "California",
@@ -1060,7 +1060,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "CMA, listing window, remote closing — six steps dated at Suite 100",
-      body: "The sequence is written at 9406 W Lake Mead Blvd. Call (702) 500-1955. We do not skip the CMA because the job-start is next month.",
+      body: "The sequence is written at 9406 W Lake Mead Blvd. Call (702) 222-1964. We do not skip the CMA because the job-start is next month.",
       pins: [
         {
           name: "CMA",
@@ -1128,7 +1128,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Court dates, two signatures, and one listing file at Suite 100",
-      body: "Confidential review is by appointment at 9406 W Lake Mead Blvd. Call (702) 500-1955. We do not brief the lobby.",
+      body: "Confidential review is by appointment at 9406 W Lake Mead Blvd. Call (702) 222-1964. We do not brief the lobby.",
       pins: [
         {
           name: "Divorce file",
@@ -1172,7 +1172,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Separate showings, one MLS file, dated notes — not a group text",
-      body: "The process is documented at Suite 100. Call (702) 500-1955. Offers route to counsel. We do not post occupancy details.",
+      body: "The process is documented at Suite 100. Call (702) 222-1964. Offers route to counsel. We do not post occupancy details.",
       pins: [
         {
           name: "Showing window",
@@ -1240,7 +1240,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Utility setup, HOA packets, and one inbound ZIP — punch list at Suite 100",
-      body: "Relocation is a dated list, not a caption. Call (702) 500-1955. 9406 W Lake Mead Blvd, Suite 100. We do not tour twelve ZIPs the day you land.",
+      body: "Relocation is a dated list, not a caption. Call (702) 222-1964. 9406 W Lake Mead Blvd, Suite 100. We do not tour twelve ZIPs the day you land.",
       pins: [
         {
           name: "HOA packet",
@@ -1376,7 +1376,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Rental-cap packets and property-manager referrals — initialed at 9406 W Lake Mead Blvd",
-      body: "What you get is a punch list: rent comps, HOA rules, 1031 window. Call (702) 500-1955. We do not promise a portal we cannot name.",
+      body: "What you get is a punch list: rent comps, HOA rules, 1031 window. Call (702) 222-1964. We do not promise a portal we cannot name.",
       pins: [
         {
           name: "Rent comps",
@@ -1442,7 +1442,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "North Las Vegas, Henderson, or southwest — one ZIP cluster per inbound afternoon",
-      body: "Do not tour twelve ZIPs the day you land. Call (702) 500-1955. Occupancy and rental packets at Suite 100 first.",
+      body: "Do not tour twelve ZIPs the day you land. Call (702) 222-1964. Occupancy and rental packets at Suite 100 first.",
       pins: [
         {
           name: "NLV ~$385K",
@@ -1648,7 +1648,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Switch, AWS, and Google power campuses in Henderson — 25–35 minutes from W Lake Mead Blvd",
-      body: "Data-center jobs are an east-valley clock from Suite 100. Summerlin is a separate west loop. Call (702) 500-1955. Do not stack both in one afternoon.",
+      body: "Data-center jobs are an east-valley clock from Suite 100. Summerlin is a separate west loop. Call (702) 222-1964. Do not stack both in one afternoon.",
       pins: [
         {
           name: "Henderson corridor",
@@ -1708,7 +1708,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "One cluster per afternoon",
-          note: "Do not tour stadium, hospital, and studio ZIPs in one loop. Call (702) 500-1955.",
+          note: "Do not tour stadium, hospital, and studio ZIPs in one loop. Call (702) 222-1964.",
         },
       ],
     },
@@ -2158,7 +2158,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/about": [
     {
       h2: "Ridges $1M+ files, Toll Brothers registration, Sun City packets, CA net sheets — one desk",
-      body: "Pick a file type at 9406 W Lake Mead Blvd, Suite 100. Call (702) 500-1955. We do not route you through a call center.",
+      body: "Pick a file type at 9406 W Lake Mead Blvd, Suite 100. Call (702) 222-1964. We do not route you through a call center.",
       pins: [
         {
           name: "Residential resale",
@@ -2196,7 +2196,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Call",
-          note: "Client CTA (702) 500-1955. Do not swap with the office line.",
+          note: "Client CTA (702) 222-1964. Do not swap with the office line.",
         },
       ],
     },
@@ -2286,7 +2286,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Client CTA",
-          note: "(702) 500-1955. Office/GBP (702) 500-1942. Do not swap the lines.",
+          note: "(702) 222-1964. Office/GBP (702) 500-1942. Do not swap the lines.",
         },
       ],
     },
@@ -2438,7 +2438,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/55-plus-communities/sun-city-aliante": [
     {
       h2: "42,000 sq ft rec, 18-hole course, 2,800+ homes — 20–25 minutes north from Suite 100",
-      body: "Golf and rec sit next to the Aliante retail strip. Call (702) 500-1955. Occupancy rules at 9406 W Lake Mead Blvd before the north loop. Do not add Henderson the same day.",
+      body: "Golf and rec sit next to the Aliante retail strip. Call (702) 222-1964. Occupancy rules at 9406 W Lake Mead Blvd before the north loop. Do not add Henderson the same day.",
       pins: [
         {
           name: "42,000 sq ft rec",
@@ -2462,7 +2462,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/55-plus-communities/del-webb-lake-las-vegas": [
     {
       h2: "$400K–$900K, pickleball, 320-acre lake — 35–45 minutes from Suite 100",
-      body: "Del Webb at Lake Las Vegas is a 2016-to-present 55+ campus. Occupancy at 9406 W Lake Mead Blvd before the Henderson drive. Call (702) 500-1955. HOA cited on this page: $200–$280. Do not stack with a Summerlin 55+ morning.",
+      body: "Del Webb at Lake Las Vegas is a 2016-to-present 55+ campus. Occupancy at 9406 W Lake Mead Blvd before the Henderson drive. Call (702) 222-1964. HOA cited on this page: $200–$280. Do not stack with a Summerlin 55+ morning.",
       pins: [
         {
           name: "320-acre lake",
