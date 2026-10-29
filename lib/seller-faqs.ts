@@ -34,7 +34,7 @@ export const sellerFaqs: Record<string, SellerFaqCopy> = {
       },
       {
         q: "Are commission rates posted on this page?",
-        a: "No. Commission is negotiated in writing at the listing appointment. We walk every cost at 9406 W Lake Mead Blvd, Suite 100. Call (702) 500-1955. Office/GBP line is (702) 500-1942.",
+        a: "No. Commission is negotiated in writing at the listing appointment. We walk every cost at 9406 W Lake Mead Blvd, Suite 100. Call (702) 500-1955.",
       },
     ],
   },

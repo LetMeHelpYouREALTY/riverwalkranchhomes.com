@@ -39,7 +39,7 @@ const realEstateAgentSchema = {
   "@context": "https://schema.org",
   "@type": "RealEstateAgent",
   name: "Dr. Jan Duffy - Berkshire Hathaway HomeServices Nevada Properties",
-  telephone: "+17025001942",
+  telephone: "+17025001955",
   url: absoluteUrl("/buyers/california-relocator"),
   address: {
     "@type": "PostalAddress",

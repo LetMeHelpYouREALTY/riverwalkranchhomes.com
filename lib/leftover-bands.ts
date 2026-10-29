@@ -20,7 +20,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/": [
     {
       h2: "GBP 4.9 on this homepage — open Google Reviews from the Maps pin, then book Suite 100",
-      body: "Reviews on this URL support Maps ranking for 9406 W Lake Mead Blvd, Suite 100. Call (702) 500-1955. Office/GBP (702) 500-1942. Named campuses and commute minutes beat a slogan row.",
+      body: "Reviews on this URL support Maps ranking for 9406 W Lake Mead Blvd, Suite 100. Call (702) 500-1955. Named campuses and commute minutes beat a slogan row.",
       pins: [
         {
           name: "4.9 on the pin",
@@ -36,13 +36,13 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "License on the card",
-          note: "Client CTA (702) 500-1955.",
+          note: "Call (702) 500-1955.",
         },
       ],
     },
     {
       h2: "Call (702) 500-1955 from this homepage — Summerlin 10–15 or Henderson 25–35 from W Lake Mead Blvd",
-      body: "The Maps pin is this desk. Live MLS is RealScout. We sequence the first loop from 9406 W Lake Mead Blvd, Suite 100. Office/GBP (702) 500-1942.",
+      body: "The Maps pin is this desk. Live MLS is RealScout. We sequence the first loop from 9406 W Lake Mead Blvd, Suite 100. Call (702) 500-1955.",
       pins: [
         {
           name: "Buyer file",
@@ -82,7 +82,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Heritage",
-          note: "Larger lots and custom product. Published band $700K–$1.2M. Call (702) 500-1955. Office/GBP (702) 500-1942.",
+          note: "Larger lots and custom product. Published band $700K–$1.2M. Call (702) 500-1955.",
         },
       ],
     },
@@ -128,7 +128,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "HOA packet",
-          note: "Dues bands on this page are $140–$350. Confirm the week you tour. Office/GBP (702) 500-1942.",
+          note: "Dues bands on this page are $140–$350. Confirm the week you tour. Call (702) 500-1955.",
         },
       ],
     },
@@ -220,7 +220,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Paid placement punch list",
-          note: "Dr. Jan Duffy syndication is scoped before go-live. We do not promise a portal we cannot name. Office/GBP (702) 500-1942.",
+          note: "Dr. Jan Duffy syndication is scoped before go-live. We do not promise a portal we cannot name. Call (702) 500-1955.",
         },
       ],
     },
@@ -242,7 +242,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "45 days on market",
-          note: "Luxury average cited here. Well-priced files move faster. Office/GBP (702) 500-1942.",
+          note: "Luxury average cited here. Well-priced files move faster. Call (702) 500-1955.",
         },
       ],
     },
@@ -257,8 +257,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
           note: "Written reports. Include steps to reproduce. Do not send listing keys or wire changes on this thread.",
         },
         {
-          name: "Client CTA",
-          note: "(702) 500-1955. Do not swap with office/GBP (702) 500-1942.",
+          name: "Phone",
+          note: "(702) 500-1955.",
         },
         {
           name: "48-hour desk reply",
@@ -288,7 +288,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Compliance named",
-          note: "Fair Housing Act, Nevada brokerage rules, WCAG 2.1. Office/GBP (702) 500-1942.",
+          note: "Fair Housing Act, Nevada brokerage rules, WCAG 2.1. Call (702) 500-1955.",
         },
       ],
     },
@@ -310,7 +310,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Responsible disclosure",
-          note: "Good-faith reports get a 48-hour reply. Credit if you ask. Office/GBP (702) 500-1942.",
+          note: "Good-faith reports get a 48-hour reply. Credit if you ask. Call (702) 500-1955.",
         },
       ],
     },
@@ -332,7 +332,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Walk-in",
-          note: "Bring the question to Suite 100. Client CTA (702) 500-1955. Office/GBP (702) 500-1942.",
+          note: "Bring the question to Suite 100. Call (702) 500-1955.",
         },
       ],
     },
@@ -424,7 +424,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "+4.2% year over year",
-          note: "Cited on this page. Your ZIP can differ. We will not invent a list price. Office/GBP (702) 500-1942.",
+          note: "Cited on this page. Your ZIP can differ. We will not invent a list price. Call (702) 500-1955.",
         },
       ],
     },
@@ -444,7 +444,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Closed-file street comps",
-          note: "Ask for recent closes on your street. We will not invent a price. Office/GBP (702) 500-1942.",
+          note: "Ask for recent closes on your street. We will not invent a price. Call (702) 500-1955.",
         },
         {
           name: "Meet the agent page",
@@ -470,7 +470,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "",
-          note: "Dr. Jan Duffy, REALTOR®. Client CTA (702) 500-1955. Office/GBP (702) 500-1942.",
+          note: "Dr. Jan Duffy, REALTOR®. Call (702) 500-1955.",
         },
       ],
     },
@@ -516,7 +516,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Incentive flyers",
-          note: "Rate buydowns and design-studio credits expire. Last month's sheet is not this week's. Office/GBP (702) 500-1942.",
+          note: "Rate buydowns and design-studio credits expire. Last month's sheet is not this week's. Call (702) 500-1955.",
         },
       ],
     },
@@ -538,7 +538,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Walkthroughs",
-          note: "Framing, pre-drywall, and punch list are scheduled from this file. Office/GBP (702) 500-1942.",
+          note: "Framing, pre-drywall, and punch list are scheduled from this file. Call (702) 500-1955.",
         },
       ],
     },
@@ -560,7 +560,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Warranty and solar",
-          note: "Extended warranty, solar, and garage packages are named on the addendum. Office/GBP (702) 500-1942.",
+          note: "Extended warranty, solar, and garage packages are named on the addendum. Call (702) 500-1955.",
         },
       ],
     },
@@ -568,11 +568,11 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/google-business": [
     {
       h2: "Maps, hours, and reviews on this URL must match the Business Profile",
-      body: "Name, address, and office line (702) 500-1942 match GBP. Client CTA (702) 500-1955. 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Inconsistent NAP is a Maps ranking leak.",
+      body: "Call (702) 500-1955. 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Inconsistent NAP is a Maps ranking leak.",
       pins: [
         {
           name: "Call",
-          note: "Use the Call button on this page. Do not swap the office line with the client CTA.",
+          note: "Use the Call button on this page.",
         },
         {
           name: "Directions",
@@ -590,7 +590,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Suite 100 hours, and the Maps pin on one URL",
-      body: "This About band is for Google Business Profile alignment. Who, what, and where live here so GBP and heyberkshire.com do not drift. Call (702) 500-1955. Office/GBP (702) 500-1942.",
+      body: "This About band is for Google Business Profile alignment. Who, what, and where live here so GBP and heyberkshire.com do not drift. Call (702) 500-1955.",
       pins: [
         {
           name: "Who",
@@ -612,7 +612,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Mon–Fri 9am–6pm, Sat 10am–4pm at Suite 100 — Sunday by appointment",
-      body: "Hours on this URL must match Google Business. Walk-ins welcome during posted hours. Call (702) 500-1955. Office/GBP (702) 500-1942. 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
+      body: "Hours on this URL must match Google Business. Walk-ins welcome during posted hours. Call (702) 500-1955. 9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134.",
       pins: [
         {
           name: "Monday–Friday",
@@ -646,7 +646,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Call",
-          note: "Client CTA (702) 500-1955. Office line on Google is (702) 500-1942.",
+          note: "Call (702) 500-1955.",
         },
         {
           name: "Address line",
@@ -674,7 +674,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Net sheet",
-          note: "HOA, title, and payoff lines are written here. Office/GBP (702) 500-1942.",
+          note: "HOA, title, and payoff lines are written here. Call (702) 500-1955.",
         },
       ],
     },
@@ -740,7 +740,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Showing calendar",
-          note: "Lockbox and occupancy windows written at the desk. Office/GBP (702) 500-1942.",
+          note: "Lockbox and occupancy windows written at the desk. Call (702) 500-1955.",
         },
       ],
     },
@@ -808,7 +808,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Same afternoon",
-          note: "List the larger house, then one campus. Office/GBP (702) 500-1942.",
+          note: "List the larger house, then one campus. Call (702) 500-1955.",
         },
       ],
     },
@@ -852,7 +852,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "List or wait",
-          note: "Written at the desk. Office/GBP (702) 500-1942.",
+          note: "Written at the desk. Call (702) 500-1955.",
         },
       ],
     },
@@ -898,7 +898,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Two files",
-          note: "Current APN and next ZIP share 9406 W Lake Mead Blvd. Office/GBP (702) 500-1942.",
+          note: "Current APN and next ZIP share 9406 W Lake Mead Blvd. Call (702) 500-1955.",
         },
       ],
     },
@@ -919,8 +919,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
           note: "Written so two closings do not collide.",
         },
         {
-          name: "Office/GBP",
-          note: "(702) 500-1942. Client CTA (702) 500-1955.",
+          name: "Phone",
+          note: "(702) 500-1955.",
         },
       ],
     },
@@ -964,7 +964,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Rent-back",
-          note: "Occupancy after close. Office/GBP (702) 500-1942.",
+          note: "Occupancy after close. Call (702) 500-1955.",
         },
       ],
     },
@@ -987,8 +987,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
           note: "Bring both drafts. Occupancy dates are written before you fly.",
         },
         {
-          name: "Office/GBP",
-          note: "(702) 500-1942. Client CTA (702) 500-1955. Do not swap the lines.",
+          name: "Phone",
+          note: "(702) 500-1955.",
         },
       ],
     },
@@ -1010,7 +1010,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Two closings",
-          note: "Occupancy dates written before you fly. Office/GBP (702) 500-1942.",
+          note: "Occupancy dates written before you fly. Call (702) 500-1955.",
         },
       ],
     },
@@ -1053,8 +1053,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
           note: "Bring both drafts. Occupancy dates before you fly.",
         },
         {
-          name: "Office/GBP",
-          note: "(702) 500-1942. Client CTA (702) 500-1955.",
+          name: "Phone",
+          note: "(702) 500-1955.",
         },
       ],
     },
@@ -1076,7 +1076,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Remote close",
-          note: "Title and e-sign from this file. Office/GBP (702) 500-1942.",
+          note: "Title and e-sign from this file. Call (702) 500-1955.",
         },
       ],
     },
@@ -1098,7 +1098,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Video intake",
-          note: "Virtual street walk before you fly. Office/GBP (702) 500-1942.",
+          note: "Virtual street walk before you fly. Call (702) 500-1955.",
         },
       ],
     },
@@ -1122,7 +1122,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Offers",
-          note: "Documented, dated, and routed to counsel. Office/GBP (702) 500-1942.",
+          note: "Documented, dated, and routed to counsel. Call (702) 500-1955.",
         },
       ],
     },
@@ -1144,7 +1144,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Marketing",
-          note: "Remarks omit occupancy gossip. Office/GBP (702) 500-1942.",
+          note: "Remarks omit occupancy gossip. Call (702) 500-1955.",
         },
       ],
     },
@@ -1165,8 +1165,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
           note: "Order in the folder. Occupancy and lockbox rules written.",
         },
         {
-          name: "Office/GBP",
-          note: "(702) 500-1942. Client CTA (702) 500-1955.",
+          name: "Phone",
+          note: "(702) 500-1955.",
         },
       ],
     },
@@ -1188,7 +1188,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Close",
-          note: "Title and disbursement per the order. Office/GBP (702) 500-1942.",
+          note: "Title and disbursement per the order. Call (702) 500-1955.",
         },
       ],
     },
@@ -1209,8 +1209,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
           note: "Written showing window. Occupancy stays off marketing.",
         },
         {
-          name: "Office/GBP",
-          note: "(702) 500-1942. Client CTA (702) 500-1955.",
+          name: "Phone",
+          note: "(702) 500-1955.",
         },
       ],
     },
@@ -1255,8 +1255,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
           note: "Written after the occupancy date, not before the APN is known.",
         },
         {
-          name: "Office/GBP",
-          note: "(702) 500-1942. Client CTA (702) 500-1955.",
+          name: "Phone",
+          note: "(702) 500-1955.",
         },
       ],
     },
@@ -1324,7 +1324,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Your APN",
-          note: "Valley median $450K is not a CMA. Office/GBP (702) 500-1942.",
+          note: "Valley median $450K is not a CMA. Call (702) 500-1955.",
         },
       ],
     },
@@ -1348,7 +1348,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "1031 calendar",
-          note: "Identification windows are dated. Bring the relinquished APN. Office/GBP (702) 500-1942.",
+          note: "Identification windows are dated. Bring the relinquished APN. Call (702) 500-1955.",
         },
       ],
     },
@@ -1370,7 +1370,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "No invented yield",
-          note: "Cap rate is dated the day we pull rents. Office/GBP (702) 500-1942.",
+          note: "Cap rate is dated the day we pull rents. Call (702) 500-1955.",
         },
       ],
     },
@@ -1436,7 +1436,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "HOA rules",
-          note: "Rental caps and lease minimums. Office/GBP (702) 500-1942.",
+          note: "Rental caps and lease minimums. Call (702) 500-1955.",
         },
       ],
     },
@@ -1580,11 +1580,11 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/contact": [
     {
       h2: "Walk-in hours and (702) 500-1955 at Suite 100 — the Maps pin is this desk",
-      body: "9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Client CTA (702) 500-1955. Office/GBP (702) 500-1942. Closed volume cited on this site: $127M+. Map, Directions, and Google Reviews stay on this URL.",
+      body: "9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Call (702) 500-1955. Closed volume cited on this site: $127M+. Map, Directions, and Google Reviews stay on this URL.",
       pins: [
         {
           name: "Call or text (702) 500-1955",
-          note: "Dr. Jan answers this line. Do not swap it with the office number on Google.",
+          note: "Dr. Jan answers this line.",
         },
         {
           name: "homes@heyberkshire.com",
@@ -1602,10 +1602,10 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Call the client line or email Homes@HeyBerkshire.com from this URL",
-      body: "Skip a second form if you already have the number. Call or text (702) 500-1955. Email homes@heyberkshire.com. Calendly is the appointment column on this page. Office/GBP (702) 500-1942.",
+      body: "Skip a second form if you already have the number. Call or text (702) 500-1955. Email homes@heyberkshire.com. Calendly is the appointment column on this page.",
       pins: [
         {
-          name: "Client CTA",
+          name: "Phone",
           note: "(702) 500-1955. Same-day reply on the number you left.",
         },
         {
@@ -1692,7 +1692,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "Allegiant Stadium, Summerlin medical corridor, Nevada film credits — one employer clock at the desk",
-      body: "Diversification is three separate drives. Pick one employer cluster before we leave Suite 100. Call (702) 500-1955. Office/GBP (702) 500-1942.",
+      body: "Diversification is three separate drives. Pick one employer cluster before we leave Suite 100. Call (702) 500-1955.",
       pins: [
         {
           name: "Allegiant Stadium district",
@@ -1798,7 +1798,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "California inbound demand",
-          note: "Named on this page as a luxury driver. Your buyer still needs a letter. Office/GBP (702) 500-1942.",
+          note: "Named on this page as a luxury driver. Your buyer still needs a letter. Call (702) 500-1955.",
         },
       ],
     },
@@ -1910,7 +1910,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Then drive",
-          note: "Open /neighborhoods/[slug], then Calendly. Office/GBP (702) 500-1942.",
+          note: "Open /neighborhoods/[slug], then Calendly. Call (702) 500-1955.",
         },
       ],
     },
@@ -1934,7 +1934,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Eagle Hills",
-          note: "Sixth village on this 793-acre plat. Office/GBP (702) 500-1942.",
+          note: "Sixth village on this 793-acre plat. Call (702) 500-1955.",
         },
       ],
     },
@@ -1982,7 +1982,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Harry Reid International (LAS)",
-          note: "Airport clock from this south plat. Office/GBP (702) 500-1942.",
+          note: "Airport clock from this south plat. Call (702) 500-1955.",
         },
       ],
     },
@@ -2030,7 +2030,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Mountain View Hospital",
-          note: "Hospital pin on this northwest run. Office/GBP (702) 500-1942.",
+          note: "Hospital pin on this northwest run. Call (702) 500-1955.",
         },
       ],
     },
@@ -2054,7 +2054,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "35-year trees",
-          note: "Canopy age is the comparison vs Inspirada rec campuses. Office/GBP (702) 500-1942.",
+          note: "Canopy age is the comparison vs Inspirada rec campuses. Call (702) 500-1955.",
         },
       ],
     },
@@ -2102,7 +2102,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Builder registration",
-          note: "Register Dr. Jan before the first Inspirada model. Office/GBP (702) 500-1942.",
+          note: "Register Dr. Jan before the first Inspirada model. Call (702) 500-1955.",
         },
       ],
     },
@@ -2150,7 +2150,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Harry Reid International (LAS)",
-          note: "Airport about 20 minutes from this southwest plat. Office/GBP (702) 500-1942.",
+          note: "Airport about 20 minutes from this southwest plat. Call (702) 500-1955.",
         },
       ],
     },
@@ -2180,7 +2180,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
     },
     {
       h2: "4.9-star GBP reviews on this URL — Maps ranking uses the Suite 100 pin",
-      body: "Review schema and the Google Reviews link stay aligned with 9406 W Lake Mead Blvd, Suite 100. Call (702) 500-1955. Office/GBP (702) 500-1942.",
+      body: "Review schema and the Google Reviews link stay aligned with 9406 W Lake Mead Blvd, Suite 100. Call (702) 500-1955.",
       pins: [
         {
           name: "View Google Reviews",
@@ -2196,7 +2196,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Call",
-          note: "Client CTA (702) 500-1955. Do not swap with the office line.",
+          note: "Call (702) 500-1955.",
         },
       ],
     },
@@ -2220,7 +2220,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "$25,000+ on a $250K W-2",
-          note: "Annual state-tax example on this page. Property tax and HOA still apply. Office/GBP (702) 500-1942.",
+          note: "Annual state-tax example on this page. Property tax and HOA still apply. Call (702) 500-1955.",
         },
       ],
     },
@@ -2242,7 +2242,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "$450K new construction",
-          note: "Register Dr. Jan at Suite 100 before any model. Open /new-construction. Office/GBP (702) 500-1942.",
+          note: "Register Dr. Jan at Suite 100 before any model. Open /new-construction. Call (702) 500-1955.",
         },
       ],
     },
@@ -2285,8 +2285,8 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
           note: "Summerlin then Henderson, or Ridges gate first if the brief is $1.5M+.",
         },
         {
-          name: "Client CTA",
-          note: "(702) 500-1955. Office/GBP (702) 500-1942. Do not swap the lines.",
+          name: "Phone",
+          note: "(702) 500-1955.",
         },
       ],
     },
@@ -2318,7 +2318,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
   "/faq": [
     {
       h2: "Accordion closed? Call (702) 500-1955 or book Calendly at Suite 100",
-      body: "FAQ copy is the desk version of the same questions. Bring a ZIP and a pre-approval. 9406 W Lake Mead Blvd, Suite 100 is about 10 minutes from most Summerlin villages. Office/GBP (702) 500-1942.",
+      body: "FAQ copy is the desk version of the same questions. Bring a ZIP and a pre-approval. 9406 W Lake Mead Blvd, Suite 100 is about 10 minutes from most Summerlin villages. Call (702) 500-1955.",
       pins: [
         {
           name: "Live Q&A",
@@ -2406,7 +2406,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "Occupancy packet",
-          note: "Age-restriction and guest rules at the desk. Office/GBP (702) 500-1942.",
+          note: "Age-restriction and guest rules at the desk. Call (702) 500-1955.",
         },
       ],
     },
@@ -2454,7 +2454,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "North Vista Hospital",
-          note: "Hospital pin on this north clock. Call (702) 500-1955. Office/GBP (702) 500-1942.",
+          note: "Hospital pin on this north clock. Call (702) 500-1955.",
         },
       ],
     },
@@ -2478,7 +2478,7 @@ export const leftoverBands: Record<string, LeftoverCopy[]> = {
         },
         {
           name: "East clock only",
-          note: "35–45 minutes from Suite 100. Office/GBP (702) 500-1942.",
+          note: "35–45 minutes from Suite 100. Call (702) 500-1955.",
         },
       ],
     },

@@ -109,7 +109,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/": {
     h2: "Same-day routing starts at the Maps pin, not a call center",
     quote:
-      "Buyer and seller appointments start at 9406 W Lake Mead Blvd, Suite 100. Summerlin first, Henderson second, so you are not crisscrossing I-15. Call or text (702) 500-1955. The office line on Google is (702) 500-1942.",
+      "Buyer and seller appointments start at 9406 W Lake Mead Blvd, Suite 100. Summerlin first, Henderson second, so you are not crisscrossing I-15. Call or text (702) 500-1955.",
   },
   "/about": {
     h2: "Appointments are at Suite 100",
@@ -124,7 +124,7 @@ export const expertQuotes: Record<string, ExpertQuoteCopy> = {
   "/google-business": {
     h2: "Maps, GBP, and this page must say the same NAP",
     quote:
-      "9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Office (702) 500-1942. Client CTA (702) 500-1955. If a directory disagrees, we fix the directory — not this page.",
+      "9406 W Lake Mead Blvd, Suite 100, Las Vegas, NV 89134. Call (702) 500-1955. If a directory disagrees, we fix the directory — not this page.",
   },
   "/faq": {
     h2: "Bring a ZIP and a pre-approval to the live Q&A",

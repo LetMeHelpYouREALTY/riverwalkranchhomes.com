@@ -50,7 +50,7 @@ const personSchema = {
   jobTitle: "REALTOR®",
   description:
     "Licensed real estate agent with Berkshire Hathaway HomeServices Nevada Properties, serving Las Vegas, Henderson, and Summerlin since 2008.",
-  telephone: "+17025001942",
+  telephone: "+17025001955",
   email: "homes@heyberkshire.com",
   url: absoluteUrl("/about"),
   worksFor: {
@@ -327,7 +327,7 @@ export default function AboutPage() {
             <p className="text-slate-300 text-center max-w-3xl mx-auto mb-8">
               Dr. Jan Duffy holds the desk.
               Appointments start at Suite 100. Call or text (702) 500-1955. The
-              office line on Google is (702) 500-1942.
+ Call (702) 500-1955.
             </p>
             <div className="grid md:grid-cols-3 gap-8 mb-8">
               <div className="text-center">
