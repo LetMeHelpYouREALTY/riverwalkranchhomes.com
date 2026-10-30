@@ -148,8 +148,8 @@ export default function GoogleBusinessPage() {
                       />
                     ))}
                   </div>
-                  <p className="text-3xl font-bold mb-2">4.9 / 5.0</p>
-                  <p className="text-blue-200 mb-6">200+ Client Reviews</p>
+                  <p className="text-3xl font-bold mb-2">5.0 / 5.0</p>
+                  <p className="text-blue-200 mb-6">50 Realtor.com Reviews</p>
                   <CtaActions variant="onDark" />
                 </div>
               </div>

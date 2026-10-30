@@ -78,7 +78,7 @@ export default async function Home() {
             </div>
             <div className="flex items-center gap-2">
               <span className="font-semibold text-white tabular-nums">
-                4.9★
+                5.0★
               </span>
               <span>Client Rating</span>
             </div>
